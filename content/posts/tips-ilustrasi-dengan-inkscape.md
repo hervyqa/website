@@ -26,7 +26,7 @@ categories:
   -
 ---
 
-*Assalamualaikum Warohmatullahi Wabarohkatuh.*
+*Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
 Kali ini saya berbagi tentang teknik-teknik yang sering digunakan dalam membuat ilustasi [inkscape]. Tipsnya terlihat sederhana, namun jika diterapkan secara benar maka ilustrasi yang Anda buat selanjutnya akan terlihat lebih bagus. Oke, langsung saja.
 
@@ -142,11 +142,11 @@ Terakhir pintasan tampilan.
 * **<kbd><kbd>Ctrl <kbd>r</kbd></kbd>**, screenruler.
 * **<kbd>F12</kbd>**, membuka/menutup dialog.
 
-Nah itu tadi beberapa tips dari saya, mungkin Anda bisa memberikan saran dikolom komentar. Sekian dan terima kasih sudah membaca.
+Nah itu tadi beberapa tips dari saya. Sekian dan terima kasih sudah membaca.
 
 Semoga bermanfaat.:blush:
 
-*Wassalamualaikum Warohmatullahi Wabarohkatuh.*
+*Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 
 [inkscape]:https:inkscape.org
 [behance]:https://www.b.net
