@@ -77,7 +77,7 @@ Mulai dari yang dasar.
 * **<kbd>s</kbd>**, untuk memilih objek, path dan teks.
 * **<kbd>r</kbd>**, objek persegi.
 * **<kbd>e</kbd>**, objek lingkaran.
-* **<kbd>(bintang)</kbd>**, objek segitiga dan bintang.
+* **<kbd>*</kbd>**, objek segitiga dan bintang.
 * **<kbd>t</kbd>**, menambahkan teks.
 * **<kbd>b</kbd>**, untuk membuat objek dengan bezier.
 * **<kbd>n</kbd>**, menambahkan atau mengurangi node.
@@ -125,7 +125,7 @@ Modifikasi objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>+</kbd></kbd>**, untuk menggabungkan objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>_</kbd></kbd>**, untuk memotong objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>^</kbd></kbd>**, untuk memotong objek. sisa diluar.
-* **<kbd><kbd>Ctrl</kbd> <kbd>(bintang)</kbd></kbd>**, untuk memotong objek. sisa didalam.
+* **<kbd><kbd>Ctrl</kbd> <kbd>*</kbd></kbd>**, untuk memotong objek. sisa didalam.
 * **<kbd><kbd>Ctrl</kbd> <kbd>/</kbd></kbd>**, untuk memotong objek dengan garis tepi (stroke).
 * **<kbd><kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>/</kbd></kbd>**, untuk memotong garis tepi pada objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>Shift <kbd>k</kbd></kbd>**, untuk memecah objek jadi beberapa bagian.
