@@ -1,0 +1,139 @@
+baseURL = "https://hervyqa.netlify.io"
+title   = "Antara Seni dan Kode"
+
+DefaultContentLanguage = "id"
+
+theme = "friend"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+disqusShortname = "hervyqa"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:day/:title/"
+
+[author]
+  name = "Hervy Qurrotul Ainur"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Sekedar catatan sederhana tentang ilustrasi vektor dan UI/UX"
+  keywords = "ui,ux,desain,inkscape,libreoffce,impress,flat,ilustrasi,git"
+  images = [""]
+
+  homeSubtitle = "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  gitUrl = "https://gitlab.com/hervyqa/impress/tree/commit"
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  themeColor = "#222d32"
+
+  [params.logo]
+    logoText     = "$ cd /hervyqa/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "telegram"
+    url  = "https://www.t.me.hervyqa/"
+
+  [[params.social]]
+    name = "gitlab"
+    url  = "https://www.gitlab.com/hervyqa"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/hervyqa"
+
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/hervyqa"
+
+  [[params.social]]
+    name = "instagram"
+    url  = "https://instagram.com/hervyqa"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/hervyqa"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:hervyqa@gmail.com"
+
+[languages]
+  [languages.id]
+    subtitle  = "Personal Blog Hervy Qurrotul"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.en]
+    subtitle  = "Personal Blog Hervy Qurrotul"
+    weight    = 2
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+    weight     = "2"
+  [[menu.main]]
+    identifier = "portofolio"
+    name       = "Portofolio"
+    url        = "portofolio/"
+    weight     = "3"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+    weight     = "4"
