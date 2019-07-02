@@ -14,7 +14,9 @@ comments : ""
 images: ""
 ---
 
+---
 {{< figure src="/img/portofolio/kubernetes.png" alt="kubernetes-flat-ilustrasi" caption="Kubernetes Power by Hervy Qurrotul" class="big" >}}
 
+---
 {{< figure src="/img/portofolio/identitas-alam.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam by Hervy Qurrotul" class="big" >}}
 
