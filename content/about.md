@@ -4,11 +4,10 @@ title: "About Me"
 date: 2019-07-02T23:11:56+07:00
 aliases:
   - about-us
-  - about-hugo
   - contact
 author:
   - name : "Hervy Qurrotul Ainur"
-description : ""
+description : "Profil dan Pengalaman oleh Hervy Qurrotul Ainur."
 comments : ""
 images: ""
 ---
@@ -31,10 +30,10 @@ Tempat tinggal di **Mojokerto, Jawa Timur**.
 * 2018 Aktif Di komunitas desain Open Source.
 * 2019 Desainer dan Ilustrator Freelance.
 * 2019 Kontributor di openSUSE.
-* 2019 Kontributor di openSUSE.id.
-* 2019 Kontributor Ilustrator di GNOME.id.
-* 2019 Ketua divisi kreatif Kelompok Linux Arek Suroboyo.
-* 2019 Ketua Komunitas Linux Mojokerto.
+* 2019 Kontributor di [openSUSE.id](https://www.opensuse-id.org/tentang).
+* 2019 Kontributor Ilustrator di [GNOME.id](https://www.gnome.id).
+* 2019 Ketua divisi kreatif [Kelompok Linux Arek Suroboyo](https://www.klas.or.id).
+* 2019 Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker).
 
 **Aplikasi dan OS:**
 
@@ -59,12 +58,13 @@ Sistem Operasi:
 
 **Komunitas:**
 
-* https://t.me/gimpscape
-* https://t.me/klimoker
+* [Gimpscape](https://t.me/gimpscape)
+* [Komunitas Linux Mojokerto](https://t.me/klimoker)
 
 **Kontak:**
 
-* Telegram : https://t.me/hervyqa
+* Telegram : [@hervyqa](https://t.me/hervyqa)
+* Instagram : [@hervyqa](https://instagram.com/hervyqa)
 * HP : +62 81234 49 2171
 
 **Portofolio**

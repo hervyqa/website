@@ -9,7 +9,7 @@ aliases:
   - contact
 author:
   - name : "Hervy Qurrotul Ainur"
-description : ""
+description : "Portofolio ilustasi UI oleh Hervy Qurrotul Ainur."
 comments : ""
 images: ""
 ---
