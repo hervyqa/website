@@ -7,19 +7,23 @@ author:
 description : ""
 comments : ""
 toc: false
-images: ""
 type:
   - post
 tags:
+  - desain
+  - flat-desain
   - floss
   - ilustrasi
   - inkscape
-  - flat-desain
   - gimp
   - tema
   - ui
   - ux
   - ui/ux
+  # ---
+  - lisensi
+  - cc
+  - cc-id
   # ---
   - dokumen
   - libreoffice
@@ -43,3 +47,12 @@ categories:
   -
 ---
 
+{{< figure src="/img/header/image.jpg" alt="header" class="big" >}}
+
+*Assalamu'alaikum Warahmatullahi Wabarakatuh.*
+
+#isi
+
+Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+
+*Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
