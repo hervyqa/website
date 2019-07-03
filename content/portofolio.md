@@ -15,6 +15,9 @@ images: ""
 ---
 
 ---
+{{< figure src="/img/portofolio/permata-yang-hilang.png" alt="permata-yang-hilang-flat-ilustrasi" caption="Permata yang Hilang - Hayati by Hervy Qurrotul" class="big" >}}
+
+---
 {{< figure src="/img/portofolio/kubernetes.png" alt="kubernetes-flat-ilustrasi" caption="Kubernetes Power by Hervy Qurrotul" class="big" >}}
 
 ---
