@@ -4,10 +4,9 @@ title: "Tips Ilustrasi dengan Inkscape"
 date: 2019-07-02T18:16:17+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
-description : ""
+description : "Cara mudah belajar ilustrasi dengan inkscape"
 comments : ""
 toc: false
-images: ""
 type:
   - post
 tags:
@@ -25,6 +24,8 @@ series:
 categories:
   -
 ---
+
+{{< figure src="/img/header/permata-yang-hilang-header.jpg" alt="permata-yang-hilang-header" class="big" >}}
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
@@ -116,6 +117,7 @@ Menggabungkan objek
 Pintasan dialog
 
 * **<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>f</kbd></kbd>**, untuk mengatur warna fill stroke.
+* **<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>l</kbd></kbd>**, lapisan/layer
 * **<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>a</kbd></kbd>**, mengatur pelurusan objek, teks, dan path.
 * **<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>t</kbd></kbd>**, merubah typeface tulisan.
 * **<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>7</kbd></kbd>**, menambahkan path efek. Biasanya saya menggunakan efek bled dan envelope destruction, cuma dua itu saja.
