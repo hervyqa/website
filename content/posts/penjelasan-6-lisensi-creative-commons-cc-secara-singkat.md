@@ -80,7 +80,6 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 ## **6. CC BY-NC-ND**
 
 * Harus atribusi/mencantumkan nama pemilik.
-* Boleh dirubah bentuk dan di modifikasi.
 * **Tidak Boleh dirubah bentuk dan di modifikasi.**
 * **Tidak boleh untuk tujuan komersil.**
 * Lisensi yang paling ketat. :")
