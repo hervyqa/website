@@ -15,11 +15,15 @@ images: ""
 ---
 
 ---
-{{< figure src="/img/portofolio/permata-yang-hilang.png" alt="permata-yang-hilang-flat-ilustrasi" caption="Permata yang Hilang - Hayati by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/hackaton-libreoffice-portofolio.png" alt="hackaton-libreoffice-flat-ilustrasi" caption="Hackaton Libre Office by Hervy Qurrotul" class="big" >}}
 
 ---
-{{< figure src="/img/portofolio/kubernetes.png" alt="kubernetes-flat-ilustrasi" caption="Kubernetes Power by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/permata-yang-hilang-portofolio.png" alt="permata-yang-hilang-flat-ilustrasi" caption="Permata yang Hilang - Hayati by Hervy Qurrotul" class="big" >}}
 
 ---
-{{< figure src="/img/portofolio/identitas-alam.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/kubernetes-power-portofolio.png" alt="kubernetes-power-flat-ilustrasi" caption="Kubernetes Power by Hervy Qurrotul" class="big" >}}
 
+---
+{{< figure src="/img/portofolio/identitas-alam-portofolio.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam by Hervy Qurrotul" class="big" >}}
+
+---
