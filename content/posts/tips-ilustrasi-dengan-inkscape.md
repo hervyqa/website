@@ -134,9 +134,9 @@ Modifikasi objek.
 
 Snap alias magnet node.
 
-* **<kbd>F5</kbd>**, Snap.
+* **<kbd>%</kbd>**, Snap.
 
-Tips: nonaktifkan F5 ketika sedang membuat ilustrasi *line Art* dan aktifkan kembali saat butuh snap pada titik tertentu.
+Tips: nonaktifkan snap (**<kbd>%</kbd>**) ketika sedang membuat ilustrasi *line Art* dan aktifkan kembali saat butuh snap pada titik node tertentu.
 
 Terakhir pintasan tampilan.
 
