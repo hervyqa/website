@@ -14,7 +14,6 @@ comments : ""
 images: ""
 ---
 
----
 {{< figure src="/img/portofolio/hackaton-libreoffice-portofolio.png" alt="hackaton-libreoffice-flat-ilustrasi" caption="Hackaton Libre Office by Hervy Qurrotul" class="big" >}}
 
 ---
@@ -26,4 +25,3 @@ images: ""
 ---
 {{< figure src="/img/portofolio/identitas-alam-portofolio.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam by Hervy Qurrotul" class="big" >}}
 
----
