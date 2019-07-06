@@ -11,17 +11,23 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Portofolio ilustasi UI oleh Hervy Qurrotul Ainur."
 comments : ""
-images: ""
 ---
 
-{{< figure src="/img/portofolio/hackaton-libreoffice-portofolio.png" alt="hackaton-libreoffice-flat-ilustrasi" caption="Hackaton Libre Office by Hervy Qurrotul" class="big" >}}
+Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **Svgo** untuk kompresi berkas svg, **Optimpng** untuk kompresi berkas png, dan **Jpegoptim** untuk kompresi berkas jpg/jpeg.
 
 ---
-{{< figure src="/img/portofolio/permata-yang-hilang-portofolio.png" alt="permata-yang-hilang-flat-ilustrasi" caption="Permata yang Hilang - Hayati by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/docker-community-portofolio.png" alt="docker-community-flat-ilustrasi" caption="Docker Community oleh Hervy Qurrotul" class="big" >}}
 
 ---
-{{< figure src="/img/portofolio/kubernetes-power-portofolio.png" alt="kubernetes-power-flat-ilustrasi" caption="Kubernetes Power by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/hackaton-libreoffice-portofolio.png" alt="hackaton-libreoffice-flat-ilustrasi" caption="Hackaton Libre Office oleh Hervy Qurrotul" class="big" >}}
 
 ---
-{{< figure src="/img/portofolio/identitas-alam-portofolio.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam by Hervy Qurrotul" class="big" >}}
+{{< figure src="/img/portofolio/permata-yang-hilang-portofolio.png" alt="permata-yang-hilang-flat-ilustrasi" caption="Permata yang Hilang - Hayati oleh Hervy Qurrotul" class="big" >}}
 
+---
+{{< figure src="/img/portofolio/kubernetes-power-portofolio.png" alt="kubernetes-power-flat-ilustrasi" caption="Kubernetes Power oleh Hervy Qurrotul" class="big" >}}
+
+---
+{{< figure src="/img/portofolio/identitas-alam-portofolio.png" alt="identitas-alam-flat-ilustrasi" caption="Identitas Alam oleh Hervy Qurrotul" class="big" >}}
+
+[Inkscape]:https:inkscape.org
