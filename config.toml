@@ -26,7 +26,7 @@ buildExpored = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = true
+enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
   homeSubtitle = "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  gitUrl = "https://gitlab.com/hervyqa/impress/tree/commit"
+  #gitUrl = "https://gitlab.com/hervyqa/impress/tree/commit"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
