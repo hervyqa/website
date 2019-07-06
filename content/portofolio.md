@@ -13,7 +13,7 @@ description : "Portofolio ilustasi UI oleh Hervy Qurrotul Ainur."
 comments : ""
 ---
 
-Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **Svgo** untuk kompresi berkas svg, **Optimpng** untuk kompresi berkas png, dan **Jpegoptim** untuk kompresi berkas jpg/jpeg.
+Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **Svgo** untuk kompresi berkas svg, **Optipng** untuk kompresi berkas png, dan **Jpegoptim** untuk kompresi berkas jpg/jpeg.
 
 ---
 {{< figure src="/img/portofolio/docker-community-portofolio.png" alt="docker-community-flat-ilustrasi" caption="Docker Community oleh Hervy Qurrotul" class="big" >}}
