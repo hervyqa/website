@@ -7,29 +7,6 @@ author:
   - name : "{{ .Site.Author.name }}"
 comments : ""
 toc: false
-images: ""
-type:
-  -
-tags:
-  - ilustrasi
-  - inkscape
-  - flat-desain
-  - gimp
-  - tema
-  - ui
-  - ux
-  - ui/ux
-  # ---
-  - code
-  - git
-  - gitlab
-  - github
-  - hugo
-  - vim
-  # ---
-series:
-  -
-categories:
-  -
 ---
 
+{{< figure src="/img/header/image.jpg" alt="header" class="big" >}}

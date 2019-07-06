@@ -7,7 +7,6 @@ author:
 description : ""
 comments : ""
 toc: false
-images: ""
 type:
   - post
 tags:
