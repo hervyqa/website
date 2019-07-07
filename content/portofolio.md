@@ -16,6 +16,9 @@ comments : ""
 Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **Svgo** untuk kompresi berkas svg, **Optipng** untuk kompresi berkas png, dan **Jpegoptim** untuk kompresi berkas jpg/jpeg.
 
 ---
+{{< figure src="/img/portofolio/iqra-my-universe-portofolio.png" alt="iqra-my-universe-flat-ilustrasi" caption="Iqra' My Universe oleh Hervy Qurrotul" class="big" >}}
+
+---
 {{< figure src="/img/portofolio/docker-community-portofolio.png" alt="docker-community-flat-ilustrasi" caption="Docker Community oleh Hervy Qurrotul" class="big" >}}
 
 ---
