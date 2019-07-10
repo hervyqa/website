@@ -34,6 +34,7 @@ Tempat tinggal di **Mojokerto, Jawa Timur**.
 * 2019 Kontributor Ilustrator di [GNOME.id](https://www.gnome.id).
 * 2019 Ketua divisi kreatif [Kelompok Linux Arek Suroboyo](https://www.klas.or.id).
 * 2019 Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker).
+* 2019 Winner [openSUSE.Asia Summit 2019 Logo Competition](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/)
 
 **Aplikasi dan OS:**
 
