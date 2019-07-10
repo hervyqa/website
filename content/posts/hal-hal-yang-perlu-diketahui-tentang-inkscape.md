@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Hal-hal yang perlu diketahui tentang Inkscape untuk Pemula"
 date: 2019-07-04T23:33:14+07:00
 author:
