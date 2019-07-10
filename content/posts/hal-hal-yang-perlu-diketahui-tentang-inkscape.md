@@ -33,7 +33,7 @@ Uniknya, masyarakat menganggapnya inkscape itu _gratis_, bukan bebas. Padahal ti
 
 Indonesia sebagai negara berkembang yang mayoritas masyarakatnya ketika membeli perangkat lunak mungkin berfikir dua kali _(atau lebih)_. Inilah alasannya mengapa perangkat lunak berbasis Open Source sangat cocok membantu dalam perekonomian. Relatif lebih hemat sekian kali dari pada membeli aplikasi Propietary.
 
-## Proyek Fork
+## Proyek Fork.
 
 Pada 2003 Inkscape merupakan fork (perkembangan) dari proyek [Sodipodi](https://id.m.wikipedia.org/wiki/Sodipodi) dan Sodipodi sendiri pada 1999 meupakan fork dari Gill (Gnome Ilustration Application). Dari Sodipodi tersebut inkscape berganti bahasa pemrograman C ke C++, berubah ke GTK+ alias _gtkmm_ dan menerapkan standar SVG. Inkscape juga menambahkan fitur dan antarmuka baru di setiap rilis terbarunya.
 
@@ -121,7 +121,7 @@ Inkscape memudahkan penggunanya untuk membuat line art. Ini berguna untuk membua
 Sebenarnya ada dua kunci utama membuat line art yang bagus. Yaitu, _banyak-banyak latihan dan ekstra sabar_. ^^
 
 
-## Yang perlu dihindari ketika membuat desain dengan inkscape.
+## Hang. Oh no..
 
 Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
 
