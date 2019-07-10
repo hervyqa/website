@@ -4,7 +4,7 @@ title: "Hal-hal Yang Perlu Diketahui Tentang Inkscape untuk Pemula"
 date: 2019-07-04T23:33:14+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
-description : "Berkaitan dengan Inkscape untuk pemula"
+description : "Hal-hal Yang Perlu Diketahui Tentang Inkscape untuk Pemula"
 comments : ""
 toc: false
 type:
