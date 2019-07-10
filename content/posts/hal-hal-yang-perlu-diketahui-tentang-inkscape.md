@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Hal-hal yang perlu diketahui tentang Inkscape untuk Pemula"
+title: "Hal-hal Yang Perlu Diketahui Tentang Inkscape untuk Pemula"
 date: 2019-07-04T23:33:14+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
@@ -114,20 +114,21 @@ Contoh berkas svg.
 </svg>
 ```
 
-## Mudah membuat line art yang detail.
+## High detail.
 
 Inkscape memudahkan penggunanya untuk membuat line art. Ini berguna untuk membuat ilustrasi low dan high detail. Apalagi Inkscape mudah untuk membuat lengkungan dengan menarik garisnya saja. Beda dengan Aplikasi sebelah yang haru mengeklik node lalu muncul kedua pangkal, baru bisa membuat lengkungan.
 
 Sebenarnya ada dua kunci utama membuat line art yang bagus. Yaitu, _banyak-banyak latihan dan ekstra sabar_. ^^
 
 
-## Hang. Oh no..
+## Menghindari not-responding.
 
 Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
 
 * Jangan terlalu banyak impor gambar bitmap.
 * Jangan zoom terlalu dekat.
 * Jangan terlalu banyak mengaktifkan snap (**<kbd>%</kbd>**)
+* Jangan undo/redo ketika mode teks. biasakan tekan (**<kbd>s</kbd>**) ketika akan undo/redo.
 * Jangan buru-buru Union (**<kbd><kbd>Ctrl</kbd>+<kbd>plus</kbd></kbd>**), Artinya anda tidak perlu menggabungkan banyak objek dulu. Khawatirnya nanti ketika tak sengaja menekan (**<kbd>n</kbd>**) akan macet inkscapenya.
 
 Sudah itu saja, sisanya aman.
