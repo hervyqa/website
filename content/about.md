@@ -77,12 +77,3 @@ Sistem Operasi:
 
 * hervyqa@gmail.com
 
-# h1
-
-## h2
-
-### h3
-
-asdfasdfsadf
-
-##ini didin
