@@ -35,8 +35,6 @@ Homepage: https://github.com/svg/svgo
 
 Perkakas favorit saya adalah `svgo`, karena dengan `svgo` ini mampu mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer, metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika menggunakan asset `svg`. Misalnya ilustrasi saya di [GNOME.ID], hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture section.
 
-_Tapi perlu Anda ketahui, dengan kompresi maka akan menghilangkan metadata, layer, dan objek tersembunyi._
-
 Cara Install `svgo` di distro linux
 
 ```
