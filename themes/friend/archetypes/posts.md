@@ -21,9 +21,28 @@ tags:
   - ux
   - ui/ux
   # ---
+  - pemula
+  - menengah
+  - lanjutan
+  # ---
   - lisensi
   - cc
   - cc-id
+  # ---
+  - 123rf
+  - adobe-stock
+  - dreamtimes
+  - mikrostock
+  - fotolia
+  - freepik
+  - shutterstock
+  # ---
+  - mikrostock
+  - mykeyworder
+  - microstockgroup
+  # ---
+  - xpiks
+  - filezilla
   # ---
   - dokumen
   - libreoffice
@@ -46,8 +65,6 @@ series:
 categories:
   -
 ---
-
-{{< figure src="/img/header/image.jpg" alt="header" class="big" >}}
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 

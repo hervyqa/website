@@ -24,8 +24,6 @@ categories:
   -
 ---
 
-{{< figure src="/img/header/penjelasan-6-lisensi-cc-secara-singkat.jpg" alt="Penjelasan 6 Lisensi CC Secara Singkat" class="big" >}}
-
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
 Cara penggunaan lisensi Creative Commons (CC) ini semudah menempelkan stiker. Kita membuat karya seni yang indah kemudian didaringkan secara digital dengan memberikan tautan atribusi CC. Ya, memang semudah itu.

@@ -25,8 +25,6 @@ categories:
   -
 ---
 
-{{< figure src="/img/header/permata-yang-hilang-header.jpg" alt="permata-yang-hilang-header" class="big" >}}
-
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
 Kali ini saya berbagi tentang teknik-teknik yang sering digunakan dalam membuat ilustasi [inkscape]. Tipsnya terlihat sederhana, namun jika diterapkan secara benar maka ilustrasi yang Anda buat selanjutnya akan terlihat lebih bagus. Oke, langsung saja.

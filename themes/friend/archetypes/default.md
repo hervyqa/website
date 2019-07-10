@@ -9,4 +9,4 @@ comments : ""
 toc: false
 ---
 
-{{< figure src="/img/header/image.jpg" alt="header" class="big" >}}
+
