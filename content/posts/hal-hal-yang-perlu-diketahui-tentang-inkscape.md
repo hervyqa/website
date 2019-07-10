@@ -78,6 +78,13 @@ sudo apt update; sudo apt upgrade
 sudo apt install inkscape
 ```
 
+**Ubuntu PPA**
+```
+sudo add-apt-repository ppa:inkscape.dev/stable
+sudo apt-get update
+sudo apt install inkscape
+```
+
 **Arch/Manjaro**
 
 ```
@@ -88,15 +95,21 @@ sudo pacman -Syyu
 sudo pacman -S install inkscape
 ```
 
-**Portabel**
+**Snap**
+```
+$ sudo snap install inkscape
+```
 
-* AppImage. Laman Unduh [Inkscape].
+**Flatpak**
+```
+$ flatpak install flathub org.inkscape.Inkscape
+```
 
-* Snap. Laman Unduh [Inkscape].
+**Microsoft Windows & Mac OS**
 
-**Microsoft Windows**
+Laman Unduh [Inkscape]
 
-Laman Unduh [Inkscape].
+
 
 ## Ekstensi berkas.
 
@@ -128,8 +141,8 @@ Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
 * Jangan terlalu banyak impor gambar bitmap.
 * Jangan zoom terlalu dekat.
 * Jangan terlalu banyak mengaktifkan snap (**<kbd>%</kbd>**)
-* Jangan undo/redo ketika mode teks. biasakan tekan (**<kbd>s</kbd>**) ketika akan undo/redo.
-* Jangan buru-buru Union (**<kbd><kbd>Ctrl</kbd>+<kbd>plus</kbd></kbd>**), Artinya anda tidak perlu menggabungkan banyak objek dulu. Khawatirnya nanti ketika tak sengaja menekan (**<kbd>n</kbd>**) akan macet inkscapenya.
+* Jangan undo/redo ketika mode teks. biasakan tekan **<kbd>Esc</kbd>, <kbd>s</kbd>** ketika akan undo/redo.
+* Jangan buru-buru Union **<kbd><kbd>Ctrl</kbd>+<kbd>plus</kbd></kbd>**, Artinya anda tidak perlu menggabungkan banyak objek dulu. Khawatirnya nanti ketika tak sengaja menekan **<kbd>n</kbd>** akan macet inkscapenya.
 
 Sudah itu saja, sisanya aman.
 
