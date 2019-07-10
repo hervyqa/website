@@ -141,8 +141,8 @@ Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
 * Jangan terlalu banyak impor gambar bitmap.
 * Jangan zoom terlalu dekat.
 * Jangan terlalu banyak mengaktifkan snap (**<kbd>%</kbd>**)
-* Jangan undo/redo ketika mode teks. biasakan tekan **<kbd>Esc</kbd>, <kbd>s</kbd>** ketika akan undo/redo.
-* Jangan buru-buru Union **<kbd><kbd>Ctrl</kbd>+<kbd>plus</kbd></kbd>**, Artinya anda tidak perlu menggabungkan banyak objek dulu. Khawatirnya nanti ketika tak sengaja menekan **<kbd>n</kbd>** akan macet inkscapenya.
+* Jangan undo/redo ketika mode teks. Biasakan tekan **<kbd>Esc</kbd>, <kbd>s</kbd>** ketika akan undo/redo.
+* Jangan buru-buru Union (**<kbd><kbd>Ctrl</kbd>+<kbd>plus</kbd></kbd>**), Artinya anda tidak perlu menggabungkan banyak objek dulu. Khawatirnya nanti ketika tak sengaja menekan **<kbd>n</kbd>** akan macet inkscapenya.
 
 Sudah itu saja, sisanya aman.
 
