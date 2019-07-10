@@ -1,10 +1,10 @@
 ---
-draft: true
-title: "Perkakas Tambahan dan Ekstensi Terbaik Untuk Inkscape"
+draft: false
+title: "Mengoptimalkan Aset SVG, PNG, dan JPG Di Linux"
 date: 2019-07-10T08:18:41+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
-description : "memaksimalkan penggunaan inkscape dengan perkakas tambahan dan ekstensi"
+description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG di Linux"
 comments : ""
 toc: false
 type:
@@ -21,6 +21,12 @@ tags:
   # ---
   - pemula
   - menengah
+  - cli
+  - kompresi
+  - svg
+  - png
+  - jpg
+
 series:
   -
 categories:
@@ -29,29 +35,29 @@ categories:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-Ada beberapa perkakas tambahan yang menurut saya bermanfaat. Tapi semua perkakas ini beberapa belum tersedia dengan GUI. :") Tapi itu bukan masalah sebab CLI tak sesulit itu. Lalu Apa saja ya perkakasnya? yuk disimak ^^
+Ada beberapa perkakas yang menurut saya bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaatnya nanti untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya serba Command Promt. :)
 
-## Merubah gambar RGB to CMYK dengan Inkscape Output Pro
+## Pertama, kompresi berkas svg dengan SVGO
 
-Perlu diketahui RGB itu hanya berlaku untuk berkas `png` saja, sedangkan CMYK hanya berlaku untuk berkas `jpg` dan `jpeg`. Jadi, mustahil jika merubah CMYK dari berkas `png`, padahal aturannya `png` sendiri tidak mendukung CMYK.
-
-Jadi, misal anda mempunyai berkas `png` ingin merubahnya ke CMYK, maka perlu merubah format atau "Save As" dulu ke `jpg`, bisa menggunakan dengan Aplikasi pembuka gambar atau pakai GIMP misalnya.
-
-Kalau saya punya cara yang simpel merubah `png` ke `jpg`.
-
-```
-$ convert gambar.png gambar-jadi.jpg
-```
-
-### continued
-
-## Kompresi berkas svg dengan SVGO
+Homepage: https://github.com/svg/svgo
 
 Perkakas favorit saya adalah `svgo`, karena dengan `svgo` ini mampu mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer, metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika menggunakan asset `svg`. Misalnya ilustrasi saya di [GNOME.ID], hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture section.
 
-Contoh saya punya 3 jenis ilustrasi.
+_Tapi perlu Anda ketahui, dengan kompresi maka akan menghilangkan metadata, layer, dan objek tersembunyi._
 
-Lihat dulu isi berkasnya.
+Cara Install `svgo` di distro linux
+
+```
+$ sudo npm install -g svgo
+```
+
+Kalau di repo Fedora
+
+```
+$ sudo dnf install nodejs-svgo
+```
+
+Oke lanjut ke Demo. Contoh saya punya 3 jenis ilustrasi. Lihat dulu isi berkasnya.
 ```
 $ ls -lh
 total 680K
@@ -94,7 +100,33 @@ Done in 336 ms!
 Taraa..
 
 ## Kompresi berkas PNG dengan OptiPng
+
+Homepage: http://optipng.sourceforge.net/
+
 Perkakas `optipng` berfungsi untuk kompresi berkas `png`. Sama dengan svgo tadi, tujuannya sama-sama untuk kompresi berkas.
+
+Cara install di linux:
+
+* openSUSE
+```
+$ sudo zypper install optipng
+```
+* Debian/Ubuntu/Mint
+```
+$ sudo apt install optipng
+```
+* Fedora
+```
+$ sudo dnf install optipng
+```
+* Centos dengan repo epel
+```
+$ su -c 'yum install optipng'
+```
+* Arch/Manjaro
+```
+$ sudo pacman -s optipng
+```
 
 Mari kita coba.
 Kita lihat ukuran berkasnya dulu.
@@ -132,11 +164,36 @@ total 264K
 
 Lumayan! dari 281Kib jadi 263Kib. Ukuran file yang kecil tidak terlalau signifikan berubahnya.
 
-Lalu kapan menggunakan `optipng`? Gunakan `optipng` ketika membutuhkan foto bitmap, blur dan transparansi gambar.
+**Tips:** Lalu kapan menggunakan `optipng`? Gunakan `optipng` ketika membutuhkan foto bitmap, blur dan transparansi gambar.
 
 ## Kompresi berkas JPG dan JPEG dengan JpegOptim
 
+Homepage: https://github.com/tjko/jpegoptim
+
 Terakhir `jpegoptim`. Perkakas ini berfungsi untuk kompresi berkas `jpg` dan `jpeg`.
+
+Cara install di linux:
+
+* openSUSE
+```
+$ sudo zypper install jpegoptim
+```
+* Debian/Ubuntu/Mint
+```
+$ sudo apt install jpegoptim
+```
+* Fedora
+```
+$ sudo dnf install jpegoptim
+```
+* Centos dengan repo epel
+```
+$ su -c 'yum install jpegoptim'
+```
+* Arch/Manjaro
+```
+$ sudo pacman -s jpegoptim
+```
 
 Caranya hampir sama dengan `optipng`. kita cek dulu berkasnya.
 ```
@@ -151,11 +208,9 @@ $ jpegoptim gambar.jpg
 /home/hervyqa/Documents/ilustrasi/2019/gambar.jpg 750x600 24bit P Exif IPTC XMP Adobe  [OK] 308454 --> 295806 bytes (4.10%), optimized.
 ```
 
-Jadi menggunakan `jpegoptim` itu ketika membutuhkan foto bitmap, blur dan **tidak** memutuhkan transparansi gambar. Jika butuh transparansi pakai `png` dan kompresinya pakai `optipng`.
+**Tips:** Jadi, menggunakan `jpegoptim` itu ketika membutuhkan foto bitmap, blur dan **tidak** memutuhkan transparansi gambar. Jika butuh transparansi pakai `png` dan kompresinya pakai `optipng`.
 
-Nah itu tadi 3 perkakas tambahan favorit saya untuk memaksimalkan penggunaan inkscape.
-
-Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Nah itu tadi 3 perkakas tambahan favorit untuk memaksimalkan aset. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 
