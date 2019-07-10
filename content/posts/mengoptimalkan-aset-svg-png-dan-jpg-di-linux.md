@@ -10,11 +10,8 @@ toc: false
 type:
   - post
 tags:
-  - desain
   - floss
   - gambar
-  # ---
-  - pemula
   - menengah
   - cli
   - kompresi
@@ -27,7 +24,7 @@ categories:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-Ada beberapa perkakas yang menurut saya bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaatnya nanti untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya serba Command Promt. :)
+Ada beberapa perkakas yang menurut saya bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaatnya nanti untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya serba Command Promnt. :)
 
 ## Pertama, kompresi berkas svg dengan SVGO
 
@@ -152,7 +149,7 @@ total 264K
 -rw-r--r-- 1 hervyqa users 263K Jul 10 07:58 gambar.png
 ```
 
-Lumayan! dari 281Kib jadi 263Kib. Ukuran file yang kecil tidak terlalau signifikan berubahnya.
+Lumayan! dari 281Kib jadi 263Kib. Ukuran file yang kecil tidak terlalu signifikan berubahnya.
 
 **Tips:** Lalu kapan menggunakan `optipng`? Gunakan `optipng` ketika membutuhkan foto bitmap, blur dan transparansi gambar.
 
