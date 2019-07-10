@@ -11,21 +11,13 @@ type:
   - post
 tags:
   - desain
-  - flat-desain
   - floss
-  - ilustrasi
-  - inkscape
-  - ui
-  - ux
-  - ui/ux
+  - gambar
   # ---
   - pemula
   - menengah
   - cli
   - kompresi
-  - svg
-  - png
-  - jpg
 
 series:
   -
