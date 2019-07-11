@@ -1,3 +1,13 @@
-{{- if .Site.DisqusShortname }}
-    {{ template "_internal/disqus.html" . }}
-{{- end }}
+{{- if and (not (eq .Site.DisqusShortname "" )) (eq (.Params.disable_comments | default false) false) -}}
+  {{ template "_internal/disqus.html" . }}
+{{- end -}}
+
+<!--{{ if ne .Site.DisqusShortname "" }}-->
+    <!--<article class="post">-->
+        <!--{{ template "_internal/disqus.html" . }}-->
+    <!--</article>-->
+<!--{{ else if .Site.Params.staticman.staticman }}-->
+    <!--<article class="post">-->
+      <!--{{ .Render "staticman" }}-->
+    <!--</article>-->
+<!--{{ end }}-->

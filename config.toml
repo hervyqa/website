@@ -11,9 +11,6 @@ PygmentsStyle = "monokai"
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-disqusShortname = "hervyqa"
-
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
@@ -33,6 +30,21 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+
+# googleAnalytics = ""
+disqusShortname = "hervyqa"
+
+[params.staticman]
+  # Sets Statiman to be active
+  staticman = false
+  # Sets the location for Staticman to connect to
+  username  = "hervyqa"
+  repo      = ""
+  branch    = ""
+
+[params.staticman.recaptcha]
+sitekey = "SITE_KEY"
+secret  = "ENCRYPTED_SECRET"
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:title/"
