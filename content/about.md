@@ -9,16 +9,9 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Profil dan Pengalaman oleh Hervy Qurrotul Ainur."
 comments : ""
-images: ""
 ---
 
-**Hervy Qurrotul Ainur Rozi**. Nama lengkapnya itu.
-
-**Epi, Epot, Herpi, Herve**. Nama pendeknya.
-
-Lahir di **Pacitan, 21 Maret 1996**.
-
-Tempat tinggal di **Mojokerto, Jawa Timur**.
+Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang gotong-royong dengan projek _Free/Libre Open Source Software_. Tinggal di Mojokerto, Jawa Timur.
 
 **Linux, learn by doing.**
 
@@ -67,11 +60,6 @@ Sistem Operasi:
 * Telegram : [@hervyqa](https://t.me/hervyqa)
 * Instagram : [@hervyqa](https://instagram.com/hervyqa)
 * HP : +62 81234 49 2171
-
-**Portofolio**
-
-* https://behance.net/hervyqa
-* https://dribbble.com/hervyqa
 
 **Email:**
 
