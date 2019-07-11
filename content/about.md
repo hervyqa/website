@@ -11,7 +11,7 @@ description : "Profil dan Pengalaman oleh Hervy Qurrotul Ainur."
 comments : ""
 ---
 
-Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang gotong-royong dengan projek _Free/Libre Open Source Software_. Tinggal di Mojokerto, Jawa Timur.
+Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang gotong-royong dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
 
 **Linux, learn by doing.**
 
@@ -22,7 +22,7 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung denga
 * 2018 Desainer kaos distro.
 * 2018 Aktif Di komunitas desain Open Source.
 * 2019 Desainer dan Ilustrator Freelance.
-* 2019 Kontributor di openSUSE.
+* 2019 Kontributor di [openSUSE](https://github.com/openSUSE/artwork)
 * 2019 Kontributor di [openSUSE.id](https://www.opensuse-id.org/tentang).
 * 2019 Kontributor Ilustrator di [GNOME.id](https://www.gnome.id).
 * 2019 Ketua divisi kreatif [Kelompok Linux Arek Suroboyo](https://www.klas.or.id).

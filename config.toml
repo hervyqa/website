@@ -54,7 +54,7 @@ disqusShortname = ""
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Sekedar catatan sederhana tentang ilustrasi vektor dan UI/UX"
+  description = "Catatan sederhana tentang Ilustrasi Vektor, Inkscape, Mikrostok, dan UI/UX"
   keywords = "ui,ux,desain,inkscape,libreoffce,impress,flat,ilustrasi,git"
   images = [""]
 
@@ -93,14 +93,6 @@ disqusShortname = ""
   [[params.social]]
     name = "github"
     url  = "https://github.com/hervyqa"
-
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/hervyqa"
-
-  [[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/hervyqa"
 
   [[params.social]]
     name = "linkedin"
