@@ -34,18 +34,6 @@ disableHugoGeneratorInject = false
 # googleAnalytics = ""
 disqusShortname = "hervyqa"
 
-[params.staticman]
-  # Sets Statiman to be active
-  staticman = false
-  # Sets the location for Staticman to connect to
-  username  = "hervyqa"
-  repo      = ""
-  branch    = ""
-
-[params.staticman.recaptcha]
-sitekey = "SITE_KEY"
-secret  = "ENCRYPTED_SECRET"
-
 [permalinks]
   posts = "/posts/:year/:month/:day/:title/"
 
