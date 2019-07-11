@@ -9,9 +9,12 @@
   }
 
   @media #{$media-size-phone} {
+    box-shadow: var(--shadow);
+    --shadow-color: rgba(0, 0, 0, .12);
+    --shadow: 0 8px 20px var(--shadow-color);
     position: absolute;
-    top: 50px;
-    right: 0;
+    top: 80px;
+    right: 15px;
     border: none;
     margin: 0;
     padding: 10px;
