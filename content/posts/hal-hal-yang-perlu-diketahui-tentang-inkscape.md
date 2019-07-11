@@ -92,7 +92,7 @@ sudo apt install inkscape
 sudo pacman -Syyu
 
 # kemudian install
-sudo pacman -S install inkscape
+sudo pacman -S inkscape
 ```
 
 **Snap**

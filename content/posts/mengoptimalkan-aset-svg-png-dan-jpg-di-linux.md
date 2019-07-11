@@ -112,7 +112,7 @@ $ su -c 'yum install optipng'
 ```
 * Arch/Manjaro
 ```
-$ sudo pacman -s optipng
+$ sudo pacman -S optipng
 ```
 
 Mari kita coba.
@@ -179,7 +179,7 @@ $ su -c 'yum install jpegoptim'
 ```
 * Arch/Manjaro
 ```
-$ sudo pacman -s jpegoptim
+$ sudo pacman -S jpegoptim
 ```
 
 Caranya hampir sama dengan `optipng`. kita cek dulu berkasnya.
