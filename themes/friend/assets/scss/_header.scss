@@ -1,10 +1,18 @@
 .header {
+  box-shadow: var(--shadow);
+  --shadow-color: rgba(0, 0, 0, .12);
+  --shadow: 0 8px 20px var(--shadow-color);
   background: #fafafa;
   display: flex;
   align-items: center;
   justify-content: center;
-  position: relative;
   padding: 20px;
+  //position: relative;
+
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  width: 100%;
 
   .dark-theme & {
     background: #252627;
