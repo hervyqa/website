@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Tips Dan Trik Untuk Mikrostoker Dengan Inkscape"
 date: 2019-07-10T10:01:07+07:00
 author:
