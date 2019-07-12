@@ -2,11 +2,7 @@
   background: #fafafa;
   border-right: 1px solid;
   margin-right: 18px;
-
-  position: fixed;
-  top: 0;
   z-index: 9999;
-  width: 100%;
 
   .dark-theme & {
     background: #252627;
@@ -55,7 +51,7 @@
     width: 24px;
     height: 24px;
     fill: currentColor;
-    margin-left: 25px;
+    margin-left: 15px;
     cursor: pointer;
   }
 
