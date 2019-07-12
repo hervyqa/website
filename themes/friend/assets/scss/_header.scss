@@ -7,12 +7,10 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  //position: relative;
-
   position: fixed;
   top: 0;
-  z-index: 999;
-  width: 100%;
+  z-index: 9999;
+  max-width: 100%;
 
   .dark-theme & {
     background: #252627;
