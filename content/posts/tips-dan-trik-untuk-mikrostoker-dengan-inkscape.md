@@ -10,14 +10,11 @@ toc: false
 type:
   - post
 tags:
-  - floss
   - inkscape
   - 123rf
   - adobe-stock
   - dreamtimes
   - mikrostock
-  - fotolia
-  - freepik
   - shutterstock
 ---
 
