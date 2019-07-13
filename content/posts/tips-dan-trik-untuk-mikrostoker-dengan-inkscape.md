@@ -47,7 +47,7 @@ Ketika desain sudah final Anda perlu memeriksanya kembali.
 ## B. Hal-hal yang perlu dihindari.
 
 ### 1. Jangan sampai ada Path yang putus.
-Jika ada path yang punya stroke yang punya warna fill, tetapi putus nodenya, maka sambungkan dulu node tersebut. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill.
+Jika ada path yang memiliki warna pada stroke dan fill, tetapi putus nodenya. Maka sambungkanlah dulu node tersebut. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill.
 
 {{< figure src="/img/posts/path-putus.png" alt="path-putus" caption="Kiri= path yang putus, kanan= path yang tersambung" class="big" >}}
 
