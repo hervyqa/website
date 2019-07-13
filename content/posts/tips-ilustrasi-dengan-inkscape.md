@@ -106,7 +106,6 @@ Zoom
 * **<kbd>4</kbd>**, zoom pada semua objek.
 * **<kbd>5</kbd>**, zoom pada canvas.
 
-
 Menggabungkan objek
 
 * **<kbd><kbd>Ctrl</kbd> <kbd>g</kbd>**, grup objek.
@@ -129,6 +128,12 @@ Modifikasi objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>/</kbd></kbd>**, untuk memotong objek dengan garis tepi (stroke).
 * **<kbd><kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>/</kbd></kbd>**, untuk memotong garis tepi pada objek.
 * **<kbd><kbd>Ctrl</kbd> <kbd>Shift <kbd>k</kbd></kbd>**, untuk memecah objek jadi beberapa bagian.
+
+
+Merubah jadi path
+
+* **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>c</kbd></kbd>**, merubah objek menjadi path.
+* **<kbd><kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>c</kbd></kbd>**, merubah stroke menjadi path.
 
 Snap alias magnet node.
 

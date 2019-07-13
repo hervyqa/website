@@ -1,6 +1,6 @@
 ---
-draft: true
-title: "Tips Dan Trik Untuk Mikrostoker Dengan Inkscape"
+draft: false
+title: "Tips dan Trik untuk Mikrostoker Vektor dengan Inkscape"
 date: 2019-07-10T10:01:07+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
@@ -10,14 +10,8 @@ toc: false
 type:
   - post
 tags:
-  - desain
   - floss
-  - ilustrasi
   - inkscape
-  # ---
-  - pemula
-  - menengah
-  # ---
   - 123rf
   - adobe-stock
   - dreamtimes
@@ -25,42 +19,117 @@ tags:
   - fotolia
   - freepik
   - shutterstock
-  # ---
-  - mikrostock
-  - mykeyworder
-  - microstockgroup
-  # ---
-  - xpiks
-  - filezilla
-series:
-  -
-categories:
-  -
 ---
 
-*Assalamu'alaikum Warahmatullahi Wabarakatuh.*
+Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat propietary juga. Intinya bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain.
 
-<!--## Mitos dan Fakta EPS.-->
+Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini agak tricky agar mudah dibaca. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tanpa menggunakan transparansi, blur, pattern, mesh, dan efek khusus.
 
-<!--Banyak mikrostoker dan desainer yang mengatakan demikian,-->
+Ada beberapa hal yang harus dilakukan dan dihindari, Apa saja? simak ya..
 
-<!--* _"Mengapa Inkscape tidak support EPS?"_-->
-<!--* _"Mengapa ketika import EPS jadi pecah?"_-->
-<!--* _"Mengapa file EPS saya banyak objek yang hilang?"_-->
+## A. Hal-hal yang perlu dilakukan.
 
-<!--Sebenarnya Inkscape support EPS, hanya saja kebutuhan EPS digunakan untuk upload ke agensi mikrostok. Jadi perlu trik supaya bisa di setujui oleh para agensi.-->
+### 1. Berilah Solid Background dengan Ukuran 2800 X 2800 px sesuai kanvas.
+Tujuannya untuk menyamakan antara ukuran artwork dengan ukuran kanvas (artboard) di inkscape. Sekaligus untuk memenuhi syarat shutterstock yaitu gambar vektor minimal 4MP.
 
-<!--Berita bagus untuk mikrostoker. EPS pada inkscape support untuk mikrostok jika versi inkscape Anda 0.92.x keatas.-->
-<!------------------------------------->
+{{< figure src="/img/posts/solid-background.png" alt="solid background" caption="Contoh solid background dengan warna putih" class="big" >}}
 
-Ada beberapa hal yang harus dipatuhi dan dihindari oleh mkrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh Perangkat Lunak pengolah gambar. Jadi yang menggunakan vektor anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan pengguna CorelDraw, Adobe Ilustrator, Gravit designer, dan lain-lain. Intinya bagaimana caranya vektor Anda mudah dibaca oleh Perangkat lain.
+Anda bisa memberikan backround warna putih. Sebaiknya juga **Background** dan **Artwork** Anda pisahkan saja dengan **LAYER**, supaya lebih mudah untuk membuat desain.
 
-## Taati.
+### 2. Rubahlah Objek apapun jadi bentuk Path.
+Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**. Maka rubahlah ke bentuk path dengan menekan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>c</kbd></kbd>**.
 
-### Gunakan layer background 2800px X 2800px
+Jika ada objek **stroke** maka rubahlah ke path juga dengan **<kbd><kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>c</kbd></kbd>**.
 
-### Gunakan layer background.
+{{< figure src="/img/posts/objek-sebelum.png" alt="objek-inkscape-yang-belum-dirubah-ke bentuk-path" caption="Sebelum dirubah ke bentuk path" class="big" >}}
 
-Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+{{< figure src="/img/posts/objek-sesudah.png" alt="objek-inkscape-yang-sudah-dirubah-ke bentuk-path" caption="Sesudah dirubah ke bentuk path" class="big" >}}
+
+Ketika desain sudah final Anda perlu memeriksanya kembali.
+
+## B. Hal-hal yang perlu dihindari.
+
+### 1. Jangan sampai ada Path yang putus.
+Jika ada path yang punya stroke yang punya warna fill, tetapi putus nodenya, maka sambungkan dulu node tersebut. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill.
+
+{{< figure src="/img/posts/path-putus.png" alt="path-putus" caption="Kiri= path yang putus, kanan= path yang tersambung" class="big" >}}
+
+### 2. Jangan menggunakan Transparansi.
+ Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabui tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangya.
+
+{{< figure src="/img/posts/transparansi.png" alt="transparansi" caption="Objek yang terlihat transparan" class="big" >}}
+
+### 3. Jangan Memberikan Gambar Bitmap/Raster ke EPS yang sudah final.
+Hapus gambar bitmap atau raster bekas sketsa, foto, catatan atau apapun ketika desain sudah final. Periksa kembali jika objek bitmap tersebut di layer yang tersembunyi
+
+{{< figure src="/img/posts/sketsa.png" alt="sketsa-bitmap" caption="Contoh Bitmap gambar Sketsa" class="big" >}}
+
+### 4. Jangan Melebihi ukuran EPS sampai 100 MB.
+Pastikan berkasnya nanti tidak melebihi 100Mb, tapi saya rasa ini tidak mungkin, karena ukuran berkas vektor biasanya cukup ringan. Ukuran 10MB saja kadang menakutkan dibuka di inkscape.
+
+### 5. Jangan Mengunci Layer
+Jangan lupa untuk membuka semua layer, dan hapus layer yang tidak diperlukan.
+
+{{< figure src="/img/posts/layer-terbuka.png" alt="layer-terbuka" caption="Contoh Layer terbuka" class="big" >}}
+
+### 6. Jangan memberikan Pattern, Mesh, dan Efek khusus.
+
+{{< figure src="/img/posts/mesh-pattern.png" alt="mesh-pattern" caption="Contoh Mesh dan Pattern" class="big" >}}
+
+Sepertinya sudah jelas.
+
+## C. Opsional yang dianjurkan.
+
+### 1. Isilah Metadata di SVG.
+Kegunaan metadata ini untuk memudahkan mikrostoker submit ke agensi, nantinya akan otomatis terdeteksi keywords-keywords di berkas EPS-nya.
+
+Caranya bagaimana? Isilah Metadata **SVG** Anda sebelum di "Save As" ke **EPS**. Buka Document Properties (**<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>d</kbd></kbd>**) di bagian Sub menu "Metadata" isilah datanya. Kemudian pilih "Use default".
+
+{{< figure src="/img/posts/metadata.png" alt="metadata" caption="Dialog Metadata pada Document Properties" class="big" >}}
+
+Contoh:
+
+* **Title**: The Isometric Astronauts and Spaceship.
+* **Date**: 01-12-2019
+* **Creator**: Hervy Qurrotul Ainur Rozi
+* **Keywords**: astronout, isometric, ilustration, universe, earth, flat, spaceship, moon, satellite
+* **Description**: The Isometric Illustrations about a Happy Astronauts are going to the Moon with Spaceship.
+
+Catatan:
+
+* Gunakanlah bahasa inggris.
+* Keywords maksimal 50 kata yang dipisahkan dengan koma dan menggunakan huruf kecil.
+* Keyword bisa dicari dengan menggunakan alat online, seperti [mykeyworder](mykeyworder.com) dan [microstockgroup](microstockgroup.com/tools/keywords.php).
+* Simpan juga metadata tadi untuk backup, Anda bisa simpan dengan _metadata.txt_ misalnya. Tujuannya untuk menggunakan data yang sama jika ada desain yang sejenis, jadi tinggal salin tempel saja antar Metadata SVG.
+
+### 2. Memilih Gradien.
+Disarankan untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, gunakan radial yang simetris lingkaran sempurna dan bukan yang lonjong. Gunakan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd></kbd>** kemudian drag untuk membuat gradien radial yang simetris.
+
+{{< figure src="/img/posts/gradien.png" alt="gradien" caption="Penggunaan Gradien yang diperbolehkan" class="big" >}}
+
+### 3. Meyelaraskan Style Anda.
+Dengan menyelaraskan style vektpr Anda ini, maka akan lebih mudah untuk mengisi Metadata-metadata setiap file SVG dan fokus pada kualitas. Tetapi jika Anda ingin lebih memburu kuantitas maka akan banyak jenis style yang ada di portofolio mikrostock Anda.
+
+### 4. Gunakan nama berkas sesuai SEO.
+Untuk memudahkan SEO, gunakan nama berkas dengan huruf kecil (lowercase). Misalnya:
+
+* happy-farmer.eps
+* flat-android-mockup.eps
+* kids-in-the-train.eps
+
+### 5. Pilih Kuantitas apa Kualitas?.
+Kalau Anda yang baru mulai, lebih baik mengejar kuantitas dengan kualitas yang cukup. Jika sudah banyak stocknya, boleh ditingkatkan lagi kualitasnya supaya seimbang.
+
+### 6. Target Harian/Mingguan/Bulanan.
+Lebih baik Anda tentukan sendiri target vektornya, karena kemampuan setiap orang berbeda-beda. Tapi Anda harus berkomitmen dengan target yang Anda buat tadi.
+
+### 7. Buat laporan.
+Tujuannya untuk memonitor aset vektor saja. Anda bisa membuatnya table di Libre Office Calc.
+
+Contohnya seperti ini.
+
+{{< figure src="/img/posts/mikrostock-list.png" alt="mikrostock list" caption="Contoh Laporan Mikrostock" class="big" >}}
+
+Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. Lumayan keriting jari saya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
