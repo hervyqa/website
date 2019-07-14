@@ -13,7 +13,7 @@ description : "Portofolio ilustasi UI oleh Hervy Qurrotul Ainur."
 comments : ""
 ---
 
-Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **svgo** untuk kompresi berkas svg, **optipng** untuk kompresi berkas png, dan **jpegoptim** untuk kompresi berkas jpg/jpeg.
+Portofolio yang saya buat menggunakan perangkat lunak **[Inkscape]** dan beberapa perkakas tambahan, seperti **svgo** untuk kompresi berkas svg dan **cwebp** untuk kompresi berkas png/jpg/jpeg.
 
 ---
 {{< figure src="/img/portofolio/iqra-my-universe-portofolio.webp" alt="iqra-my-universe-flat-ilustrasi" caption="Iqra' My Universe oleh Hervy Qurrotul" class="big" >}}
