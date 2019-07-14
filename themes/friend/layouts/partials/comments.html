@@ -1,3 +1,9 @@
+<!--comment bawaan-->
+<!--{{- if .Site.DisqusShortname }}-->
+    <!--{{ template "_internal/disqus.html" . }}-->
+<!--{{- end }}-->
+
+<!--comment dari hugo coder-->
 <!--{{- if and (not (eq .Site.DisqusShortname "" )) (eq (.Params.disable_comments | default false) false) -}}-->
     <!--{{ template "_internal/disqus.html" . }}-->
 <!--{{- end }}-->
@@ -18,5 +24,5 @@
     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<noscript>{{ i18n "pleaseEnableJavaScript"}} <a href="http://disqus.com/?ref_noscript">{{ i18n "commentsPoweredBy"}} Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">{{ i18n "commentsPoweredBy"}} <span class="logo-disqus">Disqus</span></a>

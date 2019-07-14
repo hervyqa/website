@@ -44,3 +44,9 @@ other = "Made with"
 
 [by]
 other = "by"
+
+[commentsPoweredBy]
+other = "Comments powered by"
+
+[pleaseEnableJavaScript]
+other = "Please enable JavaScript to view the"
