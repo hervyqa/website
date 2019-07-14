@@ -32,7 +32,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 # googleAnalytics = ""
-disqusShortname = "hervyqa"
+disqusShortname = "kaostronomi"
 
 [permalinks]
   posts = "/posts/:year/:month/:day/:title/"
