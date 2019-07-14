@@ -18,6 +18,8 @@ tags:
   - shutterstock
 ---
 
+*Assalamu'alaikum Warahmatullahi Wabarakatuh.*
+
 Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat propietary juga. Intinya bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain.
 
 Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini agak tricky agar mudah dibaca. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tanpa menggunakan transparansi, blur, pattern, mesh, dan efek filter.
