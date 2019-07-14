@@ -20,9 +20,11 @@ tags:
 
 Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat propietary juga. Intinya bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain.
 
-Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini agak tricky agar mudah dibaca. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tanpa menggunakan transparansi, blur, pattern, mesh, dan efek khusus.
+Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini agak tricky agar mudah dibaca. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tanpa menggunakan transparansi, blur, pattern, mesh, dan efek filter.
 
-Ada beberapa hal yang harus dilakukan dan dihindari, Apa saja? simak ya..
+Perlu diingat tips ini disarankan untuk pengguna inkscape versi **0.92.x**. Saya sendiri menggunakan inkscape versi 0.92.4, jadi ada beberapa perbedaan jika menggunakan versi inkscape dibawah 0.92.x.
+
+Oke, langsung saja. Ada beberapa hal yang harus dilakukan dan dihindari, Apa saja ya? yuk disimak...
 
 ## A. Hal-hal yang perlu dilakukan.
 
@@ -69,7 +71,7 @@ Jangan lupa untuk membuka semua layer, dan hapus layer yang tidak diperlukan.
 
 {{< figure src="/img/posts/layer-terbuka.png" alt="layer-terbuka" caption="Contoh Layer terbuka" class="big" >}}
 
-### 6. Jangan memberikan Pattern, Mesh, dan Efek khusus.
+### 6. Jangan memberikan Pattern, Mesh, dan Efek filter.
 
 {{< figure src="/img/posts/mesh-pattern.png" alt="mesh-pattern" caption="Contoh Mesh dan Pattern" class="big" >}}
 
@@ -99,13 +101,13 @@ Catatan:
 * Keyword bisa dicari dengan menggunakan alat online, seperti [mykeyworder](mykeyworder.com) dan [microstockgroup](microstockgroup.com/tools/keywords.php).
 * Simpan juga metadata tadi untuk backup, Anda bisa simpan dengan _metadata.txt_ misalnya. Tujuannya untuk menggunakan data yang sama jika ada desain yang sejenis, jadi tinggal salin tempel saja antar Metadata SVG.
 
-### 2. Memilih Gradien.
-Disarankan untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, gunakan radial yang simetris lingkaran sempurna dan bukan yang lonjong. Gunakan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd></kbd>** kemudian drag untuk membuat gradien radial yang simetris.
+### 2. Pastikan memilih Gradien yang solid.
+Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, gunakan radial yang simetris lingkaran sempurna dan bukan yang lonjong. Gunakan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd></kbd>** kemudian drag untuk membuat gradien radial yang simetris.
 
-{{< figure src="/img/posts/gradien.png" alt="gradien" caption="Penggunaan Gradien yang diperbolehkan" class="big" >}}
+{{< figure src="/img/posts/gradien.png" alt="gradien" caption="Penggunaan Gradien" class="big" >}}
 
 ### 3. Meyelaraskan Style Anda.
-Dengan menyelaraskan style vektpr Anda ini, maka akan lebih mudah untuk mengisi Metadata-metadata setiap file SVG dan fokus pada kualitas. Tetapi jika Anda ingin lebih memburu kuantitas maka akan banyak jenis style yang ada di portofolio mikrostock Anda.
+Dengan menyelaraskan style vektor Anda ini, maka akan lebih mudah untuk mengisi Metadata-metadata setiap file SVG dan fokus pada kualitas. Tetapi jika Anda ingin lebih memburu kuantitas maka akan banyak jenis style yang ada di portofolio mikrostock Anda, dari pada repot (dalam tanda kutip) memikirkan banyak style lebih baik tetap fokus pada satu atau beberapa style saja.
 
 ### 4. Gunakan nama berkas sesuai SEO.
 Untuk memudahkan SEO, gunakan nama berkas dengan huruf kecil (lowercase). Misalnya:
@@ -120,13 +122,47 @@ Kalau Anda yang baru mulai, lebih baik mengejar kuantitas dengan kualitas yang c
 ### 6. Target Harian/Mingguan/Bulanan.
 Lebih baik Anda tentukan sendiri target vektornya, karena kemampuan setiap orang berbeda-beda. Tapi Anda harus berkomitmen dengan target yang Anda buat tadi.
 
-### 7. Buat laporan.
+### 7. Macam-macam agensi mikrostok
+Ada berbagai macam agensi mikrostok dan memiliki peraturan yang berbeda pula, seperti berikut ini.
+
+* [123rf]
+* [AdobeStock], sebelumnya Fotolia
+* [Dreamstime]
+* [Freepik]
+* [Shutterstock]
+
+Tetapi kembali kepada Anda juga, Misalnya begini, menggunakan gradien dengan EPS bawaan versi 0.92.x kalau di [Freepik] masih diterima, sedangkan di [Shutterstock] gradiennya dianggap sebagai berkas yang tidak kompatibel dan objek gradien berubah menjadi raster. Hal ini tentu akan mempengaruhi style yang anda buat, apakah tetap menggunakan gradien ataukah tidak. Kalau saya pribadi lebih memilih desain flat tanpa gradien, tujuannya untuk meminimalisir penolakan dari berbagai agensi. ^^
+
+### 8. Buat laporan.
 Tujuannya untuk memonitor aset vektor saja. Anda bisa membuatnya table di Libre Office Calc.
 
 Contohnya seperti ini.
 
 {{< figure src="/img/posts/mikrostock-list.png" alt="mikrostock list" caption="Contoh Laporan Mikrostock" class="big" >}}
 
-Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. Lumayan keriting jari saya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Disetiap kolom ada:
+
+* No
+* Tanggal Upload
+* Nama Berkas
+* 123rf
+* AdobeStock
+* Dreamstime
+* Freepik
+* Shutterstock
+
+dan disetiap baris dibawah agensi bisa diisi dengan status:
+
+* Pending
+* Approve
+* Reject
+
+Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
+
+[AdobeStock]:https//www.stock.adobe.com
+[123rf]:https//www.123rf.com
+[Freepik]:https//www.freepik.com
+[Dreamstime]:https//www.dreamstime.com
+[Shutterstock]:https//www.shutterstock.com

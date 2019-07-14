@@ -48,7 +48,7 @@ Dan pastikan Anda sampai bilang "Oh jadi begini stylenya.. Oh jadi begini cara m
 Intinya melatih diri Anda untuk memodifikasi karya orang lain. Dari pada kita buntu tak ada ide yang mau dieksekusi, mending *ngelirik* karya orang lain `#eh`.
 
 ## Gunakan waktu luang untuk perbanyak latihan.
-Semisalnya Hari Ahad/Minggu ada jadwal kosong atau yang biasanya bangun pagi sebelum subuh bisa Anda gunakan untuk latihan membuat ilustrasi, kalau menurut Anda bagus ilustrasinya bisa dijadikan portofolio [behance] dan [dribbble]. Jadi, tidak hanya teknik saja Anda kuasai, tetapi perbanyak portofolio *(salah satunya)* juga sebagai faktor penentu *deal* dengan klien.
+Semisalnya Hari Ahad/Minggu ada jadwal kosong atau yang biasanya bangun pagi sebelum subuh bisa Anda gunakan untuk latihan membuat ilustrasi, kalau menurut Anda bagus ilustrasinya bisa dijadikan portofolio [Behance] dan [Dribbble]. Jadi, tidak hanya teknik saja Anda kuasai, tetapi perbanyak portofolio *(salah satunya)* juga sebagai faktor penentu *deal* dengan klien.
 
 Sebab pengalaman saya pernah bertemu dengan klien yang batal *deal* sebab portofolio saya yang minim :").
 
