@@ -91,10 +91,6 @@ disqusShortname = "hervyqa"
     url  = "https://www.gitlab.com/hervyqa"
 
   [[params.social]]
-    name = "github"
-    url  = "https://github.com/hervyqa"
-
-  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/hervyqa"
 
