@@ -11,12 +11,10 @@ toc: false
 type:
   - post
 tags:
+  - desain
+  - floss
   - inkscape
-  - 123rf
-  - adobestock
-  - dreamtimes
   - mikrostock
-  - shutterstock
 images:
   -
 ---

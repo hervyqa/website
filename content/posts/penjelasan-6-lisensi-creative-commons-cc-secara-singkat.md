@@ -18,7 +18,6 @@ tags:
   # ---
   - lisensi
   - cc
-  - cc-id
 images:
   -
 ---

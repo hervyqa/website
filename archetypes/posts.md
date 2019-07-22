@@ -18,8 +18,6 @@ tags:
   - inkscape
   - gimp
   - tema
-  - ui
-  - ux
   - ui/ux
   # ---
   - pemula
@@ -28,16 +26,8 @@ tags:
   # ---
   - lisensi
   - cc
-  - cc-id
   # ---
-  - 123rf
-  - adobestock
-  - dreamtimes
   - mikrostock
-  - fotolia
-  - freepik
-  - shutterstock
-  # ---
   - mikrostock
   - mykeyworder
   - microstockgroup

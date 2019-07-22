@@ -17,8 +17,6 @@ tags:
   - flat-desain
   - gimp
   - tema
-  - ui
-  - ux
   - ui/ux
 images:
   -
