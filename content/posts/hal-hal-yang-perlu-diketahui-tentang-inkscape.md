@@ -15,6 +15,7 @@ tags:
   - inkscape
   - ui/ux
   - pemula
+  - windows
 images:
   -
 ---
@@ -27,9 +28,9 @@ Tulisan ini tidak membandingkan antara sofware vektor manapun. Penulis juga pern
 
 [Inkscape] merupakan perangkat lunak pengolah vektor yang bersifat perangkat lunak bebas dibawah lisensi [GNU GPL](https://id.m.wikipedia.org/wiki/GNU_GPL) yang artinya bebas untuk dimodifikasi, dikembangkan, dan didapatkan. Tujuan inkscape sendiri menjadi pengolah vektor yang mutakhir yang mendukung XML, SVG, dan CSS.
 
-Uniknya, masyarakat menganggapnya inkscape itu _gratis_, bukan bebas. Padahal tidak demikian. Cara mendapatkan mengunduh inkscape itu _(kebanyakan)_ memang terlihat mudah, hanya klik `Download` saja, padahal mengunduh inkscape juga membutuhkan biaya internet, listrik, dan tenaga juga.
+Uniknya, masyarakat menganggapnya inkscape itu _gratis_, bukan bebas. Padahal tidak demikian. Cara mendapatkan master inkscape itu memang _(kebanyakan)_ terlihat mudah, hanya sekedar klik `download` saja, padahal mengunduh master inkscape juga membutuhkan biaya internet, listrik, dan tenaga juga.
 
-Indonesia sebagai negara berkembang yang mayoritas masyarakatnya ketika membeli perangkat lunak mungkin berfikir dua kali _(atau lebih)_. Inilah alasannya mengapa perangkat lunak berbasis Open Source sangat cocok membantu dalam perekonomian. Relatif lebih hemat sekian kali dari pada membeli aplikasi Propietary.
+Untungnya di Indonesia sebagai negara berkembang yang notabene mayoritas masyarakatnya berfikir dua kali untuk membeli perangkat lunak yang berbayar. Inilah alasannya mengapa perangkat lunak berbasis Open Source sangat cocok membantu dalam perekonomian. Relatif lebih hemat sekian kali dari pada membeli aplikasi Propietary.
 
 ## Proyek Fork.
 

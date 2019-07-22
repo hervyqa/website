@@ -4,18 +4,19 @@ title: "Tips dan Trik untuk Mikrostoker Vektor dengan Inkscape"
 date: 2019-07-10T10:01:07+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
-description : ""
+description : "Beberapa hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
 comments : ""
 toc: false
 type:
   - post
 tags:
-  - desain
   - floss
   - inkscape
+  - 123rf
+  - adobestock
+  - dreamtimes
   - mikrostock
-images:
-  -
+  - shutterstock
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
