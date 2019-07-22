@@ -1,6 +1,5 @@
 ---
 draft: true
-featuredImg: ""
 title: "Daftar Ekstensi Terbaik Untuk Inkscape"
 date: 2019-07-10T19:48:10+07:00
 author:

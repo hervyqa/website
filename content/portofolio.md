@@ -5,7 +5,6 @@ title: "Portofolio"
 date: 2019-07-02T23:46:19+07:00
 aliases:
   - about-us
-  - about-hugo
   - contact
 author:
   - name : "Hervy Qurrotul Ainur"

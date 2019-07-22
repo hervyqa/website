@@ -1,6 +1,5 @@
 ---
 draft: false
-featuredImg: ""
 title: "Tips Ilustrasi dengan Inkscape"
 date: 2019-07-02T18:16:17+07:00
 author:
