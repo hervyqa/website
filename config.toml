@@ -34,8 +34,8 @@ disqusShortname = "hervyqa"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Catatan sederhana tentang Ilustrasi, Pattern, Vektor, Inkscape, Mikrostok, dan UI/UX"
-  keywords = "ui,ux,desain,inkscape,libreoffce,impress,flat,ilustrasi,git,pattern,shutterstock,123rf,freepik,dreamstime"
+  description = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/UX"
+  keywords = "ui, ux, desain, inkscape, libreoffce, impress, flat, ilustrasi, git, pattern, shutterstock, 123rf, freepik, dreamstime, mikrostock"
   # images = [""]
   themeColor = "#494f5c"
 
