@@ -1,5 +1,6 @@
 ---
 draft: true
+featuredImg: ""
 title: "Dasar Elemen Markdown"
 date: 2019-07-02T18:47:33+07:00
 author:
@@ -21,9 +22,7 @@ tags:
   - code
   - bash
   - python
-series:
-  -
-categories:
+images:
   -
 ---
 

@@ -1,6 +1,15 @@
 ---
+draft: true
+featuredImg: ""
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description : ""
+author:
+  - name : "{{ .Site.Author.name }}"
+comments : ""
+toc: false
+images:
+  -
 ---
+
 

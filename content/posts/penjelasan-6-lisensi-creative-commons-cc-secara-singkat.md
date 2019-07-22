@@ -1,5 +1,6 @@
 ---
 draft: false
+featuredImg: ""
 title: "Penjelasan 6 Lisensi Creative Commons (CC) Secara Singkat"
 date: 2019-07-03T19:03:21+07:00
 author:
@@ -18,9 +19,7 @@ tags:
   - lisensi
   - cc
   - cc-id
-series:
-  -
-categories:
+images:
   -
 ---
 

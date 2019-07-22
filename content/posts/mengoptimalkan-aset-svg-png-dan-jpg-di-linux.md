@@ -1,5 +1,6 @@
 ---
 draft: false
+featuredImg: ""
 title: "Mengoptimalkan Aset SVG, PNG, dan JPG Di Linux"
 date: 2019-07-10T08:18:41+07:00
 author:
@@ -15,10 +16,7 @@ tags:
   - menengah
   - cli
   - kompresi
-
-series:
-  -
-categories:
+images:
   -
 ---
 

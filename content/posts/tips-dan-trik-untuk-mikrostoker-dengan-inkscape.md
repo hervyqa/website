@@ -1,5 +1,6 @@
 ---
 draft: false
+featuredImg: ""
 title: "Tips dan Trik untuk Mikrostoker Vektor dengan Inkscape"
 date: 2019-07-10T10:01:07+07:00
 author:
@@ -12,10 +13,12 @@ type:
 tags:
   - inkscape
   - 123rf
-  - adobe-stock
+  - adobestock
   - dreamtimes
   - mikrostock
   - shutterstock
+images:
+  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
