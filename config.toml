@@ -2,7 +2,6 @@ baseURL = "https://hervyqa.gitlab.io"
 languageCode = "en-us"
 defaultContentLanguage = "id"
 title = "Hervyqa"
-theme = ""
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
