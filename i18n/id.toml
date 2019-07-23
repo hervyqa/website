@@ -38,6 +38,7 @@ other = "Menu"
 other = "Gambar Fitur"
 
 # partial/footer.html
+#
 [poweredBy]
 other = "Ditenagai oleh"
 
