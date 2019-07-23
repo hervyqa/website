@@ -66,7 +66,7 @@ disqusShortname = "hervyqa"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/hervyqa"
+    url = "https://www.instagram.com/hervyqa"
 
   [[params.social]]
     name = "gitlab"
@@ -78,7 +78,7 @@ disqusShortname = "hervyqa"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/hervyqa"
+    url  = "https://www.linkedin.com/in/hervy-qurrotul-b43087187/"
 
   [[params.social]]
     name = "email"
