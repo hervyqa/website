@@ -62,11 +62,11 @@ disqusShortname = "hervyqa"
 
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/hervyqa"
 
   [[params.social]]
     name = "instagram"
-    url = "https://instagram.com/"
+    url = "https://instagram.com/hervyqa"
 
   [[params.social]]
     name = "gitlab"
@@ -74,7 +74,7 @@ disqusShortname = "hervyqa"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/hervyqa"
 
   [[params.social]]
     name = "linkedin"
