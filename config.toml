@@ -1,4 +1,4 @@
-baseURL = "https://hervyqa.gitlab.io"
+baseURL = "https://hervyqa.netlify.com"
 languageCode = "en-us"
 defaultContentLanguage = "id"
 title = "Hervyqa"
