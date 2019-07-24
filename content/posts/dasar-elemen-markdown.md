@@ -1,6 +1,7 @@
 ---
 draft: true
 title: "Dasar Elemen Markdown"
+discussionId: "dasar-elemen-markdown"
 date: 2019-07-02T18:47:33+07:00
 author:
   - name : "Hervy Qurrotul Ainur"

@@ -49,4 +49,7 @@ other = "Dibuat dengan"
 other = "oleh"
 
 [commentsPoweredBy]
-other = "Mohon aktifkan Javascript untuk melihat komentar"
+other = "Komentar ditenagai oleh"
+
+[pleaseEnableJavaScript]
+other = "Mohon aktifkan Javascript untuk melihat"

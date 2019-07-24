@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Tips Ilustrasi dengan Inkscape"
+discussionId: tips-ilustrasi-dengan-inkscape
 date: 2019-07-02T18:16:17+07:00
 author:
   - name : "Hervy Qurrotul Ainur"

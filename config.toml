@@ -10,7 +10,7 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 googleAnalytics = "UA-144344761-1"
-disqusShortname = "hervyqa"
+#disqusShortname = "hervyqa"
 
 [author]
   name = "Hervy Qurrotul Ainur"
@@ -42,6 +42,10 @@ disqusShortname = "hervyqa"
   homeSubtitle = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/X."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
+
+  # commenter
+  talkyardServerUrl = "comments-for-hervyqa-com.talkyard.net"
+  talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
@@ -110,3 +114,4 @@ disqusShortname = "hervyqa"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+

@@ -2,6 +2,7 @@
 draft: true
 featuredImg: ""
 title: "{{ replace .Name "-" " " | title }}"
+discussionId: "{{ .File }}"
 date: {{ .Date }}
 author:
   - name : "{{ .Site.Author.name }}"

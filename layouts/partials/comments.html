@@ -1,17 +1,8 @@
-{{- if .Site.DisqusShortname }}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-
-(function() {
-  if (window.location.hostname == "localhost")
-      return;
-
-  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  var disqus_shortname = '{{ .Site.DisqusShortname }}';
-  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>{{ i18n "pleaseEnableJavaScript"}} <a href="http://disqus.com/?ref_noscript">{{ i18n "commentsPoweredBy"}} Disqus.</a></noscript>
-<a href="http://disqus.com/" class="dsq-brlink">{{ i18n "commentsPoweredBy"}} <span class="logo-disqus">Disqus</span></a>
-{{- end }}
+<script>talkyardServerUrl='{{ .Site.Params.talkyardServerUrl }}';</script>
+<script async defer src="{{ .Site.Params.talkyardScriptUrl | default "https://c1.ty-cdn.net/-/talkyard-comments.min.js" }}"></script>
+<!-- You can specify a per page discussion id on the next line, if your URLs might change. -->
+<div class="talkyard-comments" data-discussion-id="{{ .Params.discussionId }}" style="margin-top: 45px;">
+<noscript>{{ i18n "pleaseEnableJavaScript"}}</noscript>
+<p style="margin-top: 25px; opacity: 0.9">{{ i18n "commentsPoweredBy"}}
+<a href="https://www.talkyard.io">Talkyard</a>.</p>
+</div>

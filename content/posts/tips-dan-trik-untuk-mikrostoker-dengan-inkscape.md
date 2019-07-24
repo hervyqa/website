@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Tips dan Trik untuk Mikrostoker Vektor dengan Inkscape"
+discussionId: tips-dan-trik-untuk-mikrostoker-dengan-inkscape
 date: 2019-07-10T10:01:07+07:00
 author:
   - name : "Hervy Qurrotul Ainur"

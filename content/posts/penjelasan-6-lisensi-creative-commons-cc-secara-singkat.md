@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Penjelasan 6 Lisensi Creative Commons (CC) Secara Singkat"
+discussionId: penjelasan-6-lisensi-creative-commons-cc-secara-singkat
 date: 2019-07-03T19:03:21+07:00
 author:
   - name : "Hervy Qurrotul Ainur"

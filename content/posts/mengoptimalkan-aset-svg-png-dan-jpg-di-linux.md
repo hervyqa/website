@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Mengoptimalkan Aset SVG, PNG, dan JPG Di Linux"
+discussionId: mengoptimalkan-aset-svg-png-dan-jpg-di-linux
 date: 2019-07-10T08:18:41+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
