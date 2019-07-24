@@ -44,7 +44,7 @@ googleAnalytics = "UA-144344761-1"
   # bgImg = ""  # Homepage background-image URL
 
   # commenter
-  talkyardServerUrl = "comments-for-hervyqa-com.talkyard.net"
+  talkyardServerUrl = "https://comments-for-hervyqa-com.talkyard.net"
   talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
