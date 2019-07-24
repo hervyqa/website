@@ -96,8 +96,8 @@ disqusShortname = "hervyqa"
     url        = "portofolio/"
     weight     = "3"
   [[menu.main]]
-    identifier = "shutterstock"
-    name       = "Shutterstock"
+    identifier = "pattern"
+    name       = "Pattern"
     url        = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
     weight     = "4"
   [[menu.main]]
