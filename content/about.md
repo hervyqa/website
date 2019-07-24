@@ -65,3 +65,5 @@ Sistem Operasi:
 
 * hervyqa@gmail.com
 
+> "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
+> - Umar Bin Khattab

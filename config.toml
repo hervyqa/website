@@ -34,12 +34,12 @@ disqusShortname = "hervyqa"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/UX"
+  description = "Ulasan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/X"
   keywords = "ui, ux, desain, inkscape, libreoffce, impress, flat, ilustrasi, git, pattern, shutterstock, 123rf, freepik, dreamstime, mikrostock"
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
+  homeSubtitle = "Catatan Sederhana Belajar Ilustrasi, Pattern, Vektor, Inkscape, Mikrostok, dan UI/X."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
