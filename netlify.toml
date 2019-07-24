@@ -1,5 +1,5 @@
 [[redirects]]
 from = "https://hervyqa.netlify.com/*"
-to = "https://www.hervyqa.com/:splat"
+to = "https://hervyqa.com/:splat"
 status = 301
 force = true
