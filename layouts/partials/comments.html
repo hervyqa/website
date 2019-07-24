@@ -1,3 +1,5 @@
-{{ partial "disquss.html" . }}
-<!--{{ partial "talkyard.html" . }}-->
-<!--{{ partial "commento.html" . }}-->
+{{- if .Site.DisqusShortname }}
+      {{ partial "disquss.html" . }}
+{{- end }}
+      <!--{{ partial "talkyard.html" . }}-->
+      <!--{{ partial "commento.html" . }}-->
