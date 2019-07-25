@@ -19,7 +19,7 @@ disqusShortname = "hervyqa"
   posts = "/posts/:title/"
 
 [blackfriday]
-  hrefTargetBlank = true
+  # hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
 
