@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Hal-hal Yang Perlu Diketahui Tentang Inkscape untuk Pemula"
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -17,8 +17,6 @@ tags:
   - ui/ux
   - pemula
   - windows
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*

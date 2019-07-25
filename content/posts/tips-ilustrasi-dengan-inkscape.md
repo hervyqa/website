@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Cara mudah belajar ilustrasi dengan inkscape"
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -18,8 +18,6 @@ tags:
   - gimp
   - tema
   - ui/ux
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*

@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : ""
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -22,8 +22,6 @@ tags:
   - code
   - bash
   - python
-images:
-  -
 ---
 
 The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.

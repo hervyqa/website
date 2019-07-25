@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Panduan sederhana tentang Creative Commons"
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -18,8 +18,6 @@ tags:
   # ---
   - lisensi
   - cc
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*

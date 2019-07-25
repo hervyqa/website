@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG di Linux"
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -16,8 +16,6 @@ tags:
   - menengah
   - cli
   - kompresi
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
