@@ -31,7 +31,7 @@ tags:
 
 {{< figure src="/img/portofolio/iqra-my-universe-portofolio.webp" alt="iqra-my-universe-flat-ilustrasi" caption="Iqra' My Universe oleh Hervy Qurrotul" class="left" >}}
 
-Ada beberapa ilustrasi di halaman [portofolio](https://hervyqa.com/portofolio) ini. Agar file SVG ilustasi ini bermanfaat, silakan pakai untuk keperluan desain anda, seperti poster, banner, feed medsos dsb. :grinning:
+Ada beberapa ilustrasi di halaman [portofolio](https://hervyqa.com/portofolio) ini. Agar berkas SVG ilustrasi ini lebih bermanfaat, silakan pakai untuk keperluan desain anda, seperti poster, banner, feed medsos dsb. :grinning:
 
 Untuk mendapatkannya cukup mudah. Anda cukup mengunjungi repositori [berikut](https://gitlab.com/hervyqa/ilustrasi.git). Kemudian `clone` atau `fork`.
 
