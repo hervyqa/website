@@ -1,6 +1,5 @@
 ---
 draft: false
-featuredImg: ""
 title: "Berbagi Ilustrasi dengan Atribusi CC BY-SA"
 discussionId: "berbagi-ilustrasi-dengan-atribusi-cc-by-sa"
 date: 2019-07-25T21:19:41+07:00
@@ -8,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Berbagi ilustrasi SVG hasil Inkscape."
 comments : ""
-toc: true
+toc: false
 type:
   - post
 tags:
@@ -26,8 +25,6 @@ tags:
   # ---
   - lisensi
   - cc
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
