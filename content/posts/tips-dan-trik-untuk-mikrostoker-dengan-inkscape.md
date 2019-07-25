@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Beberapa hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
 comments : ""
-toc: false
+toc: true
 type:
   - post
 tags:

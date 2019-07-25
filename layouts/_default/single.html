@@ -23,7 +23,7 @@
     </div>
     {{- if .Params.comments }}
     <div id="comments" class="thin">
-      {{ partial "comments.html" . }}
+      {{ partialCached "comments.html" . }}
     </div>
     {{- end }}
   </main>

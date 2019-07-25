@@ -8,7 +8,7 @@ author:
   - name : "{{ .Site.Author.name }}"
 description : ""
 comments : ""
-toc: false
+toc: true
 type:
   - post
 tags:

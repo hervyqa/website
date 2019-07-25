@@ -7,7 +7,7 @@ author:
   - name : "Hervy Qurrotul Ainur"
 description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG di Linux"
 comments : ""
-toc: false
+toc: true
 type:
   - post
 tags:

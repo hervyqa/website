@@ -59,11 +59,11 @@ Sistem Operasi:
 
 * Telegram : [@hervyqa](https://t.me/hervyqa)
 * Instagram : [@hervyqa](https://instagram.com/hervyqa)
-* HP : +62 81234 49 2171
+* Handphone : [+62 81234 49 2171](tel:+62 81234 49 2171)
 
 **Email:**
 
-* hervyqa@gmail.com
+* [hervyqa@gmail.com](mailto:hervyqa@gmail.com)
 
 > "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
 > - Umar Bin Khattab

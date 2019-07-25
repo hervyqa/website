@@ -5,10 +5,10 @@ title = "Hervyqa"
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+# hasCJKLanguage = true
 rssLimit = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+enableEmoji = true
 googleAnalytics = "UA-144344761-1"
 disqusShortname = "hervyqa"
 
@@ -25,41 +25,25 @@ disqusShortname = "hervyqa"
 
 [taxonomies]
   tag = "tags"
-  # Categories are disabled by default.
+  categories = "categories"
 
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-
-  # Metadata mostly used in document's head
   description = "Ulasan sederhana tentang belajar ilustrasi, tutorial semless pattern vektor, tips eps mikrostok dengan inkscape, dan tips belajar UI/X"
   keywords = "seamless, pattern, inkscape, mikrostock, ui, ux, desain, libreoffce, impress, flat, ilustrasi, git, shutterstock, 123rf, freepik, dreamstime"
-  # images = [""]
+  images = ""
   themeColor = "#494f5c"
-
   homeSubtitle = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/X."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
-
-  # commenter
-  #talkyardServerUrl = "https://comments-for-hervyqa-com.talkyard.net"
-  #talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  justifyContent = false
+  relatedPosts = true
+  # bgImg = ""
   # gitUrl = "https://github.com/username/repository/commit/"
-
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  justifyContent = false  # Set "text-align: justify" to `.content`.
-
-  relatedPosts = true  # Add a related content section to all single posts page
-
-  # Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
 
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
   #[[params.social]]
     #name = "shutterstock"
     #url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
@@ -99,6 +83,10 @@ disqusShortname = "hervyqa"
   [[params.social]]
     name = "instagram"
     url = "https://www.instagram.com/hervyqa"
+
+  #[[params.social]]
+    #name = "stackoverflow"
+    #url  = "http://www.stackoverflow.com/"
 
   [[params.social]]
     name = "gitlab"
@@ -141,4 +129,3 @@ disqusShortname = "hervyqa"
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
-
