@@ -16,7 +16,7 @@ disqusShortname = "hervyqa"
   name = "Hervy Qurrotul Ainur"
 
 [permalinks]
-  posts = "/posts/:year/:month/:day/:title/"
+  posts = "/posts/:title/"
 
 [blackfriday]
   # hrefTargetBlank = true
