@@ -86,7 +86,7 @@ disqusShortname = "hervyqa"
 
   [[params.social]]
     name = "linkedin"
-    url  = "www.linkedin.com/in/hervyqa"
+    url  = "https://www.linkedin.com/in/hervyqa"
 
   [[params.social]]
     name = "paypal"
