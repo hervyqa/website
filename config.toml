@@ -44,9 +44,9 @@ disqusShortname = "hervyqa"
   # gitUrl = "https://github.com/username/repository/commit/"
   # customCSS = ["css/foo.css", "css/bar.css"]
 
-  #[[params.social]]
-    #name = "shutterstock"
-    #url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
+  [[params.social]]
+    name = "shutterstock"
+    url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
 
   #[[params.social]]
     #name = "freepik"
