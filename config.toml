@@ -48,21 +48,21 @@ disqusShortname = "hervyqa"
     name = "shutterstock"
     url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
 
-  #[[params.social]]
-    #name = "freepik"
-    #url  = "https://freepik.com/"
+  [[params.social]]
+    name = "freepik"
+    url  = "https://freepik.com/hervyqa"
 
   #[[params.social]]
     #name = "adobestock"
     #url  = "https://adobestock.com/"
 
-  #[[params.social]]
-    #name = "123rf"
-    #url  = "https://123rf.com/"
+  [[params.social]]
+    name = "123rf"
+    url  = "https://123rf.com/profile_hervyqa"
 
-  #[[params.social]]
-    #name = "dreamstime"
-    #url  = "https://dreamstime.com/"
+  [[params.social]]
+    name = "dreamstime"
+    url  = "https://dreamstime.com/hervyqa_info"
 
   #[[params.social]]
     #name = "dribbble"
@@ -70,7 +70,7 @@ disqusShortname = "hervyqa"
 
   #[[params.social]]
     #name = "behance"
-    #url  = "https://b.net/"
+    #url  = "https://b.net/hervyqa"
 
   [[params.social]]
     name = "telegram"
@@ -84,6 +84,14 @@ disqusShortname = "hervyqa"
     name = "instagram"
     url = "https://www.instagram.com/hervyqa"
 
+  [[params.social]]
+    name = "linkedin"
+    url  = "www.linkedin.com/in/hervyqa"
+
+  [[params.social]]
+    name = "paypal"
+    url  = "https://www.paypal.me/hervyqa"
+
   #[[params.social]]
     #name = "stackoverflow"
     #url  = "http://www.stackoverflow.com/"
@@ -95,14 +103,6 @@ disqusShortname = "hervyqa"
   [[params.social]]
     name = "github"
     url = "https://github.com/hervyqa"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/hervy-qurrotul-b43087187/"
-
-  [[params.social]]
-    name = "paypal"
-    url  = "https://www.paypal.me/hervyqa"
 
   [[params.social]]
     name = "email"
