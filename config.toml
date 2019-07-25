@@ -60,6 +60,34 @@ disqusShortname = "hervyqa"
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
+  #[[params.social]]
+    #name = "shutterstock"
+    #url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
+
+  #[[params.social]]
+    #name = "freepik"
+    #url  = "https://freepik.com/"
+
+  #[[params.social]]
+    #name = "adobestock"
+    #url  = "https://adobestock.com/"
+
+  #[[params.social]]
+    #name = "123rf"
+    #url  = "https://123rf.com/"
+
+  #[[params.social]]
+    #name = "dreamstime"
+    #url  = "https://dreamstime.com/"
+
+  #[[params.social]]
+    #name = "dribbble"
+    #url  = "https://dribbble.com/hervyqa"
+
+  #[[params.social]]
+    #name = "behance"
+    #url  = "https://b.net/"
+
   [[params.social]]
     name = "telegram"
     url  = "https://www.t.me/hervyqa/"
@@ -85,6 +113,10 @@ disqusShortname = "hervyqa"
     url  = "https://www.linkedin.com/in/hervy-qurrotul-b43087187/"
 
   [[params.social]]
+    name = "paypal"
+    url  = "https://www.paypal.me/hervyqa"
+
+  [[params.social]]
     name = "email"
     url  = "mailto:hervyqa@gmail.com"
 
@@ -100,15 +132,10 @@ disqusShortname = "hervyqa"
     url        = "portofolio/"
     weight     = "3"
   [[menu.main]]
-    identifier = "pattern"
-    name       = "Pattern"
-    url        = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
-    weight     = "4"
-  [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "about/"
-    weight     = "5"
+    weight     = "4"
 
 [sitemap]
   changefreq = "monthly"
