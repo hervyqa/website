@@ -19,7 +19,7 @@ disqusShortname = "hervyqa"
   posts = "/posts/:title/"
 
 [blackfriday]
-  # hrefTargetBlank = true
+  hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
 
@@ -37,7 +37,7 @@ disqusShortname = "hervyqa"
   images = ""
   themeColor = "#494f5c"
   homeSubtitle = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/X."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
   justifyContent = false
   relatedPosts = true
   # bgImg = ""
