@@ -68,48 +68,62 @@ sudo dnf install inkscape
 
 **Debian/Ubuntu**
 
+Update dulu (opsi)
+
 ```sh
-# update dulu (opsi)
 sudo apt update; sudo apt upgrade
 ```
 
+Kemudian install
+
 ```sh
-# kemudian install
 sudo apt install inkscape
 ```
 
 **Ubuntu PPA**
-```
+
+```sh
 sudo add-apt-repository ppa:inkscape.dev/stable
+```
+```sh
 sudo apt-get update
+```
+```sh
 sudo apt install inkscape
 ```
 
 **Arch/Manjaro**
 
-```
-# update dulu (opsi)
-sudo pacman -Syyu
+update dulu (opsi)
 
-# kemudian install
+```sh
+sudo pacman -Syyu
+```
+
+```sh
+sudo pacman -S inkscape
+```
+
+kemudian install
+
+```sh
 sudo pacman -S inkscape
 ```
 
 **Snap**
-```
-$ sudo snap install inkscape
+
+```sh
+sudo snap install inkscape
 ```
 
 **Flatpak**
-```
-$ flatpak install flathub org.inkscape.Inkscape
+```sh
+flatpak install flathub org.inkscape.Inkscape
 ```
 
 **Microsoft Windows & Mac OS**
 
 Laman Unduh [Inkscape]
-
-
 
 ## Ekstensi berkas.
 

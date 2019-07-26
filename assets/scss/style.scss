@@ -5,8 +5,8 @@
 
 /* Webkit Scrollbar Customize */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 3px;
+  height: 3px;
   background: $midnightblue;
 }
 
@@ -14,7 +14,7 @@
   background: #888;
 
   &:hover {
-    background: $text;
+    background: $highlight-grey;
   }
 }
 
@@ -167,7 +167,7 @@ table {
 .highlight-copy-btn {
     font-family: $code-fonts;
     position: absolute;
-    top: 9px;
+    bottom: 8px;
     right: 7px;
     border: 0;
     border-radius: 4px;
