@@ -94,17 +94,13 @@ sudo apt install inkscape
 
 **Arch/Manjaro**
 
-update dulu (opsi)
+Update dulu (opsi)
 
 ```sh
 sudo pacman -Syyu
 ```
 
-```sh
-sudo pacman -S inkscape
-```
-
-kemudian install
+Kemudian install
 
 ```sh
 sudo pacman -S inkscape
