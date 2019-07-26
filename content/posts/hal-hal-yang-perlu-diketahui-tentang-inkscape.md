@@ -147,7 +147,6 @@ Inkscape memudahkan penggunanya untuk membuat line art. Ini berguna untuk membua
 
 Sebenarnya ada dua kunci utama membuat line art yang bagus. Yaitu, _banyak-banyak latihan dan ekstra sabar_. ^^
 
-
 ## Menghindari not-responding.
 
 Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
