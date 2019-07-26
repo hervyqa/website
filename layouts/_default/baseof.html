@@ -19,7 +19,6 @@
   {{- partial "structured-data.html" . }}
   {{- partial "favicons.html" }}
   <title>{{.Title}}</title>
-<link rel="dns-prefetch" href="https://unpkg.com/valine/dist/Valine.min.js">
   {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.Suffix .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
