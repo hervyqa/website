@@ -2,9 +2,6 @@
  * Utils
  */
 
-// Add code-copy buttons using progressive enhancement
-// © 2019. Tom Spencer
-// https://www.fiznool.com/blog/2018/09/14/adding-click-to-copy-buttons-to-a-hugo-powered-blog/
 (function() {
   'use strict';
 

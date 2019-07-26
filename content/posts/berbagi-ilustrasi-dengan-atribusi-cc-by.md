@@ -37,7 +37,7 @@ Untuk mendapatkannya cukup mudah. Anda cukup mengunjungi repositori [berikut](ht
 
 * Pengguna GNU/Linux:
 
-```
+```sh
 $ git clone https://gitlab.com/hervyqa/ilustrasi.git
 ```
 

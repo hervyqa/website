@@ -30,13 +30,13 @@ Perkakas favorit saya adalah `svgo`, karena dengan `svgo` ini mampu mengkompres 
 
 Cara Install `svgo` di distro linux
 
-```
+```sh
 $ sudo npm install -g svgo
 ```
 
 Kalau di repo Fedora
 
-```
+```sh
 $ sudo dnf install nodejs-svgo
 ```
 
@@ -60,14 +60,20 @@ Done in 664 ms!
 Dari contoh diatas svgo berhasil merubah `ilustrasi-1.svg` menjadi `ilustrasi-1-hasil.svg`. Dari 223.567 Kib manjadi 38.366 Kib.
 
 Anda juga bisa kompresi berkas svg sekaligus. Tapi jika anda melakukan ini harap backup dulu berkas svg inkscape aslinya.
-```
+```sh
 $ mkdir backup
+```
+
+```sh
 $ cp *.svg backup
 ```
 
 Kemudian kompres berkas svg sekaligus
-```
+```sh
 $ svgo *.svg
+```
+
+```
 ilustrasi-1.svg:
 Done in 451 ms!
 223.576 KiB - 82.8% = 38.366 KiB
@@ -91,28 +97,38 @@ Perkakas `optipng` berfungsi untuk kompresi berkas `png`. Sama dengan svgo tadi,
 Cara install di linux:
 
 * openSUSE
-```
+
+```sh
 $ sudo zypper install optipng
 ```
+
 * Debian/Ubuntu/Mint
-```
+
+```sh
 $ sudo apt install optipng
 ```
+
 * Fedora
-```
+
+```sh
 $ sudo dnf install optipng
 ```
+
 * Centos dengan repo epel
-```
+
+```sh
 $ su -c 'yum install optipng'
 ```
+
 * Arch/Manjaro
-```
+
+```sh
 $ sudo pacman -S optipng
 ```
 
 Mari kita coba.
 Kita lihat ukuran berkasnya dulu.
+
 ```
 $ ls -lh
 total 284K
@@ -120,6 +136,7 @@ total 284K
 ```
 
 Kemudian kompres berkas pngnya.
+
 ```
 $ optipng gambar.png
 ** Processing: /home/hervyqa/Documents/ilustrasi/2019/gambar.png
@@ -158,27 +175,37 @@ Terakhir `jpegoptim`. Perkakas ini berfungsi untuk kompresi berkas `jpg` dan `jp
 Cara install di linux:
 
 * openSUSE
-```
+
+```sh
 $ sudo zypper install jpegoptim
 ```
+
 * Debian/Ubuntu/Mint
-```
+
+```sh
 $ sudo apt install jpegoptim
 ```
+
 * Fedora
-```
+
+```sh
 $ sudo dnf install jpegoptim
 ```
+
 * Centos dengan repo epel
-```
+
+```sh
 $ su -c 'yum install jpegoptim'
 ```
+
 * Arch/Manjaro
-```
+
+```sh
 $ sudo pacman -S jpegoptim
 ```
 
 Caranya hampir sama dengan `optipng`. kita cek dulu berkasnya.
+
 ```
 $ ls -lh
 total 308K
@@ -186,6 +213,7 @@ total 308K
 ```
 
 Kemudian kompres berkas jpgnya.
+
 ```
 $ jpegoptim gambar.jpg
 /home/hervyqa/Documents/ilustrasi/2019/gambar.jpg 750x600 24bit P Exif IPTC XMP Adobe  [OK] 308454 --> 295806 bytes (4.10%), optimized.

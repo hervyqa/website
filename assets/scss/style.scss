@@ -165,22 +165,23 @@ table {
 }
 
 .highlight-copy-btn {
+    font-family: $code-fonts;
     position: absolute;
-    bottom: 15px;
-    right: 13px;
+    top: 9px;
+    right: 7px;
     border: 0;
     border-radius: 4px;
     padding: 1px;
     font-size: 0.8em;
     line-height: 1.8;
     color: $text;
-    background-color: #888;
+    background-color: $highlight-grey;
     min-width: 70px;
     text-align: center;
 }
 
 .highlight-copy-btn:hover {
-    background-color: #666;
+    background-color: $light-grey;
 }
 
 // Accessibility
