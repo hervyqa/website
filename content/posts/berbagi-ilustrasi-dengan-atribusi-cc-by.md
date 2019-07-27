@@ -38,7 +38,7 @@ Untuk mendapatkannya cukup mudah. Anda cukup mengunjungi repositori [berikut](ht
 * Pengguna GNU/Linux:
 
 ```sh
-$ git clone https://gitlab.com/hervyqa/ilustrasi.git
+git clone https://gitlab.com/hervyqa/ilustrasi.git
 ```
 
 * Pengguna Windows, kunjungi repositorinya kemudian [klik unduh](https://gitlab.com/hervyqa/ilustrasi/-/archive/master/ilustrasi-master.zip) berkas ZIP.
