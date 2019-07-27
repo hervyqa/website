@@ -17,7 +17,6 @@ tags:
   - floss
   - ilustrasi
   - inkscape
-  - gimp
   - tema
   - ui/ux
   # ---
@@ -30,12 +29,14 @@ tags:
 Sebenarnya tips ini saya gunakan untuk menghindari _Force close_ di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun inkscape sendiri sudah tercadangkan otomatis ketika ditutup paksa. Jadi langsung saja, berikut tipsnya.
 
 ## 1. Gunakan filter kualitas rendah.
-Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-_zoom_ area blur secara dalam.
+Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur.
 
 * Pilih **Edit** > **Preferences**.
-* Pilih tab **Randering**.
+* Pilih tab **Rendering**.
 * Pada bagian **Grassian blur quality for display**, pilih **lowest quality**.
 * Pada bagian **Filter effect quality for display**, pilih **lowest quality**.
+
+Jika Anda menggunakan blur, sebaiknya jangan meng-_zoom_ area blur terlalu dekat.
 
 ## 2. Gunakan ikon yang paling kecil.
 Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
@@ -51,16 +52,26 @@ Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya 
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Bitmaps**.
-* Dibagian **Import** hilangkan **Ask about linking and scaling when importing**.
+* Dibagian **Import** hilangkan ceklis **Ask about linking and scaling when importing**.
 * Pada **Bitmap link**, pilih: **Link**.
 * Pada **Bitmap scale** : **Blocky**.
 
 ## 4. Aktifkan Autosave.
-Karena di Windows tidak ada duplikasi ketika forceclose maka aktifkan autosave di preferences.
+Karena di Windows tidak ada duplikasi ketika _force close_ maka aktifkan juga autosave di preferences.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Input/Output**
 * Ceklis **Enable autosave**
+
+Untuk Windows, lokasi direktori autosave diganti dengan nama usernya :
+
+* Autosave directory : **C:\Users\namauser**
+
+Untuk GNU/Linux, tetap seperti ini :
+
+* Autosave directory : **/tmp**
+
+Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah mengkoreksi. :kissing_smiling_eyes:
 
 ## 5. Aktifkan snap seperlunya.
 Tombol pintasan snap adalah **%**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node saran saya cukup mengaktifkan snap seperlunya saja. Misalnya,
@@ -73,11 +84,11 @@ Tombol pintasan snap adalah **%**, letak snap dibagian sebelah kanan toolbox. Ke
 ## 6. Hindari undo redo ketika mode teks.
 Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc** kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node yang ribet dan njelimet maka aman-aman saja pakai undo redo sebanyak apapun.
 
-## 7. Sebaiknya tidak menggunakan gradien dengan banyak node.
-Saya sering menggunakan gradien tapi tidak pernah sampai _force close_. Kalau sudah terasa berat saya save dan buka kembali berkas inkscape tadi.
+## 7. Sebaiknya tidak menggunakan gradasi dengan banyak node.
+Saya sering menggunakan gradasi tapi tidak pernah sampai _force close_. Kalau sudah terasa berat saya save dan buka kembali berkas inkscape tadi.
 
-## 8. Hindari Desktop Environtment yang berat.
-Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ramah misalnya Xfce, Lxqt, Openbox, atau migrasi ke Mindow Manager. Termasuk cara optimalisasi yang lumayan ekstrim sih ini.
+## 8. Gunakan Desktop Environment yang ringan.
+Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ringan misalnya Xfce, Lxqt, Openbox, atau migrasi ke Window Manager. Kalau pindah ke WM, termasuk cara optimalisasi yang lumayan ekstrim sih ini.
 
 Jadi, itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut Anda ada tips tambahan silahkan komentar dibawah :wink:. Sekian, terima kasih sudah membaca. Semoga bermanfaat.
 
