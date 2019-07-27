@@ -52,8 +52,6 @@ tags:
   - code
   - bash
   - python
-images:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*

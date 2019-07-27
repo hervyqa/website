@@ -9,7 +9,5 @@ author:
   - name : "{{ .Site.Author.name }}"
 comments : ""
 toc: true
-images:
-  -
 ---
 
