@@ -77,9 +77,9 @@ Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan
 Saya sering menggunakan gradien tapi tidak pernah sampai _force close_. Kalau sudah terasa berat saya save dan buka kembali berkas inkscape tadi.
 
 ## 8. Hindari desktop environtment yang berat.
-Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ramah misalnya xfce, lxqt, openbox, atau migrasi ke window manager. Cara optimalisasi yang lumayan ekstrim sih ini.
+Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ramah misalnya Xfce, Lxqt, Openbox, atau migrasi ke Mindow Manager. Termasuk cara optimalisasi yang lumayan ekstrim sih ini.
 
-Itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut  Anda ada tips tambahan silahkan komentar dibawah :wink:. Sekian, terima kasih sudah membaca. Semoga bermanfaat.
+Jadi, itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut Anda ada tips tambahan silahkan komentar dibawah :wink:. Sekian, terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 
