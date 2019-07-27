@@ -27,10 +27,10 @@ tags:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-Sebenarnya tips ini saya gunakan untuk menghindari "Force close" di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun force-close inkscape sendiri sudah tercadangkan otomatis.
+Sebenarnya tips ini saya gunakan untuk menghindari "Force close" di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun force-close inkscape sendiri sudah tercadangkan otomatis. Oke, berikut tips untuk menghindari "Force close" dan mengoptimalkan inkscape.
 
 ## 1. Gunakan filter kualitas rendah.
-Tergantung dari kebutuhan dan style desain Anda. Umumnya Filter Texture yang membuat berad. Saya jarang juga menggunakan filter, bahkan tidak pernah sama sekali. Tetapi saya menggunakan settingan ini untuk pengaturan rendering filter.
+Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-__zoom__ area blur secara dalam.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab Randering
@@ -79,7 +79,7 @@ Saya sering menggunakan gradien tapi tidak pernah sampai _force close_. Kalau su
 ## 8. Hindari desktop environtment yang berat.
 Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ramah misalnya xfce, lxqt, openbox, atau migrasi ke window manager. Cara optimalisasi yang lumayan ekstrim sih ini.
 
-Itu saja menurut saya beberapa hal yang harus dihindari, kalau menutur Anda ada tambahan silahkan komentar dibawah :wink:. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut  Anda ada tips tambahan silahkan komentar dibawah :wink:. Sekian, terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 
