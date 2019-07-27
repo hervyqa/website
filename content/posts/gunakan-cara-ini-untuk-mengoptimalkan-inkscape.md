@@ -30,7 +30,7 @@ tags:
 Sebenarnya tips ini saya gunakan untuk menghindari "Force close" di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun force-close inkscape sendiri sudah tercadangkan otomatis. Oke, berikut tips untuk menghindari "Force close" dan mengoptimalkan inkscape.
 
 ## 1. Gunakan filter kualitas rendah.
-Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-__zoom__ area blur secara dalam.
+Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-_zoom_ area blur secara dalam.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab Randering
@@ -46,8 +46,8 @@ Gunanya ini untuk mengatur memaksimalkan layar kanvas dengan mengurangi ukuran i
 * Pilih **Control Bar icon size** : **Smaller**.
 * Pilih **Secondary Toolbar icon size** : **Smaller**.
 
-## 3. Pilih "Link" secara bawaan untuk impor gambar Bitmap.
-Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya sendiri lebih ke link untuk mengimpor gambar bitmap. Anda juga bisa mengaturnya di bagian preferences.
+## 3. Impor gambar Bitmap dengan link.
+Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya sendiri lebih memilih _link_  untuk mengimpor gambar bitmap. Anda juga bisa mengaturnya di bagian preferences.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Bitmaps**.
