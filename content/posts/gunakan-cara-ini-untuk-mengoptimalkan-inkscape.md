@@ -38,7 +38,7 @@ Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk 
 * Pada bagian **Filter effect quality for display**, pilih **lowest quality**.
 
 ## 2. Gunakan ikon yang paling kecil.
-Gunanya ini untuk mengatur memaksimalkan layar kanvas dengan mengurangi ukuran ikon-ikon.
+Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Interface**.
