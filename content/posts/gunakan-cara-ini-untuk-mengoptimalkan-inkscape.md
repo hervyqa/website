@@ -6,7 +6,7 @@ discussionId: "gunakan-cara-ini-untuk-mengoptimalkan-inkscape"
 date: 2019-07-27T10:25:48+07:00
 author:
   - name : "Hervy Qurrotul Ainur"
-description : ""
+description : "Beberapa ulasan singkat untuk mengoptimalkan kinerja inkscape."
 comments : ""
 toc: true
 type:
@@ -33,7 +33,7 @@ Sebenarnya tips ini saya gunakan untuk menghindari "Force close" di inkscape. Sa
 Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-_zoom_ area blur secara dalam.
 
 * Pilih **Edit** > **Preferences**.
-* Pilih tab Randering
+* Pilih tab **Randering**.
 * Pada bagian **Grassian blur quality for display**, pilih **lowest quality**.
 * Pada bagian **Filter effect quality for display**, pilih **lowest quality**.
 
