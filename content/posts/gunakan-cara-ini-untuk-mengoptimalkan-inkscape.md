@@ -27,7 +27,7 @@ tags:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-Sebenarnya tips ini saya gunakan untuk menghindari "Force close" di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun force-close inkscape sendiri sudah tercadangkan otomatis. Oke, berikut tips untuk menghindari "Force close" dan mengoptimalkan inkscape.
+Sebenarnya tips ini saya gunakan untuk menghindari _Force close_ di inkscape. Saya merasa kesal aja harus membuka inkscape kembali, ya meskipun inkscape sendiri sudah tercadangkan otomatis ketika ditutup paksa. Jadi langsung saja, berikut tipsnya.
 
 ## 1. Gunakan filter kualitas rendah.
 Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses filter dan blur. Tipsnya juga jangan meng-_zoom_ area blur secara dalam.
