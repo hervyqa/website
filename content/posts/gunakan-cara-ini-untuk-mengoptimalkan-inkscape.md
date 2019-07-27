@@ -82,7 +82,7 @@ Tombol pintasan snap adalah **%**, letak snap dibagian sebelah kanan toolbox. Ke
 * snap to page border.
 
 ## 6. Hindari undo redo ketika mode teks.
-Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc** kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node yang ribet dan njelimet maka aman-aman saja pakai undo redo sebanyak apapun.
+Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc** kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node yang ribet maka aman-aman saja pakai undo redo sebanyak apapun.
 
 ## 7. Sebaiknya tidak menggunakan gradasi dengan banyak node.
 Saya sering menggunakan gradasi tapi tidak pernah sampai _force close_. Kalau sudah terasa berat saya save dan buka kembali berkas inkscape tadi.
