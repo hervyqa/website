@@ -47,7 +47,7 @@ Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
 * Pilih **Control Bar icon size** : **Smaller**.
 * Pilih **Secondary Toolbar icon size** : **Smaller**.
 
-## 3. Impor gambar Bitmap dengan link.
+## 3. Impor gambar bitmap dengan link.
 Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya sendiri lebih memilih _link_  untuk mengimpor gambar bitmap. Anda juga bisa mengaturnya di bagian preferences.
 
 * Pilih **Edit** > **Preferences**.
@@ -56,7 +56,7 @@ Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya 
 * Pada **Bitmap link**, pilih: **Link**.
 * Pada **Bitmap scale** : **Blocky**.
 
-## 4. Aktifkan Autosave.
+## 4. Aktifkan autosave.
 Karena di Windows tidak ada duplikasi ketika _force close_ maka aktifkan juga autosave di preferences.
 
 * Pilih **Edit** > **Preferences**.

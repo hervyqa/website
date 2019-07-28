@@ -153,37 +153,6 @@ table {
   display: none;
 }
 
-// Code copy buttons
-//
-
-.highlight {
-    position: relative;
-}
-
-.highlight pre {
-    padding-right: 75px;
-}
-
-.highlight-copy-btn {
-    font-family: $code-fonts;
-    position: absolute;
-    bottom: 8px;
-    right: 7px;
-    border: 0;
-    border-radius: 4px;
-    padding: 1px;
-    font-size: 0.8em;
-    line-height: 1.8;
-    color: $text;
-    background-color: $highlight-grey;
-    min-width: 70px;
-    text-align: center;
-}
-
-.highlight-copy-btn:hover {
-    background-color: $light-grey;
-}
-
 // Accessibility
 //
 .screen-reader-text {
@@ -584,8 +553,8 @@ hr.post-end {
   }
 
   a.anchor {
-    float: inherit;
-    margin-left: 0px;
+    float: left;
+    margin-left: -20px;
     padding-left: 6px;
     box-shadow: none;
     opacity: .8;

@@ -51,69 +51,69 @@ Inkscape paling mudah di install lewat Software Center, tinggal klik install saj
 
 **openSUSE**
 
-```sh
-sudo zypper install inkscape
+```
+$ sudo zypper install inkscape
 ```
 **Centos/RedHat**
 
-```sh
-su -c 'yum install inkscape'
+```
+$ su -c 'yum install inkscape'
 ```
 
 **Fedora**
 
-```sh
-sudo dnf install inkscape
+```
+$ sudo dnf install inkscape
 ```
 
 **Debian/Ubuntu**
 
 Update dulu (opsi)
 
-```sh
-sudo apt update; sudo apt upgrade
+```
+$ sudo apt update; sudo apt upgrade
 ```
 
 Kemudian install
 
-```sh
-sudo apt install inkscape
+```
+$ sudo apt install inkscape
 ```
 
 **Ubuntu PPA**
 
-```sh
-sudo add-apt-repository ppa:inkscape.dev/stable
 ```
-```sh
-sudo apt-get update
+$ sudo add-apt-repository ppa:inkscape.dev/stable
 ```
-```sh
-sudo apt install inkscape
+```
+$ sudo apt-get update
+```
+```
+$ sudo apt install inkscape
 ```
 
 **Arch/Manjaro**
 
 Update dulu (opsi)
 
-```sh
-sudo pacman -Syyu
+```
+$ sudo pacman -Syyu
 ```
 
 Kemudian install
 
-```sh
-sudo pacman -S inkscape
+```
+$ sudo pacman -S inkscape
 ```
 
 **Snap**
 
-```sh
-sudo snap install inkscape
+```
+$ sudo snap install inkscape
 ```
 
 **Flatpak**
-```sh
+```
 flatpak install flathub org.inkscape.Inkscape
 ```
 

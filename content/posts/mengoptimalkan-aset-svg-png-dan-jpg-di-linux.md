@@ -30,14 +30,14 @@ Perkakas favorit saya adalah `svgo`, karena dengan `svgo` ini mampu mengkompres 
 
 Cara Install `svgo` di distro linux
 
-```sh
-sudo npm install -g svgo
+```
+$ sudo npm install -g svgo
 ```
 
 Kalau di repo Fedora
 
-```sh
-sudo dnf install nodejs-svgo
+```
+$ sudo dnf install nodejs-svgo
 ```
 
 Oke lanjut ke Demo. Contoh saya punya 3 jenis ilustrasi. Lihat dulu isi berkasnya.
@@ -60,16 +60,16 @@ Done in 664 ms!
 Dari contoh diatas svgo berhasil merubah `ilustrasi-1.svg` menjadi `ilustrasi-1-hasil.svg`. Dari 223.567 Kib manjadi 38.366 Kib.
 
 Anda juga bisa kompresi berkas svg sekaligus. Tapi jika anda melakukan ini harap backup dulu berkas svg inkscape aslinya.
-```sh
+```
 mkdir backup
 ```
 
-```sh
+```
 cp *.svg backup
 ```
 
 Kemudian kompres berkas svg sekaligus
-```sh
+```
 svgo *.svg
 ```
 
@@ -98,39 +98,39 @@ Cara install di linux:
 
 * openSUSE
 
-```sh
-sudo zypper install optipng
+```
+$ sudo zypper install optipng
 ```
 
 * Debian/Ubuntu/Mint
 
-```sh
-sudo apt install optipng
+```
+$ sudo apt install optipng
 ```
 
 * Fedora
 
-```sh
-sudo dnf install optipng
+```
+$ sudo dnf install optipng
 ```
 
 * Centos dengan repo epel
 
-```sh
-su -c 'yum install optipng'
+```
+$ su -c 'yum install optipng'
 ```
 
 * Arch/Manjaro
 
-```sh
-sudo pacman -S optipng
+```
+$ sudo pacman -S optipng
 ```
 
 Mari kita coba.
 Kita lihat ukuran berkasnya dulu.
 
 ```
-ls -lh
+$ ls -lh
 total 284K
 -rw-r--r-- 1 hervyqa users 281K Jul  6 13:05 gambar.png
 ```
@@ -138,7 +138,7 @@ total 284K
 Kemudian kompres berkas pngnya.
 
 ```
-optipng gambar.png
+$ optipng gambar.png
 ** Processing: /home/hervyqa/Documents/ilustrasi/2019/gambar.png
 1000x661 pixels, 4x8 bits/pixel, RGB+alpha
 Input IDAT size = 286837 bytes
@@ -157,7 +157,7 @@ Output file size = 268972 bytes (18416 bytes = 6.41% decrease)
 
 Kemudian cek lagi.
 ```
-ls -lh
+$ ls -lh
 total 264K
 -rw-r--r-- 1 hervyqa users 263K Jul 10 07:58 gambar.png
 ```
@@ -176,32 +176,32 @@ Cara install di linux:
 
 * openSUSE
 
-```sh
-sudo zypper install jpegoptim
+```
+$ sudo zypper install jpegoptim
 ```
 
 * Debian/Ubuntu/Mint
 
-```sh
-sudo apt install jpegoptim
+```
+$ sudo apt install jpegoptim
 ```
 
 * Fedora
 
-```sh
-sudo dnf install jpegoptim
+```
+$ sudo dnf install jpegoptim
 ```
 
 * Centos dengan repo epel
 
-```sh
-su -c 'yum install jpegoptim'
+```
+$ su -c 'yum install jpegoptim'
 ```
 
 * Arch/Manjaro
 
-```sh
-sudo pacman -S jpegoptim
+```
+$ sudo pacman -S jpegoptim
 ```
 
 Caranya hampir sama dengan `optipng`. kita cek dulu berkasnya.
