@@ -114,7 +114,7 @@ $ sudo snap install inkscape
 
 **Flatpak**
 ```
-flatpak install flathub org.inkscape.Inkscape
+$ flatpak install flathub org.inkscape.Inkscape
 ```
 
 **Microsoft Windows & Mac OS**
