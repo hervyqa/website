@@ -15,12 +15,6 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung denga
 
 **Linux, learn by doing.**
 
-* Sejak 2014 sudah kenal linux *( kenalan doang)*.
-* Tahun 2015 akhirnya single boot *(hampir 20-an distro yang sudah dicoba, berbagai DE dan WM)*.
-* 2015-2016 Guru SMP dan SMK sebagai Guru Multimedia.
-* 2017 UI Desainer Web Pemerintahan. *(Antar kota dan Provinsi)*.
-* 2018 Desainer kaos distro.
-* 2018 Aktif Di komunitas desain Open Source.
 * 2019 Desainer dan Ilustrator Freelance.
 * 2019 Kontributor di [openSUSE](https://github.com/openSUSE/artwork)
 * 2019 Kontributor di [openSUSE.id](https://www.opensuse-id.org/tentang).
@@ -66,4 +60,3 @@ Sistem Operasi:
 * [hervyqa@gmail.com](mailto:hervyqa@gmail.com)
 
 > "Aku tidak peduli atas keadaan susah atau senangku, karena aku tidak tahu manakah yang lebih baik bagiku."
-> - Umar Bin Khattab

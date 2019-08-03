@@ -1,6 +1,5 @@
 ---
 draft: true
-featuredImg: ""
 title: "{{ replace .Name "-" " " | title }}"
 discussionId: "{{ .File }}"
 date: {{ .Date }}

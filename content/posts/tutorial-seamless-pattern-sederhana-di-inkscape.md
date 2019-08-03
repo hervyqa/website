@@ -1,10 +1,10 @@
 ---
 draft: true
-title: "{{ replace .Name "-" " " | title }}"
-discussionId: "{{ .File }}"
-date: {{ .Date }}
+title: "Tutorial Seamless Pattern Sederhana Di Inkscape"
+discussionId: "tutorial-seamless-pattern-sederhana-di-inkscape"
+date: 2019-07-31T11:24:57+07:00
 author:
-  - name : "{{ .Site.Author.name }}"
+  - name : "Hervy Qurrotul Ainur"
 description : ""
 comments : ""
 toc: true
