@@ -81,24 +81,24 @@ self.addEventListener('fetch', event => {
 // cache-first
 // If you want to use cache first, you should change cacheName manually
 
-self.addEventListener('fetch', event => {
-  event.respondWith(
-    caches
-      .match(event.request)
-      .then(response => {
-        if (response) return response;
-        return fetch(event.request);
-      })
-      .then(response => {
-        if (response.status === 404) return caches.match('404.html');
-        return caches.open(cacheName).then(cache => {
-          cache.put(event.request.url, response.clone());
-          return response;
-        });
-      })
-      .catch(error => console.log('Error, ', error)),
-  );
-});
+// self.addEventListener('fetch', event => {
+//   event.respondWith(
+//     caches
+//       .match(event.request)
+//       .then(response => {
+//         if (response) return response;
+//         return fetch(event.request);
+//       })
+//       .then(response => {
+//         if (response.status === 404) return caches.match('404.html');
+//         return caches.open(cacheName).then(cache => {
+//           cache.put(event.request.url, response.clone());
+//           return response;
+//         });
+//       })
+//       .catch(error => console.log('Error, ', error)),
+//   );
+// });
 
 // Delete outdated caches
 self.addEventListener('activate', event => {
