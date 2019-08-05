@@ -18,6 +18,9 @@ copyright = "© Artikel ini menggunakan lisensi Creative Commons Attribution-Sha
 
 # Initial site menu, you can extend menu with content.
 
+[permalinks]
+  post = "/posts/:title/"
+
 [[menu.main]]
   name = "Beranda"
   weight = 10
