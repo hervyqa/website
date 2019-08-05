@@ -1,0 +1,7 @@
+# Redirect domain aliases to primary domain
+https://hervyqa.com/* https://hervyqa.com/:splat 301!
+https://www.hervyqa.com/* https://hervyqa.com/:splat 301!
+
+# Redirect default Netlify subdomain to primary domain
+https://hervyqa.netlify.com/* https://hervyqa/:splat 301!
+https://www.hervyqa.netlify.com/* https://hervyqa/:splat 301!

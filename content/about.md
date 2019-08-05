@@ -5,10 +5,11 @@ date: 2019-07-02T23:11:56+07:00
 aliases:
   - about-us
   - contact
-author:
-  - name : "Hervy Qurrotul Ainur"
-description : "Profil dan Pengalaman oleh Hervy Qurrotul Ainur."
+description : "Profil Hervy Qurrotul Ainur."
 comments : ""
+layout: "about"
+menu: "main"
+weight: 50
 ---
 
 Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang gotong-royong dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.

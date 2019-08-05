@@ -1,129 +1,83 @@
 baseURL = "https://hervyqa.com"
-languageCode = "en-us"
+languageCode = "en"
 defaultContentLanguage = "id"
-title = "Hervyqa"
-# enableGitInfo = true
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-# hasCJKLanguage = true
-rssLimit = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-enableEmoji = true
-googleAnalytics = "UA-144344761-1"
+title = "Hervy Q. A."
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+theme = "nuo"
+
+# Disqus Username
 disqusShortname = "hervyqa"
 
-[author]
-  name = "Hervy Qurrotul Ainur"
+# Google Analytics UA number
+googleAnalytics = "UA-144344761-1"
 
-[permalinks]
-  posts = "/posts/:title/"
+# Copyright of your post
+copyright = "© Artikel ini menggunakan lisensi Creative Commons Attribution-ShareAlike 4.0 Internasional."
 
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
+# Initial site menu, you can extend menu with content.
 
-[taxonomies]
-  tag = "tags"
-  categories = "categories"
+[[menu.main]]
+  name = "Beranda"
+  weight = 10
+  identifier = "beranda"
+  url = "/"
 
+[[menu.main]]
+  name = "Tags"
+  weight = 20
+  identifier = "tags"
+  url = "/tags/"
+
+# Add your own params here
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-  description = "Ulasan sederhana tentang belajar ilustrasi, tutorial semless pattern vektor, tips eps mikrostok dengan inkscape, dan tips belajar UI/X"
-  keywords = "seamless, pattern, inkscape, mikrostock, ui, ux, desain, libreoffce, impress, flat, ilustrasi, git, shutterstock, 123rf, freepik, dreamstime"
-  images = ""
-  themeColor = "#494f5c"
-  homeSubtitle = "Catatan sederhana belajar ilustrasi, pattern, vektor, inkscape, mikrostok, dan UI/X."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>'
-  justifyContent = false
-  relatedPosts = true
-  # bgImg = ""
-  # gitUrl = "https://github.com/username/repository/commit/"
-  # customCSS = ["css/foo.css", "css/bar.css"]
+  author = "Hervy Qurrotul Ainur"
+  bg = "images/grey-prism.svg"
+  avatar = "images/avatar.png"
+  seotitle = "Seamless Pattern dan Desain Grafis FLOSS Blog"
+  subtitle = "~ Seamless Pattern + Ilustrasi ~"
+  description = "Sebuah tempat untuk berbagi tutorial desain, produk yang baru dirilis dan ilustrasi seamless pattern, tentunya dengan memakai aplikasi FLOSS. "
+  paginate = 10
 
-  [[params.social]]
-    name = "shutterstock"
-    url  = "http://www.shutterstock.com/g/hervyqa?rid=238649869"
+  # Choose your social networks
+  email = "hervyqa@gmail.com"
+  github = "hervyqa"
+  gitlab = "hervyqa"
+  twitter = "hervyqa"
+  instagram = "hervyqa"
+  linkedin = "hervyqa"
+  dribbble = "hervyqa"
+  behance = "hervyqa"
+  # weibo = "weibo_username"
+  # wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
+  # facebook = "facebook_username"
+  # google = "googlplus_id_number"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+  # jsfiddle = "jsfiddle_username"
+  # codepen = "codepen_username"
+  # zhihu = "zhihu_username"
+  # douban = "douban_username"
+  # bilibili = "bilibili_id_number"
+  # stackoverflow = "laozhu"
+  # codesandbox = "melaozhu"
+  # npm = "laozhu"
+  # reddit = "melaozhu"
 
-  [[params.social]]
-    name = "freepik"
-    url  = "https://freepik.com/hervyqa"
+  # Overrid theme styles in this file
+  # customStyle = "styles/custom.scss"
 
-  #[[params.social]]
-    #name = "adobestock"
-    #url  = "https://adobestock.com/"
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "UXccFqygQIdWT3kMzHe9tBO5_p_Z8xrC6ym2WQq2G8I"
 
-  [[params.social]]
-    name = "123rf"
-    url  = "https://123rf.com/profile_hervyqa"
-
-  [[params.social]]
-    name = "dreamstime"
-    url  = "https://dreamstime.com/hervyqa_info"
-
-  #[[params.social]]
-    #name = "dribbble"
-    #url  = "https://dribbble.com/hervyqa"
-
-  #[[params.social]]
-    #name = "behance"
-    #url  = "https://b.net/hervyqa"
-
-  [[params.social]]
-    name = "telegram"
-    url  = "https://www.t.me/hervyqa/"
-
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/hervyqa"
-
-  [[params.social]]
-    name = "instagram"
-    url = "https://www.instagram.com/hervyqa"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/hervyqa"
-
-  [[params.social]]
-    name = "paypal"
-    url  = "https://www.paypal.me/hervyqa"
-
-  #[[params.social]]
-    #name = "stackoverflow"
-    #url  = "http://www.stackoverflow.com/"
-
-  [[params.social]]
-    name = "gitlab"
-    url  = "https://www.gitlab.com/hervyqa"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/hervyqa"
-
-  [[params.social]]
-    name = "email"
-    url  = "mailto:hervyqa@gmail.com"
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
-    weight     = "2"
-  [[menu.main]]
-    identifier = "portofolio"
-    name       = "Portofolio"
-    url        = "portofolio/"
-    weight     = "3"
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-    weight     = "4"
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = ""
 
 [sitemap]
   changefreq = "monthly"

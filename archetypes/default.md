@@ -1,12 +1,6 @@
 ---
-draft: true
 title: "{{ replace .Name "-" " " | title }}"
-discussionId: "{{ .File }}"
 date: {{ .Date }}
-description : ""
-author:
-  - name : "{{ .Site.Author.name }}"
-comments : ""
-toc: true
+draft: true
 ---
 
