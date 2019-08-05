@@ -27,11 +27,15 @@ tags:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-{{< figure src="/img/portofolio/iqra-my-universe-portofolio.webp" alt="iqra-my-universe-flat-ilustrasi" caption="Iqra' My Universe oleh Hervy Qurrotul" class="left" >}}
-
-Ada beberapa ilustrasi di halaman [portofolio](https://hervyqa.com/portofolio) ini. Agar berkas SVG ilustrasi ini lebih bermanfaat, silakan pakai untuk keperluan desain anda, seperti poster, banner, feed medsos dsb.
+Ada beberapa ilustrasi di halaman [repositori-ilustrasi](https://gitlab.com/hervyqa/ilustrasi.git) ini. Agar berkas SVG ilustrasi ini lebih bermanfaat, silakan pakai untuk keperluan desain anda, seperti poster, banner, feed medsos dsb.
 
 <!--more-->
+
+{{< figure src="/post/berbagi-ilustrasi-dengan-atribusi-cc-by-sa/gitlab-ilustrasi.webp" alt="gitlab-ilustrasi" class="center" >}}
+
+Ilustrasinya seperti dibawah ini :
+
+{{< figure src="/post/berbagi-ilustrasi-dengan-atribusi-cc-by-sa/iqra-my-universe-portofolio.webp" alt="iqra-my-universe-flat-ilustrasi" class="center" >}}
 
 Untuk mendapatkannya cukup mudah. Anda cukup mengunjungi repositori [berikut](https://gitlab.com/hervyqa/ilustrasi.git). Kemudian `clone` atau `fork`.
 
