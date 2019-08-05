@@ -161,7 +161,7 @@ dan disetiap baris dibawah agensi bisa diisi dengan status:
 * Approve
 * Reject
 
-Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

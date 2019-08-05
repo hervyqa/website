@@ -165,7 +165,7 @@ Jujur saja artikel ini ditulis bukan tentang inkscapenya, melainkan karena [komu
 
 Menjadi anggota komunitas Open Source telah menyadarkan saya tentang arti _"Semangat berbagi dan Gotong royong"_. Inkscape sendiri juga butuh dukungan baik berupa donasi, bantuan perbaikan kutu, dokumentasi dan lain-lain. Mmm.. berat ya. membantu perbaikan typo juga dianggap sudah berkontribusi. Bikin Stori IG atau WA tentang ajakan pakai inkscape juga bisa dibilang kontribusi (meskipun tak resmi), retweet apapun tentang inkscape juga boleh. Masih punya kuota kan ya. ^^
 
-Sepertinya cukup artikelnya, lumayan buat pemanasan untuk pemula inkscape. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Sepertinya cukup artikelnya, lumayan buat pemanasan untuk pemula inkscape. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

@@ -221,7 +221,7 @@ $ jpegoptim gambar.jpg
 
 **Tips:** Jadi, menggunakan `jpegoptim` itu ketika membutuhkan foto bitmap, blur dan **tidak** memutuhkan transparansi gambar. Jika butuh transparansi pakai `png` dan kompresinya pakai `optipng`.
 
-Nah itu tadi 3 perkakas tambahan favorit untuk memaksimalkan aset. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Nah itu tadi 3 perkakas tambahan favorit untuk memaksimalkan aset. Sekian dan terima kasih sudah membaca. Semoga bermanfaat. :)
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

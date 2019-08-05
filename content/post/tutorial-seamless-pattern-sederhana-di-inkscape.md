@@ -57,7 +57,7 @@ tags:
 
 #isi
 
-Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

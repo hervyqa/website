@@ -70,7 +70,7 @@ Untuk GNU/Linux, tetap seperti ini :
 
 * Autosave directory : **/tmp**
 
-Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah mengkoreksi. :kissing_smiling_eyes:
+Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah mengkoreksi. :)
 
 ## 5. Aktifkan snap seperlunya.
 Tombol pintasan snap adalah **%**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node saran saya cukup mengaktifkan snap seperlunya saja. Misalnya,
@@ -89,7 +89,7 @@ Saya sering menggunakan gradasi tapi tidak pernah sampai _force close_. Kalau su
 ## 8. Gunakan Desktop Environment yang ringan.
 Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan DE yang ringan misalnya Xfce, Lxqt, Openbox, atau migrasi ke Window Manager. Kalau pindah ke WM, termasuk cara optimalisasi yang lumayan ekstrim sih ini.
 
-Jadi, itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut Anda ada tips tambahan silahkan komentar dibawah :wink:. Sekian, terima kasih sudah membaca. Semoga bermanfaat.
+Jadi, itu saja menurut saya beberapa hal yang harus dihindari, kalau menurut Anda ada tips tambahan silahkan komentar dibawah. Sekian, terima kasih sudah membaca. Semoga bermanfaat. :)
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

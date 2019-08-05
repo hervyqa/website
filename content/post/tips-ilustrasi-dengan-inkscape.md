@@ -150,7 +150,7 @@ Terakhir pintasan tampilan.
 
 Nah itu tadi beberapa tips dari saya. Sekian dan terima kasih sudah membaca.
 
-Semoga bermanfaat.:blush:
+Semoga bermanfaat. :)
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

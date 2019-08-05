@@ -80,7 +80,7 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 
 > *Prinsip "some right reserved" memegang keuntungan bagi pemegang hak cipta maupun penggunaan ciptaan.*
 
-Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Creative Commons, kepoin bukunya aja di [BUKU CC-ID]. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.:blush:
+Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Creative Commons, kepoin bukunya aja di [BUKU CC-ID]. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 

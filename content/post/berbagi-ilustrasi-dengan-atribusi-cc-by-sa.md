@@ -47,7 +47,7 @@ Semua ilustrasi ini dilisensikan dengan lisensi [CC Atribusi SA 4.0 versi Intern
 
 InsyaAllah akan ada ilustrasi lagi, yang saya update kedepannya untuk repo ilustrasi ini dan repo [SumberDaya Gimpscape](https://github.com/gimpscape/sumber-daya.git).
 
-Sekian dan terima kasih sudah membaca. Semoga bermanfaat ilustrasinya.:blush:
+Sekian dan terima kasih sudah membaca. Semoga bermanfaat ilustrasinya.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
 
