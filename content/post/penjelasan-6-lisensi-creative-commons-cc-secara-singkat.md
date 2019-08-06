@@ -3,7 +3,7 @@ draft: false
 title: "Penjelasan 6 Lisensi Creative Commons (CC) Secara Singkat"
 cover: "post/penjelasan-6-lisensi-creative-commons-cc-secara-singkat/cover.webp"
 date: 2019-07-03T19:03:21+07:00
-description : "Panduan sederhana tentang Creative Commons"
+description : "Panduan sederhana tentang lisensi Creative Commons."
 comments : ""
 toc: false
 type:

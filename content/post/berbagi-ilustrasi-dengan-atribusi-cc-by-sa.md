@@ -3,7 +3,7 @@ draft: false
 title: "Berbagi Ilustrasi dengan Atribusi CC BY-SA"
 cover: "post/berbagi-ilustrasi-dengan-atribusi-cc-by-sa/cover.webp"
 date: 2019-07-25T21:19:41+07:00
-description : "Berbagi ilustrasi SVG hasil aplikasi Inkscape."
+description : "Berbagi ilustrasi SVG hasil aplikasi Inkscape. Silahkan Unduh Freebies ini yang tersedia di Gitlab."
 comments : ""
 toc: false
 type:
