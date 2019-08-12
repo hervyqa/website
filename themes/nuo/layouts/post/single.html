@@ -15,7 +15,7 @@
     </ul>
     {{ end }}
     <p class="post-copyright">
-      {{ if .Site.Copyright }}{{ .Site.Copyright }}{{ end }}{{ if gt (div (sub now.Unix .Lastmod.Unix) 86400) 100 }}Artikel ini ditulis pada <strong>{{ div (sub now.Unix .Lastmod.Unix) 86400 }}</strong> hari lalu, content in the post may be inaccurate, even wrong now, please take risk yourself.{{ end }}
+      {{ if .Site.Copyright }}{{ .Site.Copyright }}{{ end }}{{ if gt (div (sub now.Unix .Lastmod.Unix) 86400) 100 }} Artikel ditulis pada <strong>{{ div (sub now.Unix .Lastmod.Unix) 86400 }}</strong> hari lalu, konten mungkin tidak akurat, jika ada yang salah mohon hubungi admin untuk memperbarui artikel.{{ end }}
     </p>
   </footer>
   {{ if ne .Params.comments false }}
