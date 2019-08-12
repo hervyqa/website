@@ -61,14 +61,6 @@ tags:
 
 (Isi artikel)
 
-> contoh video
-> {{%
->   video mp4="/video/videojs.mp4"
->   webm="/video/videojs.webm"
->   ogv="/video/videojs.ogv"
->   poster="/video/poster.jpg"
-> %}}
-
 Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 *Wassalamu'alaikum Warahmatullahi Wabarakatuh.*
