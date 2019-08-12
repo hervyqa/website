@@ -14,13 +14,9 @@
     <nav class="pagination">
       <h3 class="offscreen">Pagination</h3>
       {{ if $paginator.HasPrev }}
-      <a class="pagination-previous" href="{{ $paginator.Prev.URL }}"
-        >← Post Lama</a
-      >
+      <a class="pagination-previous" href="{{ $paginator.Prev.URL }}">← Post Lama</a>
       {{ end }} {{ if $paginator.HasNext }}
-      <a class="pagination-next" href="{{ $paginator.Next.URL }}"
-        >Post Baru →</a
-      >
+      <a class="pagination-next" href="{{ $paginator.Next.URL }}">Post Baru →</a>
       {{ end }}
     </nav>
   </footer>
