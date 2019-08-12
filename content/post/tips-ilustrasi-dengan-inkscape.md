@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Tips Ilustrasi dengan Inkscape"
-cover: "post/tips-ilustrasi-dengan-inkscape/cover.webp"
+cover: "/post/tips-ilustrasi-dengan-inkscape/cover.webp"
 date: 2019-07-02T18:16:17+07:00
 description : "Cara mudah untuk belajar ilustrasi dengan inkscape"
 comments : ""
@@ -18,10 +18,6 @@ tags:
   - ui
   - ux
   - ui/ux
-series:
-  -
-categories:
-  -
 ---
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*

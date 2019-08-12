@@ -1,8 +1,8 @@
 ---
 draft: true
 title: "Tutorial Seamless Pattern Sederhana Di Inkscape"
-cover: "post/tutorial-seamless-pattern-sederhana-di-inkscape/cover.webp"
-date: 2019-07-31T11:24:57+07:00
+cover: "/post/tutorial-seamless-pattern-sederhana-di-inkscape/cover.webp"
+date: 2019-08-06T16:57:07+07:00
 description : "Bagian pertama yang dilakukan ilustrator untuk membuat seamless pattern dengan inkscape."
 comments : ""
 toc: true
@@ -53,7 +53,13 @@ tags:
 
 *Assalamu'alaikum Warahmatullahi Wabarakatuh.*
 
-#isi
+(3 Kalimat Pembukaan)
+
+<!--more-->
+
+### Judul Artikel
+
+(Isi artikel)
 
 Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 

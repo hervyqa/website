@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Tips dan Trik untuk Mikrostoker Vektor dengan Inkscape"
-cover: "post/tips-dan-trik-untuk-mikrostoker-dengan-inkscape/cover.webp"
+cover: "/post/tips-dan-trik-untuk-mikrostoker-dengan-inkscape/cover.webp"
 date: 2019-07-10T10:01:07+07:00
 description : "Beberapa hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
 comments : ""

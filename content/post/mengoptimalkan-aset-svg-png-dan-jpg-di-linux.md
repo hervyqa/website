@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Mengoptimalkan Aset SVG, PNG, dan JPG Di Linux"
-cover: "post/mengoptimalkan-aset-svg-png-dan-jpg-di-linux/cover.webp"
+cover: "/post/mengoptimalkan-aset-svg-png-dan-jpg-di-linux/cover.webp"
 date: 2019-07-10T08:18:41+07:00
 description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG di Linux"
 comments : ""

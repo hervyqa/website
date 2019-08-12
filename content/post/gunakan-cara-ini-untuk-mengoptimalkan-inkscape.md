@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Gunakan Cara Ini untuk Mengoptimalkan Inkscape"
-cover: "post/gunakan-cara-ini-untuk-mengoptimalkan-inkscape/cover.webp"
+cover: "/post/gunakan-cara-ini-untuk-mengoptimalkan-inkscape/cover.webp"
 date: 2019-07-27T10:25:48+07:00
 description : "Beberapa ulasan singkat untuk mengoptimalkan kinerja inkscape."
 comments : ""

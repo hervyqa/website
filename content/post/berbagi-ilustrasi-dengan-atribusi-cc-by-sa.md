@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Berbagi Ilustrasi dengan Atribusi CC BY-SA"
-cover: "post/berbagi-ilustrasi-dengan-atribusi-cc-by-sa/cover.webp"
+cover: "/post/berbagi-ilustrasi-dengan-atribusi-cc-by-sa/cover.webp"
 date: 2019-07-25T21:19:41+07:00
 description : "Berbagi ilustrasi SVG hasil aplikasi Inkscape. Silahkan Unduh Freebies ini yang tersedia di Gitlab."
 comments : ""
@@ -47,7 +47,7 @@ $ git clone https://gitlab.com/hervyqa/ilustrasi.git
 
 * Pengguna Windows, kunjungi repositorinya kemudian [klik unduh](https://gitlab.com/hervyqa/ilustrasi/-/archive/master/ilustrasi-master.zip) berkas ZIP.
 
-Semua ilustrasi ini dilisensikan dengan lisensi [CC Atribusi SA 4.0 versi Internasional](https://creativecommons.org/licenses/by-sa/4.0/). Anda bebas menggunakannya sesuai dengan lisensi tersebut. Apa itu lisensi CC BY-SA? Silahkan baca ulasan [berikut](http://hervyqa.com/posts/penjelasan-6-lisensi-creative-commons-cc-secara-singkat/#2-cc-by-sa/).
+Semua ilustrasi ini dilisensikan dengan lisensi [CC Atribusi SA 4.0 versi Internasional](https://creativecommons.org/licenses/by-sa/4.0/). Anda bebas menggunakannya sesuai dengan lisensi tersebut. Apa itu lisensi CC BY-SA? Silahkan baca ulasan [berikut](http://hervyqa.com/post/penjelasan-6-lisensi-creative-commons-cc-secara-singkat/#2-cc-by-sa/).
 
 InsyaAllah akan ada ilustrasi lagi, yang saya update kedepannya untuk repo ilustrasi ini dan repo [SumberDaya Gimpscape](https://github.com/gimpscape/sumber-daya.git).
 
