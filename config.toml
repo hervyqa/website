@@ -19,7 +19,7 @@ copyright = "© Artikel ini menggunakan lisensi Creative Commons Attribution-Sha
 # Initial site menu, you can extend menu with content.
 
 [permalinks]
-  post = "/posts/:title/"
+  post = "/post/:title/"
 
 [[menu.main]]
   name = "Beranda"
