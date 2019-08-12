@@ -1,4 +1,6 @@
-public/
+/public
+/resources
+/node_modules
 Thumbs.db
 .DS_Store
 .dist
@@ -6,5 +8,6 @@ Thumbs.db
 .sass-cache
 npm-debug.log
 node_modules
+yarn-error.log
 builds
 package-lock.json
