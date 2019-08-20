@@ -14,7 +14,7 @@ weight: 50
 
 Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang gotong-royong dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
 
-**Linux, learn by doing.**
+**Linux, learning by doing.**
 
 * 2019 Desainer dan Ilustrator Freelance.
 * 2019 Kontributor di [openSUSE](https://github.com/openSUSE/artwork)
@@ -35,9 +35,7 @@ Aplikasi:
 
 Sistem Operasi:
 
-* Archlabs bsdwm
-* Elementary
-* openSUSE KDE
+* Archlabs dengan BspWM. Lihat [dotfiles saya](https://gitlab.com/hervyqa/bspwm-dotfiles).
 
 **Repo:**
 

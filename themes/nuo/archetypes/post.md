@@ -9,6 +9,14 @@ toc: true
 type:
   - post
 tags:
+  # ---
+  - pattern
+  - seamless
+  - flower
+  - fabric
+  # ---
+  - plugin
+  # ---
   - desain
   - flat-desain
   - floss
@@ -57,7 +65,7 @@ tags:
 
 <!--more-->
 
-### Judul Artikel
+### Judul H3
 
 (Isi artikel)
 
