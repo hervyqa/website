@@ -1,5 +1,23 @@
-[[redirects]]
-from = "https://hervyqa.netlify.com/*"
-to = "https://hervyqa.com/:splat"
-status = 301
-force = true
+[context.production.environment]
+  HUGO_VERSION = "0.55.6"
+[context.deploy-preview]
+  command = "hugo -b $DEPLOY_PRIME_URL --minify -v"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.55.6"
+[context.branch-deploy]
+  command = "hugo -b $DEPLOY_PRIME_URL --minify -v"
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.55.6"
+
+[[headers]]
+  for = "*.js" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+[[headers]]
+  for = "*.jpg" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+[[headers]]
+  for = "*.css" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"

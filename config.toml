@@ -1,88 +1,103 @@
-baseURL = "https://hervyqa.com"
-languageCode = "en"
-defaultContentLanguage = "id"
-title = "Hervy Q. A."
+#image horizontal = 1920x1281px
+#image vertical = 1920x1440px
+
+baseURL = "https://hervyqa.com/"
+languageCode = "en-us"
+DefaultContentLanguage = "id"
+theme = "less"
+googleAnalytics = ""
+RemovePathAccents = true
+timeout = 200000
 enableRobotsTXT = true
-PygmentsCodeFences = true
-canonifyurls = true
-theme = "nuo"
+canonifyURLs = true
+paginate = 9
 
-# Disqus Username
-disqusShortname = "hervyqa"
+[author]
+  name = "Hervy Qurrotul Ainur"
 
-# Google Analytics UA number
-googleAnalytics = "UA-144344761-1"
-
-# Copyright of your post
-copyright = "© Artikel ini menggunakan lisensi Creative Commons Attribution-ShareAlike 4.0 Internasional."
-
-# Initial site menu, you can extend menu with content.
+[blackfriday]
+  hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
 
 [permalinks]
-  post = "/post/:title/"
+  posts = "/:slug"
+  categories = "/:slug"
 
-[[menu.main]]
-  name = "Beranda"
-  weight = 10
-  identifier = "beranda"
-  url = "/"
+[imaging]
+  resampleFilter = "lanczos"
 
-[[menu.main]]
-  name = "Tags"
-  weight = 20
-  identifier = "tags"
-  url = "/tags/"
-
-# Add your own params here
 [params]
-  author = "Hervy Qurrotul Ainur"
-  bg = "images/grey-prism.svg"
-  avatar = "images/avatar.png"
-  seotitle = "Seamless Pattern dan Desain Grafis FLOSS Blog"
-  subtitle = "~ Seamless Pattern + Ilustrasi ~"
-  description = "Sebuah tempat untuk berbagi tutorial desain, produk yang baru dirilis dan ilustrasi seamless pattern, tentunya dengan memakai aplikasi FLOSS. "
-  paginate = 10
+  sizes = [ "2048" , "1024" , "512" ]
+  tags = []
 
-  # Choose your social networks
+  sansSerifFont = "Josefin Sans"
+  titleFont = "Crimson Text"
+  bodyFont = "Lora"
+
+  hasLogo = true
+  accentColor = "#019CB5"
+
+# heroHeader = true
+
+[taxonomies]
+  category = "categories"
+
+[params.titles]
+  posts = "Desain"
+  categories = "Kategori"
+
+[params.social]
   email = "hervyqa@gmail.com"
+  domain = "Hervy Qurrotul Ainur"
+  instagram = "hervyqa"
+  twitter = "hervyqa"
+  #youtube = "Hervyqa"
+  #facebook = "Hervyqa"
   github = "hervyqa"
   gitlab = "hervyqa"
-  twitter = "hervyqa"
-  instagram = "hervyqa"
-  linkedin = "hervyqa"
-  dribbble = "hervyqa"
-  behance = "hervyqa"
-  # weibo = "weibo_username"
-  # wechat= "images/qrcode.jpg"  # Replace with your wechat qrcode image
-  # facebook = "facebook_username"
-  # google = "googlplus_id_number"
-  # youtube = "youtube_username"
-  # vimeo = "vimeo_username"
-  # medium = "medium_username"
-  # quora = "quora_username"
-  # pinterest = "pinterest_username"
-  # jsfiddle = "jsfiddle_username"
-  # codepen = "codepen_username"
-  # zhihu = "zhihu_username"
-  # douban = "douban_username"
-  # bilibili = "bilibili_id_number"
-  # stackoverflow = "laozhu"
-  # codesandbox = "melaozhu"
-  # npm = "laozhu"
-  # reddit = "melaozhu"
+  #dribbble = "hervyqa"
+  #behance = "hervyqa"
+  paypal = "hervyqa"
+  telegram = "hervyqa"
 
-  # Overrid theme styles in this file
-  # customStyle = "styles/custom.scss"
+[[menu.main]]
+name = "Desain Grafis"
+title = "Belajar Desain Grafis"
+  weight = 1
+  identifier = "desain"
+  url = "/desain/"
+[[menu.main]]
+name = "Dokumen"
+title = "Belajar Mengetik dengan Libre Office"
+  weight = 2
+  identifier = "dokumen"
+  url = "/dokumen/"
+[[menu.main]]
+  name = "Free Template"
+  title = "Free Template Libre Office"
+  weight = 3
+  identifier = "free"
+  url = "/free/"
+#[[menu.main]]
+#  name = "Premium Template"
+#  title = "Premium Template Libre Office"
+#  weight = 4
+#  identifier = "premium"
+#  url = "/premium/"
+[[menu.main]]
+  name = "Profil"
+  title = "Info & kontak"
+  weight = 6
+  identifier = "profil"
+  url = "/profil"
 
-  # Google Webmaster
-  # https://www.google.com/webmasters/
-  googleSiteVerification = "UXccFqygQIdWT3kMzHe9tBO5_p_Z8xrC6ym2WQq2G8I"
+# For footer
+[params.license]
+  type = "CC BY-NC 4.0"
+  url = "/cc-by-nc"
 
-  # Bing Webmaster
-  # https://www.bing.com/toolbox/webmaster/
-  msValidate = ""
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
