@@ -5,7 +5,7 @@ title: "Cara Pasang Adobe Source Sans Pro"
 subtitle: ""
 seotitle: "Cara Pasang Adobe Source Sans Pro - Hervy Qurrotul Ainur Rozi"
 description : "Adobe Source Sans Pro"
-slug: "cara-pasang-adobe-source-sans-pro"
+type: "fonta"
 resources:
 - src: "*.jpg"
 - src: "1.jpg"
