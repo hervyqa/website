@@ -60,7 +60,7 @@ kamera kate kcalc kdeconnect \
 partitionmanager kmail kget kdf \
 kcolorchooser kfind k3b dragonplayer \
 amarok sweeper vokoscreen ktorrent akregator \
-konversation kleopatra -y
+konversation kleopatra korganizer kontact-y
 ```
 
 Karena sudah install Dragon player sebagai pemutar Video, sebaiknya hapus juga VLC.
@@ -80,13 +80,13 @@ libreoffice libreoffice-kde \
 libreoffice-style-breeze ktouch -y
 ```
 
-Jika Anda seorang pembuat Fonta.
+Jika Anda seorang pembuat Fonta pasanglah fontforge.
 ```
 sudo pkcon install \
 fontforge -y
 ```
 
-Jika Anda seorang editor video dan animasi.
+Jika Anda seorang editor video dan animasi pasanglah kdenlive dan synfigstudio.
 ```
 sudo pkcon install \
 kdenlive synfigstudio -y 
