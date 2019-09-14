@@ -25,9 +25,5 @@
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
 </div>
-<div id="commento"></div>
-<script defer
-  src="https://cdn.commento.io/js/commento.js">
-</script>
 {{ partial "three.html" (.Site.RegularPages.Related . ) }}
 {{ end }}
