@@ -1,13 +1,13 @@
 Belum fix
 
-- Komentar about
-- Foto about
-- Lisensi cc by-nc-sa
-- Artikel dokumen
-- Template free
+- Komentar about +
+- Foto about +
+- Lisensi cc by-nc-sa +
+- Artikel dokumen +
+- Template free +
 - Template premium
-- Petunjuk transfer
-- Preview template
+- Petunjuk transfer +
+- Preview template +
 - Harga 75ribu
 
 Petunjuk Deploy
@@ -19,7 +19,6 @@ Petunjuk Deploy
 Petunjuk membuat cover web 
 
 - ukuran 1920x1281px
-- odp convert ke pdf, pdf ke xcf, xcf ke jpg, jpg sebagai screenshoot untuk blog preview.
 
 
 A. Menu:
@@ -38,12 +37,14 @@ nb  : tanda (+) maka sudah dibuat.
     - lisensi (+)
     - gimp
     - krita
-- dokumen
-    - impress
+    - perkakas
+- dokumen (+)
+    - impress (+) 
     - writer
     - calc
     - scribus
-- free
+- free (+)
+    - gnome (+)
 - premium
     - bisnis
     - pendidikan
@@ -57,6 +58,8 @@ nb  : tanda (+) maka sudah dibuat.
     - acara
     - komunitas
     - astronomi
+    
+- desktop
 
 - cc-by-nc (footer)
 

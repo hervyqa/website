@@ -58,12 +58,12 @@ Memasang aplikasi QT dan KDE.
 sudo pkcon install \
 kamera kate kcalc kdeconnect \
 partitionmanager kmail kget kdf \
-kcolorchooser kfind k3b dragonplayer \
+kcolorchooser kfind k3b kaffein \
 amarok sweeper vokoscreen ktorrent akregator \
 konversation kleopatra korganizer kontact-y
 ```
 
-Karena sudah install Dragon player sebagai pemutar Video, sebaiknya hapus juga VLC.
+Karena sudah install Kaffein player sebagai pemutar Video, sebaiknya hapus juga VLC.
 
 ```
 sudo pkcon remove vlc -y

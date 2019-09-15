@@ -6,6 +6,7 @@ date: 2019-09-09T14:08:22+07:00
 draft: false
 slug: "gnome-bluez-libreoffice-impress-free-template"
 categories:
+- gnome
 - free
 description : ""
 resources:
