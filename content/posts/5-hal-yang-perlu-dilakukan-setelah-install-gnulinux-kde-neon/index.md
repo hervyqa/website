@@ -58,7 +58,7 @@ Memasang aplikasi QT dan KDE.
 sudo pkcon install \
 kamera kate kcalc kdeconnect \
 partitionmanager kmail kget kdf \
-kcolorchooser kfind k3b kaffein \
+kcolorchooser kfind k3b kaffeine elisa \
 amarok sweeper vokoscreen ktorrent akregator \
 konversation kleopatra korganizer kontact-y
 ```
