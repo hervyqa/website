@@ -63,7 +63,7 @@ Akan muncul dialog Export As Images seperti ini.
 
 {{< photo src="8.png" alt="langkah-8" >}}
 
-Agar lebih rapi buatlah folder dengan menekan icon direktori kuning. Kemudian berilah nama direktori 'PNG'.
+Agar lebih rapi buatlah direktori dengan menekan icon direktori kuning. Kemudian berilah nama direktori 'PNG'.
 
 {{< photo src="9.png" alt="langkah-9" >}}
 
