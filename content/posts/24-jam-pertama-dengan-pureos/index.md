@@ -16,7 +16,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-PureOS adalah Distribusi turunan Debian yang memiliki tampilan sederhana, moderen, eklusif dan bebas. PureOS hanya membawa aplikasi yang merdeka dan merupakan salah satu distribusi selain trisquel dan gNewSense yang didukung oleh [Free Software Foundation].
+PureOS adalah Distribusi turunan Debian yang memiliki tampilan sederhana, moderen, eklusif dan bebas. PureOS hanya membawa aplikasi yang merdeka dan merupakan salah satu distribusi selain [Trisquel] dan [gNewSense] yang didukung oleh [Free Software Foundation].
 
 Di situs resminya mengatakan PureOS adalah distribusi yang mengutamakan privasi pengguna dengan membawa sejumlah aplikasi desktop. Karena lingkungan desktop menggunakan GNOME saya rasa cocok untuk pemula, dalam artian seperti anak-anak, mahasiswa, jurnalis, orang tua, dan bahkan untuk tetangga Anda.
 
@@ -28,7 +28,7 @@ Namun ada beberapa alasan masuk akal migrasi atau pindah distribusi ke PureOS, B
 
 ## Live CD
 
-PureOS memiliki kelebihan yaitu Live CD. Gunanya untuk mengecek hardware apa saja yang didukung. PureOS juga memiliki tampilan yang indah karena memakai tema gelap saat dijadikan Live CD, dan memiliki Hardware Detection Tool (HDT) serta Memory Diagnostic Tool di bagian Pilihan Lanjutan (Advanced Opstions).
+PureOS memiliki kelebihan yaitu Live CD. Gunanya untuk mengecek hardware apa saja yang didukung. PureOS juga memiliki tampilan yang indah karena memakai tema gelap saat dijadikan Live CD, dan memiliki Hardware Detection Tool (HDT) serta Memory Diagnostic Tool di bagian Pilihan Lanjutan (Advanced Options).
 
 {{< photoset max="2" >}}
   {{< photo src="1.jpg" alt="live-cd-1" >}}
