@@ -20,7 +20,7 @@ PureOS adalah Distribusi turunan Debian yang memiliki tampilan sederhana, modere
 
 Di situs resminya mengatakan PureOS adalah distribusi yang mengutamakan privasi pengguna dengan membawa sejumlah aplikasi desktop. Karena lingkungan desktop menggunakan GNOME saya rasa cocok untuk pemula, dalam artian seperti anak-anak, mahasiswa, jurnalis, orang tua, dan bahkan untuk tetangga Anda.
 
-Memang wajar jika dikatakan "pindah" sebab GNU/linux memiliki ratusan varian distribusi, dengan berbagai lingkungan desktop, berbagai aplikasi standar dan selera pengguna yang berbeda.
+Beberapa orang migrasi dari distribusi satu ke lainnya masih dikatakan wajar, sebab GNU/linux memiliki ratusan varian distribusi, dengan berbagai lingkungan desktop, berbagai aplikasi standar dan faktor selera pengguna yang berbeda pula.
 
 Namun ada beberapa alasan masuk akal migrasi atau pindah distribusi ke PureOS, Berikut daftar ulasan dan fiturnya.
 
@@ -144,7 +144,7 @@ PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibaw
 
 ## Kemudahan
 
-Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur setelah baru pasang OS. Orang cukup memperbarui di Software Center dan mengeklik ikon Update. Tidak perlu menginstall codec untuk memainkan musik dan video sebab sudah tersedia codec. Tidak perlu memasang aplikasi perkantoran penjelajah web dan email klien. Tidak perlu dipasang karena sudah ada. Dibagian ini Saya hanya memasang Inkscape dan Gimp untuk kebutuhan ilustrasi.
+Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur setelah baru pasang OS. Orang cukup memperbarui di Software Center dan mengeklik ikon Update. Tidak perlu menginstall codec untuk memainkan musik dan video sebab sudah tersedia codec. Tidak perlu memasang aplikasi perkantoran penjelajah web dan email klien. Tidak perlu dipasang karena sudah ada. Di bagian ini Saya hanya memasang Inkscape dan Gimp untuk kebutuhan mendesain dan ilustrasi.
 
 {{< photoset max="2" >}}
   {{< photo src="18.jpg" alt="software-updater-1" >}}
