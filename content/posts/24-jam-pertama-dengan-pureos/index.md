@@ -113,7 +113,7 @@ Meskipun hanya dengan Free Software, orang bisa memainkan berbagai berkas musik 
 
 ## Kostumisasi
 
-PureOS memberikan aplikasi GNOME Tweak Tool secara bawaan, tentunya orang akan diberikan kebebasan untuk memodifikasi tampilan GNOME Shell. Seperti merubah ikon, fonta, shell tema, kursor dan gambar dinding.
+PureOS memberikan aplikasi GNOME Tweak Tool secara bawaan, tentunya orang akan diberikan kebebasan untuk memodifikasi tampilan GNOME Shell. Seperti merubah ikon, fonta, shell tema, kursor dan gambar latar belakang.
 
 {{< photoset max="2" >}}
   {{< photo src="11.jpg" alt="gnome-tweak-1" >}}
