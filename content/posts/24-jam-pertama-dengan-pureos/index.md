@@ -4,7 +4,7 @@ date: 2019-09-18T16:41:21+07:00
 title: "24 Jam Pertama dengan PureOS"
 subtitle: "Migrasi ke GNU/Linux"
 seotitle: "24 Jam Pertama dengan GNU/Linux PureOS"
-description : "Ulasan singkat tentang PureOS setelah migrasi dari "
+description : "Hubungan PureOS dengan Free Software Foundation (FSF) dan alasan masuk akal saya mengapa memilih PureOS."
 slug: "24-jam-pertama-dengan-pureos"
 categories:
 - desktop
@@ -174,6 +174,7 @@ Berikut ini beberapa pranala penting tentang PureOS.
 - [Kumpulan aplikasi PureOS](http://software.pureos.net/)
 - [Seputar Pertanyaan dan jawaban](https://tracker.pureos.net/w/faq/)
 
+Sekian, semoga bermanfaat.
 ***
 
 [Free Software Foundation]:https://www.fsf.org/
