@@ -16,9 +16,9 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-PureOS adalah Distribusi turunan Debian yang memiliki tampilan sederhana, moderen, eklusif dan bebas. PureOS hanya membawa aplikasi yang merdeka dan merupakan salah satu distribusi selain trisquel dan gNewSense yang didukung oleh [Free Software Foundation](https://www.fsf.org/).
+PureOS adalah Distribusi turunan Debian yang memiliki tampilan sederhana, moderen, eklusif dan bebas. PureOS hanya membawa aplikasi yang merdeka dan merupakan salah satu distribusi selain trisquel dan gNewSense yang didukung oleh [Free Software Foundation].
 
-Di situs resminya mengatakan PureOS adalah distribusi yang mengutamakan privasi pengguna dengan membawa sejumlah aplikasi desktop. Karena lingkungan desktop menggunakan GNOME saya rasa cocok untuk pemula, dalam artian seperti anak-anak, mahasiswa, jurnalis, orang tua, dan bahkan untuk tetangga Anda.  
+Di situs resminya mengatakan PureOS adalah distribusi yang mengutamakan privasi pengguna dengan membawa sejumlah aplikasi desktop. Karena lingkungan desktop menggunakan GNOME saya rasa cocok untuk pemula, dalam artian seperti anak-anak, mahasiswa, jurnalis, orang tua, dan bahkan untuk tetangga Anda.
 
 Memang wajar jika dikatakan "pindah" sebab GNU/linux memiliki ratusan varian distribusi, dengan berbagai lingkungan desktop, berbagai aplikasi standar dan selera pengguna yang berbeda.
 
@@ -31,8 +31,8 @@ Namun ada beberapa alasan masuk akal migrasi atau pindah distribusi ke PureOS, B
 PureOS memiliki kelebihan yaitu Live CD. Gunanya untuk mengecek hardware apa saja yang didukung. PureOS juga memiliki tampilan yang indah karena memakai tema gelap saat dijadikan Live CD, dan memiliki Hardware Detection Tool (HDT) serta Memory Diagnostic Tool di bagian Pilihan Lanjutan (Advanced Opstions).
 
 {{< photoset max="2" >}}
-  {{< photo src="1.jpg" alt="" >}}
-  {{< photo src="2.jpg" alt="" >}}
+  {{< photo src="1.jpg" alt="live-cd-1" >}}
+  {{< photo src="2.jpg" alt="live-cd-2" >}}
 {{</ photoset >}}
 
 ## Perbedaan
@@ -49,29 +49,29 @@ Jadi dengan Rolling-release ini orang tidak perlu mengupgrade ke versi selanjutn
 Juga perlu diketahui secara bawaan pengaturan lokasi tidak aktif.
 
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="" >}}
-  {{< photo src="4.jpg" alt="" >}}
+  {{< photo src="3.jpg" alt="perbedaan-1" >}}
+  {{< photo src="4.jpg" alt="perbedaan-2" >}}
 {{</ photoset >}}
 
 ## Endorse
 
-PureOS salah satu sistem operasi yang diendorse langsung oleh [Free Software Foundation](https://www.fsf.org/). Selain PureOS [Free Distro](https://www.gnu.org/distros/free-distros.en.html) dari FSF diantaranya:
+PureOS salah satu sistem operasi yang diendorse langsung oleh [Free Software Foundation]. Selain PureOS [Free Distro] dari [FSF] diantaranya:
 
-- Dragora https://dragora.org/en/index.html
-- Dyne https://www.dyne.org/software/dynebolic
-- gNewSense https://gnewsense.org/
-- Guix https://www.gnu.org/software/guix/
-- Hyperbola https://www.hyperbola.info/?gnu-free-stros-page
-- Trisquel https://trisquel.info
-- Ututo https://www.ututo.net
+- [Dragora]
+- [Dyne]
+- [gNewSense]
+- [Guix]
+- [Hyperbola]
+- [Trisquel]
+- [Ututo]
 
 ## Tampilan dan Pengalaman pengguna (UI/UX)
 
 Beberapa orang yang pernah memakai debian, ubuntu, atau fedora akan lebih mengerti tentang tampilan pengguna GNOME. Lingkungan desktop GNOME mempunyai tampilan yang bersih, solid, dan minimalis. Orang awam akan mudah paham jika diberikan lingkungan desktop seperti GNOME ini.
 
 {{< photoset max="2" >}}
-  {{< photo src="5.jpg" alt="" >}}
-  {{< photo src="6.jpg" alt="" >}}
+  {{< photo src="5.jpg" alt="gnome-1" >}}
+  {{< photo src="6.jpg" alt="gnome-2" >}}
 {{</ photoset >}}
 
 Secara bawaan GNOME menggunakan Wayland sebagai sesi bawaan, jika mesin Anda tidak didukung bisa menggunakan Xorg seperti pada mesin laptop saya Dell Vostro 3350 yang masih menggunakan mesin lama dan belum mampu untuk memakai Wayland secara optimal. Oleh karena itu diharuskan mengganti pengaturan Wayland Gnome Display Manager (GDM) ke X agar touchpad tidak muncul ganda.
@@ -92,8 +92,8 @@ Tentu cara ini tergantung mesin anda apakah didukung Wayland apa tidak, karena m
 Alhamdulillah, Pen tablet wacom bisa terdeteksi dengan mudah tanpa driver. Pen Tablet juga sebagai pengganti tetikus sekaligus alat yang dibutuhkan ilustrator. Bagi saya Pen tablet mengurangi kemalasan dan meningkatkan produktifitas.
 
 {{< photoset max="2" >}}
-  {{< photo src="7.jpg" alt="" >}}
-  {{< photo src="8.jpg" alt="" >}}
+  {{< photo src="7.jpg" alt="pen-tablet-gnome-1" >}}
+  {{< photo src="8.jpg" alt="pen-tablet-gnome-2" >}}
 {{</ photoset >}}
 
 
@@ -107,8 +107,8 @@ Hal yang mengejutkan yang saya kutip di FAQ PureOS.
 Meskipun hanya dengan Free Software, orang bisa memainkan berbagai berkas musik dan video seperti mp3, mp4, mkv dan ekstensi media lainnya.
 
 {{< photoset max="2" >}}
-  {{< photo src="9.jpg" alt="" >}}
-  {{< photo src="10.jpg" alt="" >}}
+  {{< photo src="9.jpg" alt="memutarkan-musik" >}}
+  {{< photo src="10.jpg" alt="memutarkan-video" >}}
 {{</ photoset >}}
 
 ## Kostumisasi
@@ -116,15 +116,15 @@ Meskipun hanya dengan Free Software, orang bisa memainkan berbagai berkas musik 
 PureOS memberikan aplikasi GNOME Tweak Tool secara bawaan, tentunya orang akan diberikan kebebasan untuk memodifikasi tampilan GNOME Shell. Seperti merubah ikon, fonta, shell tema, kursor dan gambar dinding.
 
 {{< photoset max="2" >}}
-  {{< photo src="11.jpg" alt="" >}}
-  {{< photo src="12.jpg" alt="" >}}
+  {{< photo src="11.jpg" alt="gnome-tweak-1" >}}
+  {{< photo src="12.jpg" alt="gnome-tweak-2" >}}
 {{</ photoset >}}
 
 ## Aplikasi bawaan
 
 PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibawah ini.
 
-- Aplikasi Perkantoran : [LibreOffice](https://www.libreoffice.org/)
+- Aplikasi Perkantoran : [LibreOffice]
 - Penjelajah Web : PureBrowser (Hasil dari teknologi Mozilla)
 - Email klien : ThunderBird
 - Pembuka Musik : Rhythmbox
@@ -132,14 +132,14 @@ PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibaw
 - Virtualisasi : Gnome Boxes 
 
 {{< photoset max="2" >}}
-  {{< photo src="13.jpg" alt="" >}}
-  {{< photo src="14.jpg" alt="" >}}
+  {{< photo src="13.jpg" alt="libreroffice" >}}
+  {{< photo src="14.jpg" alt="purebrowser" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="15.jpg" alt="" >}}
-  {{< photo src="16.jpg" alt="" >}}
-  {{< photo src="17.jpg" alt="" >}}
+  {{< photo src="15.jpg" alt="default-application-pureos" >}}
+  {{< photo src="16.jpg" alt="gnome-boxes" >}}
+  {{< photo src="17.jpg" alt="rhythmbox dan totem" >}}
 {{</ photoset >}}
 
 ## Kemudahan
@@ -147,8 +147,8 @@ PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibaw
 Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur setelah baru pasang OS. Orang cukup memperbarui di Software Center dan mengeklik ikon Update. Tidak perlu menginstall codec untuk memainkan musik dan video sebab sudah tersedia codec. Tidak perlu memasang aplikasi perkantoran penjelajah web dan email klien. Tidak perlu dipasang karena sudah ada. Dibagian ini Saya hanya memasang Inkscape dan Gimp untuk kebutuhan ilustrasi.
 
 {{< photoset max="2" >}}
-  {{< photo src="18.jpg" alt="" >}}
-  {{< photo src="19.jpg" alt="" >}}
+  {{< photo src="18.jpg" alt="software-updater-1" >}}
+  {{< photo src="19.jpg" alt="software-updater-2" >}}
 {{</ photoset >}}
 
 ## Pusat Aplikasi
@@ -156,8 +156,8 @@ Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur s
 PureOS adalah turunan dari Debian yang menggunakan GNOME. Artinya orang dapat menggunakan Software Center untuk menginstall, menghapus, dan memperbarui aplikasi dengan mudah.
 
 {{< photoset max="2" >}}
-  {{< photo src="20.jpg" alt="" >}}
-  {{< photo src="21.jpg" alt="" >}}
+  {{< photo src="20.jpg" alt="gnome-software" >}}
+  {{< photo src="21.jpg" alt="gnome-software" >}}
 {{</ photoset >}}
 
 ## Pengguna yang beruntung
@@ -168,10 +168,22 @@ Jika orang sudah mencoba live CD dan memasang di media penyimpanan hardisk. Saya
 
 Berikut ini beberapa pranala penting tentang PureOS.
 
-- Laman Unduh PureOS https://www.pureos.net/download/
-- Kode sumber http://repo.pureos.net/pureos/pool/main/
-- Mengecek kompatibilitas mesin anda https://tracker.pureos.net/w/pureos/hardware_requirements/
-- Kumpulan aplikasi PureOS http://software.pureos.net/
-- Seputar Pertanyaan dan jawaban https://tracker.pureos.net/w/faq/
+- [Laman Unduh PureOS](https://www.pureos.net/download/)
+- [Kode sumber](http://repo.pureos.net/pureos/pool/main/)
+- [Mengecek kompatibilitas mesin anda](https://tracker.pureos.net/w/pureos/hardware_requirements/)
+- [Kumpulan aplikasi PureOS](http://software.pureos.net/)
+- [Seputar Pertanyaan dan jawaban](https://tracker.pureos.net/w/faq/)
 
 ***
+
+[Free Software Foundation]:https://www.fsf.org/
+[FSF]:https://www.fsf.org/
+[Free Distro]:https://www.gnu.org/distros/free-distros.en.html
+[LibreOffice]:https://www.libreoffice.org/
+[Dragora]:https://dragora.org/en/index.html
+[Dyne]:https://www.dyne.org/software/dynebolic
+[gNewSense]:https://gnewsense.org/
+[Guix]:https://www.gnu.org/software/guix/
+[Hyperbola]:https://www.hyperbola.info/?gnu-free-stros-page
+[Trisquel]:https://trisquel.info
+[Ututo]:https://www.ututo.net
