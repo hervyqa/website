@@ -15,6 +15,8 @@ resources:
 - src: "*.jpg"
 ---
 
+<div>{{< youtube G_qMMniCZgw >}}</div>
+
 Bismillahirrohmanirrohim.
 
 Ekstensi Ink-Pathops berfungsi untuk melakukan proses boolean secara bersamaan, baik objek secara individu maupun grup. Biasanya orang kalau melakukan proses boolean seperti union, difference, intersection, exclusion, division, cut path, atau combine pasti melakukannya secara satu-satu. Jika objek tergabung didalam grup maka harus dipisah dulu agar bisa melakukan proses boolean. Namun dengan Ink-pathops orang bisa melakukannya dengan sekali klik untuk multi boolean.
