@@ -31,7 +31,7 @@ Artikel ini sangat relevan untuk pemula yang mau hijrah ke inkscape. Sebab, Inks
 
 ## **PROYEK FORK**
 
-Pada 2003 Inkscape merupakan fork (perkembangan) dari proyek [Sodipodi](https://id.m.wikipedia.org/wiki/Sodipodi) dan Sodipodi sendiri pada 1999 meupakan fork dari Gill (Gnome Ilustration Application). Dari Sodipodi tersebut inkscape berganti bahasa pemrograman C ke C++, berubah ke GTK+ alias _gtkmm_ dan menerapkan standar SVG. Inkscape juga menambahkan fitur dan antarmuka baru di setiap rilis terbarunya.
+Pada 2003 Inkscape merupakan fork (perkembangan) dari proyek [Sodipodi](https://id.m.wikipedia.org/wiki/Sodipodi) dan Sodipodi sendiri pada 1999 merupakan fork dari Gill (Gnome Ilustration Application). Dari Sodipodi tersebut inkscape berganti bahasa pemrograman C ke C++, berubah ke GTK+ alias _gtkmm_ dan menerapkan standar SVG. Inkscape juga menambahkan fitur dan antarmuka baru di setiap rilis terbarunya.
 
 ## **CROSS-PLATFORM**
 
