@@ -175,6 +175,7 @@ Berikut ini beberapa pranala penting tentang PureOS.
 - [Seputar Pertanyaan dan jawaban](https://tracker.pureos.net/w/faq/)
 
 Sekian, semoga bermanfaat.
+
 ***
 
 [Free Software Foundation]:https://www.fsf.org/

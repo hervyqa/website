@@ -102,6 +102,6 @@ sudo apt autoremove -y
 
 Nah, Selesai.
 
-Sekarang sistem operasi KDE NEON sudah siap digunakan untuk sehari-hari.
+Sekarang sistem operasi KDE NEON sudah siap digunakan untuk sehari-hari. Sekian, semoga bermanfaat.
 
 ***

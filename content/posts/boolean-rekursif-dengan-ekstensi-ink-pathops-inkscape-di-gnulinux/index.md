@@ -100,6 +100,8 @@ https://gitlab.com/su-v/inx-pathops/tags
 
 Ink-PathOps menggunakan lisensi GPL-2+.
 
+Sekian, tips ekstensi ink-patops kali ini. _Semoga bermanfaat._
+
 ***
 
 [ini]:https://gitlab.com/su-v/inx-pathops/tags
