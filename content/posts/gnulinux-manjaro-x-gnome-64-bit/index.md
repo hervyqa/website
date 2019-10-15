@@ -142,6 +142,6 @@ Beberapa fungsi gsetting dirubah untuk memudahkan interaksi pengguna.
 ***
 # Fork Manjaro-X
 
-- Gitlab : https://gitlab.com/hervyqa/manjaro-x
+- [gitlab.com/hervyqa/manjaro-x](https://gitlab.com/hervyqa/manjaro-x)
 
 ***
