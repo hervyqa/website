@@ -9,9 +9,9 @@ slug: "5-hal-yang-perlu-dilakukan-setelah-install-gnulinux-kde-neon"
 categories:
 - desktop
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.
@@ -56,17 +56,23 @@ Memasang aplikasi QT dan KDE.
 
 ```
 sudo pkcon install \
-kamera kate kcalc kdeconnect \
+kamoso kate kcalc kdeconnect \
 partitionmanager kmail kget kdf \
 kcolorchooser kfind k3b kaffeine elisa \
-amarok sweeper vokoscreen ktorrent akregator \
-konversation kleopatra korganizer kontact-y
+amarok sweeper simplescreenrecorder ktorrent akregator \
+konversation kleopatra korganizer kontact -y
 ```
 
-Karena sudah install Kaffein player sebagai pemutar Video, sebaiknya hapus juga VLC.
+Karena sudah install Kaffeine player sebagai pemutar Video, sebaiknya hapus VLC Sebab Kaffeine lebih ringan dan dikembangkan langsung oleh tim KDE.
 
 ```
-sudo pkcon remove vlc -y
+sudo pkcon install kaffeine -y; sudo pkcon remove vlc -y
+```
+
+Jika Anda kurang suka dengan browser Firefox, sebaiknya pasang Falkon sebagai alternatifnya. Falkon juga dikembangkan oleh tim KDE.
+
+```
+sudo pkcon install falkon -y; sudo pkcon remove firefox -y;
 ```
 
 ***

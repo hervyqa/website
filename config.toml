@@ -79,6 +79,12 @@ title = "Belajar Mengetik dengan Libre Office"
   weight = 3
   identifier = "free"
   url = "/free/"
+[[menu.main]]
+  name = "Manjaro-X"
+  title = "GNU/Linux Manjaro-X"
+  weight = 4
+  identifier = "manjaro-x"
+  url = "/manjaro-x/"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"

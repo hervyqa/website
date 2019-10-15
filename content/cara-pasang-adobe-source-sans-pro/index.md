@@ -7,12 +7,12 @@ seotitle: "Cara Pasang Adobe Source Sans Pro - Hervy Qurrotul Ainur Rozi"
 description : "Adobe Source Sans Pro"
 type: "fonta"
 resources:
-- src: "*.jpg"
-- src: "1.jpg"
+- src: "*.jpeg"
+- src: "1.jpeg"
   name: "cover"
 ---
 
-{{< photo src="cover.jpg" alt="Cara Pasang Adobe Source Sans Pro" >}}
+{{< photo src="cover.jpeg" alt="Cara Pasang Adobe Source Sans Pro" >}}
 
 ### **openSUSE**
 ```

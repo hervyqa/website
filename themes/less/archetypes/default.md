@@ -16,9 +16,9 @@ categories:
 - free
 - desktop
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.
@@ -27,17 +27,17 @@ Bismillahirrohmanirrohim.
 
 <div>{{< youtube xxxxxxxxxxx >}}</div>
 
-{{< photo src=".jpg" alt="" >}}
+{{< photo src=".jpeg" alt="" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src=".jpg" alt="" >}}
-  {{< photo src=".jpg" alt="" >}}
+  {{< photo src=".jpeg" alt="" >}}
+  {{< photo src=".jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src=".jpg" alt="" >}}
-  {{< photo src=".jpg" alt="" >}}
-  {{< photo src=".jpg" alt="" >}}
+  {{< photo src=".jpeg" alt="" >}}
+  {{< photo src=".jpeg" alt="" >}}
+  {{< photo src=".jpeg" alt="" >}}
 {{</ photoset >}}
 
 > Lorem ipsum doloret amet.

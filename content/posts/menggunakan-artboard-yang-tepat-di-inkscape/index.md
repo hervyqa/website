@@ -10,9 +10,9 @@ categories:
 - desain
 description : ""
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

@@ -16,9 +16,9 @@ tags:
   - microstock
 description : "Hal-hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

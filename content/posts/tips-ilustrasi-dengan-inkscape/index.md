@@ -15,9 +15,9 @@ tags:
   - flat
 description: "Cara mudah untuk belajar ilustrasi dengan inkscape free software."
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

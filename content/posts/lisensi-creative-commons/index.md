@@ -15,9 +15,9 @@ tags:
   - free software
 description : "Apa anda tau tentang lisensi Creative Commons? Penasaran? Simak pacnduan singkat berikut."
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

@@ -9,9 +9,9 @@ slug: "24-jam-pertama-dengan-pureos"
 categories:
 - desktop
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.
@@ -31,8 +31,8 @@ Namun ada beberapa alasan masuk akal migrasi atau pindah distribusi ke PureOS, B
 PureOS memiliki kelebihan yaitu Live CD. Gunanya untuk mengecek hardware apa saja yang didukung. PureOS juga memiliki tampilan yang indah karena memakai tema gelap saat dijadikan Live CD, dan memiliki Hardware Detection Tool (HDT) serta Memory Diagnostic Tool di bagian Pilihan Lanjutan (Advanced Options).
 
 {{< photoset max="2" >}}
-  {{< photo src="1.jpg" alt="live-cd-1" >}}
-  {{< photo src="2.jpg" alt="live-cd-2" >}}
+  {{< photo src="1.jpeg" alt="live-cd-1" >}}
+  {{< photo src="2.jpeg" alt="live-cd-2" >}}
 {{</ photoset >}}
 
 ## Perbedaan
@@ -49,8 +49,8 @@ Jadi dengan Rolling-release ini orang tidak perlu mengupgrade ke versi selanjutn
 Juga perlu diketahui secara bawaan pengaturan lokasi tidak aktif.
 
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="perbedaan-1" >}}
-  {{< photo src="4.jpg" alt="perbedaan-2" >}}
+  {{< photo src="3.jpeg" alt="perbedaan-1" >}}
+  {{< photo src="4.jpeg" alt="perbedaan-2" >}}
 {{</ photoset >}}
 
 ## Endorse
@@ -70,8 +70,8 @@ PureOS salah satu sistem operasi yang diendorse langsung oleh [Free Software Fou
 Beberapa orang yang pernah memakai debian, ubuntu, atau fedora akan lebih mengerti tentang tampilan pengguna GNOME. Lingkungan desktop GNOME mempunyai tampilan yang bersih, solid, dan minimalis. Orang awam akan mudah paham jika diberikan lingkungan desktop seperti GNOME ini.
 
 {{< photoset max="2" >}}
-  {{< photo src="5.jpg" alt="gnome-1" >}}
-  {{< photo src="6.jpg" alt="gnome-2" >}}
+  {{< photo src="5.jpeg" alt="gnome-1" >}}
+  {{< photo src="6.jpeg" alt="gnome-2" >}}
 {{</ photoset >}}
 
 Secara bawaan GNOME menggunakan Wayland sebagai sesi bawaan, jika mesin Anda tidak didukung bisa menggunakan Xorg seperti pada mesin laptop saya Dell Vostro 3350 yang masih menggunakan mesin lama dan belum mampu untuk memakai Wayland secara optimal. Oleh karena itu diharuskan mengganti pengaturan Wayland Gnome Display Manager (GDM) ke X agar touchpad tidak muncul ganda.
@@ -92,8 +92,8 @@ Tentu cara ini tergantung mesin anda apakah didukung Wayland apa tidak, karena m
 Alhamdulillah, Pen tablet wacom bisa terdeteksi dengan mudah tanpa driver. Pen Tablet juga sebagai pengganti tetikus sekaligus alat yang dibutuhkan ilustrator. Bagi saya Pen tablet mengurangi kemalasan dan meningkatkan produktifitas.
 
 {{< photoset max="2" >}}
-  {{< photo src="7.jpg" alt="pen-tablet-gnome-1" >}}
-  {{< photo src="8.jpg" alt="pen-tablet-gnome-2" >}}
+  {{< photo src="7.jpeg" alt="pen-tablet-gnome-1" >}}
+  {{< photo src="8.jpeg" alt="pen-tablet-gnome-2" >}}
 {{</ photoset >}}
 
 
@@ -107,8 +107,8 @@ Hal yang mengejutkan yang saya kutip di FAQ PureOS.
 Meskipun hanya dengan Free Software, orang bisa memainkan berbagai berkas musik dan video seperti mp3, mp4, mkv dan ekstensi media lainnya.
 
 {{< photoset max="2" >}}
-  {{< photo src="9.jpg" alt="memutarkan-musik" >}}
-  {{< photo src="10.jpg" alt="memutarkan-video" >}}
+  {{< photo src="9.jpeg" alt="memutarkan-musik" >}}
+  {{< photo src="10.jpeg" alt="memutarkan-video" >}}
 {{</ photoset >}}
 
 ## Kostumisasi
@@ -116,8 +116,8 @@ Meskipun hanya dengan Free Software, orang bisa memainkan berbagai berkas musik 
 PureOS memberikan aplikasi GNOME Tweak Tool secara bawaan, tentunya orang akan diberikan kebebasan untuk memodifikasi tampilan GNOME Shell. Seperti merubah ikon, fonta, shell tema, kursor dan gambar latar belakang.
 
 {{< photoset max="2" >}}
-  {{< photo src="11.jpg" alt="gnome-tweak-1" >}}
-  {{< photo src="12.jpg" alt="gnome-tweak-2" >}}
+  {{< photo src="11.jpeg" alt="gnome-tweak-1" >}}
+  {{< photo src="12.jpeg" alt="gnome-tweak-2" >}}
 {{</ photoset >}}
 
 ## Aplikasi bawaan
@@ -132,14 +132,14 @@ PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibaw
 - Virtualisasi : Gnome Boxes 
 
 {{< photoset max="2" >}}
-  {{< photo src="13.jpg" alt="libreroffice" >}}
-  {{< photo src="14.jpg" alt="purebrowser" >}}
+  {{< photo src="13.jpeg" alt="libreroffice" >}}
+  {{< photo src="14.jpeg" alt="purebrowser" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="15.jpg" alt="default-application-pureos" >}}
-  {{< photo src="16.jpg" alt="gnome-boxes" >}}
-  {{< photo src="17.jpg" alt="rhythmbox dan totem" >}}
+  {{< photo src="15.jpeg" alt="default-application-pureos" >}}
+  {{< photo src="16.jpeg" alt="gnome-boxes" >}}
+  {{< photo src="17.jpeg" alt="rhythmbox dan totem" >}}
 {{</ photoset >}}
 
 ## Kemudahan
@@ -147,8 +147,8 @@ PureOs sudah berisi aplikasi yang siap untuk digunakan sehari-hari seperti dibaw
 Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur setelah baru pasang OS. Orang cukup memperbarui di Software Center dan mengeklik ikon Update. Tidak perlu menginstall codec untuk memainkan musik dan video sebab sudah tersedia codec. Tidak perlu memasang aplikasi perkantoran penjelajah web dan email klien. Tidak perlu dipasang karena sudah ada. Di bagian ini Saya hanya memasang Inkscape dan Gimp untuk kebutuhan mendesain dan ilustrasi.
 
 {{< photoset max="2" >}}
-  {{< photo src="18.jpg" alt="software-updater-1" >}}
-  {{< photo src="19.jpg" alt="software-updater-2" >}}
+  {{< photo src="18.jpeg" alt="software-updater-1" >}}
+  {{< photo src="19.jpeg" alt="software-updater-2" >}}
 {{</ photoset >}}
 
 ## Pusat Aplikasi
@@ -156,8 +156,8 @@ Dalam segi kemudahan PureOS merupakan Sistem Operasi yang sangat mudah di atur s
 PureOS adalah turunan dari Debian yang menggunakan GNOME. Artinya orang dapat menggunakan Software Center untuk menginstall, menghapus, dan memperbarui aplikasi dengan mudah.
 
 {{< photoset max="2" >}}
-  {{< photo src="20.jpg" alt="gnome-software" >}}
-  {{< photo src="21.jpg" alt="gnome-software" >}}
+  {{< photo src="20.jpeg" alt="gnome-software" >}}
+  {{< photo src="21.jpeg" alt="gnome-software" >}}
 {{</ photoset >}}
 
 ## Pengguna yang beruntung

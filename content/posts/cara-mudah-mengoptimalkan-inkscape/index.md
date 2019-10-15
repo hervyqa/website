@@ -15,9 +15,9 @@ tags:
   - pemula
 description : "Beberapa ulasan singkat dan menarik untuk mengoptimalkan kinerja inkscape. Tujuannya untuk mempercepat workflow dan meminimalisir terjadinya force close."
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

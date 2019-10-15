@@ -5,12 +5,12 @@ date: 2019-07-02T23:11:56+07:00
 draft: false
 type: "about"
 resources:
-- src: "*.jpg"
-- src: "1.jpg"
+- src: "*.jpeg"
+- src: "1.jpeg"
   name: "cover"
 ---
 
-{{< photo src="infos_1.jpg" alt="Workspace Hervy Qurrotul Ainur" >}}
+{{< photo src="infos_1.jpeg" alt="Workspace Hervy Qurrotul Ainur" >}}
 
 ## **Sekilas**
 

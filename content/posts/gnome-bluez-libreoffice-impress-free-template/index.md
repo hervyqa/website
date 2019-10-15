@@ -11,9 +11,9 @@ categories:
 - free
 description : ""
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 <div>{{< youtube O3urHT5AHG8 >}}</div>
@@ -45,45 +45,45 @@ Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan 
 ## **Screenshot**
 
 {{< photoset max="3" >}}
-  {{< photo src="1.jpg" alt="" >}}
-  {{< photo src="2.jpg" alt="" >}}
-  {{< photo src="3.jpg" alt="" >}}
+  {{< photo src="1.jpeg" alt="" >}}
+  {{< photo src="2.jpeg" alt="" >}}
+  {{< photo src="3.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="4.jpg" alt="" >}}
-  {{< photo src="5.jpg" alt="" >}}
-  {{< photo src="6.jpg" alt="" >}}
+  {{< photo src="4.jpeg" alt="" >}}
+  {{< photo src="5.jpeg" alt="" >}}
+  {{< photo src="6.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="7.jpg" alt="" >}}
-  {{< photo src="8.jpg" alt="" >}}
-  {{< photo src="9.jpg" alt="" >}}
+  {{< photo src="7.jpeg" alt="" >}}
+  {{< photo src="8.jpeg" alt="" >}}
+  {{< photo src="9.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="10.jpg" alt="" >}}
-  {{< photo src="11.jpg" alt="" >}}
-  {{< photo src="12.jpg" alt="" >}}
+  {{< photo src="10.jpeg" alt="" >}}
+  {{< photo src="11.jpeg" alt="" >}}
+  {{< photo src="12.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="13.jpg" alt="" >}}
-  {{< photo src="14.jpg" alt="" >}}
-  {{< photo src="15.jpg" alt="" >}}
+  {{< photo src="13.jpeg" alt="" >}}
+  {{< photo src="14.jpeg" alt="" >}}
+  {{< photo src="15.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="16.jpg" alt="" >}}
-  {{< photo src="17.jpg" alt="" >}}
-  {{< photo src="18.jpg" alt="" >}}
+  {{< photo src="16.jpeg" alt="" >}}
+  {{< photo src="17.jpeg" alt="" >}}
+  {{< photo src="18.jpeg" alt="" >}}
 {{</ photoset >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="19.jpg" alt="" >}}
-  {{< photo src="20.jpg" alt="" >}}
-  {{< photo src="21.jpg" alt="" >}}
+  {{< photo src="19.jpeg" alt="" >}}
+  {{< photo src="20.jpeg" alt="" >}}
+  {{< photo src="21.jpeg" alt="" >}}
 {{</ photoset >}}
 
 Dan lebih banyak lagi slide... Ucap "terima kasih" via [Telegram](https://t.me/hervyqa) / [Surel](mailto:hervyqa@gmail.com).

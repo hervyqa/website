@@ -6,14 +6,14 @@ seotitle: "Lisensi - Hervy Qurrotul Ainur Rozi"
 description : "Jenis lisensi yang digunakan."
 type: "lisensi"
 resources:
-- src: "*.jpg"
-- src: "1.jpg"
+- src: "*.jpeg"
+- src: "1.jpeg"
   name: "cover"
 ---
 
 {{< photoset max="2" >}}
-  {{< photo src="cover_1.jpg" alt="Creative Commons" >}}
-  {{< photo src="cover_2.jpg" alt="Lisensi CC BY-NC" >}}
+  {{< photo src="cover_1.jpeg" alt="Creative Commons" >}}
+  {{< photo src="cover_2.jpeg" alt="Lisensi CC BY-NC" >}}
 {{</ photoset >}}
 
 ***

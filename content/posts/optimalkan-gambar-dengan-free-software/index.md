@@ -14,9 +14,9 @@ tags:
   - jpegoptim
 description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan Free Software"
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.

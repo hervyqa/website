@@ -10,9 +10,9 @@ categories:
 - inkscape
 - desain
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 <div>{{< youtube G_qMMniCZgw >}}</div>
@@ -36,10 +36,10 @@ Beberapa objek yang dapat di boolean diantaranya seperti :
 Jika terdapat objek hasil clone dan gambar bitmap, maka pathops akan melewatinya.
 
 Lebih jelasnya seperti gambar dibawah ini. Pattern yang belum dipotong dari bagian luar artboard.
-{{< photo src="ink-pathops-sebelum.jpg" alt="ink-pathops-sebelum" >}}
+{{< photo src="ink-pathops-sebelum.jpeg" alt="ink-pathops-sebelum" >}}
 
 Pattern sudah dipotong dari bagian luar artboard.
-{{< photo src="ink-pathops-sesudah.jpg" alt="ink-pathops-sesudah" >}}
+{{< photo src="ink-pathops-sesudah.jpeg" alt="ink-pathops-sesudah" >}}
 
 Pada tahap ini pattern sudah siap untuk dijadikan desain seamless pattern.
 
@@ -50,25 +50,25 @@ Pada tahap ini pattern sudah siap untuk dijadikan desain seamless pattern.
 Cara pemasangan ekstensi ini mudah dan cepat, seperti cara dibawah ini.
 
 Langkah 1: Unduh Zip Ink-Pathops pada link [ini].
-{{< photo src="1.jpg" alt="unduh-ink-pathops" >}}
+{{< photo src="1.jpeg" alt="unduh-ink-pathops" >}}
 
 Langkah 2: Ekstrak zip ekstensi.
-{{< photo src="2.jpg" alt="ekstrak-ink-pathops" >}}
+{{< photo src="2.jpeg" alt="ekstrak-ink-pathops" >}}
 
 Langkah 3: Selanjutnya masuk ke direktori "ink-pathops-v.04 > src", Pilih semua berkas dan salinlah.
-{{< photo src="3.jpg" alt="salin-ink-pathops" >}}
+{{< photo src="3.jpeg" alt="salin-ink-pathops" >}}
 
 Langkah 4: Tampilkan direktori tersembunyi dengan "CTRL+H" atau "ALT + ," Kemudian masuklah ke direktori ".config".
-{{< photo src="4.jpg" alt="tampilkan-direktori" >}}
+{{< photo src="4.jpeg" alt="tampilkan-direktori" >}}
 
 Langkah 5: Masuk ke direktori ".config > inkscape > ekstension", kemudian tempelkanlah pada direktori ekstensi tersebut.
-{{< photo src="5.jpg" alt="tempel-ink-pathops" >}}
+{{< photo src="5.jpeg" alt="tempel-ink-pathops" >}}
 
 Langkah 6: Lanjutlah untuk membuka aplikasi Inkscape.
-{{< photo src="6.jpg" alt="buka-inkscape" >}}
+{{< photo src="6.jpeg" alt="buka-inkscape" >}}
 
 Langkah 7: Ink-pathops akan terlihat di Menu Extensions > Generate from Path > PathOps.
-{{< photo src="7.jpg" alt="ekstensi-ink-pathops" >}}
+{{< photo src="7.jpeg" alt="ekstensi-ink-pathops" >}}
 
 ## Penggunaan
 

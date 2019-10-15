@@ -14,9 +14,9 @@ tags:
   - free-software
 description : "Hal-hal yang perlu diketahui tentang inkscape untuk pemula mulai dari instalasi, performa, komunitas, dan kebebasan Free Software."
 resources:
-- src: "cover.jpg"
+- src: "cover.jpeg"
   name: "cover"
-- src: "*.jpg"
+- src: "*.jpeg"
 ---
 
 Bismillahirrohmanirrohim.
