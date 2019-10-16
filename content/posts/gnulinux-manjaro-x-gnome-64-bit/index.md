@@ -31,8 +31,7 @@ Tujuan dari Manjaro-X adalah membangun Distro Manjaro dengan lingkungan desktop 
 
 # Unduh Manjaro-X
 
-Manjaro-X hanya tersedia dengan arsitektur x86_x64. Klik [Unduh Manjaro-X](https://osdn.net).
-nb : tautan dalam perbaikan.
+Manjaro-X hanya tersedia dengan arsitektur x86_x64. Klik [Unduh Manjaro-X](https://osdn.net/projects/manjaro-x/downloads/71776/manjaro-x-gnome-18.1.0-stable-x86_64.iso/).
 
 ***
 # GNOME APPS
