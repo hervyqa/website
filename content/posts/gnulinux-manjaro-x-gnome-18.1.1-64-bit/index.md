@@ -1,9 +1,9 @@
 ---
 draft: false
 date: 2019-10-17T14:16:08+07:00
-title: "Manjaro X Gnome 18.1.1 64 Bit"
+title: "Manjaro-X GNOME 18.1.1 64 Bit"
 subtitle: "Perubahan rilis"
-seotitle: "Perubahan Baru Manjaro X Gnome 18.1.1 64 Bit"
+seotitle: "Perubahan Baru Manjaro-X GNOME 18.1.1 64 Bit"
 description : "Penambahan fitur, Tambah/Hapus beberapa Piranti Lunak dan depedensi."
 slug: ""
 categories:
