@@ -23,15 +23,15 @@ Tujuan dari Manjaro-X adalah membangun Distro Manjaro dengan lingkungan desktop 
 
 # Spesifikasi Minimum Manjaro-X
 
-- DVD atau Flasdisk (ukuran minimal 4GiB).
+- DVD atau Flasdisk (ukuran minimal 4 GiB).
 - Memiliki 2 GHz processor atau lebih.
-- Memiliki RAM minimal 2 GiB (Disarankan 8 GiB).
-- Memiliki Penyimpanan data lebih dari 8GiB.
-- Memiliki Resolusi layar minimal 1024x768.
+- Memiliki RAM minimal 2 GiB (Disarankan 4 GiB).
+- Memiliki Penyimpanan data lebih dari 8 GiB.
+- Memiliki Resolusi layar minimal 1024 x 768 px (Disarankan 1366 x 768 px)
 
 # Unduh Manjaro-X
 
-Manjaro-X hanya tersedia dengan arsitektur x86_x64. Klik [Unduh Manjaro-X](https://osdn.net/projects/manjaro-x/downloads/71776/manjaro-x-gnome-18.1.0-stable-x86_64.iso/).
+Manjaro-X hanya tersedia dengan arsitektur x86_x64. Klik [Unduh Manjaro-X](https://osdn.net/projects/manjaro-x/releases/).
 
 ***
 # GNOME APPS
@@ -127,15 +127,42 @@ Beberapa fungsi gsetting dirubah untuk memudahkan interaksi pengguna.
   {{< photo src="2.jpeg" alt="manjaro-x" >}}
 {{</ photoset >}}
 
-{{< photoset max="2" >}}
+{{< photoset max="3" >}}
   {{< photo src="3.jpeg" alt="manjaro-x" >}}
   {{< photo src="4.jpeg" alt="manjaro-x" >}}
+  {{< photo src="5.jpeg" alt="manjaro-x" >}}
 {{</ photoset >}}
 
-{{< photoset max="3" >}}
-  {{< photo src="5.jpeg" alt="manjaro-x" >}}
+{{< photoset max="2" >}}
   {{< photo src="6.jpeg" alt="manjaro-x" >}}
   {{< photo src="7.jpeg" alt="manjaro-x" >}}
+{{</ photoset >}}
+
+{{< photoset max="2" >}}
+  {{< photo src="8.jpeg" alt="manjaro-x" >}}
+  {{< photo src="9.jpeg" alt="manjaro-x" >}}
+{{</ photoset >}}
+  
+{{< photoset max="3" >}}
+  {{< photo src="10.jpeg" alt="manjaro-x" >}}
+  {{< photo src="11.jpeg" alt="manjaro-x" >}}
+  {{< photo src="12.jpeg" alt="manjaro-x" >}}
+{{</ photoset >}}
+  
+{{< photoset max="2" >}}
+  {{< photo src="13.jpeg" alt="manjaro-x" >}}
+  {{< photo src="14.jpeg" alt="manjaro-x" >}}
+{{</ photoset >}}
+  
+{{< photoset max="2" >}}
+  {{< photo src="15.jpeg" alt="manjaro-x" >}}
+  {{< photo src="16.jpeg" alt="manjaro-x" >}}
+{{</ photoset >}}
+  
+{{< photoset max="3" >}}
+  {{< photo src="17.jpeg" alt="manjaro-x" >}}
+  {{< photo src="18.jpeg" alt="manjaro-x" >}}
+  {{< photo src="19.jpeg" alt="manjaro-x" >}}
 {{</ photoset >}}
 
 ***
