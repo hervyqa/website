@@ -31,7 +31,7 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung denga
 
 ## **Free Software**
 
-Setiap Hari menggunakan GNU/Linux KDE NEON sebagai OS Utama. 12 jam lebih memakai [Inkscape](https://inkscape.org) sebagai software desain utama. Perkakas desain tambahan menggunakan jpegoptim, optipng, cwebp, dan svgo. Untuk keperluan koding menggunakan Vim sebagai Teks Editor utama dan perkakas lain git, tmux, dan ranger. Silakan cek repo saya di ~~[Github](https://github.com/hervyqa)~~, [Gitlab](https://gitlab.com/hervyqa), dan [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
+Setiap Hari menggunakan GNU/Linux Manjaro-X GNOME sebagai OS Utama. 12 jam lebih memakai [Inkscape](https://inkscape.org) sebagai software desain utama. Perkakas desain tambahan menggunakan jpegoptim, optipng, cwebp, dan svgo. Untuk keperluan koding menggunakan Vim sebagai Teks Editor utama dan perkakas lain git, tmux, dan ranger. Silakan cek repo saya di ~~[Github](https://github.com/hervyqa)~~, [Gitlab](https://gitlab.com/hervyqa), dan [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
 
 ## **Kontak**
 
