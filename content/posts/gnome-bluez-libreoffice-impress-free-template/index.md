@@ -42,7 +42,7 @@ Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan 
 
 ***
 
-## **Screenshot**
+## **Cuplikan template**
 
 {{< photoset max="3" >}}
   {{< photo src="1.jpeg" alt="" >}}
