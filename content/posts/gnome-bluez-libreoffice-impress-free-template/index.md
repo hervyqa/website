@@ -38,7 +38,7 @@ Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan 
 ## **Unduh Template (.zip)**
 
 1. [Libre office template OTP](https://gitlab.com/hervyqa/gnome-bluez/uploads/6f4e2e6823b2b937b9cba947eafef0f6/gnome-bluez-template-v1.0.1.zip)
-2. [Libre office template OTP & SVG Source](https://gitlab.com/hervyqa/gnome-bluez/uploads/358d6c3f1db303854eb394aeaf6f4a6c/gnome-bluez-source-v1.0.1.zipgit)
+2. [Libre office template OTP & SVG Source](https://gitlab.com/hervyqa/gnome-bluez/uploads/358d6c3f1db303854eb394aeaf6f4a6c/gnome-bluez-source-v1.0.1.zip)
 
 ***
 
