@@ -4,7 +4,7 @@ date: 2019-10-17T14:16:08+07:00
 title: "Manjaro-X GNOME 18.1.1 64 Bit"
 subtitle: "Perubahan rilis"
 seotitle: "Perubahan Baru Manjaro-X GNOME 18.1.1 64 Bit"
-description : "Penambahan fitur, Tambah/Hapus beberapa Piranti Lunak dan depedensi."
+description : "Penambahan fitur, Tambah/Hapus beberapa Piranti Lunak dan Depedensi. Manjaro-X dibuat untuk pengguna GNOME dengan rilis baru dan stabil, diciptakan khusus untuk Pengguna Awam, Desainer, Animator, Penyunting Film, dan Developer GTK."
 slug: ""
 categories:
 - manjaro-x
@@ -28,7 +28,7 @@ Alhamdulillah Perbaikan, penambahan/penghapusan paket, dan kompil ulang selesai 
 - Mode fokus menjadi 'click'.
 - Gimp 2.10 icon menjadi symbolic-invert untuk mode terang.
 - Secara baku menjadi mode terang (lightmode).
-- Builder dan terminal tetap mode petang meskipun dalam mode terang.
+- Builder tetap mode petang meskipun dalam mode terang.
 - Tambah `vim` editor.
 - Hapus Pitivi, sebab di Blender3D sudah ada VSE (Video Sequence Editor).
 - Hapus `hexchat`, mempunyai fungsi sama dengan polari.
@@ -38,6 +38,7 @@ Alhamdulillah Perbaikan, penambahan/penghapusan paket, dan kompil ulang selesai 
 - Hapus `timeshift`.
 - Hapus `gnome-document`.
 - Perbaikan Cups servis printer.
+- Perekam desktop `Ctrl+Shift+Alt+r` tanpa batas waktu
 
 ***
 
