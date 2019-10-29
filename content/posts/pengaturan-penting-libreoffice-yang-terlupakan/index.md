@@ -42,7 +42,7 @@ Sudah pasti jika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen,
 
 Jika tidak tampil bahasa Indonesia. Anda harus mengunduh lokal bahasa yang tersedia.
 
-* Pengguna Windows dan Mac silahkan kunjungi halaman ini https://www.libreoffice.org/download/
+* Pengguna Windows dan Mac silahkan kunjungi (halaman ini)[https://www.libreoffice.org/download/).
 
 ![libreoffice-windows](2.jpeg)
 
