@@ -23,7 +23,7 @@ Pengaturan awal LibreOffice memang perlu dilakukan dulu sebelum memulai membuat 
 
 ## Gunakan Bahasa Indonesia sebagai bahasa baku
 
-Pengaturan pertama harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh TIm Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
+Pengaturan pertama harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh Tim Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
 
 Memang betul kalau orang sudah terbiasa dengan Bahasa Inggris akan terbiasa juga dengan kata seperti "File, Insert, Paragraph, Style" dan sebagainya. Kemudian ketika diganti dengan Bahasa Indonesia string tersebut menjadi "Berkas, Sisipkan, Tubuh Teks, Gaya" akan terdengar asing dan aneh. Tetapi itu merupakan masalah adaptasi saja.
 
