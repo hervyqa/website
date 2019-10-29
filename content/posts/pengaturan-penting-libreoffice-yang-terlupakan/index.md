@@ -23,13 +23,13 @@ Pengaturan awal LibreOffice memang perlu dilakukan dulu sebelum memulai membuat 
 
 ## Gunakan Bahasa Indonesia sebagai bahasa baku
 
-Pengaturan pertama harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh Tim Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
+Harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh Tim Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
 
-Memang betul kalau orang sudah terbiasa dengan Bahasa Inggris akan terbiasa juga dengan kata seperti "File, Insert, Paragraph, Style" dan sebagainya. Kemudian ketika diganti dengan Bahasa Indonesia string tersebut menjadi "Berkas, Sisipkan, Tubuh Teks, Gaya" akan terdengar asing dan aneh. Tetapi itu merupakan masalah adaptasi saja.
+Orang yang sudah terbiasa dengan Bahasa Inggris akan terbiasa juga dengan kata seperti "File, Insert, Paragraph, Style" dan sebagainya. Kemudian ketika diganti dengan Bahasa Indonesia kata tersebut menjadi "Berkas, Sisipkan, Tubuh Teks, Gaya" akan terdengar asing dan aneh. Tetapi itu merupakan masalah adaptasi saja.
 
-Manfaat lain Anda tidak perlu membuat Gaya baru dengan dengan Bahasa Indonesia, sebab Gaya Halaman, Tajuk, Judul, Tubuh teks, dan sebagainya sudah diatur menggunakan Bahasa. Misalnya ketika ingin menambahkan kapsi pada gambar, tabel, diagram tidak perlu lagi menambahkan ruas baru (field), karena sudah ada ruas-ruas dengan Bahasa Indonesia. Jadi nantinya akan mempermudah dan lebih produktif lagi.
+Manfaat lain Anda tidak perlu membuat Gaya baru dengan dengan Bahasa Indonesia, sebab Gaya Halaman, Tajuk, Judul, Tubuh teks, dan sebagainya sudah diatur menggunakan Bahasa. Misalnya ketika ingin menambahkan kapsi pada gambar, tabel, diagram tidak perlu lagi menambahkan ruas baru (field), karena sudah ada ruas-ruas dengan Bahasa Indonesia. Hal ini akan membuat mudah dan lebih produktif.
 
-Sudah pasti jika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen, asal dokumen tersebut menggunakan Bahasa Indonesia juga. Jika Bahasa Anda masih memakai Bahasa Inggris gantilah dengan cara sebagai berikut:
+Jadi ketika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen, asal dokumen tersebut menggunakan Bahasa Indonesia juga. Jika Bahasa Anda masih memakai Bahasa Inggris gantilah dengan cara sebagai berikut:
 
 * Tekan Alt+12 atau pilih menu “Tools” lalu pilih “Option...” .
 * Pilih “LibreOffice”.
@@ -41,8 +41,8 @@ Sudah pasti jika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen,
 ![bahasa](1.png)
 
 Jika tidak tampil bahasa Indonesia. Anda harus mengunduh lokal bahasa yang tersedia.
-* Pengguna Windows dan Mac silahkan kunjungi [halaman ini](https://www.libreoffice.org/download/).
 
+* Pengguna Windows dan Mac silahkan kunjungi [halaman ini](https://www.libreoffice.org/download/).
 
 ![libreoffice-windows](2.jpeg)
 
@@ -102,7 +102,7 @@ Berikut cara untuk mengisi Data Pengguna LibreOffice:
     
 ## Mengisi Dokumen Properti
 
-Isilah Properti dokumen dengan cara sebagai berikut:
+Dokumen Properti penting untuk menampilkan metadata. Mulai dari Deskripsi, Keamanan, Fonta dan lain-lain. Cara untuk mengisi Dokumen properti adalah sebagai berikut:
 
 * Buka Menu “Berkas”.
 * Pilih “Properti”.
