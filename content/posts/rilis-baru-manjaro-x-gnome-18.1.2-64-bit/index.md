@@ -94,12 +94,10 @@ Aplikasi GNOME Sebelumnya :
 * **FeedReader**: RSS Klien.
 * **Fragment**: Klien BitTorrent.
 * **gThumb**: Penampil Gambar.
-* **Hexchat**: Klien Internet Relay Chat (IRC).
 * **Multiwriter**: Penulis berkas ISO ke beberapa perangkat sekaligus.
 * **Notes**: Penulis catatan sederhana.
 * **Peek**: Perekam GIF.
 * **Polari**: Klien Internet Relay Chat (IRC).
-* **Pitivi**: Penyunting Video.
 * **Rhythmbox**: Pemutar musik.
 * **Todo**: Manajer tugas.
 * **Totem**: Pemutar Video.
