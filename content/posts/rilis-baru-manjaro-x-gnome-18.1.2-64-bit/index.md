@@ -71,7 +71,7 @@ Manjaro-X terdapat dukungan pencetak **EPSON** yang terdiri dari 669 jenis print
 
 ![gnome](3.png)
 
-Manjaro-X mMenggunakan GNOME 3.34.1. Aplikasi GNOME yang dimasukkan antara lain:
+Manjaro-X Menggunakan GNOME 3.34.1. Aplikasi GNOME yang dimasukkan antara lain:
 
 Rilis baru:
 
