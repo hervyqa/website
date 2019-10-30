@@ -117,7 +117,7 @@ Aplikasi produktif lain:
 * **Blender**: Pengolah Animasi dan Penyunting Video.
 * **Gimp**: Pengolah Bitmap.
 * **Inkscape**: Pengolah Vektor.
-* **LibreOffice**: Alat Perkantoran. (Impress, Writer, Calc, Draw, & Base)
+* **LibreOffice**: Alat Perkantoran. Libreoffice Impress, Writer, Calc, Draw, & Base. (Didukung dengan Bahasa Indonesia)
 * **Telegram**: Perpesanan Modern.
 
 Pengaturan lanjutan:
