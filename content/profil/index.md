@@ -14,7 +14,7 @@ resources:
 
 ## **Sekilas**
 
-Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang **gotong-royong** dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
+Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, Mikrostokerdan Pengembang Manjaro-X. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang **gotong-royong** dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
 
 ***
 
@@ -28,10 +28,11 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator dan Mikrostoker. Bergabung denga
 * 2019 - Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker) - sekarang
 * 2019 - Winner [openSUSE.Asia Summit 2019 Logo Competition](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/)
 * 2019 - Relawan Desain [Creative Commons Indonesia](https://creativecommons.or.id) - sekarang
+* 2019 - Pengembang [Manjaro-X](https://osdn.net/projects/manjaro-x/) - sekarang
 
 ## **Free Software**
 
-Setiap Hari menggunakan GNU/Linux Manjaro-X GNOME sebagai OS Utama. 12 jam lebih memakai [Inkscape](https://inkscape.org) sebagai software desain utama. Perkakas desain tambahan menggunakan jpegoptim, optipng, cwebp, dan svgo. Untuk keperluan koding menggunakan Vim sebagai Teks Editor utama dan perkakas lain git, tmux, dan ranger. Silakan cek repo saya di ~~[Github](https://github.com/hervyqa)~~, [Gitlab](https://gitlab.com/hervyqa), dan [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
+Setiap Hari menggunakan GNU/Linux Manjaro-X sebagai OS Utama. 12 jam lebih memakai [Inkscape](https://inkscape.org) sebagai software desain utama. Perkakas desain tambahan menggunakan jpegoptim, optipng, cwebp, dan svgo. Untuk keperluan koding menggunakan Vim sebagai Teks Editor utama dan perkakas lain git, tmux, dan ranger. Silakan cek repo saya di ~~[Github](https://github.com/hervyqa)~~, [Gitlab](https://gitlab.com/hervyqa), dan [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
 
 ## **Kontak**
 
