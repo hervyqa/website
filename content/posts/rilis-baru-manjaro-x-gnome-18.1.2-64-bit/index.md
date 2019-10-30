@@ -17,7 +17,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Manjaro-X 18.1.2 dirilis dalam jangka yang lumayan dekat. Setelah beberapa hari menunggu rilis Manjaro 18.1.2 akhirnya Manjaro-X ikut merilis versi barunya. Manjaro-X dibangun khusus untuk orang awam, pelajar, para pekerja kreatif seperti seniman digital, animator, desainer, penyunting video, dan pengembang aplikasi.
+Manjaro-X 18.1.2 dirilis dalam jangka waktu yang lumayan dekat. Setelah beberapa hari menunggu rilis Manjaro 18.1.2 akhirnya Manjaro-X ikut merilis versi barunya. Manjaro-X dibangun khusus untuk orang awam, pelajar, para pekerja kreatif seperti seniman digital, animator, desainer, penyunting video, dan pengembang aplikasi.
 
 ***
 
