@@ -29,9 +29,16 @@ Manjaro-X 18.1.2 dirilis dalam jangka waktu yang lumayan dekat. Setelah beberapa
 - Memiliki Penyimpanan data lebih dari 8 GiB.
 - Memiliki Resolusi layar minimal 1024 x 768 px (Disarankan 1366 x 768 px)
 
+***
 # Unduh Manjaro-X
 
 Manjaro-X hanya tersedia dengan arsitektur x86_x64. Klik [Unduh Manjaro-X](https://osdn.net/projects/manjaro-x/releases/).
+
+***
+
+# Kode Sumber
+
+Kode sumber Manjaro-X ada di repositori Gitlab. Klik [Manjaro-X kode sumber](https://gitlab.com/hervyqa/manjaro-x/).
 
 ***
 
@@ -52,7 +59,7 @@ Manjaro-X juga lebih stabil karena masih mendukung perangkat lama, ada dukungan 
 
 ## GIMP Paint Studio
 
-**GIMP (GNU Image Manipulation Program)** menggunakan versi 2.10 bervolusi menjadi **GIMP Paint Studio** yang mengambil depedensi dari **AUR (Arch User Repository)**. Tampilan Layout yang baru dan menggunakan icon legacy agar cocok dengan `lightmode` ataupun `darkmode`.
+**GIMP (GNU Image Manipulation Program)** menggunakan versi 2.10 berevolusi menjadi **GIMP Paint Studio** yang mengambil depedensi dari **AUR (Arch User Repository)**. Tampilan Layout yang baru dan menggunakan icon legacy agar cocok dengan `lightmode` ataupun `darkmode`.
 
 Alasan memasukkan **GIMP Paint Studio** adalah selain digunakan untuk memanipulasi gambar, **GIMP Paint Studio** mampu menggantikan digital painting di lingkungan destop GNOME sebab basisnya adalah GTK. Ada pula aplikasi menggambar digital Krita, tetapi krita berasal dari KDE.
 
