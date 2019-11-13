@@ -2,8 +2,8 @@
 draft: false
 date: 2019-10-30T07:30:57+07:00
 title: "Rilis Baru Manjaro-X GNOME 18.1.2 64 Bit"
-subtitle: "Aplikasi baru, Kernel LTS dan Daftar Perubahan."
-seotitle: "Rilis Baru Manjaro-X GNOME 18.1.2 64 Bit dan Daftar Perubahannya."
+subtitle: "Aplikasi baru, Kernel LTS dan Daftar Perubahan"
+seotitle: "Rilis Baru Manjaro-X GNOME 18.1.2 64 Bit dan Daftar Perubahannya"
 description : "Rilis baru Manjaro-X GNOME 18.1.2 64-bit. Manjaro-X adalah GNU/Linux dengan Lingkungan Destop GNOME yang dibuat khusus untuk Pengguna Awam, Desainer, Animator, Penyunting Film, dan Developer GTK. Manjaro-X juga menggunakan Linux LTS sebagai kernel baku disetiap rilisnya."
 slug: ""
 categories:
