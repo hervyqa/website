@@ -57,7 +57,7 @@ paginate = 9
   github = "hervyqa"
   gitlab = "hervyqa"
   dribbble = "hervyqa"
-  #behance = "hervyqa"
+  behance = "hervyqa"
   paypal = "hervyqa"
   telegram = "hervyqa"
 
@@ -85,6 +85,12 @@ title = "Belajar Mengetik dengan Libre Office"
 #  weight = 4
 #  identifier = "premium"
 #  url = "/premium/"
+[[menu.main]]
+  name = "Manjaro-X"
+  title = "Unofficial Manjaro GNOME Distribution"
+  weight = 5
+  identifier = "manjaro-x"
+  url = "https://manjaro-x.netlify.com"
 [[menu.main]]
   name = "Profil"
   title = "Info & kontak"
