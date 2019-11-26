@@ -24,7 +24,7 @@ Template merdeka "GNOME BLUEZ". Template tersedia dengan title yang menawan, uku
 
 ## **Fonta yang dibutuhkan:**
 
-Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan adalah Adobe Source Sans Pro. [Lihat cara pasang](/cara-pasang-adobe-source-sans-pro)
+Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan adalah Adobe Source Sans Pro. [Lihat cara pasang](/cara-pasang-adobe-source-pro-fonts)
 
 ***
 

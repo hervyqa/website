@@ -27,8 +27,10 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, Mikrostokerdan Pengembang Manja
 * 2019 - Ketua Divisi Kreatif dan Ilustrator [Kelompok Linux Arek Suroboyo](https://www.klas.or.id) - sekarang
 * 2019 - Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker) - sekarang
 * 2019 - Winner [openSUSE.Asia Summit 2019 Logo Competition](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/)
+* 2019 - Tim [Gimpscape Indonesia](https://gimpscape.org) - sekarang
 * 2019 - Relawan Desain [Creative Commons Indonesia](https://creativecommons.or.id) - sekarang
-* 2019 - Pengembang [Manjaro-X](https://osdn.net/projects/manjaro-x/) - sekarang
+* 2019 - Pengembang [Manjaro-X](https://manjaro-x.netlify.com) - sekarang
+* 2019 - Kontributor [Lumbung LibreOffice](https://lumbung.libreoffice.id) - sekarang
 
 ## **Free Software**
 

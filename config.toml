@@ -17,8 +17,8 @@ paginate = 9
 
 [blackfriday]
   hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
+  noreferrerLinks = true
+  nofollowLinks = true
 
 [permalinks]
   posts = "/:slug"
@@ -52,11 +52,11 @@ paginate = 9
   domain = "Hervy Qurrotul Ainur"
   instagram = "hervyqa"
   twitter = "hervyqa"
-  #youtube = "Hervyqa"
-  #facebook = "Hervyqa"
+  youtube = "Hervyqa"
+  facebook = "Hervyqa"
   github = "hervyqa"
   gitlab = "hervyqa"
-  #dribbble = "hervyqa"
+  dribbble = "hervyqa"
   #behance = "hervyqa"
   paypal = "hervyqa"
   telegram = "hervyqa"
@@ -79,12 +79,6 @@ title = "Belajar Mengetik dengan Libre Office"
   weight = 3
   identifier = "free"
   url = "/free/"
-[[menu.main]]
-  name = "Manjaro-X"
-  title = "GNU/Linux Manjaro-X"
-  weight = 4
-  identifier = "manjaro-x"
-  url = "/manjaro-x/"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"
