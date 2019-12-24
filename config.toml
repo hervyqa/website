@@ -24,8 +24,8 @@ paginate = 9
   posts = "/:slug"
   categories = "/:slug"
 
-[imaging]
-  resampleFilter = "lanczos"
+#[imaging]
+#  resampleFilter = "lanczos"
 
 [params]
   sizes = [ "2048" , "1024" , "512" ]

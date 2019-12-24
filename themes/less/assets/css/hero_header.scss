@@ -17,16 +17,16 @@
   margin-bottom: 100px;
   min-height: 40vw;
   overflow: hidden;
-  padding: 15px 0 ;
+  padding: 13px 0 ;
   width: 100%;
   @media only screen and (max-width: 667px) {
     width: 100%;
-    min-height: 5vh;
+    min-height: 3vh;
     justify-content: center;
     border-bottom: 0 !important;
 
     h1 {
-      font-size: 2.8rem;
+      font-size: 2.5rem;
     }
   }
   > .title {
