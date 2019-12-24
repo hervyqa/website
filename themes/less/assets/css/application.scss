@@ -225,7 +225,7 @@ img {
 
   @media only screen and (max-width: 812px) {
     &:not(.post) {
-      padding-top: 6rem;
+      padding-top: 4.9rem;
     }
     > * {
       margin-left: 1rem;
@@ -234,7 +234,7 @@ img {
   }
   @media only screen and (min-width: 812px) {
     &:not(.post) {
-      padding-top: 8rem;
+      padding-top: 5rem;
     }
 
     .fullwidth, .fullwidth img {
@@ -253,18 +253,13 @@ img {
       max-width: 37rem;
     }
 
-    p, pre, blockquote, ul, ol, .micropost {
+    p, pre, blockquote, ul, ol, commento, .micropost {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
     }
 
     table {
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    .commento {
       margin-left: auto;
       margin-right: auto;
     }
