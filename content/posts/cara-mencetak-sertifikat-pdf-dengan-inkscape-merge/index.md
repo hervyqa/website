@@ -111,6 +111,6 @@ Begitu mudah bukan. Sekian, semoga bermanfaat.
 
 ## Pranala penting
 
-* https://github.com/borgand/inkscape_merge
+* Github [inkscape_merge](https://github.com/borgand/inkscape_merge)
 * Unduh artboard [sertifikat](https://gitlab.com/hervyqa/artboard/raw/master/sertifikat.svg?inline=false)
 ***
