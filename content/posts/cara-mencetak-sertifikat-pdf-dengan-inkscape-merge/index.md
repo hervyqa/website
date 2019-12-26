@@ -4,7 +4,7 @@ date: 2019-12-26T23:54:47+07:00
 title: "Cara Mencetak Sertifikat PDF Dengan Inkscape-Merge"
 subtitle: "Generate sertifikat PDF dengan mudah dan cepat"
 seotitle: "Cara mencetak sertifikat PDF dengan inkscape merge di gnu/linux"
-description : "Ternyata dengan Inkscape Merge mencetak sertifikat jadi lebih mudah, simak tutorial berikut."
+description : "Ternyata dengan Inkscape Merge mencetak sertifikat jadi lebih mudah, mari simak tutorialnya."
 slug: ""
 categories:
 - inkscape
