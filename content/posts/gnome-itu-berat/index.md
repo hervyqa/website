@@ -51,7 +51,7 @@ Belum lagi cheese untuk kamera, deja-dup untuk pencadangan data, drawing untuk m
 
 Aplikasi komunikasi seperti empathy untuk perpesanan, evolution untuk pembuka surel, fractal untuk perpesanan matrix, dan polari untuk klien IRC.
 
-Aplikasi grafis gthumb untuk pembuka gambar, peek untuk merekam gif, glade untuk mendesain UI aplikasi, builder untuk membangun aplikasi dan masih banyak lagi.
+Aplikasi grafis gthumb untuk pembuka gambar, glade untuk mendesain UI aplikasi, builder untuk membangun aplikasi dan masih banyak lagi.
 
 Jika dibahas satu-persatu pasti panjang tetapi bukan ranah artikel ini. Belum lagi aplikasi tak resmi GTK3+ dari GNOME.
 
