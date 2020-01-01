@@ -88,7 +88,7 @@ Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan `ctr
 
 GNOME merupakan lingkungan destop dengan berbagai fitur yang memudahkan penggunanya seperti yang sudah saya sebutkan diatas. Faktanya semakin banyak fitur maka semakin banyak aplikasi yang berjalan di atar belakang, hal ini menyebabkan penggunaan daya yang kurang bersahabat. Apalagi jika RAM pemakaian lebih dari 25% sudah dikatakan berat khususnya untuk orang Indonesia.
 
-Padahal GNOME juga tidak terlalu berat juga. RAM yang digunakan sekitar 775 MiB dari 4GB, kurang dari 20% ketika idle.
+Padahal GNOME tidak terlalu berat juga. RAM yang digunakan sekitar 775 MiB dari 4GB, kurang dari 20% ketika idle.
 
 ```
 [hervyqa@dell ~]$ free
