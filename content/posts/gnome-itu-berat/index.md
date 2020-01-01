@@ -86,7 +86,7 @@ Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan `ctr
 
 ## Faktanya!
 
-GNOME merupakan lingkungan destop dengan berbagai fitur yang memudahkan penggunanya seperti yang sudah saya sebutkan diatas. Faktanya semakin banyak fitur maka semakin banyak aplikasi yang berjalan di atar belakang, hal ini menyebabkan penggunaan daya yang kurang bersahabat. Apalagi jika RAM pemakaian lebih dari 25% sudah dikatakan berat khususnya untuk orang Indonesia.
+GNOME merupakan lingkungan destop dengan berbagai fitur yang memudahkan penggunanya seperti yang sudah saya sebutkan diatas. Faktanya semakin banyak fitur maka semakin banyak aplikasi yang berjalan di atar belakang, hal ini menyebabkan penggunaan daya yang kurang bersahabat. Apalagi jika pemakaian RAM lebih dari 25% sudah dikatakan berat khususnya untuk orang Indonesia.
 
 Padahal GNOME tidak terlalu berat juga. RAM yang digunakan sekitar 775 MiB dari 4GB, kurang dari 20% ketika idle.
 
@@ -147,7 +147,7 @@ Sampai di sebuah titik dimana saya sebagai pengguna GNOME biasa harus memperkena
 
 Jika memilih fitur dan kemudahan maka GNOME lebih tepat digunakan, terlebih banyak aplikasi GNOME yang sudah siap mendukung.
 
-Sebaliknya, jika memilih lingkungan destop yang ringan, maka pilihlah DE selain GNOME seperti xfce, tetapi saya pribadi tidak rela jika saya mengutamakan DE yang ringan tetapi malah mempersulit aktifitas lainnya.
+Sebaliknya, jika memilih lingkungan destop yang ringan, maka pilihlah DE selain GNOME seperti XFCE, namun saya secara pribadi enggan mengutamakan DE yang ringan karena bisa saja akan mempersulit aktifitas lainnya.
 
 Perlu diingat semakin minim fitur maka semakin ringan, semakin berat maka sudah tentu banyak fitur. Tentu dengan banyak fitur sudah pasti memudahkan. Pilihlah dengan bijak sesuai kebutuhan dan spesifikasi mesin.
 
