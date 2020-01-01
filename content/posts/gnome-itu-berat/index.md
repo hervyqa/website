@@ -45,11 +45,11 @@ Lagi, mengapa tidak ada tombol layar penuh (fulscreen), karena titlebar di klik 
 
 ## Kebutuhan saya tercukupi dengan GNOME Aplikasi
 
-Banyak aplikasi GNOME Gtk3+ yang memudahkan penggunanya. Seperti epiphany untuk penjelajah web, evince pembuka dokumen pdf, brasero pembakar optik DVD, fragment pengunduh torrent, totem dan rhythmbox sebagai pemutar multimedia.
+Banyak aplikasi GNOME Gtk3+ yang memudahkan penggunanya. Seperti epiphany untuk penjelajah web, evince untuk pembuka dokumen pdf, brasero untuk pembakar optik DVD, fragment untuk pengunduh berkas torrent, totem dan rhythmbox untuk pemutar berkas multimedia.
 
-Belum lagi cheese untuk kamera, deja-dup untuk pencadangan data, drawing untuk menggambar sederhana, poscast untuk mengunduh dan mendengarkan podcast, feedreader untuk membaca RSS, recipes untuk mencari resep masak.
+Belum lagi cheese untuk kamera, deja-dup untuk pencadangan data, drawing untuk menggambar sederhana, poscast untuk mengunduh dan mendengarkan podcast, feedreader untuk membaca RSS, dan recipes untuk mencari resep masak.
 
-Aplikasi komunikasi seperti empathy untuk perpesanan, evolution untuk pembuka surel, fractal untuk perpesanan matrix, polari untuk klien IRC.
+Aplikasi komunikasi seperti empathy untuk perpesanan, evolution untuk pembuka surel, fractal untuk perpesanan matrix, dan polari untuk klien IRC.
 
 Aplikasi grafis gthumb untuk pembuka gambar, peek untuk merekam gif, glade untuk mendesain UI aplikasi, builder untuk membangun aplikasi dan masih banyak lagi.
 
