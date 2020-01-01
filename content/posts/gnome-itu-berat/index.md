@@ -17,7 +17,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Di awal 2016 saya sebagai _DE Hopper_ (baca: penjelajah DE) untuk mencari lingkungan destop yang sesuai dengan kebutuhan. Akhirnya memilih GNOME sebagai lingkungan desktop utama mulai di pertengahan 2018.
+Di awal 2016 saya sebagai _DE Hoppers_ (baca: penjelajah dan _opreker_ DE) untuk mencari lingkungan destop yang sesuai dengan kebutuhan. Akhirnya memilih GNOME sebagai lingkungan desktop utama mulai di pertengahan 2018.
 
 Sebelumnya, berbagai lingkungan destop (Desktop Environment) dan manajer jendela (Window manager) sudah pernah saya pakai. Diantaranya GNOME, Xfce, Mate, Cinnamon, KDE, Lxde, Lxqt, Nomad. Pernah juga memakai i3wm, dwm, bspwm. Terakhir kali menggunakan bspwm karena suka dengan tilingnya, kostumisasi dan polybarnya yang indah ([bspwm-dotfiles](https://gitlab.com/hervyqa/bspwm-dotfiles.git/)). Sekitar 8 bulan kemudian kembali memakai GNOME.
 
@@ -39,7 +39,7 @@ Tampilan GNOME yang bersih dan mudah ditebak. Pengalaman pengguna yang pas dan p
 
 Benar-benar minimalis sampai UI yang tidak diperlukan dinonakifkan kalau perlu dihapus.
 
-Misalnya mengapa tidak ada tombol minimize dan fullscreen, sebab minimize digunakan jika ada panel bawah padahal GNOME 3 tidak memilikinya, andai pun punya pasti pengguna harus menggeser tetikus/touchpad-nya, padahal dengan menekan tombol **super** jendela aplikasi sudah terbuka. Terlalu lama hanya sekedar untuk minimize, lebih baik dinonaktifkan saja.
+Misalnya mengapa tidak ada tombol minimize dan fullscreen, sebab minimize digunakan jika ada panel bawah padahal GNOME 3 tidak memilikinya, andai pun punya pasti pengguna harus menggeser tetikus/touchpad-nya, padahal dengan menekan tombol `super`jendela aplikasi sudah terbuka. Terlalu lama hanya sekedar untuk minimize, lebih baik dinonaktifkan saja.
 
 Lagi, mengapa tidak ada tombol layar penuh (fulscreen), karena titlebar di klik dua kali sudah bisa layar penuh tanpa menggeser kursor ke tombol pojokan. Mudah dan sederhana.
 
@@ -59,7 +59,7 @@ Jika dibahas satu-persatu pasti panjang tetapi bukan ranah artikel ini. Belum la
 
 ## Kaya dengan Ekstensi dan Tema
 
-GNOME menyediakan ekstensi untuk memperecepat alur kerja dengan [GNOME Extensions](https://extensions.gnome.org) dan [GNOME Look](https://gnome-look.org) untuk merubah tampilan GNOME.
+GNOME menyediakan ekstensi untuk mempercepat alur kerja dengan [GNOME Extensions](https://extensions.gnome.org) dan [GNOME Look](https://gnome-look.org) untuk merubah tampilan GNOME.
 
 Tetapi untuk GNOME yang saya gunakan bersih tanpa ekstensi dan tema tambahan. Mengapa? karena dengan menonaktifkan ekstensi dan tema, merupakan cara untuk mengurangi penggunaan daya. Bahkan perlu ekstensi gnome saya nonaktifkan semua. Kalau saya, tema tetap menggunakan Adwaita, sebab Adwaita lebih minimalis dan bawaannya GNOME.
 
@@ -76,7 +76,7 @@ Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih
   {{< photo src="evolution.jpeg" alt="evolution" >}}
 {{</ photoset >}}
 
-## Mudah menyabungkan tampilan ke Monitor atau Proyektor
+## Mudah menyambungkan tampilan ke Monitor atau Proyektor
 
 Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan `super+p` kemudian memilih mode tampilan.
 
@@ -138,6 +138,10 @@ Padahal CPU saya hanya keluaran intel generasi kedua (penulis mengetahui generas
 {{</ photoset >}}
 
 ***
+
+## Sebagai pengguna GNOME biasa
+
+Sampai di sebuah titik dimana saya sebagai pengguna GNOME biasa harus memperkenalkan aplikasi GNOME dan GTK lainnya kepada teman, rekan, pengguna GNU/Linux lainnya. Alhasil saya meremaster distro Manjaro dengan lingkungan dektop GNOME yang bersih dan penuh dengan aplikasi GNOME, sebut saja [Manjaro-X](https://manjaro-x.netlify.com).
 
 ## Kesimpulan
 
