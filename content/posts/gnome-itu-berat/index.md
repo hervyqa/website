@@ -130,7 +130,7 @@ Tes lain yang sederhana yaitu membuka banyak aplikasi bersamaan. Ternyata CPU sa
   {{< photo src="membuka-aplikasi-gnome-2.jpeg" alt="membuka-aplikasi-gnome-2" >}}
 {{</ photoset >}}
 
-Padahal CPU saya hanya keluaran intel generasi kedua, padahal saat ini generasi 10 sudah rilis.
+CPU yang saya gunakan keluaran intel SandyBridge generasi 2, bisa dikatakan jadul. Padahal saat ini generasi 10 sudah rilis.
 
 {{< photoset max="2" >}}
   {{< photo src="ihwal-1.jpeg" alt="ihwal-1" >}}
