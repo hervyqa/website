@@ -63,7 +63,7 @@ GNOME menyediakan ekstensi untuk mempercepat alur kerja dengan [GNOME Extensions
 
 Tetapi untuk GNOME yang saya gunakan, bersih tanpa ekstensi dan tema tambahan. Mengapa? karena dengan menonaktifkan ekstensi dan tema merupakan cara untuk mengurangi penggunaan daya RAM. Bahkan saya nonaktifkan semua ekstensi _gnome-shell_-nya. Kalau untuk tema tetap menggunakan Adwaita, karena Adwaita lebih minimalis dan bawaannya GNOME.
 
-## Mudah mencadangan Data dengan deja-dup
+## Mudah mencadangkan Data dengan deja-dup
 
 Salah satu aplikasi favorit yaitu deja-dup. Fungsinya untuk mencadangkan data baik secara daring maupun luring. Data ini bukan yang tampak saja seperti direktori dokumen, gambar, video, musik, dan di destop. Tetapi dengan deja-dup akan mencadangkan data seperti autentifikasi akun, surel, konfigurasi dConf, SSH, gnuPG, catatan, sejarah, dan berkas tersembunyi. Jadi, dengan deja-dup hanya dengan sekali klik data akan sinkronisasi secara otomatis dan terenkripsi. Mana mungkin mencadangkan direktori satu-persatu secara manual. Pastinya dengan deja-dup lebih mudah dan aman.
 
