@@ -24,13 +24,14 @@ paginate = 9
   posts = "/:slug"
   categories = "/:slug"
 
-#[imaging]
-#  resampleFilter = "lanczos"
+[imaging]
+  resampleFilter = "lanczos"
 
 [params]
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
+  # fonts
   sansSerifFont = "Josefin Sans"
   titleFont = "Crimson Text"
   bodyFont = "Lora"
@@ -66,25 +67,25 @@ name = "Desain Grafis"
 title = "Belajar Desain Grafis"
   weight = 1
   identifier = "desain"
-  url = "/desain/"
+  url = "/desain"
 [[menu.main]]
 name = "Dokumen"
 title = "Belajar Mengetik dengan Libre Office"
   weight = 2
   identifier = "dokumen"
-  url = "/dokumen/"
+  url = "/dokumen"
 [[menu.main]]
   name = "Free Template"
   title = "Free Template Libre Office"
   weight = 3
   identifier = "free"
-  url = "/free/"
+  url = "/free"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"
 #  weight = 4
 #  identifier = "premium"
-#  url = "/premium/"
+#  url = "/premium"
 [[menu.main]]
   name = "Manjaro-X"
   title = "Unofficial Manjaro GNOME Distribution"
