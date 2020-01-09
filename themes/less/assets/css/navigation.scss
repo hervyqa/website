@@ -7,10 +7,10 @@
   padding-left: 0px;
   list-style: none;
   text-align: center;
-  width: 100%;
+  max-width: 45rem;
 }
 .pagination li {
-  padding: 10px;
+  padding: 13px;
   a {
     color: var(--onyx);
     background-image: none;
