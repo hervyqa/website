@@ -14,7 +14,7 @@ resources:
 
 ## **Sekilas**
 
-Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, Mikrostokerdan Pengembang Manjaro-X. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang **gotong-royong** dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
+Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, Mikrostoker dan Pengembang Manjaro-X. Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang **gotong-royong** dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
 
 ***
 
