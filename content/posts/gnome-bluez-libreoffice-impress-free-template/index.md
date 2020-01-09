@@ -16,7 +16,7 @@ resources:
 - src: "*.jpeg"
 ---
 
-<div>{{< youtube O3urHT5AHG8 >}}</div>
+{{< youtube O3urHT5AHG8 >}}
 
 Template merdeka "GNOME BLUEZ". Template tersedia dengan title yang menawan, ukuran yang ringan dan sudah ada Animasi antar slide. Template ini juga sebagai template Speaker di GNOME.Asia Summit 2019 di Gresik, Indonesia pada 12-13 Oktober 2019.
 

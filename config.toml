@@ -15,10 +15,10 @@ paginate = 9
 [author]
   name = "Hervy Qurrotul Ainur"
 
-[blackfriday]
-  hrefTargetBlank = true
-  noreferrerLinks = true
-  nofollowLinks = true
+#[blackfriday]
+#  hrefTargetBlank = true
+#  noreferrerLinks = true
+#  nofollowLinks = true
 
 [permalinks]
   posts = "/:slug"
