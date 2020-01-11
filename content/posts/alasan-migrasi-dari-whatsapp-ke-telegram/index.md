@@ -27,27 +27,37 @@ Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur
 
 {{< photo class=fullwidth src="laman-telegram.jpeg" alt="Laman Telegram" >}}
 
-## Gratis
+## Selamanya Gratis
 
 Whatsapp juga gratis, namun dulu pernah memungut biaya berlangganan dari penggunanaya selama setahun. Line juga gratis, tetapi memonetisasi dari iklan dan langanan berbayar. Seperti langganan akun official dan stiker. BBM juga gratis, tapi dengan iklan yang sangaat mengganggu setiap menggulir cerita. Kalau Telegram, sudah gratis dan bersih tanpa iklan.
 
 ## Pesan di Telegram Terkirim Lebih Cepat
 
-Telegram menggunakan server berbasis cloud computing. Jadi manfaatnya, Anda tidak perlu khawatir kehabisan ruang memori. Dan semua data tersimpan rapi di server telegram. Berbeda dengan WhatsApp yang berbasis peer to peer, sehingga Anda mengharuskan membackup tiap mingguan atau tiap bulanan, serta menghabiskan banyak kuota untuk backup ke cloud.
+Telegram menggunakan server berbasis cloud computing. Jadi manfaatnya, Anda tidak perlu khawatir kehabisan ruang memori. Dan semua data tersimpan rapi di server telegram.
+
+Berbeda dengan WhatsApp yang berbasis peer to peer, sehingga Anda mengharuskan membackup tiap mingguan atau tiap bulanan, serta menghabiskan banyak kuota data untuk backup ke cloud.
 
 ## Ukuran Aplikasi yang Lebih Kecil dan Performanya yang ringan
 
-LINE sekitar 88MB. WhatsApps memiliki ukuran sekitar 30MB. Telegram memiliki ukuran sekitar 15MB saja.
+LINE sekitar 88MB. WhatsApps memiliki ukuran sekitar 30MB. Sedangkan Telegram hanya memiliki ukuran sekitar 15MB saja.
 
 {{< photo class=fullwidth src="multi-platform-telegram.jpeg" alt="Multi Platform Telegram" >}}
 
+## Mengirim Gambar dan Video dengan kualitas tinggi
+
+Telegram mampu mengirim gambar atau foto dengan resolusi tinggi. Sehingga gambar tidak pecah dan blur.
+
+## Streaming Audio dan Video
+
+Telegram memiliki fitur menarik, yaitu straming audio dan video. Pengguna memiliki dua opsi: Unduh dan memainkannya. Bila mengklik tombol putar maka akan terunduh di latar belakang.
+
 ## Dukungan Multi Platform yang Sempurna
 
-Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna desktop seperti Windows, Mac, GNU/Linux. Berbeda dengan whatsapp, mereka mengandalkan aplikasi web. Anda diharuskan membuka browser dulu kemudian login dengan qr code, dan aplikasi di handphone anda harus selalu aktif. Yah, memang merepotkan sekali. Telegram untuk desktop, cuma perlu login dan verifikasi sekali. Bahkan device smartphone Anda tidak perlu mengaktifkan jaringan data. Lebih mudah bukan.
+Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna desktop seperti Windows, Mac, GNU/Linux. Berbeda dengan WhatsApps, mereka mengandalkan aplikasi web. Anda diharuskan membuka browser dulu kemudian login dengan qr code, dan aplikasi di handphone anda harus selalu aktif. Yah, memang merepotkan sekali. Telegram untuk desktop, cuma perlu login dan verifikasi sekali. Bahkan device smartphone Anda tidak perlu mengaktifkan jaringan data. Lebih mudah bukan.
 
 ## Kapasitas Upload Berkas yang Lebih Besar
 
-Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Kalau WhatsApps hanya 16MB saja.
+Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Kalau WhatsApps maksimal 16MB saja.
 
 ## Daya Tampung Grup yang Lebih Besar
 
@@ -55,30 +65,44 @@ WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegr
 
 ## Adanya Fitur Kanal
 
-Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut. Anda yang memiliki engagement besar bisa membuat kanal untuk pengikut Anda misalnya. Penulis juga memiliki kanal sendiri seperti [@manjaro_x](https://t.me/manjaro_x) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan masih banyak jutaan kanal lagi yang tersedia.
+Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut. Anda yang memiliki engagement besar bisa membuat kanal untuk pengikut Anda misalnya.
+
+Penulis juga memiliki kanal sendiri seperti [@manjaro_x](https://t.me/manjaro_x) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan masih banyak jutaan kanal lagi yang tersedia.
 
 ## Adanya Fitur Bot
 
-Bot adalah aplikasi yang nantinya bisa memberikan perintah. Misalnya Anda memiliki grup maka butuh bot spam untuk menghalang spammer. Dan faktanya grup di Telegram lebih sejahtera karena lebih terhindar dari berita bohong yang tidak jelas sumbernya.
+Bot adalah aplikasi yang nantinya bisa memberikan perintah. Misalnya Anda memiliki grup, maka Anda membutuhkan bot spam untuk menghalang spammer.
+
+Faktanya, grup di Telegram lebih sejahtera. Karena lebih terhindar dari iklan dan berita yang tidak jelas sumbernya.
 
 ## Interaktif
 
-Telegram memiliki fitur standar seberti balas, teruskan, mension, hastag. Juga terdapat berbagai stiker bagus dan gratis. Sejauh ini lebih bagus daripada stiker LINE. Bahkan Anda juga bisa membuat stiker sendiri.
+Telegram memiliki fitur standar seberti: balas, teruskan, mension, hastag. Telegram juga memiliki berbagai stiker bagus dan gratis. Sejauh ini lebih bagus daripada stiker LINE. Bahkan Anda juga bisa membuat stiker sendiri.
 
 ## Ada Fitur Simpan Perpesanan
 
-Misalnya Anda menemukan pesan yang penting. Bisa Anda simpan di "Simpan Perpesanan". Sangat efisien bila Anda mempunyai info atau sekedar membuat catatan sederhana.
+Misalnya Anda menemukan pesan yang penting. Bisa Anda simpan di "Simpan Perpesanan". Sangat efisien bila Anda mempunyai info atau sekedar membuat catatan sederhana. Fitur ini kadang disebut juga sebagai "Draf Pesan".
 
-## Menggunakan fitur ID
+## Menggunakan fitur ID, tidak perlu membagikan nomor Anda.
 
 Anda bisa menggunakan ID nama pengguna. Misalnya Penulis memiliki ID [@hervyqa](https://t.me/hervyqa) dan bisa di akses dengan alamat [https://t.me/hervyqa](https://t.me/hervyqa). Jadi, dengan fitur ini Anda tidak perlu menyimpan nomor kontak dahulu untuk melakukan perpesanan dan komunikasi lainnya. Fitur ID membuat lebih privasi tanpa memberikan nomor telefon.
 
-## Privasi dan keamanan
+## Multi Akun Pengguna
 
-Sejauh ini privasi dan keamanan adalah fitur keunggulan di Telegram. Perlu Anda ketahui, perpesanan Anda akan aman (tidak tersebar luas kepada siapapun). Jadi tidak khawatir untuk disalahgunakan. Telegram juga memiliki fitur **Pesan Rahasia** yang memungkinkan penggunakanya untuk melakukan perpesanan secara privasi. Atau fitur perpesanan yang bisa hangus dalam jangka waktu tertentu. Yang jelas di Telegram, Anda tidak akan pernah menemukan pesan "Pesan ini di hapus oleh sifulan", karena Telegram benar-benar menjunjung privasi.
+Telegram memungkinkan banyak akun pengguna dalam satu aplikasi untuk nomor telepon yang berbeda. Dengan fitur ini, Anda dapat dengan mudah memisahkan pesan pribadi dan bisnis Anda tanpa banyak kesulitan.
+
+## Privasi dan Keamanan
+
+Sejauh ini privasi dan keamanan adalah fitur keunggulan di Telegram. Perlu Anda ketahui, perpesanan Anda akan aman (tidak tersebar luas kepada siapapun). Jadi tidak khawatir untuk disalahgunakan.
+
+Telegram juga memiliki fitur **Pesan Rahasia** yang memungkinkan penggunakanya untuk melakukan perpesanan secara privasi. Atau fitur perpesanan yang bisa hangus dalam jangka waktu tertentu. Yang jelas di Telegram, Anda tidak akan pernah menemukan pesan "Pesan ini di hapus oleh si Fulan", karena Telegram benar-benar menjunjung privasi.
+
+Menurut laman di [Detik.com](https://inet.detik.com/security/d-4794393/pendiri-telegram-serukan-hapus-whatsapp-kenapa), maraknya kerentanan keamanan di WhatsApp belakangan ini membuat hacker berpotensi menyadap informasi pribadi pengguna. Alasan itulah yang dikemukakan oleh pendiri Telegram, menyarankan penggunanya untuk menghapus WhatsApp.
+
+Facebook sendiri telah menjadi bagian dari program pengintaian jauh sebelum mereka mengakuisisi WhatsApp. Pendiri Telegram (Pavel [@durov](https://t.me/durov)), mengambil contoh pernyataan pendiri WhatsApp Brian Acton, yang sudah keluar dari Facebook. Acton mengaku penjualan WhatsApp juga berarti menjual privasi usernya. WhatsApps juga tertangkap basah karena menyalahgunakan informasi pengguna.
 
 ***
 
-Jadi itulah kelebihan dan kekurangan fitur yang dimiliki {Telegram](https://telegram.org/) menurut Penulis. Semoga bermanfaat dan berguna bagi pembaca semuanya. Aamiin.
+Ya, jadi itulah keunggulan fitur yang dimiliki oleh [Telegram](https://telegram.org/) dan perihal keamaan privasi menurut Penulis. Semoga bermanfaat dan berguna bagi pembaca semuanya. Aamiin.
 
 ***
