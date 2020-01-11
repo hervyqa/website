@@ -29,7 +29,9 @@ Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur
 
 ## Selamanya Gratis
 
-Whatsapp juga gratis, namun dulu pernah memungut biaya berlangganan dari penggunanaya selama setahun. Line juga gratis, tetapi memonetisasi dari iklan dan langanan berbayar. Seperti langganan akun official dan stiker. BBM juga gratis, tapi dengan iklan yang sangaat mengganggu setiap menggulir cerita. Kalau Telegram, sudah gratis dan bersih tanpa iklan.
+Whatsapp juga gratis, namun dulu pernah memungut biaya berlangganan dari penggunanaya selama setahun. Line juga gratis, tetapi memonetisasi dari iklan dan langanan berbayar. Seperti langganan akun official dan stiker.
+
+BBM juga gratis, tapi dengan iklan yang sangat mengganggu setiap menggulir cerita. Sedangkan Telegram, sudah gratis dan bersih tanpa iklan.
 
 ## Pesan di Telegram Terkirim Lebih Cepat
 
@@ -61,7 +63,9 @@ Tentu, Telegram lebih mudah bukan.
 
 ## Kapasitas Upload Berkas yang Lebih Besar
 
-Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Kalau WhatsApps maksimal 16MB saja.
+Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Sedangkan WhatsApps mengirim berkas maksimal 16MB saja.
+
+Perbedaan yang sangat jauh.
 
 {{< photo class=fullwidth src="group-telegram.jpeg" alt="Group Telegram" >}}
 
