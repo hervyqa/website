@@ -73,11 +73,13 @@ Perbedaan yang sangat jauh.
 
 WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegram memberikan 5000 lebih anggota per grupnya. Bahkan Penulis juga masuk di grup telegram [Belajar GNU Linux Indonesia](https://t.me/gnulinuxindonesia) yang memiliki lebih dari 7000 anggota.
 
-## Adanya Fitur Kanal
+## Adanya Fitur Kanal (Channel)
 
-Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut. Anda yang memiliki engagement besar bisa membuat kanal untuk pengikut Anda misalnya.
+Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut.
 
-Penulis juga memiliki kanal sendiri seperti [@manjaro_x](https://t.me/manjaro_x) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan masih banyak jutaan kanal lagi yang tersedia.
+Misalnya Anda yang memiliki engagement besar, bisa membuat kanal untuk pengikut Anda.
+
+Penulis juga memiliki kanal sendiri seperti [@manjaro_x](https://t.me/manjaro_x) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan tersedia juga kanal-kanal lainnya di Telegram.
 
 {{< photo class=fullwidth src="bot-telegram.jpeg" alt="Bot Telegram" >}}
 
