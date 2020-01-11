@@ -53,7 +53,11 @@ Telegram memiliki fitur menarik, yaitu straming audio dan video. Pengguna memili
 
 ## Dukungan Multi Platform yang Sempurna
 
-Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna desktop seperti Windows, Mac, GNU/Linux. Berbeda dengan WhatsApps, mereka mengandalkan aplikasi web. Anda diharuskan membuka browser dulu kemudian login dengan qr code, dan aplikasi di handphone anda harus selalu aktif. Yah, memang merepotkan sekali. Telegram untuk desktop, cuma perlu login dan verifikasi sekali. Bahkan device smartphone Anda tidak perlu mengaktifkan jaringan data. Lebih mudah bukan.
+Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna desktop seperti Windows, Mac, GNU/Linux. Berbeda dengan WhatsApps, mereka mengandalkan aplikasi web. Anda diharuskan membuka browser dahulu kemudian login dengan qr code, dan aplikasi di handphone anda harus selalu aktif. Yah, memang merepotkan sekali.
+
+Sedangkan Telegram untuk desktop, Anda hanya perlu login dan verifikasi sekali. Bahkan device smartphone Anda tidak perlu mengaktifkan jaringan data.
+
+Tentu, Telegram lebih mudah bukan.
 
 ## Kapasitas Upload Berkas yang Lebih Besar
 
