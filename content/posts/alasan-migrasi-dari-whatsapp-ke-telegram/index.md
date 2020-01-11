@@ -19,7 +19,7 @@ Bismillahirrohmanirrohim.
 
 Hadirnya perpesanan instan perlahan mampu menggeser SMS sebagai media untuk berkirim pesan. Kebanyakan orang lebih menggunakan WhatsApps atau Line. Tidak salah juga memang, karena layanan tersebut lebih banyak memberikan fitur daripada SMS.
 
-Berbicara soal perpesanan instan, mungkin Anda berpendapat WhatsApps adalah layanan perpesanan yang terbaik. Ya, itu memang benar. Mayoritas pengguna pesan instan tersebut lebih besar. Namun sudahkah Anda mempertimbangkan fitur dan unggulannya?
+Berbicara soal perpesanan instan, mungkin Anda berpendapat WhatsApps adalah layanan perpesanan yang terbaik. Ya, itu memang benar. Mayoritas pengguna pesan instan tersebut lebih besar. Namun sudahkah Anda mempertimbangkan fitur dan keunggulannya?
 
 Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur dengan WhatsApps. Aplikasi tersebut adalah [Telegram](https://telegram.org/) yang dibuat oleh Pavel Durov, seseorang yang menghargai privasi. [Telegram](https://telegram.org/) di Indonesia memang belum begitu terkenal. Padahal Telegram juga mempunyai keunggulan yang tidak ada di perpesanan instan lainnya. Apa saja kelebihannya?
 
