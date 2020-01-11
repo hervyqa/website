@@ -23,7 +23,7 @@ Ekstensi Ink-Pathops berfungsi untuk melakukan proses boolean secara bersamaan, 
 
 ***
 
-Manfaat lain untuk menginstall ekstensi ink-pathops yaitu untuk memotong bagian luar (intersection) objek pattern sesuai artboard yang saya buat.
+Manfaat lain untuk menginstall ekstensi ink-pathops yaitu untuk memotong bagian luar (intersection) objek pattern sesuai artboard yang penulis buat.
 
 Misalnya ketika membuat pattern. Pattern akan sulit dipotong jika manual intersection, tanpa ekstensi. Ketika menggunakan ekstensi proses intersection akan lebih cepat.
 

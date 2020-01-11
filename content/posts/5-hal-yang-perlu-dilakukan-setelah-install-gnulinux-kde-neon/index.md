@@ -25,7 +25,7 @@ Tulisan ini menunjukkan hal-hal apa saja yang perlu dilakukan setalah install GN
 ## Refresh dan Update
 
 Ada dua cara mengupdate di GNU/Linux, pertama menggunakan GUI di software center KDE atau yang disebut Dicover dan kedua menggunakan CLI di terminal.
-Hal yang saya suka adalah mengeksekusi perintah dengan terminal. Di KDE Aplikasi, terminal biasa disebut "Konsole".
+Hal yang penulis sukai adalah mengeksekusi perintah dengan terminal. Di KDE Aplikasi, terminal biasa disebut "Konsole".
 
 Buka aplikasi "Konsole" di menu kemudian masukkan perintah berikut
 

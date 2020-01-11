@@ -7,14 +7,9 @@ seotitle: ""
 description : ""
 slug: ""
 categories:
-- inkscape
-- perkakas
-- lisensi
-- desain
-- impress
-- dokumen
-- free
+- aplikasi
 - desktop
+- free
 resources:
 - src: "cover.jpeg"
   name: "cover"
@@ -25,9 +20,11 @@ Bismillahirrohmanirrohim.
 
 ***
 
-<div>{{< youtube xxxxxxxxxxx >}}</div>
+{{< youtube xxxxxxxxxxx >}}
 
 {{< photo src=".jpeg" alt="" >}}
+
+{{< photo class=fullwidth src=".jpeg" alt="" >}}
 
 {{< photoset max="2" >}}
   {{< photo src=".jpeg" alt="" >}}

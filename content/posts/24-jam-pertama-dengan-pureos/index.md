@@ -4,7 +4,7 @@ date: 2019-09-18T16:41:21+07:00
 title: "24 Jam Pertama dengan PureOS"
 subtitle: "Migrasi ke GNU/Linux"
 seotitle: "24 Jam Pertama dengan GNU/Linux PureOS"
-description : "Hubungan PureOS dengan Free Software Foundation (FSF) dan alasan masuk akal saya mengapa memilih PureOS."
+description : "Hubungan PureOS dengan Free Software Foundation (FSF) dan alasan masuk akal penulis mengapa memilih PureOS."
 slug: "24-jam-pertama-dengan-pureos"
 categories:
 - desktop
@@ -85,11 +85,11 @@ dan hilangkan tanda pagar # menjadi
 WaylandEnable=false
 ```
 
-Tentu cara ini tergantung mesin anda apakah didukung Wayland apa tidak, karena mesin saya lumayan jadul saya pakai cara ini agar GNOME memakai X saja.
+Tentu cara ini tergantung mesin anda apakah didukung Wayland apa tidak, karena mesin penulis lumayan jadul saya pakai cara ini agar GNOME memakai X saja.
 
 ## Mendukung Pen Tablet
 
-Alhamdulillah, Pen tablet wacom bisa terdeteksi dengan mudah tanpa driver. Pen Tablet juga sebagai pengganti tetikus sekaligus alat yang dibutuhkan ilustrator. Bagi saya Pen tablet mengurangi kemalasan dan meningkatkan produktifitas.
+Alhamdulillah, Pen tablet wacom bisa terdeteksi dengan mudah tanpa driver. Pen Tablet juga sebagai pengganti tetikus sekaligus alat yang dibutuhkan ilustrator. Bagi penulis, Pen tablet mengurangi kemalasan dan meningkatkan produktifitas.
 
 {{< photoset max="2" >}}
   {{< photo src="7.jpeg" alt="pen-tablet-gnome-1" >}}
@@ -98,7 +98,7 @@ Alhamdulillah, Pen tablet wacom bisa terdeteksi dengan mudah tanpa driver. Pen T
 
 
 ## Bermain dan memutarkan apapun
-Hal yang mengejutkan yang saya kutip di FAQ PureOS.
+Hal yang mengejutkan bagi penulis yang dikutip dari FAQ PureOS.
 
 *"Will I be able to open photos, videos and music from my Windows/MacOS computers?"*
 

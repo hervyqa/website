@@ -22,7 +22,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Tips ini saya gunakan untuk menghindari tutup paksa di inkscape. Terkadang sedikit merepotkan harus membuka berkas SVG-nya lagi ketika ditutup paksa. Tetapi Alhamdullillah ada beberapa tipsnya sederhana yang saya rangkum seperti dibawah ini.
+Tips ini penulis gunakan untuk menghindari tutup paksa di inkscape. Terkadang sedikit merepotkan harus membuka berkas SVG-nya lagi ketika ditutup paksa. Tetapi Alhamdullillah ada beberapa tipsnya sederhana yang saya rangkum seperti dibawah ini.
 
 ***
 
@@ -77,7 +77,7 @@ Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah meng
 
 ## Aktifkan snap seperlunya
 
-Tombol pintasan snap adalah **<kbd>%</kbd>**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node saran saya cukup mengaktifkan snap seperlunya saja. Misalnya,
+Tombol pintasan snap adalah **<kbd>%</kbd>**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis cukup mengaktifkan snap seperlunya saja. Misalnya,
 
 * snap to path, node, and handles.
 * snap to cusp nodes, incl. rectagle corners.
@@ -90,7 +90,7 @@ Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan
 
 ## Gradasi sedikit node
 
-Saya sering menggunakan gradasi tapi tidak pernah sampai _force close_. Kalau sudah terasa berat saya save dan buka kembali berkas inkscape tadi.
+Penulis sering menggunakan gradasi tapi tidak pernah sampai _force close_. Jika dirasa berat, maka segeralah simpan dan buka kembali berkas inkscape tadi.
 
 ## Lingkungan Desktop yang ringan
 
