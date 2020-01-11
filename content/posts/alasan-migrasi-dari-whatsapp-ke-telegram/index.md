@@ -59,6 +59,8 @@ Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna 
 
 Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Kalau WhatsApps maksimal 16MB saja.
 
+{{< photo class=fullwidth src="group-telegram.jpeg" alt="Group Telegram" >}}
+
 ## Daya Tampung Grup yang Lebih Besar
 
 WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegram memberikan 5000 lebih anggota per grupnya. Bahkan Penulis juga masuk di grup telegram [Belajar GNU Linux Indonesia](https://t.me/gnulinuxindonesia) yang memiliki lebih dari 7000 anggota.
@@ -68,6 +70,8 @@ WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegr
 Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut. Anda yang memiliki engagement besar bisa membuat kanal untuk pengikut Anda misalnya.
 
 Penulis juga memiliki kanal sendiri seperti [@manjaro_x](https://t.me/manjaro_x) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan masih banyak jutaan kanal lagi yang tersedia.
+
+{{< photo class=fullwidth src="bot-telegram.jpeg" alt="Bot Telegram" >}}
 
 ## Adanya Fitur Bot
 
@@ -91,6 +95,8 @@ Anda bisa menggunakan ID nama pengguna. Misalnya Penulis memiliki ID [@hervyqa](
 
 Telegram memungkinkan banyak akun pengguna dalam satu aplikasi untuk nomor telepon yang berbeda. Dengan fitur ini, Anda dapat dengan mudah memisahkan pesan pribadi dan bisnis Anda tanpa banyak kesulitan.
 
+{{< photo class=fullwidth src="privacy-telegram.jpeg" alt="Privacy Telegram" >}}
+
 ## Privasi dan Keamanan
 
 Sejauh ini privasi dan keamanan adalah fitur keunggulan di Telegram. Perlu Anda ketahui, perpesanan Anda akan aman (tidak tersebar luas kepada siapapun). Jadi tidak khawatir untuk disalahgunakan.
@@ -100,6 +106,8 @@ Telegram juga memiliki fitur **Pesan Rahasia** yang memungkinkan penggunakanya u
 Menurut laman di [Detik.com](https://inet.detik.com/security/d-4794393/pendiri-telegram-serukan-hapus-whatsapp-kenapa), maraknya kerentanan keamanan di WhatsApp belakangan ini membuat hacker berpotensi menyadap informasi pribadi pengguna. Alasan itulah yang dikemukakan oleh pendiri Telegram, menyarankan penggunanya untuk menghapus WhatsApp.
 
 Facebook sendiri telah menjadi bagian dari program pengintaian jauh sebelum mereka mengakuisisi WhatsApp. Pendiri Telegram (Pavel [@durov](https://t.me/durov)), mengambil contoh pernyataan pendiri WhatsApp Brian Acton, yang sudah keluar dari Facebook. Acton mengaku penjualan WhatsApp juga berarti menjual privasi usernya. WhatsApps juga tertangkap basah karena menyalahgunakan informasi pengguna.
+
+Pavel [@durov](https://t.me/durov) percaya masalah utama kelemahan keamanan WhatsApp akibat Facebook tidak mau berbagi kode sumber untuk WhatsApp. Sedangkan Telegram melakukan sebaliknya.
 
 ***
 
