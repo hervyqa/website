@@ -36,5 +36,6 @@
     <p>
       {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
     </p>
+    {{ partial "analytics.html" . }}
   </div>
 </div>
