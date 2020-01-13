@@ -19,7 +19,7 @@ Bismillahirrohmanirrohim.
 
 Hadirnya perpesanan instan perlahan mampu menggeser SMS sebagai media untuk berkirim pesan. Kebanyakan orang lebih menggunakan WhatsApps atau Line. Tidak salah juga memang, karena layanan tersebut lebih banyak memberikan fitur daripada SMS.
 
-Berbicara soal perpesanan instan, mungkin Anda berpendapat WhatsApps adalah layanan perpesanan yang terbaik. Ya, itu memang benar. Mayoritas pengguna pesan instan tersebut lebih besar. Namun sudahkah Anda mempertimbangkan fitur dan unggulannya?
+Berbicara soal perpesanan instan, mungkin Anda berpendapat WhatsApps adalah layanan perpesanan yang terbaik. Ya, itu memang benar. Mayoritas pengguna pesan instan tersebut lebih besar. Namun sudahkah Anda mempertimbangkan fitur dan keunggulannya?
 
 Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur dengan WhatsApps. Aplikasi tersebut adalah [Telegram](https://telegram.org/) yang dibuat oleh Pavel Durov, seseorang yang menghargai privasi. [Telegram](https://telegram.org/) di Indonesia memang belum begitu terkenal. Padahal Telegram juga mempunyai keunggulan yang tidak ada di perpesanan instan lainnya. Apa saja kelebihannya?
 
@@ -113,7 +113,7 @@ Sejauh ini privasi dan keamanan adalah fitur keunggulan di Telegram. Perlu Anda 
 
 Telegram juga memiliki fitur **Pesan Rahasia** yang memungkinkan penggunakanya untuk melakukan perpesanan secara privasi. Atau fitur perpesanan yang bisa hangus dalam jangka waktu tertentu. Yang jelas di Telegram, Anda tidak akan pernah menemukan pesan "Pesan ini di hapus oleh si Fulan", karena Telegram benar-benar menjunjung privasi.
 
-Menurut laman di [Detik.com](https://inet.detik.com/security/d-4794393/pendiri-telegram-serukan-hapus-whatsapp-kenapa), maraknya kerentanan keamanan di WhatsApp belakangan ini membuat hacker berpotensi menyadap informasi pribadi pengguna. Alasan itulah yang dikemukakan oleh pendiri Telegram, menyarankan penggunanya untuk menghapus WhatsApp.
+Seperti yang dilansir oleh [Detik.com](https://inet.detik.com/security/d-4794393/pendiri-telegram-serukan-hapus-whatsapp-kenapa), maraknya kerentanan keamanan di WhatsApp belakangan ini membuat hacker berpotensi menyadap informasi pribadi pengguna. Alasan itulah yang dikemukakan oleh pendiri Telegram, menyarankan penggunanya untuk menghapus WhatsApp.
 
 Facebook sendiri telah menjadi bagian dari program pengintaian jauh sebelum mereka mengakuisisi WhatsApp. Pendiri Telegram (Pavel [@durov](https://t.me/durov)), mengambil contoh pernyataan pendiri WhatsApp Brian Acton, yang sudah keluar dari Facebook. Acton mengaku penjualan WhatsApp juga berarti menjual privasi usernya. WhatsApps juga tertangkap basah karena menyalahgunakan informasi pengguna.
 
@@ -121,6 +121,6 @@ Pavel [@durov](https://t.me/durov) percaya masalah utama kelemahan keamanan What
 
 ***
 
-Ya, jadi itulah keunggulan fitur yang dimiliki oleh [Telegram](https://telegram.org/) dan perihal keamaan privasi menurut Penulis. Semoga bermanfaat dan berguna bagi pembaca semuanya. Aamiin.
+Ya, jadi itulah keunggulan fitur yang dimiliki oleh [Telegram](https://telegram.org/) dan perihal keamanan privasi menurut Penulis. Semoga bermanfaat dan berguna bagi pembaca semuanya. Aamiin.
 
 ***
