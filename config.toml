@@ -15,8 +15,8 @@ paginate = 9
 [author]
   name = "Hervy Qurrotul Ainur"
 
-#[blackfriday]
-#  hrefTargetBlank = true
+[blackfriday]
+  hrefTargetBlank = true
 #  noreferrerLinks = true
 #  nofollowLinks = true
 
@@ -28,6 +28,10 @@ paginate = 9
   resampleFilter = "lanczos"
 
 [params]
+  # google adsense
+  adsense = "ca-pub-6751507526899918"
+
+  # image size
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
@@ -39,7 +43,7 @@ paginate = 9
   hasLogo = true
   accentColor = "#019CB5"
 
-# heroHeader = true
+  heroHeader = true
 
 [taxonomies]
   category = "categories"
@@ -53,12 +57,12 @@ paginate = 9
   domain = "Hervy Qurrotul Ainur"
   instagram = "hervyqa"
   twitter = "hervyqa"
-  youtube = "Hervyqa"
-  facebook = "Hervyqa"
+  #youtube = "Hervyqa"
+  #facebook = "Hervyqa"
   github = "hervyqa"
   gitlab = "hervyqa"
-  dribbble = "hervyqa"
-  behance = "hervyqa"
+  #dribbble = "hervyqa"
+  #behance = "hervyqa"
   paypal = "hervyqa"
   telegram = "hervyqa"
 
@@ -99,7 +103,7 @@ title = "Belajar Mengetik dengan Libre Office"
   identifier = "profil"
   url = "/profil"
 
-# For footer
+# for footer
 [params.license]
   type = "CC BY-NC 4.0"
   url = "/cc-by-nc"
