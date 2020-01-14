@@ -33,6 +33,7 @@
         {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
     </h3>
+  {{ partial "adsense_article.html" . }}
     <p>
       {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
     </p>
