@@ -68,7 +68,7 @@ Jika ada path yang memiliki warna pada stroke dan fill, tapi putus nodenya. Maka
 {{< photo src="path-putus.png" alt="Konversi dengan Inksape" >}}
 
 ### Jangan menggunakan Transparansi
-Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabui tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangya. Sehingga warna seolah-olah transparansi.
+Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabuhi tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangnya. Sehingga warna seolah-olah transparansi.
 
 {{< photo src="gradien.png" alt="Gradien dengan Inksape" >}}
 
