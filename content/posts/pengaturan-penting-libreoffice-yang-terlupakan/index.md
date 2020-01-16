@@ -25,11 +25,11 @@ Pengaturan awal LibreOffice memang perlu dilakukan dulu sebelum memulai membuat 
 
 Harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh Tim Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
 
-Orang yang sudah terbiasa dengan Bahasa Inggris akan terbiasa juga dengan kata seperti "File, Insert, Paragraph, Style" dan sebagainya. Kemudian ketika diganti dengan Bahasa Indonesia kata tersebut menjadi "Berkas, Sisipkan, Tubuh Teks, Gaya" akan terdengar asing dan aneh. Tetapi itu merupakan masalah adaptasi saja.
+Orang yang sudah terbiasa dengan Bahasa Inggris akan terbiasa juga dengan kata seperti "File, Insert, Paragraph, Style" dan sebagainya. Kemudian ketika diganti dengan Bahasa Indonesia kata tersebut menjadi "Berkas, Sisipkan, Tubuh Teks, Gaya" akan terdengar asing dan aneh. Tetapi itu merupakan masalah pembiasaan saja.
 
-Manfaat lain Anda tidak perlu membuat Gaya baru dengan dengan Bahasa Indonesia, sebab Gaya Halaman, Tajuk, Judul, Tubuh teks, dan sebagainya sudah diatur menggunakan Bahasa. Misalnya ketika ingin menambahkan kapsi pada gambar, tabel, diagram tidak perlu lagi menambahkan ruas baru (field), karena sudah ada ruas-ruas dengan Bahasa Indonesia. Hal ini akan membuat mudah dan lebih produktif.
+Manfaat lainnya Anda tidak perlu membuat Gaya baru dengan dengan Bahasa Indonesia, sebab Gaya Halaman, Tajuk, Judul, Tubuh teks, dan sebagainya sudah diatur menggunakan Bahasa. Misalnya ketika ingin menambahkan kapsi pada gambar, tabel, diagram tidak perlu lagi menambahkan ruas baru (field), karena sudah ada ruas-ruas dengan Bahasa Indonesia. Hal ini akan membuat mudah, cepat dan produktif.
 
-Jadi ketika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen, asal dokumen tersebut menggunakan Bahasa Indonesia juga. Jika Bahasa Anda masih memakai Bahasa Inggris gantilah dengan cara sebagai berikut:
+Jadi ketika menggunakan Fitur bahasa lokal akan memudahkan membuat dokumen, asalkan dokumen tersebut menggunakan Bahasa Indonesia juga. Jika Bahasa Anda masih memakai Bahasa Inggris gantilah dengan cara sebagai berikut:
 
 * Tekan Alt+12 atau pilih menu “Tools” lalu pilih “Option...” .
 * Pilih “LibreOffice”.
@@ -50,21 +50,32 @@ Sedangkan cara memasang untuk pengguna GNU/Linux, lebih cepat memasang dengan te
 
 * Ubuntu/Debian
 
-`sudo apt install libreoffice-l10n-id`
+```
+sudo apt install libreoffice-l10n-id
+```
 
 * Fedora
 
-`sudo dnf install libreoffice-langpack-id`
+```
+sudo dnf install libreoffice-langpack-id
+```
 
 * openSUSE
 
-`sudo zypper in libreoffice-l10n-id`
+```
+sudo zypper in libreoffice-l10n-id
+```
 
 * Arch/Manjaro
 
-`sudo pacman -S libreoffice-still-id`
+```
+sudo pacman -S libreoffice-still-id
+```
 
-atau `sudo pacman -S libreoffice-fresh-id`
+atau
+```
+sudo pacman -S libreoffice-fresh-id
+```
 
 ***
 
@@ -127,7 +138,17 @@ Anda bisa menggunakan fitur Koreksi Otomatis untuk mempercepat Penulisan. Misaln
 
 ![libreoffice-koreksi-otomatis](6.png)
 
-## Selalu gunakan Fonta bebas sebagai Baku
+***
+
+## Menggunakan Fitur Komentar dan Pelacak perubahan
+
+Anda bisa menggunakan fitur komentar untuk memberikan catatan. Sedangkan fitur Pelacak Perubahan digunakan untuk memantau perubahan isi dokumen, sehingga perubahan tersebut bisa diterima sebagai pembenahan dan bisa sebagai penolakan. Fitur ini sangat cocok untuk pegawai dan mahasiswa yang membutuhkan asistensi tugas proposal/skripsi/tesis/disertasi via daring.
+
+![libreoffice-koreksi-otomatis](komentar.png)
+
+***
+
+## Selalu gunakan Fonta Liberation sebagai Fonta Baku
 
 Perlu diketahui bahwa LibreOffice sudah mendukung Fonta bebas untuk menggantikan Microsoft Office. Jika Anda pengguna GNU/Linux, Anda tidak perlu memasang fonta Microsoft di Distro GNU/Linux, sebab LibreOffice sendiri sudah menggantikan fonta Microsoft Office sejak LibreOffice itu dibuat.
 
@@ -156,7 +177,9 @@ Meskipun Anda bekerja dengan LibreOffice, yakinlah selalu untuk menggunakan Open
 
 ![libreoffice-koreksi-otomatis](9.jpeg)
 
-Coba bandingkan dengan Format tidak terbuka milik Microsoft, saya ambil contoh .doc dan .docx sebagai piranti lunak pengolah kata-nya. **.doc** untuk Word tahun 97 sampai 2003, sedangkan **.docx** hanya untuk versi Office 2007-2019 untuk saat ini. Sedangkan **.odt** yang sebagai format dokumen teks LibreOffice memiliki kompatibilitas yang kuat, sehingga **.odt** dibuka di LibreOffice versi berapapun tetap tidak berubah pemformatannya. Tidak ada spasi yang rusak, tidak ada paragraf yang kacau. Nah itu hebatnya Libreoffice.
+Coba bandingkan dengan Format tidak terbuka milik Microsoft, Penulis ambil contoh .doc dan .docx sebagai piranti lunak pengolah kata. **.doc** untuk Word tahun 97 sampai 2003, sedangkan **.docx** untuk versi Office 2007-2019 untuk saat ini. Sedangkan **.odt** yang sebagai format dokumen teks LibreOffice memiliki kompatibilitas yang kuat, sehingga **.odt** dibuka di LibreOffice versi berapapun tetap tidak berubah pemformatannya.
+
+Tidak ada spasi yang rusak, tidak ada paragraf yang kacau. Nah itu hebatnya jika menggunakan Libreoffice.
 
 Sekian dari penulis, terima kasih sudah membaca. Semoga bermanfaat.
 

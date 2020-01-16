@@ -21,15 +21,15 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Ada beberapa perkakas yang menurut saya bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaat nantinya untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya serba Command Promt.
+Ada beberapa perkakas yang menurut Penulis bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaat nantinya untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya menggunakan perintah terminal di GNU/Linux.
 
 ***
 
 ## Pertama, kompresi berkas svg dengan SVGO
 
-Homepage: https://github.com/svg/svgo
+Laman Web: https://github.com/svg/svgo
 
-Perkakas favorit saya adalah `svgo`, karena dengan `svgo` ini mampu mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer, metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika menggunakan asset `svg`. Misalnya ilustrasi saya di [GNOME.ID], hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture section.
+Perkakas favorit Penulis adalah `svgo`, karena dengan `svgo` ini mampu mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer, metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika menggunakan asset `svg`. Misalnya ilustrasi Penulis yang berada di [GNOME.ID], hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture section.
 
 Cara Install `svgo` di distro GNU/Linux
 
@@ -43,7 +43,7 @@ Repo Fedora
 $ sudo dnf install nodejs-svgo
 ```
 
-Lanjut ke demontrasinya (saya menggunakan GNU/Linux KDE NEON). Contoh saya punya 3 jenis ilustrasi. Kemudian lihat isi berkasnya.
+Lanjut ke demontrasinya (Penulis menggunakan GNU/Linux KDE NEON). Contoh Penulis punya 3 jenis ilustrasi. Kemudian lihat isi berkasnya.
 ```
 $ ls -lh
 total 680K
@@ -94,7 +94,7 @@ Done in 336 ms!
 
 ## Kompresi berkas PNG dengan OptiPng
 
-Homepage: http://optipng.sourceforge.net/
+Laman Web: http://optipng.sourceforge.net/
 
 Perkakas `optipng` berfungsi untuk kompresi berkas `png`. Sama dengan svgo tadi, tujuannya sama-sama untuk kompresi berkas.
 
@@ -180,7 +180,7 @@ Alhamdulillah! dari 281Kib jadi 263Kib. Meskipun ukuran berkasnya tidak terlalu 
 
 ## Kompresi berkas JPG dan JPEG dengan JpegOptim
 
-Homepage: https://github.com/tjko/jpegoptim
+Laman Web: https://github.com/tjko/jpegoptim
 
 Terakhir `jpegoptim`. Perkakas ini berfungsi untuk kompresi berkas `jpg` dan `jpeg`.
 

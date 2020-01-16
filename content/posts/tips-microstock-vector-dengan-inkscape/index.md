@@ -1,19 +1,20 @@
 ---
 title: "Tips Microstock Vektor dengan Inkscape"
-subtitle: "Tak Perlu Khawatir Lagi Ditolak dari Agensi"
+subtitle: "Tidak Perlu lagi khawatir ditolak dari agensi"
 seotitle: "Tips EPS Microstock dengan Inkscape"
 date: 2019-07-27T10:25:48+07:00
 draft: false
 slug: "tips-microstock-vektor-dengan-inkscape"
 categories:
+- mikrostok
 - inkscape
 - desain
 tags:
-  - inkscape
-  - free software
-  - ilustrasi
-  - pemula
-  - microstock
+- inkscape
+- free software
+- ilustrasi
+- pemula
+- microstock
 description : "Hal-hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
 resources:
 - src: "cover.jpeg"
@@ -23,81 +24,100 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain.
+Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya adalah bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain, baik itu Inkscape, CorelDraw, Adobe Ilustrator, Gravit, dsb.
 
 ***
 
-Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini agak tricky agar mudah dibaca. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tanpa menggunakan transparansi, blur, pattern, mesh, dan efek filter.
+Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini sedikit memerlukan trik agar mudah dibaca di berbagai perangkat lunak yang sudah disebutkan tadi. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tetapi tanpa menggunakan transparansi, blur, pola (pattern), mesh, path efek, dan filter efek.
 
-Perlu diingat tips ini disarankan untuk pengguna inkscape versi **0.92.x**. Saya sendiri menggunakan inkscape versi 0.92.4, jadi ada beberapa perbedaan jika menggunakan versi inkscape dibawah 0.92.x.
+Perlu diingat tips ini disarankan untuk pengguna inkscape versi **0.92.x**. Penulis sendiri menggunakan inkscape versi 0.92.4, jadi ada beberapa perbedaan jika menggunakan versi inkscape dibawah 0.92.x.
 
-Oke, langsung saja. Ada beberapa hal yang harus dilakukan dan dihindari, Apa saja ya?...
+Jadi, ada beberapa hal yang harus dilakukan dan dihindari. Berikut penjelasannya.
 
 ***
 
 ## **Hal-hal yang perlu dilakukan**
 
-## Berilah Solid Background dengan Ukuran 2800 X 2800 px sesuai kanvas
+### Berilah Solid Background dengan Ukuran 4000px:4000px sesuai kanvas
 
 Tujuannya untuk menyamakan antara ukuran artwork dengan ukuran kanvas (artboard) di inkscape. Sekaligus untuk memenuhi syarat shutterstock yaitu gambar vektor minimal 4MP.
 
-Anda bisa memberikan backround warna putih. Sebaiknya juga **Background** dan **Artwork** Anda pisahkan saja dengan **LAYER**, supaya lebih mudah untuk membuat desain.
+{{< photo src="kanvas.png" alt="Kanvas Inksape 4000px:4000px" >}}
 
-## Rubahlah Objek apapun jadi bentuk Path
+Anda bisa memberikan backround warna putih. Buatlah 2 layer, misalnya: **Background** yang anda kunci dan layer **Artwork** yang tetap terbuka supaya lebih mudah untuk membuat desain.
 
-Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**. Maka rubahlah ke bentuk path dengan menekan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>c</kbd></kbd>**.
+{{< photo src="layer.png" alt="Layer Inksape 4000px:4000px" >}}
 
-Jika ada objek **stroke** maka rubahlah ke path juga dengan **<kbd><kbd>Ctrl</kbd> <kbd>Alt</kbd> <kbd>c</kbd></kbd>**.
+### Konversi Objek menjadi bentuk Path
 
-Ketika desain sudah final Anda perlu memeriksanya kembali.
+Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**, maka konversikan ke bentuk path. Caranya dengan menekan **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd>**.
 
-***
+Jika terdapat objek **stroke** maka rubahlah menjadi bentuk path juga. Caranya dengan menekan **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd>**.
 
-## **Hal-hal yang perlu dihindari**
+{{< photo src="konversi.png" alt="Konversi dengan Inksape" >}}
 
-## Jangan sampai ada Path yang putus
-Jika ada path yang memiliki warna pada stroke dan fill, tetapi putus nodenya. Maka sambungkanlah dulu node tersebut. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill.
-
-## Jangan menggunakan Transparansi
- Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabui tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangya.
-
-## Jangan Memberikan Gambar Bitmap/Raster ke EPS yang sudah final
-Hapus gambar bitmap atau raster bekas sketsa, foto, catatan atau apapun ketika desain sudah final. Periksa kembali jika objek bitmap tersebut di layer yang tersembunyi
-
-## Jangan Melebihi ukuran EPS sampai 100 MB
-Pastikan berkasnya nanti tidak melebihi 100Mb, tapi saya rasa ini tidak mungkin, karena ukuran berkas vektor biasanya cukup ringan. Ukuran 10MB saja kadang menakutkan dibuka di inkscape.
-
-## Jangan Mengunci Layer
-Jangan lupa untuk membuka semua layer, dan hapus layer yang tidak diperlukan.
-
-## Jangan memberikan Pattern, Mesh, dan Efek filter
-
-Sepertinya sudah jelas.
+Tatkala desain sudah final, Anda perlu memeriksa kembali barangkali ada objek yang belum dikonversi ke path, agar nantinya di situs marketplace tidak ditolak karena ada peringatan gambar mengandung bitmap.
 
 ***
 
-## **Opsional yang dianjurkan**
+## **Hal-hal yang perlu Anda hindari**
 
-## Pastikan memilih Gradien yang solid
-Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, gunakan radial yang simetris lingkaran sempurna dan bukan yang lonjong. Gunakan **<kbd><kbd>Ctrl</kbd> <kbd>Shift</kbd></kbd>** kemudian drag untuk membuat gradien radial yang simetris.
+### Jangan sampai ada Path yang putus
+Jika ada path yang memiliki warna pada stroke dan fill, tapi putus nodenya. Maka segera hubungkan dahulu titik nodenya. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill. Begitu pula CorelDraw tidak bisa membuat objek dengan path terputus.
 
-## Meyelaraskan Style Anda
-Dengan menyelaraskan style vektor Anda ini, maka akan lebih mudah untuk mengisi Metadata-metadata setiap file SVG dan fokus pada kualitas. Tetapi jika Anda ingin lebih memburu kuantitas maka akan banyak jenis style yang ada di portofolio mikrostock Anda, dari pada repot (dalam tanda kutip) memikirkan banyak style lebih baik tetap fokus pada satu atau beberapa style saja.
+{{< photo src="path-putus.png" alt="Konversi dengan Inksape" >}}
 
-## Gunakan nama berkas sesuai SEO
-Untuk memudahkan SEO, gunakan nama berkas dengan huruf kecil (lowercase). Misalnya:
+### Jangan menggunakan Transparansi
+Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabui tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangya. Sehingga warna seolah-olah transparansi.
+
+{{< photo src="gradien.png" alt="Gradien dengan Inksape" >}}
+
+### Jangan Mengunci Layer
+Jangan lupa untuk membuka semua layer, dan hapus layer yang tidak diperlukan. Periksa juga layernya agar tetap memakai normal mode.
+
+{{< photo src="layer.png" alt="Layer Inksape 4000px:4000px" >}}
+
+### Jangan memberikan Pattern, Mesh, Path Efek, dan Filter.
+
+Fitur ini hanya diperuntukkan untuk inkscape, sedangkan untuk piranti lain belum tentu fitur tersebut bisa digunakan. Untuk amannya, Anda tidak perlu menggunakan pattern, mesh, path efek dan filter. Jadi, biarkan apa adanya.
+
+***
+
+## **Pilihan yang dianjurkan**
+
+### Pastikan memilih Gradien yang solid
+
+Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, maka gunakan gradien radial yang simetris lingkaran sempurna dan bukan gradien yang lonjong. Gunakan tombol **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd>** kemudian drag, untuk membuat gradien radial yang simetris.
+
+{{< photo src="solid.png" alt="Gradien solid dengan Inksape" >}}
+
+### Meyelaraskan Ciri khas
+
+Selaraskan ciri khas vektor Anda, misalnya desain fokus pada logo, maka seterusnya membuat logo. jika membuat mandala maka terus seterusnya membuat mandala. jika membuat maskot maka seterusnya membuat maskot, jika membuat pattern maka seterusnya membuat pattern, dan sebagainya.
+
+Cara ini akan jadi lebih memudahkan untuk mengisi metadata-metadata setiap file SVG dan fokus pada kualitas. Sekaligus mempermudah pembeli untuk melihat daftar stok anda.
+
+Contohnya seperti ini.
+
+- Ciri khas : Pattern
+- Kata kunci : abstract, art, background, beautiful, beauty, blossom, color, colorful, cute, decoration, design, ditsy, elegance, elegant, fabric, fashion, floral, flower, fresh, garden, illustration, leaf, little, nature, pattern, print, repeat, retro, rose, seamless, small, spring, style, summer, textile, texture, vector, wallpaper. (Untuk kata kunci desain selanjutnya, tidak berbeda jauh)
+
+{{< photo src="pattern.jpeg" alt="Pattern dengan Inksape" >}}
+
+### Gunakan nama berkas sesuai SEO
+Untuk memudahkan penerapan SEO, gunakan nama berkas EPS dengan huruf kecil (lowercase). Misalnya:
 
 * happy-farmer.eps
 * flat-android-mockup.eps
 * kids-in-the-train.eps
 
-## Pilih Kuantitas apa Kualitas?
+### Pilih Kuantitas apa Kualitas?
 Kalau Anda yang baru mulai, lebih baik mengejar kuantitas dengan kualitas yang cukup. Jika sudah banyak stocknya, boleh ditingkatkan lagi kualitasnya supaya seimbang.
 
-## Target Harian/Mingguan/Bulanan
-Lebih baik tentukan sendiri target vektornya, karena kemampuan setiap orang berbeda-beda. Tapi Anda harus berkomitmen dengan target yang Anda buat tadi.
+### Target Harian/Mingguan/Bulanan
+Lebih baik tentukan sendiri target vektornya, karena kemampuan setiap orang berbeda-beda. Berapapun targetnya Anda harus berkomitmen terhadap apa yang Anda putuskan tadi.
 
-## Macam-macam agensi mikrostok
+### Macam-macam agensi mikrostok
 Ada berbagai macam agensi mikrostok dan memiliki peraturan yang berbeda pula, seperti berikut ini.
 
 * [123rf]
@@ -106,21 +126,26 @@ Ada berbagai macam agensi mikrostok dan memiliki peraturan yang berbeda pula, se
 * [Freepik]
 * [Shutterstock]
 
-Tetapi kembali kepada kreator juga. Misalnya, penggunakan gradien dengan EPS bawaan versi 0.92.x kalau di [Freepik] masih diterima, sedangkan di [Shutterstock] gradiennya dianggap sebagai berkas yang tidak kompatibel dan objek gradien berubah menjadi raster. Hal ini tentu akan mempengaruhi style yang anda buat, apakah tetap menggunakan gradien ataukah tidak. Kalau saya pribadi lebih memilih desain flat tanpa gradien, tujuannya untuk meminimalisir penolakan dari berbagai agensi.
+Tetapi kembali kepada si Kreator juga. Misalnya, penggunakan gradien dengan EPS bawaan versi 0.92.x kalau di [Freepik] masih diterima, sedangkan di [Shutterstock] gradien dianggap sebagai berkas yang tidak kompatibel. Dan objek gradien tersebut kemungkinan besar berubah menjadi bitmap.
 
-## Perhatikan Metadata
+Hal ini tentu akan mempengaruhi gaya yang anda buat, apakah tetap menggunakan gradien atau tidak. Kalau Penulis secara pribadi lebih memilih desain flat tanpa gradien, tujuannya untuk meminimalisir penolakan dari berbagai agensi.
 
-Ketika Mengupload EPS ke agensi Microstock gunakan metadata yang berhubungan dengan desain yang Anda buat tadi. Juga perhatikan penulisan metadata Anda.
+### Perhatikan Metadata
+
+Tatkala mengirim EPS ke agensi Microstock gunakan metadata yang berhubungan dengan desain yang Anda buat tadi. Perhatikan juga penulisan metadata Anda. Aturannya sangat mudah:
 
 * Gunakanlah bahasa inggris.
-* Keywords maksimal 50 kata yang dipisahkan dengan koma dan menggunakan huruf kecil.
-* Keyword bisa didapat dengan menggunakan alat daring, seperti [mykeyworder](mykeyworder.com) dan [microstockgroup](microstockgroup.com/tools/keywords.php).
-* Simpan juga metadata tadi untuk backup, Anda bisa simpan dengan _metadata.txt_ misalnya. Tujuannya untuk menggunakan data yang sama jika ada desain yang sejenis, jadi tinggal salin tempel saja antar Metadata SVG.
+* Kata kunci maksimal 50 kata yang dipisahkan dengan koma dan menggunakan huruf kecil.
+* Kata kunci bisa didapatkan dengan menggunakan alat daring, seperti [mykeyworder](mykeyworder.com) dan [microstockgroup](microstockgroup.com/tools/keywords.php).
+* Simpan juga metadata tadi untuk dicadangkan, Anda bisa menyimpannya dengan nama _metadata.txt_ semisalnya. Tujuannya untuk digunakan tatkala ada desain yang mempunyai kata kunci sejenis, jadi tinggal salin tempel saja antar Metadata SVG dan di situs mikrostok.
 
-## Buat laporan
-Tujuannya untuk memonitor aset vektor saja. Anda bisa membuatnya table di Libre Office Calc.
+## Buatlah laporan
+
+Tujuannya untuk mamantau aset-aset vektor. Anda bisa membuatnya di Libre Office Calc.
 
 Contohnya seperti ini.
+
+{{< photo src="laporan.png" alt="Laporan mikrostok dengan Inksape" >}}
 
 Disetiap kolom ada:
 
@@ -139,7 +164,7 @@ Disetiap baris dibawah agensi bisa diisi dengan status:
 * Approve
 * Reject
 
-Nah itu tadi beberapa tips dari saya. Sepertinya sudah cukup artikelnya. :D Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Nah itu tadi beberapa tips dari Penulis. Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***
 
