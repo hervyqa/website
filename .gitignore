@@ -1,8 +1,4 @@
-./kdev4/
-*kdev4
-/public
-/resources
-/node_modules
+resources
 Thumbs.db
 .DS_Store
 .dist
@@ -10,7 +6,6 @@ Thumbs.db
 .sass-cache
 npm-debug.log
 node_modules
-yarn-error.log
 builds
 package-lock.json
-judul.txt
+

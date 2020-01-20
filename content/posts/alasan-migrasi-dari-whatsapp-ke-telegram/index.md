@@ -71,7 +71,7 @@ Perbedaan yang sangat jauh.
 
 ## Daya Tampung Grup yang Lebih Besar
 
-WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegram memberikan 5000 lebih anggota per grupnya. Bahkan Penulis juga masuk di grup telegram [Belajar GNU Linux Indonesia](https://t.me/gnulinuxindonesia) yang memiliki lebih dari 7000 anggota.
+WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegram memberikan 200.000 anggota per grupnya. Bahkan Penulis juga masuk di grup telegram [Belajar GNU Linux Indonesia](https://t.me/gnulinuxindonesia) yang memiliki lebih dari 7000 anggota.
 
 ## Adanya Fitur Kanal (Channel)
 
