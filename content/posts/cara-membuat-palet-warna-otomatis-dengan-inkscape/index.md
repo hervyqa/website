@@ -49,6 +49,7 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 * Jika Anda membutuhkan warna gradasi warna hitam-putih, cawang "Include default grey".
 * Dan jika Anda ingin langsung menerapkan palet warna tersebut, cawang "Replace existing palette".
 * Ketika selesai diatur, pilih *Terapkan*.
+* Tutup dan buka kembali Inkscapenya, agar palet dibaca ulang.
 
 {{< photoset max="2" >}}
   {{< photo src="membuka-palet-ekstensi.png" alt="Membuka Palet Ekstensi dengan Inkscape" >}}
