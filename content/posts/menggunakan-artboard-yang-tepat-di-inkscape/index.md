@@ -108,6 +108,18 @@ Atau anda bisa mengunduhnya di repo [Artboard](https://gitlab.com/hervyqa/artboa
 
 Biasanya untuk ekspor berkas PNG dengan **96** DPI untuk hasil standar. Apabila menginginkan hasil yang maksimal gunakanlah **300** DPI.
 
-Sekian. Semoga bermanfaat.
+
+## Menggunakan Artboard sebagai Template
+
+Salin dan tempelkanlah artboard-artboard yang diperlukan ke `~/Templates`. Kemudian Anda bisa membuat artboard dengan klik kanan, Dokumen baru, lalu pilih artboard yang diinginkan.
+
+{{< photoset max="2" >}}
+  {{< photo src="kumpulan-artboard-templates.png" alt="Kumpulan Artboard Templates dengan Inkscape" >}}
+  {{< photo src="menjadikan-template.png" alt="Menjadikan Artboard sebagai Template" >}}
+{{</ photoset >}}
+
+***
+
+Nah, selesai sudah tulisannya. Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin
 
 ***
