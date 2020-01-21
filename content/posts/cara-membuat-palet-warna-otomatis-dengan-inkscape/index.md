@@ -8,7 +8,7 @@ description : "Palet warna yang biasa digunakan untuk mewarnai objek lebih cepat
 slug: ""
 categories:
 - inkscape
-- design
+- desain
 resources:
 - src: "cover.jpeg"
   name: "cover"

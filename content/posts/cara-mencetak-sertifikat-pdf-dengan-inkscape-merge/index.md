@@ -9,6 +9,7 @@ slug: ""
 categories:
 - inkscape
 - dokumen
+- desain
 resources:
 - src: "cover.jpeg"
   name: "cover"
