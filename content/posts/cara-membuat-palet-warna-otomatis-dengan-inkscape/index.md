@@ -1,10 +1,10 @@
 ---
 draft: false
 date: 2020-01-21T05:15:34+07:00
-title: "Cara Membuat Warna Palet Otomatis dengan Inkscape"
+title: "Cara Membuat Palet Warna Otomatis dengan Inkscape"
 subtitle: "Ekstensi Generate Color Palette"
-seotitle: "Cara Membuat Warna Palet Otomatis dengan Inkscape"
-description : "Tahukah Anda cara membuat palet warna di Inkscape secara otomatis?"
+seotitle: "Cara Membuat Palet Warna Otomatis dengan Inkscape"
+description : "Palet warna yang biasa digunakan untuk mewarnai objek lebih cepat dan mudah. Berikut tips membuat palet warna sendiri dengan Inkscape."
 slug: ""
 categories:
 - inkscape
