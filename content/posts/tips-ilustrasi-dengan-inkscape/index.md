@@ -67,7 +67,7 @@ Pilihan pertama pakai tetikus (mouse). Karena ilustrator akan kesulitan membuat 
 
 Tapi tidak perlu berangan tinggi, pakai mouse tipe gaming harga sekitar 100-200rban sudah lumayan terjangkau untuk keperluan ilustrasi. (Penulis menyarankan merek logitech)
 
-Nah, pilihan kedua bisa pakai Pen Tablet. terakhir kali Penulis cek *(pada postingan ini ditulis)*, harga wacom yang baru Rp. 1.200.000.- untuk Wacom CTL 672 ukuran medium, yang tipe CTL 472 small sekitar Rp.800.000.-, harga tersebut masih terjangkau.
+Nah, pilihan kedua bisa pakai Pen Tablet. terakhir kali Penulis cek *(pada postingan ini ditulis)*, harga wacom yang baru Rp. 1.200.000.- untuk Wacom CTL 672 ukuran medium, yang tipe CTL 472 small sekitar Rp.700.000.-, harga tersebut masih terjangkau.
 
 ## **Pahami Teknik Bezier**
 
@@ -91,8 +91,8 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 
 ## Memindahkan objek
 
-* Memilih objek dan menahan **<kbd>Shift</kbd>** menggerakkan objek dengan cepat.
-* Memilih objek dan menahan **<kbd>Alt</kbd>** menggerakkan objek dengan lambat. Biasanya untuk presisi.
+* Memilih objek dan menahan **<kbd>Shift</kbd>** untuk menggerakkan objek dengan cepat.
+* Memilih objek dan menahan **<kbd>Alt</kbd>** untuk menggerakkan objek dengan lambat. Biasanya untuk presisi perpindahan objek.
 
 ## Memperbesar objek
 
@@ -103,7 +103,7 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd>** untuk menyalin objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd>** untuk menempelkan objek.
-* **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd> v</kbd></kbd>** untuk menggantikan style objek.
+* **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd></kbd>** untuk menggantikan style objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd>** duplikasi objek. Sama dengan saltem (salin tempel) namun duplikat tidak tergantung posisi kursor tetikus.
 
 ## Zoom
@@ -132,8 +132,8 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 * **<kbd><kbd>Ctrl</kbd>+<kbd>^</kbd></kbd>** untuk memotong objek. sisa diluar.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>*</kbd></kbd>** untuk memotong objek. sisa didalam.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>/</kbd></kbd>** untuk memotong objek dengan garis tepi (stroke).
-* **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd> <kbd>/</kbd></kbd>** untuk memotong garis tepi pada objek.
-* **<kbd><kbd>Ctrl</kbd>+<kbd>Shift <kbd>k</kbd></kbd>** untuk memecah objek jadi beberapa bagian.
+* **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd></kbd>** untuk memotong garis tepi pada objek.
+* **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd></kbd>** untuk memecah objek jadi beberapa bagian.
 
 ## Merubah jadi path
 
@@ -154,7 +154,7 @@ Tips: nonaktifkan snap (**<kbd>%</kbd>**) ketika sedang membuat ilustrasi *line 
 
 ***
 
-Nah itu tadi beberapa tips dari Penulis. Sebenarnya ulasan ini masih kurang lengkap, tapi akan segera akan Penulis tambahkan update terbarunya. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Nah itu tadi beberapa tips dari Penulis. Sebenarnya ulasan ini masih kurang lengkap, tapi akan segera Penulis tambahkan tips terbarunya. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
 ***
 
