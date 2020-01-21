@@ -47,13 +47,13 @@ Jadi secara pribadi, gaya desain yang sering Penulis gunakan antara lain:
 
 ## **Boleh mengambil gambar orang lain, jika..**
 
-Boleh mengambil gambar jika digunakan untuk referensi belajar. Tujuannya untuk memahami style atau gayanya, meniru lekukannya, meniru layoutnya, meniru gradasinya, detailnya, dan lain-lain. Dengan ini, kemampuan ilustrasi anda akan meningkat, tetapi konsistensi dalam membuat ilustrasi juga perlu.
+Boleh mengambil gambar jika digunakan untuk referensi belajar. Tujuannya untuk memahami style atau gaya, meniru lekukannya, meniru layoutnya, meniru gradasinya, detailnya, dan lain-lain. Dengan ini, kemampuan ilustrasi anda akan meningkat, tetapi konsistensi dalam membuat ilustrasi itu juga diperlukan.
 
 Hasil awal-awal mungkin tidak terlalu bagus, tapi itu tidak mengapa. Sebab sehebat-hebatnya ilustrator perlu latihan dan ekstra sabar untuk membuat ilustrasi yang indah dan menakjubkan.
 
-Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seperti ini cara membuat *lineart*-nya.. Oh jadi seperti ini.." Tentu orang akan paham dan tinggal eksekusi ke digital.
+Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seperti ini cara membuat *lineart*-nya.. Oh jadi seperti ini.." Tentu orang akan paham dan tinggal mengeksekusi idenya ke digital.
 
-Ketahuilah, menambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan untuk menjiplak karya. Sebab sudah ada peraturan dalam lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan pemakai untuk mencantumkan atribusi dan jenis lisensi CC yang baru pada karya tersebut.
+Ketahuilah, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, untuk melindungi karya sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan pemakai untuk mencantumkan atribusi dan jenis lisensi CC yang baru pada karya tersebut.
 
 ## **Perbanyak latihan dan membuat portofolio**
 
