@@ -53,7 +53,7 @@ Hasil awal-awal mungkin tidak terlalu bagus, tapi itu tidak mengapa. Sebab seheb
 
 Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seperti ini cara membuat *lineart*-nya.. Oh jadi seperti ini.." Tentu orang akan paham dan tinggal mengeksekusi idenya ke digital.
 
-Ketahuilah, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, untuk melindungi karya sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan pemakai untuk mencantumkan atribusi dan jenis lisensi CC yang baru pada karya tersebut.
+Ketahuilah, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, kreator sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan orag lain untuk menggunakan karya milik kreator. Caranya yaitu dengan mencantumkan atribusi dan logo jenis lisensi CC terhadap karya tersebut.
 
 ## **Perbanyak latihan dan membuat portofolio**
 
