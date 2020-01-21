@@ -16,6 +16,7 @@ resources:
 ---
 
 Bismillahirrohmanirrohim.
+
 Bagi pengguna GNU/Linux ada saja trik yang menarik untuk disimak. Misalnya pada penulisan ini tentang membuat palet warna secara otomatis di GNU/Linux. Lalu, apa saja langkahnya? Mari disimak.
 
 ***
@@ -27,8 +28,14 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 ## Memasang Ekstensi
 
 * Pertama, ekstrak berkas zip tersebut. kemudian, salin kedua berkas *generate_palette.inx* dan *generate_palette.py*.
-* Lalu, untuk pengguna GNU/Linux silakan menempel kedua berkas tersebut ke _~/.config/inkscape/extensions_.
-* Jika Anda menggunakan Windows, silahkan menempelkannya ke _~\AppData\Roaming\inkscape\ekstensions_.
+* Lalu, untuk pengguna GNU/Linux silakan menempel kedua berkas tersebut ke:
+```
+~/.config/inkscape/extensions
+```
+* Jika Anda menggunakan Windows, silahkan menempelkannya ke:
+```
+~\AppData\Roaming\inkscape\ekstensions
+```
 
 ## Cara Menggunakan Ekstensi
 
@@ -64,8 +71,14 @@ Palet warna yang Anda buat akan tersimpan di direktory palette dengan format *.g
 
 Lokasi berkasnya berada di:
 
-* GNU/Linux : _~/.config/inkscape/palette_.
-* Windows : _~\AppData\Roaming\inkscape\palette_.
+* GNU/Linux :
+```
+~/.config/inkscape/palette
+```
+* Windows :
+```
+~\AppData\Roaming\inkscape\palette
+```
 
 ***
 
