@@ -3,7 +3,7 @@ draft: false
 title: "Cara Ekspor Gambar Di Libre Office Impress"
 subtitle: "Libre Office Impress"
 seotitle: "Cara Ekspor Gambar Di Libre Office Impress"
-description : "Dengan menggunakan ekstensi ini orang bisa mengekspor semua slide dengan mudah. Didukung dengan citra JPG, PNG, GIF, BMP dan TIFF."
+description : "LibreOffice Impress merupakan perangkat lunak bebas untuk menampilkan salindia presentasi. Dengan menggunakan ekstensi ini Anda bisa mengekspor semua slide dengan mudah. Juga mendukung citra JPG, PNG, GIF, BMP dan TIFF."
 slug: "cara-ekspor-gambar-di-libre-office-impress"
 date: 2019-09-11T10:50:27+07:00
 categories:

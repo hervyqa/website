@@ -12,7 +12,7 @@ tags:
   - svgo
   - optipng
   - jpegoptim
-description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan Free Software"
+description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan perangkat lunak bebas."
 resources:
 - src: "cover.jpeg"
   name: "cover"

@@ -4,7 +4,7 @@ date: 2020-01-01T10:59:18+07:00
 title: "GNOME itu Berat!"
 subtitle: "Alasan saya menggunakan GNOME sebagai lingkungan dektop utama, meskipun berat."
 seotitle: "Alasan saya menggunakan GNOME sebagai lingkungan dektop utama, meskipun berat."
-description : "Tulisan ini merupakan pengalaman pribadi dengan GNOME. Lingkungan destop yang sederhana, kuat, dan elegan."
+description : "Tulisan ini merupakan pengalaman pribadi dengan GNOME. Lingkungan destop yang sederhana, kuat, dan elegan. Mengapa pakai GNOME, bukannya lebih berat? Mari kita simak."
 slug: ""
 categories:
 - desktop

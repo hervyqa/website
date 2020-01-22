@@ -12,7 +12,7 @@ tags:
   - inkscape
   - ilustrasi
   - free-software
-description : "Hal-hal yang perlu diketahui tentang inkscape untuk pemula mulai dari instalasi, performa, komunitas, dan kebebasan Free Software."
+description : "Artikel ini sangat relevan untuk pemula yang mau hijrah ke inkscape. Serta hal-hal yang perlu diketahui tentang inkscape dasar mulai dari pemasangan, performa, komunitas, dan kebebasan perangkat lunak."
 resources:
 - src: "cover.jpeg"
   name: "cover"

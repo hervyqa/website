@@ -3,7 +3,7 @@ draft: false
 date: 2020-01-11T13:02:25+07:00
 title: "Alasan Migrasi Dari Whatsapp Ke Telegram"
 subtitle: "Aplikasi perpesanan yang ringan dan kaya fitur"
-seotitle: "Alasan Migrasi Dari Whatsapp Ke Telegram. Aplikasi perpesanan yang ringan dan kaya fitur."
+seotitle: "Alasan Migrasi Dari Whatsapp Ke Telegram. Aplikasi perpesanan yang ringan dan kaya fitur. Telegram juga mempunyai keunggulan yang tidak ada di perpesanan instan lainnya. Apa saja kelebihannya?"
 description : "Tidak salah juga anda menggunakan WhatsApps, tapi..."
 slug: ""
 categories:

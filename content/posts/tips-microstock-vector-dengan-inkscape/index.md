@@ -1,10 +1,10 @@
 ---
 title: "Tips Microstock Vektor dengan Inkscape"
-subtitle: "Tidak Perlu lagi khawatir ditolak dari agensi"
+subtitle: "Memakai EPS bawaan Inkscape dan lolos dari berbagai agensi."
 seotitle: "Tips EPS Microstock dengan Inkscape"
 date: 2019-07-27T10:25:48+07:00
 draft: false
-slug: "tips-microstock-vektor-dengan-inkscape"
+slug: ""
 categories:
 - mikrostok
 - inkscape
@@ -15,7 +15,7 @@ tags:
 - ilustrasi
 - pemula
 - microstock
-description : "Hal-hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape."
+description : "Hal-hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape hingga lolos ke agensi."
 resources:
 - src: "cover.jpeg"
   name: "cover"

@@ -5,7 +5,7 @@ seotitle: "Gnome Bluez Libreoffice Impress Free Template"
 date: 2019-09-09T14:08:22+07:00
 draft: false
 slug: "gnome-bluez-libreoffice-impress-free-template"
-description : "Template merdeka LibreOffice Impress (ODT) GNOME Bluez, template yang digunakan oleh speaker GNOME.Asia Summit 2019"
+description : "Template merdeka LibreOffice Impress GNOME Bluez, template salindia tersebut digunakan oleh para pembicara GNOME.Asia Summit 2019. Ingin tahu demonya?"
 categories:
 - gnome
 - free

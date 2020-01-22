@@ -13,7 +13,7 @@ tags:
   - inkscape
   - ilustrasi
   - free software
-description : "Apa anda tau tentang lisensi Creative Commons? Penasaran? Simak pacnduan singkat berikut."
+description : "Apakah anda tau tentang lisensi Creative Commons? Penasaran? Simak panduan singkat berikut."
 resources:
 - src: "cover.jpeg"
   name: "cover"

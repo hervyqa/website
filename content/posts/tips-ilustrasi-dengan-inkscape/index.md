@@ -13,7 +13,7 @@ tags:
   - inkscape
   - otodidak
   - flat
-description: "Cara mudah untuk belajar ilustrasi dengan inkscape free software."
+description: "Tips dan cara mudah untuk belajar ilustrasi dengan Inkscape perangkat lunak bebas."
 resources:
 - src: "cover.jpeg"
   name: "cover"
@@ -32,34 +32,36 @@ Baik, berikut tipsnya.
 
 ## **Pertama, memahami jenis gaya desain**
 
-Dengan memahami jenis gaya desain, akan mengefektifkan ketika membuat ilustrasi. Misalnya, tatkala seseorang membuat desain dengan tipe datar atau flat. Maka dengan desain flat ini harus menghindari efek blur dan penggunaan garis luar (stroke/outline). Memang jenis desain flat itu sendiri banyak jenisnya, bisa Anda riset dulu gaya mana yang pas.
+Dengan memahami jenis gaya desain, akan mengefektifkan ketika membuat ilustrasi. Beberapa jenis desain misalnya flat, gradien, blur, mbe, chrome, wpap, dan lain-lain.
 
-Dengan memanfaatkan waktu tersebut bisa digunakan untuk revisi ke klien, membuat stok gambar atau sekedar membuat portofolio.
+Misalnya, tatkala seseorang membuat desain dengan tipe datar atau flat. Maka dengan desain flat ini harus menghindari efek blur dan penggunaan garis luar (stroke/outline). Memang jenis desain flat itu sendiri banyak jenisnya, bisa Anda riset dulu gaya yang pas untuk diterapkan.
 
-Jadi secara pribadi, gaya desain yang sering Penulis gunakan antara lain:
+Hasil memanfaatkan waktu tersebut, bisa digunakan untuk merevisi desain ke klien, membuat stok gambar atau sekedar membuat portofolio.
+
+Secara pribadi, gaya desain yang sering Penulis pilih yaitu:
 
 - Flat desain yang tidak memakai blur dan efek gradasi. (atau tidak memakai salah satunya)
 - Desain yang tidak memerlukan efek filter yang kompleks.
 - Bukan desain tiga dimensi, lebih mudah desain dua dimensi menurut Penulis karena Penulis sendiri tidak punya dasar animasi.
 - Desain ilustrasi yang tidak terdapat karakter manusia dan hewan, lebih mudah karena tidak perlu memiripkan karakter yang sesungguhnya.
 - Desain pattern, karena Penulis sendiri fokus ke desain seamless pattern dan tidak terlalu beresiko.
-- Terakhir, ilustrasi yang tidak mengandung aurat perempuan, tidak menyerupai manusia secara utuh, potongan tubuh, dan darah.
+- Terakhir, penulis juga tidak mengilustrasikan gambar yang memperlihatkan aurat perempuan, wajah, tubuh manusia secara utuh, potongan tubuh, ataupun darah.
 
-## **Boleh mengambil gambar orang lain, jika..**
+## **Boleh mengambil gambar orang lain, jika...**
 
 Boleh mengambil gambar jika digunakan untuk referensi belajar. Tujuannya untuk memahami style atau gaya, meniru lekukannya, meniru layoutnya, meniru gradasinya, detailnya, dan lain-lain. Dengan ini, kemampuan ilustrasi anda akan meningkat, tetapi konsistensi dalam membuat ilustrasi itu juga diperlukan.
 
-Hasil awal-awal mungkin tidak terlalu bagus, tapi itu tidak mengapa. Sebab sehebat-hebatnya ilustrator perlu latihan dan ekstra sabar untuk membuat ilustrasi yang indah dan menakjubkan.
+Hasil pertama mungkin tidak terlalu bagus, tapi itu tidak mengapa. Sebab sehebat-hebatnya ilustrator perlu latihan dan ekstra sabar untuk membuat ilustrasi yang indah dan menakjubkan.
 
 Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seperti ini cara membuat *lineart*-nya.. Oh jadi seperti ini.." Tentu orang akan paham dan tinggal mengeksekusi idenya ke digital.
 
-Ketahuilah, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, kreator sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan orag lain untuk menggunakan karya milik kreator. Caranya yaitu dengan mencantumkan atribusi dan logo jenis lisensi CC terhadap karya tersebut.
+Ketahuilah juga, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, kreator sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan orag lain untuk menggunakan karya milik kreator. Caranya yaitu dengan mencantumkan atribusi dan logo jenis lisensi CC terhadap karya tersebut.
 
 ## **Perbanyak latihan dan membuat portofolio**
 
 Semisalnya Hari Ahad ada jadwal kosong, atau yang biasanya bangun pagi sebelum subuh bisa digunakan untuk latihan membuat ilustrasi. Jika ilustrasinya bagus bisa dijadikan portofolio di [Behance] dan [Dribbble]. Jadi, tidak hanya teknik saja yang kuasai, tetapi dengan memperbanyak latihan dan membuat portofolio juga sebagai faktor ketertarikan klien.
 
-Nah sekarang masuk ke bagian teknisnya.
+Nah, sekarang masuk ke bagian teknisnya.
 
 ## **Pakai Tetikus atau Pentab**
 
@@ -161,4 +163,3 @@ Nah itu tadi beberapa tips dari Penulis. Sebenarnya ulasan ini masih kurang leng
 [inkscape]:https:inkscape.org
 [behance]:https://www.b.net
 [dribbble]:https://www.dribbble.com
-

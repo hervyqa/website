@@ -1,10 +1,10 @@
 ---
 draft: true
 date: 2019-09-12T07:57:25+07:00
-title: "Seamless Pattern Dengan Inkscape"
-subtitle: ""
-seotitle: ""
-description : ""
+title: "Cara membuat Seamless Pattern Dengan Inkscape"
+subtitle: "Seamless pattern merupakan pola yang menarik untuk jenis desain full print."
+seotitle: "Cara membuat Seamless Pattern Dengan Inkscape"
+description : "Seamless pattern merupakan pola yang terus menerus berulang hingga tidak ada sisa kanvas yang tertutup dengan bentuk pola tersebut. Seamless pattern merupakan pola yang menarik untuk jenis desain full print."
 slug: ""
 categories:
 - inkscape
@@ -19,7 +19,7 @@ Bismillahirrohmanirrohim.
 
 ***
 
-<div>{{< youtube cz2ez7vMaP0 >}}</div>
+{{< youtube cz2ez7vMaP0 >}}
 
 {{< photo src="1.jpg" alt="" >}}
 

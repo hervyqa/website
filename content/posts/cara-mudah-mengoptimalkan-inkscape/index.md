@@ -1,7 +1,7 @@
 ---
 title: "Cara Mudah Mengoptimalkan Inkscape"
 subtitle: "Meminimalisir Not Responding dan Mempercepat Work Flow"
-seotitle: "Mengoptimalkan Inkscape untuk mempercepat Work flow dan Meminimalisir Force Close"
+seotitle: "Mengoptimalkan Inkscape untuk mempercepat alur kerja dan meminimalisir tutup paksa. Jadi, dengan cara ini pekerjaan desain Anda lebih cepat dan aman."
 date: 2019-07-27T10:25:48+07:00
 draft: false
 slug: "cara-mudah-mengoptimalkan-inkscape"

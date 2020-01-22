@@ -4,7 +4,7 @@ date: 2019-09-19T11:15:16+07:00
 title: "Boolean Rekursif dengan Ekstensi Ink-Pathops Inkscape Di GNU/Linux"
 subtitle: "Ekstensi untuk Seamless Pattern"
 seotitle: "Boolean Rekursif dengan Ekstensi Ink-Pathops Inkscape Di GNU/Linux"
-description : "Ekstensi Inkscape yang berfungsi melakukan operasi boolean seperti union, difference, intersection, exclusion, division, cut path, dan combine secara rekursif dalam waktu yang bersamaan. Ink-pathops juga bisa melakukan proses boolean dalam grup objek."
+description : "Ekstensi Inkscape yang berfungsi melakukan operasi boolean seperti union, difference, intersection, exclusion, division, cut path, dan combine secara rekursif dalam waktu yang bersamaan. Ink-pathops juga bisa melakukan proses boolean objek di dalam grup."
 slug: "boolean-rekursif-dengan-ekstensi-ink-pathops-inkscape-di-gnulinux"
 categories:
 - inkscape

@@ -4,7 +4,7 @@ date: 2019-09-19T02:14:03+07:00
 title: "Membuat Usb Bootable Dengan GNOME Disks"
 subtitle: "GNU/Linux USB Bootable di GNOME"
 seotitle: "Membuat Usb Bootable GNU/Linux Dengan GNOME Disks"
-description : "Cara mudah membuat usb bootable dengan GNOME Disks"
+description : "Bootable adalah media pemasangan USB dari iso sistem operasi. Berikut tutorial mudah tentang membuat USB Bootable dengan GNOME Disks."
 slug: ""
 categories:
 - perkakas

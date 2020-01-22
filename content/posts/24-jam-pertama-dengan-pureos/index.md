@@ -4,7 +4,7 @@ date: 2019-09-18T16:41:21+07:00
 title: "24 Jam Pertama dengan PureOS"
 subtitle: "Migrasi ke GNU/Linux"
 seotitle: "24 Jam Pertama dengan GNU/Linux PureOS"
-description : "Hubungan PureOS dengan Free Software Foundation (FSF) dan alasan masuk akal penulis mengapa memilih PureOS."
+description : "PureOS merupakan distribusi GNU/Linux spesial yang dibangun oleh Purism dan secara resmi di endorse langsung oleh FSF (Free Software Foundation)."
 slug: "24-jam-pertama-dengan-pureos"
 categories:
 - desktop
