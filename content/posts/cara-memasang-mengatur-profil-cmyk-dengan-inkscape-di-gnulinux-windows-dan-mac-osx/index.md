@@ -21,7 +21,7 @@ Seringkali desainer mengalami perbedaan warna antara desain di monitor dengan ha
 
 ***
 
-Dengan profil warna Adobe ICC, inkscape dapat mengetahui warna mana saja yang didukung oleh CMYK. Profil warna CMYK yang disediakan oleh Adobe cukup bervariatif, misalnya SWOP, Gracol, Fogra dan-lain-lain. Profil warna tersebut didapatkan dengan mengunduh langsung di laman web Adobe.
+Dengan menggunakan profil warna Adobe ICC, inkscape dapat mengetahui warna mana saja yang didukung oleh CMYK. Profil warna CMYK yang disediakan oleh Adobe cukup bervariasi, misalnya SWOP, Gracol, Fogra, Japan Color dan-lain-lain. Profil warna tersebut didapatkan dengan mengunduh langsung di laman web Adobe.
 
 ## Jenis Profil Warna Adobe ICC
 
@@ -137,7 +137,7 @@ Contohnya seperti diatas. Tatkala menggunakan profil CMYK SWOP, warna yang digun
 
 ***
 
-Nah, itu tadi tips untuk merubah profil warna RGB ke CMYK. Dan cara menggunakan soft proofing out of gamut untuk menentukan batas warna CMYK di RGB.
+Nah, itu tadi tips untuk merubah profil warna RGB ke CMYK. Serta menggunakan soft proofing out of gamut untuk menentukan batas warna CMYK di profil warna RGB.
 
 Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin.
 
