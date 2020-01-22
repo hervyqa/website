@@ -4,7 +4,7 @@ date: 2020-01-22T10:04:24+07:00
 title: "Cara memasang Profil CMYK dengan Inkscape di GNU/Linux, Windows dan Mac OS-X"
 subtitle: "Menggunakan Adobe ICC sebagai profil warna CMYK"
 seotitle: "Cara memasang Profil CMYK dengan Inkscape di GNU/Linux, Windows dan Mac OS-X"
-description : "Tahukah Anda tentang cara merubah profil warna RGB menjadi CMYK dengan Inkscape? cara ini penting untuk menyelaraskan tampilan monitor sehingga tidak terjadi perbedaan hasil warna di percetakan offset maupun digital."
+description : "Tahukah Anda tentang cara merubah profil warna RGB menjadi CMYK dengan Inkscape? cara ini penting untuk menyelaraskan tampilan monitor, sehingga tidak terjadi perbedaan hasil warna di percetakan offset maupun digital."
 slug: ""
 categories:
 - inkscape
@@ -17,7 +17,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Seringkali desainer mengalami perbedaan warna antara desain di monitor dengan hasil setelah dicetak. Hal ini terjadi karena kurangnya pemahaman tentang pengaturan [profil warna](https://en.wikipedia.org/wiki/ICC_profile). Inkscape tidak menyediakan profil warna CMYK sehingga nanti tetap menggunakan profil warna sRGB, tetapi menerapkan warna SWOP (Specifications for Web Offset Publications) untuk profil CMYK di sRGB. Anda juga bisa menggunakan warna GRACol (Graphics Communication Association) sebagai alternatif warna SWOP.
+Seringkali desainer mengalami perbedaan warna antara desain di monitor dengan hasil setelah dicetak. Hal ini terjadi karena kurangnya pemahaman tentang pengaturan [profil warna](https://en.wikipedia.org/wiki/ICC_profile). Inkscape tidak menyediakan profil warna CMYK sehingga nantinya tetap menggunakan profil warna sRGB, tetapi menerapkan warna SWOP (Specifications for Web Offset Publications) untuk profil CMYK di sRGB. Anda juga bisa menggunakan warna GRACol (Graphics Communication Association) sebagai alternatif warna SWOP.
 
 ***
 
@@ -27,7 +27,7 @@ Dengan menggunakan profil warna Adobe ICC, inkscape dapat mengetahui warna mana 
 
 ### #RGB
 
-Selain menggunakan profil warna sRGB, inkscape dapat menggunakan profil warna lainnya, yaitu:
+Selain menggunakan profil warna sRGB, Inkscape dapat menggunakan profil warna lainnya, seperti:
 
 * 8 RGB profiles
 * Adobe RGB (1998)
@@ -41,7 +41,7 @@ Selain menggunakan profil warna sRGB, inkscape dapat menggunakan profil warna la
 
 ### #CMYK
 
-Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adalah **US Web Coated (SWOP) v2**. Selain profil warna tersebut dapat menggunakan profil warna CMYK lain, seperti:
+Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adalah profil **US Web Coated (SWOP) v2**. Selain profil warna tersebut dapat menggunakan profil warna CMYK lain, seperti:
 
 * US Web Coated (SWOP) v2
 * US Web Uncoated v2
@@ -67,12 +67,12 @@ Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adal
 * Kemudian ekstrak `AdobeICCProfilesCS4Win_end-user.zip`.
 * Salin direktori **RGB** dan **CMYK**, kemudian tempelkan ke direktori dibawah ini. Gunakan hak akses root untuk menempelkannya.
 ```
-usr/share/color/icc/
+/usr/share/color/icc/
 ```
 
-### Arch, Manjaro dan turunannya.
+### Arch linux, Manjaro dan turunannya.
 
-Untuk pengguna Arch linux dan turunannya dapat menggunakan AUR Helper untuk memasang Adobe-ICC.
+Untuk pengguna Arch linux dan turunannya dapat menggunakan AUR Helper (misalnya yay) untuk memasang Adobe-ICC.
 
 ```
 yay adobe-icc
@@ -100,7 +100,7 @@ C:\Windows\system32\spool\drivers\
 
 ## Mengatur Profil warna di Inkscape
 
-* Buka Inkscape, kemudian pilih Menu > Sunting (Edit) > Pilih Preferences.
+* Buka Inkscape, kemudian pilih Menu >Sunting (Edit) > Pilih Preferences.
 * Pada Tab Input/Output, pilih Manajemen Warna.
 * Pada Pengaturan tampilan, pilihan Profil warna RGB, misalnya **Adobe RGB (1998)** atau **Apple RGB**.
 * Pada Proofing cawang **Simulasi keluaran warna dilayar**.
@@ -118,11 +118,11 @@ _Dengan menandai warna diluar gamut, artinya warna yang tidak didukung CMYK akan
 
 ## Warna Diluar Gamut
 
-Didalam urusan percetakan, pengecekan warna dengan soft proofing "out of gamut" sangat berguna. Fungsinya untuk mengetahui batasan warna CMYK didalam profil warna RGB. Juga mengetahui perubahan warna yang signifikan ketika akan dicetak.
+Didalam urusan percetakan, pengecekan warna dengan soft proofing "out of gamut" sangat membantu. Terutama untuk mengetahui batasan warna CMYK didalam profil warna RGB. Juga mengetahui perubahan warna yang signifikan ketika akan dicetak.
 
 Triknya adalah dengan tidak menggunakan warna khusus, seperti hijau pekat, biru pekat, dan fusia. Lebih baik hindari warna-warna tersebut.
 
-Jika terpaksa menggunakan warnanya, maka kurangilah saturasinya. Serta gunakan pencahayaan yang cukup, sehingga warna tidak terlalu gelap.
+Jika terpaksa menggunakan warnanya, maka kurangi saturasinya. Serta gunakan pencahayaan yang cukup, sehingga warna tidak terlalu gelap.
 
 {{< photo class=fullwidth src="out_off_gammut.png" alt="Warna diluar gamut di Inkscape" >}}
 
@@ -133,7 +133,7 @@ Untuk mengaktifkan profil warna, tekan tombol kanan bawah, diatas palet warna.
   {{< photo src="profil_warna_aktif.png" alt="Profil warna aktif di Inkscape" >}}
 {{</ photoset >}}
 
-Contohnya seperti diatas. Tatkala menggunakan profil CMYK SWOP, warna yang digunakan sesuai dan tanpa keluar dari warna gamut. Maka perbedaan warna keduanya tidak terlalu berubah. Sehingga warna desain yang dicetak tidak mengalami perubahan yang signifikan baik cetak offset maupun digital.
+Contohnya seperti diatas. Tatkala menggunakan profil CMYK SWOP, warna yang digunakan sesuai dan tanpa keluar dari warna gamut. Maka perbedaan warna keduanya tidak terlalu berubah. Sehingga warna desain yang dicetak tidak mengalami perubahan yang signifikan baik dicetak offset maupun digital.
 
 ***
 
