@@ -15,7 +15,7 @@ resources:
 - src: "*.jpeg"
 ---
 
-<div>{{< youtube G_qMMniCZgw >}}</div>
+{{< youtube G_qMMniCZgw >}}
 
 Bismillahirrohmanirrohim.
 

@@ -7,7 +7,7 @@ seotitle: "Alasan Migrasi Dari Whatsapp Ke Telegram. Aplikasi perpesanan yang ri
 description : "Tidak salah juga anda menggunakan WhatsApps, tapi..."
 slug: ""
 categories:
-- desktop
+- aplikasi
 - free
 resources:
 - src: "cover.jpeg"
