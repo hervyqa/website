@@ -22,7 +22,9 @@
   {{ partial "gallery.html" . }}
   {{ partial "ads_display.html" . }}
   {{.Content}}
+  <div>
   {{ partial "ads_article.html" . }}
+  </div>
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
