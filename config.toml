@@ -79,11 +79,11 @@ title = "Belajar Mengetik dengan Libre Office"
   identifier = "dokumen"
   url = "/dokumen"
 [[menu.main]]
-  name = "Free Template"
-  title = "Free Template Libre Office"
+  name = "Template"
+  title = "Template Libre Office"
   weight = 3
-  identifier = "free"
-  url = "/free"
+  identifier = "template"
+  url = "/template"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"

@@ -1,5 +1,5 @@
 ---
 title: "Free"
-seotitle: "Free Template - Hervy Qurrotul Ainur Rozi"
-description: "Template Gratis untuk Presentasi, Proposal, dan Mockup Majalah. Disertai dengan Source Code."
+seotitle: "Free - Hervy Qurrotul Ainur Rozi"
+description: "Perangkat lunak bebas. Disertai dengan Source Code."
 ---

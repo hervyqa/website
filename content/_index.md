@@ -18,7 +18,14 @@ tags:
   - lisensi
   - cc
   - shutterstock
+  - mikrostock
+  - etsy
+  - freepik
+  - adobestock
+  - 123rf
+  - dreamstime
   - libreoffice
+  - gnome
 resources:
 - src: "*.jpg"
 ---
