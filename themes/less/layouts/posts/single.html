@@ -20,14 +20,16 @@
     {{ end}}
   {{ end }}
   {{ partial "gallery.html" . }}
-  {{ partial "ads_display.html" . }}
-  {{.Content}}
   <div>
-  {{ partial "ads_article.html" . }}
+  {{ partial "ads_display.html" . }}
   </div>
+  {{.Content}}
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
+  <div>
+  {{ partial "ads_article.html" . }}
+  </div>
   <div id="comments" class="thin">
     {{- partial "comments.html" . -}}
   </div>
