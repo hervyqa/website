@@ -4,9 +4,9 @@
     {{ range $index, $post := (.Paginator 6).Pages }}
       {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
     {{ end }}
-  </div>
   <div>
   {{ partial "ads_feed.html" . }}
+  </div>
   </div>
 </div>
   {{ template "_internal/pagination.html" . }}
