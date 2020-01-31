@@ -1,5 +1,5 @@
 ---
 title: "Aplikasi"
-seotitle: "Aplikasi - Hervy Qurrotul Ainur Rozi"
+seotitle: "Aplikasi - Hervyqa.com"
 description: "Tips belajar Aplikasi dengan Free/Libre Open Source Software."
 ---

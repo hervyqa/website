@@ -1,5 +1,5 @@
 ---
 title: "Desain"
-seotitle: "Desain Grafis - Hervy Qurrotul Ainur Rozi"
+seotitle: "Desain Grafis - Hervyqa.com"
 description: "Tips Desain Grafis, Ilustrasi dan Digital Painting dengan Free/Libre Open Source Software."
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Free"
-seotitle: "Free - Hervy Qurrotul Ainur Rozi"
+seotitle: "Free - Hervyqa.com"
 description: "Perangkat lunak bebas. Disertai dengan Source Code."
 ---

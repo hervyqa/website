@@ -1,5 +1,5 @@
 ---
 title: "Desktop"
-seotitle: "Desktop - Hervy Qurrotul Ainur Rozi"
+seotitle: "Desktop - Hervyqa.com"
 description: "Kumpulan tips pengaturan desktop."
 ---

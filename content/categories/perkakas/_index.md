@@ -1,5 +1,5 @@
 ---
 title: "Perkakas"
-seotitle: "Perkakas - Hervy Qurrotul Ainur Rozi"
+seotitle: "Perkakas - Hervyqa.com"
 description: "Perkakas tambahan untuk kebutuhan desain."
 ---

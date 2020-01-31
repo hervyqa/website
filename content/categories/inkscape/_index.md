@@ -1,5 +1,5 @@
 ---
 title: "Inkscape"
-seotitle: "Inkscape - Hervy Qurrotul Ainur Rozi"
+seotitle: "Inkscape - Hervyqa.com"
 description: "Tips Desain Grafis dan Ilustrasi Menggunakan Inkscape."
 ---
