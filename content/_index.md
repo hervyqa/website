@@ -1,7 +1,7 @@
 ---
 title: "Hervyqa.com"
-seotitle: "Hervyqa.com - Desain Grafis Blog, Seamless Pattern, Ilustrasi, dan GNU/Linux."
-description: "Desain Grafis Blog dengan FLOSS (Free/Libre Open Source Software), Tutorial Seamless Pattern, Ilustrasi, dan GNU/Linux Antusias."
+seotitle: "Hervyqa.com - Desain Grafis Blog, Seamless Pattern, Ilustrasi, Inkscape, dan GNU/Linux."
+description: "Desain Grafis Blog dengan FLOSS (Free/Libre Open Source Software), Inkscape, Gimp, Seamless Pattern, Ilustrasi, dan GNU/Linux Antusias."
 date: 2019-07-26T22:57:50+02:00
 draft: false
 tags:

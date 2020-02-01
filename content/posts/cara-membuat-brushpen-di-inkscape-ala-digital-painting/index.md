@@ -104,7 +104,7 @@ Mungkin contoh diatas menggunakan path yang sederhana. Tetapi Anda juga bisa men
 
 # Mockup path brush.
 
-Penulis sudah membuat template inkscape (.svg) agar lebih mudah digunakan. Silakan klik kanan [tautan ini](mockup_brush.svg) lalu **Save link As** untuk mengunduh.
+Penulis sudah membuat template inkscape (.svg) agar lebih mudah digunakan. Silakan klik kanan [tautan ini](mockup_brushpen.svg) lalu **Save link As** untuk mengunduh.
 
 {{< photo src="mockup_brushpen.png" alt="Mockup Brushpen Inkscape" >}}
 
