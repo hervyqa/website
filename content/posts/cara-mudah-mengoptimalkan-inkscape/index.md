@@ -26,7 +26,7 @@ Tips ini penulis gunakan untuk menghindari tutup paksa di inkscape. Terkadang se
 
 ***
 
-## Gunakan filter kualitas rendah
+# Gunakan filter kualitas rendah
 
 Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses render filter dan blur.
 
@@ -37,7 +37,7 @@ Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk 
 
 Jika menggunakan blur, sebaiknya jangan meng-_zoom_ area blur terlalu dekat.
 
-## Gunakan ikon paling kecil
+# Gunakan ikon paling kecil
 
 Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
 
@@ -47,7 +47,7 @@ Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
 * Pilih **Control Bar icon size** : **Smaller**.
 * Pilih **Secondary Toolbar icon size** : **Smaller**.
 
-## Impor bitmap dengan link
+# Impor bitmap dengan link
 
 Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya sendiri lebih memilih _link_  untuk mengimpor gambar bitmap. Anda juga bisa mengaturnya di bagian preferences.
 
@@ -57,7 +57,7 @@ Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya 
 * Pada **Bitmap link**, pilih: **Link**.
 * Pada **Bitmap scale** : **Blocky**.
 
-## Aktifkan autosave
+# Aktifkan autosave
 
 Karena di Windows tidak ada duplikasi ketika _force close_ maka aktifkan juga autosave di preferences.
 
@@ -75,7 +75,7 @@ Untuk GNU/Linux, tetap seperti ini :
 
 Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah mengkoreksi. :)
 
-## Aktifkan snap seperlunya
+# Aktifkan snap seperlunya
 
 Tombol pintasan snap adalah **<kbd>%</kbd>**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis cukup mengaktifkan snap seperlunya saja. Misalnya,
 
@@ -84,11 +84,11 @@ Tombol pintasan snap adalah **<kbd>%</kbd>**, letak snap dibagian sebelah kanan 
 * snap other points.
 * snap to page border.
 
-## Hindari undo/redo mode teks
+# Hindari undo/redo mode teks
 
 Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc** kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node yang ribet maka aman-aman saja pakai undo redo sebanyak apapun.
 
-## Gradasi sedikit node
+# Gradasi sedikit node
 
 Penulis sering menggunakan gradasi tapi tidak pernah sampai _force close_. Jika dirasa berat, maka segeralah simpan dan buka kembali berkas inkscape tadi.
 

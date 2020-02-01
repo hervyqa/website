@@ -22,27 +22,27 @@ Template merdeka "GNOME BLUEZ". Template tersedia dengan title yang menawan, uku
 
 ***
 
-## **Fonta yang dibutuhkan:**
+# **Fonta yang dibutuhkan:**
 
 Agar lebih maksimal dalam menampilkan slide. Secara bawaan fonta yang digunakan adalah Adobe Source Sans Pro. [Lihat cara pasang](/cara-pasang-adobe-source-pro-fonts)
 
 ***
 
-## **Free version:**
+# **Free version:**
 
 1. OTP 36 slide
 2. SVG 36 slide (Source)
 
 ***
 
-## **Unduh Template (.zip)**
+# **Unduh Template (.zip)**
 
 1. [Libre office template OTP](https://gitlab.com/hervyqa/gnome-bluez/uploads/6f4e2e6823b2b937b9cba947eafef0f6/gnome-bluez-template-v1.0.1.zip)
 2. [Libre office template OTP & SVG Source](https://gitlab.com/hervyqa/gnome-bluez/uploads/358d6c3f1db303854eb394aeaf6f4a6c/gnome-bluez-source-v1.0.1.zip)
 
 ***
 
-## **Cuplikan template**
+# **Cuplikan template**
 
 {{< photoset max="3" >}}
   {{< photo src="1.jpeg" alt="" >}}

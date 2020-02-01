@@ -21,7 +21,7 @@ Bismillahirrohmanirrohim.
 Dengan Inkscape merge mencetak sertifikat lebih cepat dan effisien. Berbekal aplikasi inkscape untuk generate pdf, libreoffice calc untuk membuat data spreadsheet csv, dan terminal emulator tentunya.
 ***
 
-## Pasang Inkscape Merge
+# Pasang Inkscape Merge
 
 Buka terminal anda kemudian jalankan perintah ini
 
@@ -40,7 +40,7 @@ export PATH="${HOME}/.gem/ruby/2.6.0/bin:$PATH"
 {{< photo src="gem-path.jpeg" alt="gem-path" >}}
 
 ***
-## Variabel
+# Variabel
 
 Pada tutorial ini Saya akan menggunakan variabel seperti berikut.
 
@@ -51,7 +51,7 @@ Pada tutorial ini Saya akan menggunakan variabel seperti berikut.
 Variabel ini hanya sekedar contoh, Anda bisa menggunakan variabel lain misalnya id, inisial, alamat, hp, instansi dan lain-lain. Jadi, untuk membuat variabel diawali dengan %VAR_ kemudian diakhiri dengan %.
 
 ***
-## Membuat Template Sertifikat dengan Inkscape
+# Membuat Template Sertifikat dengan Inkscape
 
 Tahap ini membuat template dengan Inkscape. Buatlah sertifikat dengan ukuran A4 format datar (lebar=29.7, tinggi=21 cm). Sebagai contoh hasil template.svg seperti berikut ini.
 
@@ -70,7 +70,7 @@ Pastikan menggunakan rata tengah untuk variabel. Umumnya ketika di generate untu
 {{</ photoset >}}
 
 ***
-## Membuat Data CSV
+# Membuat Data CSV
 
 Buka libreoffice calc, kemudian buatlah data seperti ini sebagai contohnya.
 
@@ -81,7 +81,7 @@ Pastikan variabel di calc ini memiliki nama yang sesuai dengan variabel di templ
 {{< photo src="simpan-sertifikat.jpeg" alt="simpan-sertifikat" >}}
 
 ***
-## Eksekusi
+# Eksekusi
 
 Perintah eksekusinya begitu mudah dipahami.
 
@@ -107,7 +107,7 @@ keterangan:
 * -o = keluaran sertifikat, pada contoh diatas yaitu membuat direktori sertifikat dan setiap nama berkas sertifikat diawali dengan variabel nama.
 
 ***
-## Hasil Eksekusi
+# Hasil Eksekusi
 
 Hasil PDF berada di direktori "sertifikat"
 
@@ -116,7 +116,7 @@ Hasil PDF berada di direktori "sertifikat"
 Begitu mudah bukan. Sekian, semoga bermanfaat.
 
 ***
-## Pranala penting
+# Pranala penting
 
 * Github [inkscape_merge](https://github.com/borgand/inkscape_merge)
 * Unduh artboard [sertifikat](https://gitlab.com/hervyqa/artboard/raw/master/sertifikat.svg?inline=false)

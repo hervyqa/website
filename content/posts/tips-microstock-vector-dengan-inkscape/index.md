@@ -36,9 +36,9 @@ Jadi, ada beberapa hal yang harus dilakukan dan dihindari. Berikut penjelasannya
 
 ***
 
-## **Hal-hal yang perlu dilakukan**
+# Hal-hal yang perlu dilakukan
 
-### Berilah Solid Background dengan Ukuran 4000px:4000px sesuai kanvas
+## Berilah Solid Background dengan Ukuran 4000px:4000px sesuai kanvas
 
 Tujuannya untuk menyamakan antara ukuran artwork dengan ukuran kanvas (artboard) di inkscape. Sekaligus untuk memenuhi syarat shutterstock yaitu gambar vektor minimal 4MP.
 
@@ -48,7 +48,7 @@ Anda bisa memberikan backround warna putih. Buatlah 2 layer, misalnya: **Backgro
 
 {{< photo src="layer.png" alt="Layer Inksape 4000px:4000px" >}}
 
-### Konversi Objek menjadi bentuk Path
+## Konversi Objek menjadi bentuk Path
 
 Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**, maka konversikan ke bentuk path. Caranya dengan menekan **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd>**.
 
@@ -60,38 +60,38 @@ Tatkala desain sudah final, Anda perlu memeriksa kembali barangkali ada objek ya
 
 ***
 
-## **Hal-hal yang perlu Anda hindari**
+# Hal-hal yang perlu Anda hindari
 
-### Jangan sampai ada Path yang putus
+## Jangan sampai ada Path yang putus
 Jika ada path yang memiliki warna pada stroke dan fill, tapi putus nodenya. Maka segera hubungkan dahulu titik nodenya. Karena EPS sendiri tidak mendukung objek dengan path putus selagi ada warna fill. Begitu pula CorelDraw tidak bisa membuat objek dengan path terputus.
 
 {{< photo src="path-putus.png" alt="Konversi dengan Inksape" >}}
 
-### Jangan menggunakan Transparansi
+## Jangan menggunakan Transparansi
 Transparansi akan memberikan warna solid pada EPS. Gunakan pick color untuk mengelabuhi tranparansi. Isilah warna gradien tersebut dengan warna yang ada dibelakangnya. Sehingga warna seolah-olah transparansi.
 
 {{< photo src="gradien.png" alt="Gradien dengan Inksape" >}}
 
-### Jangan Mengunci Layer
+## Jangan Mengunci Layer
 Jangan lupa untuk membuka semua layer, dan hapus layer yang tidak diperlukan. Periksa juga layernya agar tetap memakai normal mode.
 
 {{< photo src="layer.png" alt="Layer Inksape 4000px:4000px" >}}
 
-### Jangan memberikan Pattern, Mesh, Path Efek, dan Filter.
+## Jangan memberikan Pattern, Mesh, Path Efek, dan Filter.
 
 Fitur ini hanya diperuntukkan untuk inkscape, sedangkan untuk piranti lain belum tentu fitur tersebut bisa digunakan. Untuk amannya, Anda tidak perlu menggunakan pattern, mesh, path efek dan filter. Jadi, biarkan apa adanya.
 
 ***
 
-## **Pilihan yang dianjurkan**
+# Pilihan yang dianjurkan
 
-### Pastikan memilih Gradien yang solid
+## Pastikan memilih Gradien yang solid
 
 Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, maka gunakan gradien radial yang simetris lingkaran sempurna dan bukan gradien yang lonjong. Gunakan tombol **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd>** kemudian drag, untuk membuat gradien radial yang simetris.
 
 {{< photo src="solid.png" alt="Gradien solid dengan Inksape" >}}
 
-### Meyelaraskan Ciri khas
+## Meyelaraskan Ciri khas
 
 Selaraskan ciri khas vektor Anda, misalnya desain fokus pada logo, maka seterusnya membuat logo. jika membuat mandala maka terus seterusnya membuat mandala. jika membuat maskot maka seterusnya membuat maskot, jika membuat pattern maka seterusnya membuat pattern, dan sebagainya.
 
@@ -104,20 +104,20 @@ Contohnya seperti ini.
 
 {{< photo src="pattern.jpeg" alt="Pattern dengan Inksape" >}}
 
-### Gunakan nama berkas sesuai SEO
+## Gunakan nama berkas sesuai SEO
 Untuk memudahkan penerapan SEO, gunakan nama berkas EPS dengan huruf kecil (lowercase). Misalnya:
 
 * happy-farmer.eps
 * flat-android-mockup.eps
 * kids-in-the-train.eps
 
-### Pilih Kuantitas apa Kualitas?
+## Pilih Kuantitas apa Kualitas?
 Kalau Anda yang baru mulai, lebih baik mengejar kuantitas dengan kualitas yang cukup. Jika sudah banyak stocknya, boleh ditingkatkan lagi kualitasnya supaya seimbang.
 
-### Target Harian/Mingguan/Bulanan
+## Target Harian/Mingguan/Bulanan
 Lebih baik tentukan sendiri target vektornya, karena kemampuan setiap orang berbeda-beda. Berapapun targetnya Anda harus berkomitmen terhadap apa yang Anda putuskan tadi.
 
-### Macam-macam agensi mikrostok
+## Macam-macam agensi mikrostok
 Ada berbagai macam agensi mikrostok dan memiliki peraturan yang berbeda pula, seperti berikut ini.
 
 * [123rf]
@@ -130,7 +130,7 @@ Tetapi kembali kepada si Kreator juga. Misalnya, penggunakan gradien dengan EPS 
 
 Hal ini tentu akan mempengaruhi gaya yang anda buat, apakah tetap menggunakan gradien atau tidak. Kalau Penulis secara pribadi lebih memilih desain flat tanpa gradien, tujuannya untuk meminimalisir penolakan dari berbagai agensi.
 
-### Perhatikan Metadata
+## Perhatikan Metadata
 
 Tatkala mengirim EPS ke agensi Microstock gunakan metadata yang berhubungan dengan desain yang Anda buat tadi. Perhatikan juga penulisan metadata Anda. Aturannya sangat mudah:
 

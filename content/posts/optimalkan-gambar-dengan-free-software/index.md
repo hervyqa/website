@@ -25,7 +25,7 @@ Ada beberapa perkakas yang menurut Penulis bermanfaat untuk mengoptimalkan berka
 
 ***
 
-## Pertama, kompresi berkas svg dengan SVGO
+# Pertama, kompresi berkas svg dengan SVGO
 
 Laman Web: https://github.com/svg/svgo
 
@@ -92,7 +92,7 @@ Done in 336 ms!
 
 ***
 
-## Kompresi berkas PNG dengan OptiPng
+# Kompresi berkas PNG dengan OptiPng
 
 Laman Web: http://optipng.sourceforge.net/
 
@@ -178,7 +178,7 @@ Alhamdulillah! dari 281Kib jadi 263Kib. Meskipun ukuran berkasnya tidak terlalu 
 
 ***
 
-## Kompresi berkas JPG dan JPEG dengan JpegOptim
+# Kompresi berkas JPG dan JPEG dengan JpegOptim
 
 Laman Web: https://github.com/tjko/jpegoptim
 

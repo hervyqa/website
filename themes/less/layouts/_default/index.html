@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="main">
     <div class="list journal">
-    {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 6) }}
+    {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 8) }}
     {{ range $index, $post := $paginator.Pages }}
       {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
     {{ end }}

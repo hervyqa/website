@@ -21,7 +21,7 @@ Artboard ini berfungsi untuk mempermudah membuat perngaturan properties dokumen 
 
 ***
 
-## Artboard?
+# Artboard?
 
 Artboard merupakan area kerja dengan memiliki ukuran. Kemudian apa perbedaannya dengan template?, Jelas beda. Template atau mockup sudah ada konten didalam artboard itu sendiri. Template sendiri biasanya sudah termasuk komponen/elemen desainnya, misal teks, objek, path, bitmap, dll. Sedangkan artboard hanya polosan saja, tanpa elemen apapun. Hanya saja artboard ini sudah diatur nilai panjang dan lebarnya, dan fokus ke ukuran area kerja atau kanvas tadi.
 
@@ -29,7 +29,7 @@ Langsung saja, Saya akan mendemontrasikan contohnya. Misalnya membuat artboard L
 
 ***
 
-## Pengaturan Properti Dokumen
+# Pengaturan Properti Dokumen
 
 Di Document properties <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd></kbd>.
 
@@ -39,13 +39,13 @@ Di Document properties <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd></k
 * Mengatur Width  : 500 px
 * Aktifkan checkerboard di background.
 
-## Pengaturan Layer
+# Pengaturan Layer
 
 * Buat 2 layer <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>L</kbd></kbd>, "Background" dan "Artwork".
 * Buatlah persegi sesuai artboard. Misalnya 500 X 500 px sesuai ukuran logo tadi. Kemudian luruskan sesuai kanvas. dan taruh ke layer "Background". Kemudian lock layer background tersebut.
 * Kemudian, Pindah dan pilih layer "Artwork".
 
-## Simpan Artboard
+# Simpan Artboard
 
 * Simpan artboard dengan nama "Logo.svg".
 * Selesai.
@@ -54,7 +54,7 @@ Jadi semudah itu membuat artboard. Jadi kalau membuat logo baru ya tinggal salin
 
 ***
 
-## Ukuran Artboard
+# Ukuran Artboard
 
 Beberapa artboard yang sudah saya kumpulkan lengkap dengan ukurannya, seperti dibawah ini.
 
@@ -104,12 +104,12 @@ Beberapa artboard yang sudah saya kumpulkan lengkap dengan ukurannya, seperti di
 
 Atau anda bisa mengunduhnya di repo [Artboard](https://gitlab.com/hervyqa/artboard.git)
 
-## Cara Ekspor Gambar
+# Cara Ekspor Gambar
 
 Biasanya untuk ekspor berkas PNG dengan **96** DPI untuk hasil standar. Apabila menginginkan hasil yang maksimal gunakanlah **300** DPI.
 
 
-## Menggunakan Artboard sebagai Template
+# Menggunakan Artboard sebagai Template
 
 Salin dan tempelkanlah artboard-artboard yang diperlukan ke `~/Templates`. Kemudian Anda bisa membuat artboard dengan klik kanan, Dokumen baru, lalu pilih artboard yang diinginkan.
 

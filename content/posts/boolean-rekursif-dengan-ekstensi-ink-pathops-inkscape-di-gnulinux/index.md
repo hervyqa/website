@@ -45,7 +45,7 @@ Pada tahap ini pattern sudah siap untuk dijadikan desain seamless pattern.
 
 ***
 
-## Tahap Pemasangan
+# Tahap Pemasangan
 
 Cara pemasangan ekstensi ini mudah dan cepat, seperti cara dibawah ini.
 
@@ -70,7 +70,7 @@ Langkah 6: Lanjutlah untuk membuka aplikasi Inkscape.
 Langkah 7: Ink-pathops akan terlihat di Menu Extensions > Generate from Path > PathOps.
 {{< photo src="7.jpeg" alt="ekstensi-ink-pathops" >}}
 
-## Penggunaan
+# Penggunaan
 
 Buka menu Pathops :
 
@@ -88,7 +88,7 @@ Kemudian pilih boolean akan digunakan.
 
 Prosesnya sama dengan boolean inkscape pada umumnya, tinggal memilih objek yang akan digunakan kemudian pilih boolean di PathOps.
 
-## Kode Sumber
+# Kode Sumber
 
 Ekstensi ini dikembangkan dan dikelola oleh:
 https://gitlab.com/su-v/inx-pathops
@@ -96,7 +96,7 @@ https://gitlab.com/su-v/inx-pathops
 Arsip ZIP terbaru bisa di unduh disini: 
 https://gitlab.com/su-v/inx-pathops/tags
 
-## Lisensi
+# Lisensi
 
 Ink-PathOps menggunakan lisensi GPL-2+.
 

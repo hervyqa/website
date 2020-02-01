@@ -22,7 +22,7 @@ Tulisan ini menunjukkan hal-hal apa saja yang perlu dilakukan setalah install GN
 
 ***
 
-## Refresh dan Update
+# Refresh dan Update
 
 Ada dua cara mengupdate di GNU/Linux, pertama menggunakan GUI di software center KDE atau yang disebut Dicover dan kedua menggunakan CLI di terminal.
 Hal yang penulis sukai adalah mengeksekusi perintah dengan terminal. Di KDE Aplikasi, terminal biasa disebut "Konsole".
@@ -35,9 +35,9 @@ sudo pkcon refresh -y && sudo pkcon update -y
 
 ***
 
-## Install Paket Dasar
+# Pasang Paket Dasar
 
-Selanjutnya install paket dasar seperti git, fonta, codec, icc-profil dan lain-lain.
+Selanjutnya pasang paket dasar seperti git, fonta, codec, icc-profil dan lain-lain.
 
 ```
 sudo pkcon install \
@@ -50,7 +50,7 @@ kcron kubuntu-driver-manager icc-profiles icc-profiles-free -y
 
 ***
 
-## Install KDE Aplikasi
+# Pasang KDE Aplikasi
 
 Memasang aplikasi QT dan KDE.
 
@@ -63,7 +63,7 @@ amarok sweeper simplescreenrecorder ktorrent akregator \
 konversation kleopatra korganizer kontact -y
 ```
 
-Karena sudah install Kaffeine player sebagai pemutar Video, sebaiknya hapus VLC Sebab Kaffeine lebih ringan dan dikembangkan langsung oleh tim KDE.
+Karena sudah memasang Kaffeine player sebagai pemutar Video, sebaiknya hapus VLC Sebab Kaffeine lebih ringan dan dikembangkan langsung oleh tim KDE.
 
 ```
 sudo pkcon install kaffeine -y; sudo pkcon remove vlc -y
@@ -77,7 +77,7 @@ sudo pkcon install falkon -y; sudo pkcon remove firefox -y;
 
 ***
 
-## Install Paket Aplikasi untuk Desain dan Produktifitas
+# Pasang Paket Aplikasi untuk Desain dan Produktifitas
 
 Pasang Aplikasi desain dan perkantoran.
 ```
@@ -100,7 +100,7 @@ kdenlive synfigstudio -y
 
 ***
 
-## Terakhir Hapus Depedensi yang tidak diperlukan
+# Terakhir, Hapus Depedensi yang tidak diperlukan
 
 ```
 sudo apt autoremove -y

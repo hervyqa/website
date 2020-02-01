@@ -10,7 +10,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 6
+paginate = 8
 
 [author]
   name = "Hervy Qurrotul Ainur"

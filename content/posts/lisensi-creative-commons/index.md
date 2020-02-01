@@ -32,7 +32,7 @@ Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian
 
 ***
 
-## **SIMBOL**
+# Simbol
 
 Simbol-simbol lisensi Creative Commons mempunyai arti kurang lebih seperti ini.
 
@@ -46,7 +46,7 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 
 ***
 
-## **ATRIBUSI**
+# Atribusi
 
 ## CC BY
 

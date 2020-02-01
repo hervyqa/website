@@ -30,7 +30,7 @@ Alhamdulillah, karena menerapkan tips ini Penulis berhasil menang dalam ajang lo
 
 Baik, berikut tipsnya.
 
-## **Pertama, memahami jenis gaya desain**
+# Pertama, memahami jenis gaya desain
 
 Dengan memahami jenis gaya desain, akan mengefektifkan ketika membuat ilustrasi. Beberapa jenis desain misalnya flat, gradien, blur, mbe, chrome, wpap, dan lain-lain.
 
@@ -47,7 +47,7 @@ Secara pribadi, gaya desain yang sering Penulis pilih yaitu:
 - Desain pattern, karena Penulis sendiri fokus ke desain seamless pattern dan tidak terlalu beresiko.
 - Terakhir, penulis juga tidak mengilustrasikan gambar yang memperlihatkan aurat perempuan, wajah, tubuh manusia secara utuh, potongan tubuh, ataupun darah.
 
-## **Boleh mengambil gambar orang lain, jika...**
+# Boleh mengambil gambar orang lain, jika...
 
 Boleh mengambil gambar jika digunakan untuk referensi belajar. Tujuannya untuk memahami style atau gaya, meniru lekukannya, meniru layoutnya, meniru gradasinya, detailnya, dan lain-lain. Dengan ini, kemampuan ilustrasi anda akan meningkat, tetapi konsistensi dalam membuat ilustrasi itu juga diperlukan.
 
@@ -57,13 +57,13 @@ Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seper
 
 Ketahuilah juga, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, kreator sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan orag lain untuk menggunakan karya milik kreator. Caranya yaitu dengan mencantumkan atribusi dan logo jenis lisensi CC terhadap karya tersebut.
 
-## **Perbanyak latihan dan membuat portofolio**
+# Perbanyak latihan dan membuat portofolio
 
 Semisalnya Hari Ahad ada jadwal kosong, atau yang biasanya bangun pagi sebelum subuh bisa digunakan untuk latihan membuat ilustrasi. Jika ilustrasinya bagus bisa dijadikan portofolio di [Behance] dan [Dribbble]. Jadi, tidak hanya teknik saja yang kuasai, tetapi dengan memperbanyak latihan dan membuat portofolio juga sebagai faktor ketertarikan klien.
 
 Nah, sekarang masuk ke bagian teknisnya.
 
-## **Pakai Tetikus atau Pentab**
+# Pakai Tetikus atau Pentab
 
 Pilihan pertama pakai tetikus (mouse). Karena ilustrator akan kesulitan membuat ilustrasi dengan touchpad *(bayangan saja buat ilustrasi yang kompleks menggunakan touchpad saja, bagaimana susahnya )*.
 
@@ -71,13 +71,13 @@ Tapi tidak perlu berangan tinggi, pakai mouse tipe gaming harga sekitar 100-200r
 
 Nah, pilihan kedua bisa pakai Pen Tablet. terakhir kali Penulis cek *(pada postingan ini ditulis)*, harga wacom yang baru Rp. 1.200.000.- untuk Wacom CTL 672 ukuran medium, yang tipe CTL 472 small sekitar Rp.700.000.-, harga tersebut masih terjangkau.
 
-## **Pahami Teknik Bezier**
+# Pahami Teknik Bezier
 
 Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh pengguna inkscape. Bezier ini yang **PALING PENTING** untuk ilustrasi, apalagi yang ilustrator dengan *genre* seni garis (line art) yang rumit dan kompleks pasti membutuhkannya.
 
 ***
 
-## **Terakhir, Memahami pintasan**
+# Terakhir, Memahami pintasan
 
 ## Mulai dari yang dasar
 
