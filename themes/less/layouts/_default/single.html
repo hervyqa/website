@@ -4,5 +4,8 @@
       <h1>{{ .Title }}</h1>
     </header>
     {{.Content}}
+    <div>
+    {{ partial "ads_display.html" . }}
+    </div>
   </div>
 {{ end }}
