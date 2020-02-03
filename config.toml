@@ -60,8 +60,9 @@ paginate = 8
   #youtube = "Hervyqa"
   facebook = "hervyqa"
   pinterest = "hervyqa/seamless-pattern"
-  github = "hervyqa"
-  gitlab = "hervyqa"
+  shutterstock = "hervyqa?rid=238649869"
+  #github = "hervyqa"
+  #gitlab = "hervyqa"
   #dribbble = "hervyqa"
   #behance = "hervyqa"
   paypal = "hervyqa"
@@ -91,16 +92,16 @@ title = "Belajar Mengetik dengan Libre Office"
 #  weight = 4
 #  identifier = "premium"
 #  url = "/premium"
-[[menu.main]]
-  name = "Manjaro-X"
-  title = "Unofficial Manjaro GNOME Distribution"
-  weight = 5
-  identifier = "manjaro-x"
-  url = "https://manjaro-x.netlify.com"
+#[[menu.main]]
+#  name = "Manjaro-X"
+#  title = "Unofficial Manjaro GNOME Distribution"
+#  weight = 5
+#  identifier = "manjaro-x"
+#  url = "https://manjaro-x.netlify.com"
 [[menu.main]]
   name = "Profil"
   title = "Info & kontak"
-  weight = 6
+  weight = 9
   identifier = "profil"
   url = "/profil"
 
