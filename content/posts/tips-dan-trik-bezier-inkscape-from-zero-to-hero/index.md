@@ -176,7 +176,7 @@ Nodal juga bisa diskalakan (diperbesar dan diperkecil). Yaitu dengan ikon transf
 
 ***
 
-# 3. Sifat Nodal
+# 3. Mengetahui Sifat Nodal
 
 Nodal juga memiliki sifat segmen, ada yang lurus, lembut, simetris, dan kurva yang membuat garis lancip.
 
@@ -228,7 +228,7 @@ Mudah bukan!
 
 ***
 
-# 4. Perataan Nodal
+# 4. Memahami Perataan Nodal
 
 Terakhir, untuk meratakan nodal yaitu dengan panel Pelurusan dan Perataan. Pintasannya **Ctrl+shift+a**. Ketika menyeleksi nodal seleksi nodal kemudian pilih pelurusan nodal mana yang akan dikehendaki.
 
