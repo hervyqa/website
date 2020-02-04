@@ -93,7 +93,7 @@ Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk m
 
 ## Meyelaraskan Ciri khas
 
-Selaraskan ciri khas vektor Anda, misalnya desain fokus pada logo, maka seterusnya membuat logo. jika membuat mandala maka terus seterusnya membuat mandala. jika membuat maskot maka seterusnya membuat maskot, jika membuat pattern maka seterusnya membuat pattern, dan sebagainya.
+Selaraskan ciri khas vektor Anda, membuat niche tertentu yang konsisten. Misalnya desain fokus pada logo, maka seterusnya membuat logo. Jika membuat mandala maka seterusnya membuat mandala. Jika membuat maskot maka seterusnya membuat maskot. Jika membuat pattern maka seterusnya membuat pattern, dan sebagainya.
 
 Cara ini akan jadi lebih memudahkan untuk mengisi metadata-metadata setiap file SVG dan fokus pada kualitas. Sekaligus mempermudah pembeli untuk melihat daftar stok anda.
 
