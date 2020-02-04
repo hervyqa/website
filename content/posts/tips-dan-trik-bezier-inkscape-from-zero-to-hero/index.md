@@ -180,7 +180,7 @@ Nodal juga bisa diskalakan (diperbesar dan diperkecil). Yaitu dengan ikon transf
 
 Nodal juga memiliki sifat segmen, ada yang lurus, lembut, simetris, dan kurva yang membuat garis lancip.
 
-Setiap sifat memiliki tanda masing-masing. Seperti berikut dibawah ini.
+Setiap sifat memiliki tanda masing-masing. Tanda nodalnya sebagai berikut:
 
 {{< photo src="sifat-nodal.png" alt="Sifat nodal di Inkscape" >}}
 
