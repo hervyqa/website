@@ -17,23 +17,25 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Panduan ini ditulis untuk ilustrator pemula maupun lanjutan, atau bahkan yang belum mengerti sama sekali tentang bezier di inkscape. Ilustrator juga dituntut paham tentang teknik bezier atau pentool. Teknik bezier jika tidak sering dilatih maka akan kaku. Apalagi pemula yang sering mengalami kesulitan diawal belajar teknik bezier.
+Panduan ini ditulis untuk ilustrator pemula maupun lanjutan, atau bahkan yang belum mengerti sama sekali tentang bezier di inkscape. Para ilustrator juga dituntut paham tentang teknik bezier atau pentool. Teknik bezier jika tidak sering dilatih maka akan kaku. Apalagi pemula yang sering mengalami kesulitan diawal belajar teknik bezier.
 
-Jadi, penulis menganggap teknik bezier ini sangat penting untuk ilustrator yang memakai inkscape sebagai perangkat lunak desain utamanya. Gunanya untuk mengetahui fundamental bezier.
+Jadi, penulis menganggap teknik bezier ini sangat penting untuk ilustrator yang memakai inkscape sebagai perangkat lunak desain utamanya. Manfaatnya untuk mengetahui fundamental bezier.
 
-Kedua, mempermudah memodifikasi garis, seperti: membuat garis lurus, melengkung, lancip, gelombang, menghapus garis, memotong, menambahkan dan lain sebagainya.
+Manfaat lain yaitu mempermudah memodifikasi garis, seperti: membuat garis lurus, melengkung, lancip, gelombang, menghapus garis, memotong, menambahkan dan lain sebagainya.
+
+Baik, kita mulai saja tipsnya.
 
 ***
 
-# 1. Teknik Dasar Bezier
+# 1. Memahami Teknik Dasar Bezier
 
-Pertama, harus memahami teknik dasar bezier. Pintasan (shortcut) Bezier ini adalah **b**. Bisa saja Anda menekan tombol bezier sebelah kiri panel bar inkscape, tetapi dengan menggunakan pintasan akan menghemat sekian milidetik dari pada menggunakan kursor untuk menekan tombol bezier.
+Pertama, harus memahami teknik dasar bezier. Pintasan (shortcut) Bezier ini adalah **b**. Bisa saja Anda menekan tombol bezier sebelah kiri panel bar inkscape, tetapi dengan menggunakan pintasan akan menghemat sekian detik dari pada menggunakan kursor untuk menekan tombol bezier.
 
 Agar lebih efisien lagi, tangan kanan memegang mouse atau pen tablet. Sedangkan tangan kiri posisinya diatas papan ketik.
 
 {{< photo src="posisi-tangan.png" alt="Posisi tangan yang baik ketika membuat ilustrasi" >}}
 
-Seperti biasa, penulis akan memulai dari yang paling dasar dahulu. Awam akan lebih paham dan mengerti dengan teknik bezier ini.
+Seperti biasa, penulis akan memulai dari yang paling dasar dahulu. Orang awam akan lebih paham dan mengerti dengan teknik bezier ini.
 
 ## Membuat garis lurus
 
@@ -88,13 +90,13 @@ Ketika menggeser garis jika dibutuhkan garis yang lurus maka **tahan dengan mene
 
 ***
 
-# 2. Memodifikasi Nodal
+# 2. Dapat Memodifikasi Nodal
 
 Memodifikasi nodal dapat dilakukan dengan menekan pintasan **n**. Bisa juga menggunakan **F2**, tetapi jari akan jauh menjangkaunya. Sederhananya pakai **n**.
 
 ## Menambahkan nodal
 
-Menambahkan nodalnya dalam segmen yaitu dengan **mengklik 2x** di antara garis segmen. cara ini yang paling mudah. Perhatikan contoh dibawah ini dengan membuat garis, lalu ditambahkan 2 nodal baru.
+Menambahkan nodal dalam segmen yaitu dengan **mengklik 2x** di antara garis segmen. Cara ini yang paling mudah. Perhatikan contoh dibawah ini dengan membuat garis, lalu ditambahkan 2 nodal baru.
 
 {{< photo src="t-8.png" alt="Membuat nodal garis baru di Inkscape" >}}
 
@@ -102,7 +104,7 @@ Setelah nodal baru terbentuk, Anda dapat merubah posisi nodalnya.
 
 ## Menghapus nodal
 
-Menghapus nodal yaitu dengan menyeleksi nodal, kemudian tekan **delete** untuk menghapusnya.
+Menghapus nodal yaitu dengan menyeleksi nodal, kemudian tekan **Delete** untuk menghapusnya.
 
 {{< photo src="t-9.png" alt="Menghapus nodal di Inkscape" >}}
 
@@ -120,7 +122,7 @@ Nah, ketika salah menempatkan nodal, tekan **Backspace** untuk membatalkannya. M
 
 ## Membatalkan bezier
 
-Sedangkan untuk membatalkan bezier, tekan **Esc**. Misalnya pada saat membuat path dengan bezier **b**, setelah mengklik beberapa nodal, klik, klik, klik... tapi tidak jadi. Tekan saja **Esc** untuk membatalkannya.
+Sedangkan untuk membatalkan bezier, tekan **Esc**. Misalnya pada saat membuat path dengan bezier **b**, setelah mengklik beberapa nodal, klik, klik, klik... tetapi merasa kurang pas dan akhirnya tidak jadi. Tekan saja **Esc** untuk membatalkannya.
 
 {{< photo src="t-12.png" alt="Membatalkan bezier di Inkscape" >}}
 
@@ -177,6 +179,10 @@ Nodal juga bisa diskalakan (diperbesar dan diperkecil). Yaitu dengan ikon transf
 # 3. Sifat Nodal
 
 Nodal juga memiliki sifat segmen, ada yang lurus, lembut, simetris, dan kurva yang membuat garis lancip.
+
+Setiap sifat memiliki tanda masing-masing. Seperti berikut dibawah ini.
+
+{{< photo src="sifat-nodal.png" alt="Sifat nodal di Inkscape" >}}
 
 ## Garis Lurus (Line)
 
