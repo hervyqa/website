@@ -186,7 +186,7 @@ Setiap sifat memiliki tanda masing-masing. Tanda nodalnya sebagai berikut:
 
 ## Garis Lurus (Line)
 
-Pintasan garis lurus yaitu **Shift+l**. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan sidat yang lurus ini maka tidak muncul dua segmen kurva.
+Pintasan garis lurus yaitu **Shift+l**. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan garis segmen yang lurus ini maka tidak muncul dua segmen kurva.
 
 {{< photo src="t-23.png" alt="Garis lurus di Inkscape" >}}
 
