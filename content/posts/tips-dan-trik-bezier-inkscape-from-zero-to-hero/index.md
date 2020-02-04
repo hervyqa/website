@@ -4,7 +4,7 @@ date: 2020-01-31T21:41:28+07:00
 title: "Tips dan Trik Bezier Inkscape: From Zero to Design Hero"
 subtitle: "Ini tips penting bagi ilustrator awam maupun lanjutan."
 seotitle: ""
-description : "Bagaimana sih cara untuk melatih bezier yang bagus? Dasar dan tekniknya bagaimana? Apa yang harus dipelajari?. Yuk, temukan jawabannya disini."
+description : "Bagaimana sih cara untuk melatih bezier yang bagus? Dasar tekniknya bagaimana? Apa yang harus dipelajari?. Yuk, temukan jawabannya disini."
 slug: ""
 categories:
 - inkscape
