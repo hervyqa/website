@@ -4,7 +4,7 @@ date: 2020-02-05T10:06:07+07:00
 title: "Tips Mudah Menggabungkan Layer Di Inkscape"
 subtitle: ""
 seotitle: ""
-description : "Menggabungkan layer di inkscape memang belum ada untuk fitu satu ini. Tetapi bisa diakali dengan memindahkan objek dari layer ke layer lainnya."
+description : "Menggabungkan layer di inkscape memang belum ada untuk fitur ini. Tetapi bisa diakali dengan memindahkan objek dari layer ke layer lainnya."
 slug: ""
 categories:
 - inkscape
@@ -17,7 +17,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Menggabungkan layer di inkscape memang belum ada untuk fitu satu ini. Tetapi bisa diakali dengan memindahkan objek dari layer ke layer lainnya.
+Menggabungkan layer di inkscape memang belum ada untuk fitur ini. Tetapi bisa diakali dengan memindahkan objek dari layer ke layer lainnya.
 
 ***
 
