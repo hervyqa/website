@@ -27,21 +27,18 @@ Perlu Anda ketahui, sebelum masuk untuk menggabungkan layer lebih baik memahami 
 
 * **Ctrl+Shift+l** : Membuka panel layer
 * **Ctrl+Shift+n** : Menambahkan layer baru
-
 * **Ctrl+page_up** : Pindah ke layer atas
 * **Ctrl+page_down** : Pindah ke layer bawah
-
 * **Shift+page_up** : Memindahkan objek ke layer atas
 * **Shift+page_down** : Memindahkan objek ke layer bawah
-
 * **Ctrl+Shift+page_up** : Menaikkan layer ke atas
 * **Ctrl+Shift+page_down** : Menurunkan layer ke bawah
 
-Pintasan tersebut bersifat opsional, artinya boleh digunakan atau tidak.
+Pintasan tersebut bersifat opsional, artinya boleh digunakan boleh tidak.
 
 # Pintasan Salin Tempel
 
-Pintasan ini menurut penulis harus dihafal, sebab sering digunakan ketika mendesain. Pintasannya antara lain:
+Pintasan ini menurut penulis harus dihafalkan, sebab sering dipakai ketika mendesain. Pintasannya antara lain:
 
 * **Ctrl+x** : memotong objek
 * **Ctrl+c** : menyalin objek.
@@ -51,14 +48,14 @@ Pintasan ini menurut penulis harus dihafal, sebab sering digunakan ketika mendes
 
 # Menggabungkan Layer di Inkscape
 
-* Cara untuk menggabungkan layer sebenarnya menyeleksi objek lalu dipotong (cut) **Ctrl+x** dahulu dari layer pertama.
+* Cara untuk menggabungkan layer sebenarnya menyeleksi objek dahulu lalu dipotong (cut) dengan **Ctrl+x** dari layer pertama.
 * Kemudian pindah ke layer tujuan. Gunakan pintasan **Ctrl+page_up/down** untuk berpindah.
-* Setelah itu, tempel objek sesuai layer tujuan dengan menekan **Ctrl+Alt+v**. Menempelkan dengan cara ini tidak merubah lokasi awal sebelum dipotong tadi, sehingga lokasinya masih di koordinat yang tetap.
-* Selanjutnya, jika perlu hapus saja layer yang tidak digunakan.
+* Setelah itu, tempel objek sesuai layer tujuan dengan menekan **Ctrl+Alt+v**. Menempelkan dengan pintasan ini tidak merubah lokasi awal sebelum dipotong tadi, sehingga lokasinya masih tetap di koordinat yang sama.
+* Selanjutnya jika tidak diperlukan, hapus saja layer yang lama tadi.
 
 ***
 
-Nah mudah bukan. Setidaknya dengan **Ctrl+x** lalu **Ctrl+Alt+v** dapat memindahkan objek ke layer yang diinginkan.
+Nah, mudah bukan. Setidaknya dengan **Ctrl+x** lalu **Ctrl+Alt+v** dapat memindahkan objek ke layer yang diinginkan.
 
 Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin.
 
