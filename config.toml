@@ -24,8 +24,8 @@ paginate = 8
   posts = "/:slug"
   categories = "/:slug"
 
-[imaging]
-  resampleFilter = "lanczos"
+#[imaging]
+#  resampleFilter = "lanczos"
 
 [params]
   # google adsense
