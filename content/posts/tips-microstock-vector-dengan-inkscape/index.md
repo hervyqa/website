@@ -24,11 +24,11 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya adalah bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain, baik itu Inkscape, CorelDraw, Adobe Ilustrator, Gravit, dsb.
+Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya adalah bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain, baik itu Inkscape, CorelDraw, Adobe Ilustrator, Gravit designer, dsb.
 
 ***
 
-Sebenarnya tips ini tidak diperuntukkan untuk mikrostoker saja, namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini sedikit memerlukan trik agar mudah dibaca di berbagai perangkat lunak yang sudah disebutkan tadi. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tetapi tanpa menggunakan transparansi, blur, pola (pattern), mesh, path efek, dan filter efek.
+Sebenarnya tips ini tidak diperuntukkan untuk Mikrostoker/[Shutterstock] saja , namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini sedikit memerlukan trik agar mudah dibaca di berbagai perangkat lunak yang sudah disebutkan tadi. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tetapi tanpa menggunakan transparansi, blur, pola (pattern), mesh, path efek, dan filter efek.
 
 Perlu diingat tips ini disarankan untuk pengguna inkscape versi **0.92.x**. Penulis sendiri menggunakan inkscape versi 0.92.4, jadi ada beberapa perbedaan jika menggunakan versi inkscape dibawah 0.92.x.
 
@@ -40,7 +40,7 @@ Jadi, ada beberapa hal yang harus dilakukan dan dihindari. Berikut penjelasannya
 
 ## Berilah Solid Background dengan Ukuran 4000px:4000px sesuai kanvas
 
-Tujuannya untuk menyamakan antara ukuran artwork dengan ukuran kanvas (artboard) di inkscape. Sekaligus untuk memenuhi syarat shutterstock yaitu gambar vektor minimal 4MP.
+Tujuannya untuk menyamakan antara ukuran artwork dengan ukuran kanvas (artboard) di inkscape. Sekaligus untuk memenuhi syarat [Shutterstock] yaitu gambar vektor minimal 4MP.
 
 {{< photo src="kanvas.png" alt="Kanvas Inksape 4000px:4000px" >}}
 
@@ -168,8 +168,20 @@ Nah itu tadi beberapa tips dari Penulis. Sekian, semoga bermanfaat untuk pembaca
 
 ***
 
+[Inkscape]:https://www.inkscape.org
+[Gimp]:https://www.gimp.org
+
+[GNOME.ID]:https://www.gnome.id
+[BUKU CC-ID]:https://bit.ly/madewithccID
+[Wikimedia]:https://www.wikkimedia.org/
+
+[Behance]:https://www.b.net
+[Dribbble]:https://www.dribbble.com
+
 [AdobeStock]:https//www.stock.adobe.com
 [123rf]:https//www.123rf.com
 [Freepik]:https//www.freepik.com
 [Dreamstime]:https//www.dreamstime.com
-[Shutterstock]:https//www.shutterstock.com
+[Shutterstock]:https://submit.shutterstock.com/?ref=238649869
+
+[Hervyqa]:https://hervyqa.com

@@ -114,4 +114,6 @@ Jadi, itu saja beberapa hal yang harus dilakukan dan harus dihindari. Sekian, te
 [123rf]:https//www.123rf.com
 [Freepik]:https//www.freepik.com
 [Dreamstime]:https//www.dreamstime.com
-[Shutterstock]:https//www.shutterstock.com
+[Shutterstock]:https://submit.shutterstock.com/?ref=238649869
+
+[Hervyqa]:https://hervyqa.com
