@@ -1,6 +1,6 @@
 ---
 draft: true
-date: 2019-09-12T07:57:25+07:00
+date: 2020-02-05T20:24:31+07:00
 title: "Cara membuat Seamless Pattern Dengan Inkscape"
 subtitle: "Seamless pattern merupakan pola yang menarik untuk jenis desain full print."
 seotitle: "Cara membuat Seamless Pattern Dengan Inkscape"
