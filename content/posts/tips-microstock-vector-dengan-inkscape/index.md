@@ -26,6 +26,8 @@ Bismillahirrohmanirrohim.
 
 Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya adalah bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain, baik itu Inkscape, CorelDraw, Adobe Ilustrator, Gravit designer, dsb.
 
+[![Ara studio batch 2](/banner/ara-space-promo-2.png)](https://www.instagram.com/p/B8Ihv2YB0BU/?utm_source=ig_web_copy_link)
+
 ***
 
 Sebenarnya tips ini tidak diperuntukkan untuk Mikrostoker/[Shutterstock] saja , namun untuk siapa saja yang ingin mempelajari EPS lebih lanjut. Berbicara EPS, memang ekstensi berkas ini sedikit memerlukan trik agar mudah dibaca di berbagai perangkat lunak yang sudah disebutkan tadi. Ibaratnya EPS ini seperti berkas AI yang disederhanakan. Tetapi tanpa menggunakan transparansi, blur, pola (pattern), mesh, path efek, dan filter efek.

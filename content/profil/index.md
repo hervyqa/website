@@ -1,6 +1,6 @@
 ---
-title: "Profil - Hervy Qurrotul Ainur Rozi"
-seotitle: "Profil - Hervy Qurrotul Ainur Rozi"
+title: "Profil - Hervyqa.com"
+seotitle: "Profil - Hervyqa.com"
 date: 2019-07-02T23:11:56+07:00
 draft: false
 type: "about"
