@@ -27,12 +27,12 @@
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
-  <div>
-  {{ partial "ads_display.html" . }}
-  </div>
   <div id="comments" class="thin">
     {{ partial "love.html" . }}
     {{- partial "comments.html" . -}}
+  </div>
+  <div>
+  {{ partial "ads_display.html" . }}
   </div>
 </div>
 {{ partial "three.html" (.Site.RegularPages.Related . ) }}
