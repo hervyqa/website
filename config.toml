@@ -31,6 +31,7 @@ disqusShortname = "hervyqa"
 [params]
   # google adsense
   googleAdsense = "ca-pub-6751507526899918"
+  copyright = "Hervyqa"
 
   # image size
   sizes = [ "2048" , "1024" , "512" ]
@@ -106,10 +107,14 @@ title = "Belajar Mengetik dengan Libre Office"
   identifier = "profil"
   url = "/profil"
 
-# for footer
+# For footer
 [params.license]
   type = "CC BY-NC 4.0"
   url = "/cc-by-nc"
+
+[params.policy]
+  type = "Privacy Policy"
+  url = "/policy"
 
 [[related.indices]]
   name = "categories"
