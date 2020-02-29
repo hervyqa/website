@@ -12,13 +12,13 @@ resources:
 
 {{< photo src="infos_1.jpeg" alt="Workspace Hervy Qurrotul Ainur" >}}
 
-## **Sekilas**
+## Sekilas
 
 Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=238649869), Animator, Video Editor, dan Developer [Manjaro-X](https://manjaro-x.netlify.com). Sekarang tinggal di Mojokerto, Jawa Timur.
 
 ***
 
-## **Gotong Royong**
+## Gotong Royong
 
 * 2019 - Desainer dan Ilustrator Freelance - sekarang
 * 2019 - Kontributor di [openSUSE](https://github.com/openSUSE/artwork) - sekarang
@@ -34,13 +34,13 @@ Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=2386
 * 2020 - Mentor [Arastudio Desain](https://instagram.com/arastudio.design) - sekarang
 * 2020 - Member of [The Document Foundation - LibreOffice](https://documentfoundation.org/governance/members) - sekarang
 
-## *GIT**
+## GIT
 
 * [Github](https://github.com/hervyqa)
 * [Gitlab](https://gitlab.com/hervyqa)
 * [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
 
-## **Kontak**
+## Kontak
 
 Jika anda punya saran, pertanyaan, jawaban atau apresisi. Hubungi kami di alamat ini :
 
@@ -49,7 +49,7 @@ Jika anda punya saran, pertanyaan, jawaban atau apresisi. Hubungi kami di alamat
 * Instagram: [@hervyqa](https://instagram.com/hervyqa)
 * Email: [hervyqa@gmail.com](mailto:hervyqa@gmail.com)
 
-## **Donasi**
+## Donasi
 
 Jika Anda terbantu dengan karya ilustrasi dan template kami. Kami mengucapkan Terima kasih jika Anda membeli _(premium template ~ coming soon)_ atau memberikan donasi agar produk dan karya FOSS dapat berkelanjutan.
 
