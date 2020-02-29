@@ -14,7 +14,7 @@ resources:
 
 ## **Sekilas**
 
-Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=238649869) dan Pengembang [Manjaro-X](https://manjaro-x.netlify.com). Bergabung dengan komunitas GNOME, openSUSE, dan KLAS (Komunitas Linux Arek Suroboyo) sebagai Desainer dan Ilustrator. Senang **gotong-royong** dengan projek _Free/Libre Open Source Software_. Sekarang tinggal di Mojokerto, Jawa Timur.
+Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=238649869), Animator, Video Editor, dan Developer [Manjaro-X](https://manjaro-x.netlify.com). Sekarang tinggal di Mojokerto, Jawa Timur.
 
 ***
 
@@ -32,10 +32,13 @@ Hi, saya **Hervy Qurrotul**. Seorang Ilustrator, [Mikrostoker](http://www.shutte
 * 2019 - Pengembang [Manjaro-X](https://manjaro-x.netlify.com) - sekarang
 * 2019 - Kontributor [Lumbung LibreOffice](https://lumbung.libreoffice.id) - sekarang
 * 2020 - Mentor [Arastudio Desain](https://instagram.com/arastudio.design) - sekarang
+* 2020 - Member of [The Document Foundation - LibreOffice](https://documentfoundation.org/governance/members) - sekarang
 
-## **Free Software**
+## *GIT**
 
-Setiap Hari menggunakan GNU/Linux Manjaro-X sebagai OS Utama. 12 jam lebih memakai [Inkscape](https://inkscape.org) sebagai software desain utama. Perkakas desain tambahan menggunakan jpegoptim, optipng, cwebp, dan svgo. Untuk keperluan koding menggunakan Vim sebagai Teks Editor utama dan perkakas lain git, tmux, dan ranger. Silakan cek repo saya di ~~[Github](https://github.com/hervyqa)~~, [Gitlab](https://gitlab.com/hervyqa), dan [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
+* [Github](https://github.com/hervyqa)
+* [Gitlab](https://gitlab.com/hervyqa)
+* [Gitlab GNOME](https://gitlab.gnome.org/hervyqa).
 
 ## **Kontak**
 
