@@ -129,12 +129,13 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 
 ## Modifikasi objek
 
-* **<kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd>** untuk menggabungkan objek.
+* **<kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd>** untuk menyatukan objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>_</kbd></kbd>** untuk memotong objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>^</kbd></kbd>** untuk memotong objek. sisa diluar.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>*</kbd></kbd>** untuk memotong objek. sisa didalam.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>/</kbd></kbd>** untuk memotong objek dengan garis tepi (stroke).
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd></kbd>** untuk memotong garis tepi pada objek.
+* **<kbd><kbd>Ctrl</kbd>+<kbd>k</kbd></kbd>** untuk menggabungkan objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd></kbd>** untuk memecah objek jadi beberapa bagian.
 
 ## Merubah jadi path
