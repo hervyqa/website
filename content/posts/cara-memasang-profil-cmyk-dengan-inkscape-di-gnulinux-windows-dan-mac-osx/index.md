@@ -60,12 +60,19 @@ Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adal
 
 # Cara memasang Adobe ICC di GNU/Linux
 
-## Debian, Fedora, openSUSE dan turunannya.
+## Ubuntu, Debian, Fedora, openSUSE dan turunannya.
 
 * Unduh profil warna untuk [Adobe ICC untuk GNU/Linux](https://www.adobe.com/support/downloads/iccprofiles/iccprofiles_win.html)
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
 * Kemudian ekstrak `AdobeICCProfilesCS4Win_end-user.zip`.
-* Salin direktori **RGB** dan **CMYK**, kemudian tempelkan ke direktori dibawah ini. Gunakan hak akses root untuk menempelkannya.
+* Salin direktori **RGB** dan **CMYK**, kemudian tempelkan ke direktori dibawah ini. 
+
+```
+~/.local/share/color/icc/
+```
+
+atau jikalau ditaruh di root,taruhlah di folder.
+
 ```
 /usr/share/color/icc/
 ```
