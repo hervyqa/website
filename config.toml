@@ -10,7 +10,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-paginate = 8
+paginate = 12
 disqusShortname = "hervyqa"
 
 [author]
