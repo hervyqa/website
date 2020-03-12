@@ -28,7 +28,7 @@ Cara penggunaan lisensi Creative Commons (CC) ini semudah menempelkan stiker. Ki
 
 Sebelumnya, pada artikel ini saya asumsikan Anda sebagai kreator karya seni. Ketika memberikan atribusi karya seni, kembali lagi kepada Anda sebagai pemilik karya tersebut, apakah orang lain boleh merubahnya ataukah boleh menjualnya juga? kalau boleh lisensinya bagaimana, kalau tidak lisensinya bagimana juga.
 
-Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian lisensi dengan sebuah tanda/simbol. Anda cukup memberikan simbol CC dan tautan pada karya seni tersebut. Simbol dan logo Creative Commons bisa anda dapatkan bebas [disini](https://www.creative-commons.org/about/downloads/).
+Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian lisensi dengan sebuah tanda/simbol. Anda cukup memberikan simbol CC dan tautan pada karya seni tersebut. Simbol dan logo Creative Commons bisa anda dapatkan bebas [disini](https://www.creativecommons.org/about/downloads/).
 
 ***
 
@@ -97,4 +97,4 @@ Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Cre
 ***
 
 [BUKU CC-ID]:https://bit.ly/madewithccID
-[Wikimedia]:https://www.wikkimedia.org/
+[Wikimedia]:https://www.wikimedia.org/
