@@ -58,3 +58,5 @@ Bismillahirrohmanirrohim.
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
 [Hervyqa]:https://hervyqa.com
+[Manjaro-X]:https://manjaro-x.id
+[Inkporter]:https://github.com/raniaamina/inkporter
