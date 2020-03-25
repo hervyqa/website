@@ -120,9 +120,9 @@ Jadi dengan manajemen objek akan mempermudah menyeleksi objek-objek termasuk obj
 
 {{< photo src="bintang-awal.png" alt="Kloning Bintang Inkscape" >}}
 
-Contoh sederhana spray ini ketika membuat bintang-bintang. Konsepnya sama, yaitu buat dahulu objek induknya lalu di kloning. Membuat bjek bintang bisa dengan menekan **Shift+8** (bintang).
+Contoh sederhana spray ini ketika membuat bintang-bintang. Konsepnya sama, yaitu buat dahulu objek induknya lalu di kloning. Membuat bjek bintang bisa dengan menekan **Shift+8** (tanda bintang).
 
-buatlah objek bintang **Shift+8**), pilih objeknya kemudian tekan tekan **a** untuk kloning semprot (spray). Agar lebih variatif gunakan parameter bintang seperti ini: lebar=50, jumlah=20, rotasi=100, skala=60.
+Buatlah objek bintang, pilih objeknya kemudian tekan tekan **a** untuk kloning semprot/spray. Agar lebih variatif gunakan parameter bintang seperti ini: lebar=50, jumlah=20, rotasi=100, skala=60.
 
 {{< photo src="bintang-kloning.png" alt="Kloning Bintang Inkscape" >}}
 
