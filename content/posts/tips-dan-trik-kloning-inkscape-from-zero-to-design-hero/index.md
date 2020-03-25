@@ -2,9 +2,9 @@
 draft: false
 date: 2020-03-09T10:41:38+07:00
 title: "Tips Dan Trik Kloning Inkscape From Zero to Design Hero"
-subtitle: "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar seperti mandala."
+subtitle: "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar untuk mandala."
 seotitle: "Tips Dan Trik Kloning Inkscape From Zero to Design Hero"
-description : "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar seperti mandala."
+description : "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar untuk mandala."
 slug: ""
 categories:
 - inkscape
