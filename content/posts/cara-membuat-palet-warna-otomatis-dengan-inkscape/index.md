@@ -34,7 +34,7 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 ```
 * Jika Anda menggunakan Windows, silahkan menempelkannya ke:
 ```
-~\AppData\Roaming\inkscape\ekstensions
+~\AppData\Roaming\inkscape\extensions
 ```
 
 # Cara Menggunakan Ekstensi
