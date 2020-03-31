@@ -39,7 +39,7 @@ Free for Personal & Commercial.
 
 This work is licensed under the Creative Commons Atribution 4.0 International by [Hervy Qurrotul Ainur].
 
-To view a copy of this license, visit https://creativecommons.org/licenses/by-/4.0/.
+To view a copy of this license, visit [Creative Commons Atribution](https://creativecommons.org/licenses/by-/4.0/).
 
 
 [Inkscape]:https://www.inkscape.org
