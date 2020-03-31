@@ -25,7 +25,7 @@ Manfaat lain yaitu mempermudah memodifikasi garis, seperti: membuat garis lurus,
 
 Baik, kita mulai saja tipsnya.
 
-[![Ara studio batch 2](/banner/ara-space-promo-2.png)](https://www.instagram.com/p/B8Ihv2YB0BU/?utm_source=ig_web_copy_link)
+[![Ara studio batch 2](/banner/ara-studio.png)](https://www.instagram.com/p/B8Ihv2YB0BU/?utm_source=ig_web_copy_link)
 
 ***
 

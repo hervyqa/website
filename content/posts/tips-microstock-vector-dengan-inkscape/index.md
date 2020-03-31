@@ -26,7 +26,7 @@ Bismillahirrohmanirrohim.
 
 Ada beberapa hal yang harus dipatuhi dan dihindari oleh mikrostoker. Alasannya karena vektor merupakan sebuah produk digital yang sebisa mungkin dibuka oleh perangkat lunak pengolah vektor lain. Jadi yang menggunakan vektor Anda nantinya bukan hanya untuk pengguna inkscape saja, melainkan untuk pengguna perangkat non-free juga. Intinya adalah bagaimana caranya vektor Anda mudah dibaca oleh perangkat lain, baik itu Inkscape, CorelDraw, Adobe Ilustrator, Gravit designer, dsb.
 
-[![Ara studio batch 2](/banner/ara-space-promo-2.png)](https://www.instagram.com/p/B8Ihv2YB0BU/?utm_source=ig_web_copy_link)
+[![Ara studio batch 2](/banner/ara-studio.png)](https://www.instagram.com/p/B8Ihv2YB0BU/?utm_source=ig_web_copy_link)
 
 ***
 
