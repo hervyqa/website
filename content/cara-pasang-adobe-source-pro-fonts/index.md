@@ -32,12 +32,10 @@ sudo pacman -S adobe-source-sans-pro-fonts adobe-source-serif-pro-fonts adobe-so
 ### **Debian/Ubuntu/Mint/Neon**
 
 ```
-mkdir /tmp/adodefont
-cd /tmp/adodefont
 mkdir -pv ~/.fonts
-wget https://gitlab.com/hervyqa/adobe-source-pro-fonts/uploads/20837d66cdb3323369517783c2e6ee54/adobe-source-pro-fonts-otf.zip
-unzip -x adobe-source-pro-fonts-otf.zip
-mv adobe-source-pro-fonts-otf ~/.fonts
+wget https://gitlab.com/hervyqa/adobe-source-pro-fonts/uploads/20837d66cdb3323369517783c2e6ee54/adobe-source-pro-fonts-otf.zip /tmp/
+unzip -x /tmp/adobe-source-pro-fonts-otf.zip
+mv /tmp/adobe-source-pro-fonts-otf ~/.fonts
 fc-cache -f -v
 ```
 
