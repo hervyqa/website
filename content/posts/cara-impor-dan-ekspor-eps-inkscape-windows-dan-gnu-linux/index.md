@@ -8,6 +8,7 @@ description : "Adakalanya untuk pengguna Windows dan GNU/Linux mengalam kegalata
 slug: ""
 categories:
 - inkscape
+- desain
 - tips
 resources:
 - src: "cover.jpeg"
