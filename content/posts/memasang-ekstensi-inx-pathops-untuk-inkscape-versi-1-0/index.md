@@ -43,9 +43,9 @@ Pada tahap ini pattern sudah siap untuk dijadikan desain repeat & seamless patte
 
 # Tahap Pemasangan
 
-Cara pemasangannya harapkan untuk dibaca pean-pelan, seperti berikut ini.
+Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :)
 
-1. Unduh Zip Ink-Pathops pada link [pathops1].
+1. Unduh Zip Ink-Pathops pada tautan ini [pathops1].
 2. Ekstrak zip ekstensi.
 3. Selanjutnya masuk ke direktori `ink-pathops-inkscape-1.0-src` > `src`, Pilih semua berkas inx dan py. Lalu salinlah (copy).
 4. Pengguna Windows :
