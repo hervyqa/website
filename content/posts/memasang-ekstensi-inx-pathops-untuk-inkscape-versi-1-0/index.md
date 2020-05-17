@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2020-05-17T08:36:21Z
+date: 2020-05-17T08:36:21+07:00
 title: "Memasang Ekstensi Inx-Pathops Untuk Inkscape Versi 1.0"
 subtitle: "Ekstensi Boolean Multi Objek, Memotong Objek sekaligus."
 seotitle: "Memasang Ekstensi Inx-Pathops Untuk Inkscape Versi 1.0"
