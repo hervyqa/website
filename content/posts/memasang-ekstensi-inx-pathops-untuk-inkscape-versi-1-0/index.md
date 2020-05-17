@@ -18,7 +18,7 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Ekstensi Ink-Pathops berfungsi untuk melakukan proses boolean secara bersamaan, baik objek secara individu maupun grup. Biasanya orang kalau melakukan proses boolean seperti union, difference, intersection, exclusion, division, cut path, atau combine pasti melakukannya secara satu-satu. Jika objek tergabung didalam grup maka harus dipisah dulu agar bisa melakukan proses boolean. Namun dengan Ink-pathops orang bisa melakukannya proses boolean  dengan sekali klik.
+Ekstensi Ink-Pathops berfungsi untuk melakukan proses boolean secara bersamaan, baik objek secara individu maupun grup. Biasanya orang kalau melakukan proses boolean seperti union, difference, intersection, exclusion, division, cut path, atau combine pasti melakukannya secara satu-satu. Jika objek tergabung didalam grup maka harus dipisah dulu agar bisa melakukan proses boolean. Namun dengan Ink-pathops orang bisa melakukannya proses boolean dengan sekali klik.
 
 > Sebelumnya Saya mengucapkan Terima Kasih kepada Pak Sofyan Sugianto [@artemtech](https://t.me/artemtech) yang telah membantu merilis ekstensi Inx-Pathops ke Versi 1.0. Syukran wa jazaakallahu khair ^^.
 
@@ -49,6 +49,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 2. Ekstrak zip ekstensi.
 3. Selanjutnya masuk ke direktori `ink-pathops-inkscape-1.0-src` > `src`, Pilih semua berkas inx dan py. Lalu salinlah (copy).
 4. Pengguna Windows :
+
     - Tempel (paste) ekstensi:
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\
@@ -64,8 +65,12 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     - Simpan, lalu tutup.
 
 5. Khusus pengguna GNU/Linux (abaikan langkah ini untuk pengguna windows):
+
+    > Ekstensi ini tidak berlaku untuk GNU/Linux yang pemasangan inkscapenya via Flatpak, Apppimage dan Snap. Flatpak menggunakan Sandbox untuk melindungi isi paketnya, Appimage bersifat portable, Snap memakai SquasFS yang dimana tidak bisa memodifikasi kode sistemnya. Solusinya jika memakai GNU/Linux Ubuntu dan turunannya, hapus inkscape lama lalu pasang melalui [PPA Inkscape](https://inkscape.org/release/inkscape-1.0/gnulinux/ubuntu/ppa/dl/).
+
     - Tempel (paste) ekstensi ke:
     (tekan ctl+H atau alt+titik untuk menampilkan direktori .config)
+
     ```
     ~/.config/inkscape/extensions/
     ```
