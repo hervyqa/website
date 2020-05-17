@@ -7,9 +7,9 @@ seotitle: "Mengatasi Error Lxml2 Python Inkscape Di Windows dan GNU/Linux"
 description : "Ada beberapa ekstensi tambahan yang belum didukung oleh inkscape sendiri sehingga muncul galat. Untuk mengatasi kegalatan ini, pengguna inkscape diharuskan untuk memasang pustaka python agar ekstensi berjalan dengan lancar. Lalu pustaka apakah itu?"
 slug: ""
 categories:
-- desain
-- inkscape
 - tips
+- inkscape
+- desain
 resources:
 - src: "cover.jpeg"
   name: "cover"
