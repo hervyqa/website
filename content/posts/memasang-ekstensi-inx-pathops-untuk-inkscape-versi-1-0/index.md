@@ -54,7 +54,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\
     ```
-    - buka notepad berkas **base.py** di direktori:
+    - buka dengan notepad berkas **base.py** yang ada di direktori:
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\inkex\
     ```
@@ -78,7 +78,6 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     sudo sed -i -e 's/document = self.document.getroot().tostring()/document = etree.tostring(self.document.getroot())/' /usr/share/inkscape/extensions/inkex/base.py
     ```
-    - Simpan, lalu tutup.
 
 6. selesai
 
