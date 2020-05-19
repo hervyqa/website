@@ -50,15 +50,19 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 3. Selanjutnya masuk ke direktori `ink-pathops-inkscape-1.0-src` > `src`, Pilih semua berkas inx dan py. Lalu salinlah (copy).
 4. Pengguna Windows :
 
-    - Tempel (paste) ekstensi:
+    - Tempel (paste) ekstensi ke dalam direktori ini.
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\
     ```
-    - buka dengan notepad berkas **base.py** yang ada di direktori:
+    - buka dengan notepad berkas **base.py** yang ada di direktori ini.
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\inkex\
     ```
-    - Ctrl+F, temukan kata "document = self.document.getroot().tostring()". biasanya berada di baris 282. Lalu ganti dengan baris ini
+    - Ctrl+F, temukan baris dibawah ini. Biasanya berada di baris 282.
+    ```
+    document = self.document.getroot().tostring()
+    ```
+    - Lalu ganti dengan baris ini
     ```
     document = etree.tostring(self.document.getroot())
     ```
@@ -68,8 +72,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 
     > Ekstensi ini tidak berlaku untuk GNU/Linux yang pemasangan inkscapenya via Flatpak, Apppimage dan Snap. Flatpak menggunakan Sandbox untuk melindungi isi paketnya, Appimage bersifat portable, Snap memakai SquasFS yang dimana tidak bisa memodifikasi kode sistemnya. Solusinya jika memakai GNU/Linux Ubuntu dan turunannya, hapus inkscape lama lalu pasang melalui [PPA Inkscape](https://inkscape.org/release/inkscape-1.0/gnulinux/ubuntu/ppa/dl/).
 
-    - Tempel (paste) ekstensi ke:
-    (tekan ctl+H atau alt+titik untuk menampilkan direktori .config)
+    - Tempel (paste) ekstensi ke dalam direktori ini. (tekan ctl+H atau alt+titik untuk menampilkan direktori .config)
 
     ```
     ~/.config/inkscape/extensions/
