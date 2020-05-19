@@ -84,7 +84,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 
 # Cara Penggunaan
 
-Buka Inkscape, klik menu **Extensions > Generate from Path > PathOps**. Kemudian pilih boolean akan digunakan.
+Buka Inkscape, klik menu **Extensions > Generate from Path > PathOps**. Kemudian pilih boolean yang akan digunakan.
 
 - Union
 - Difference
