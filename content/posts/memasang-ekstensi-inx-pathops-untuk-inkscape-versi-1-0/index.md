@@ -76,7 +76,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     - Lalu ganti baris etree di ekstensi inkscape dengan perintah dibawah ini.
     ```
-    sudo sed -i -e 's/            document = self.document.getroot().tostring()/            document = etree.tostring(self.document.getroot())/' /usr/share/inkscape/extensions/inkex/base.py
+    sudo sed -i -e 's/document = self.document.getroot().tostring()/document = etree.tostring(self.document.getroot())/' /usr/share/inkscape/extensions/inkex/base.py
     ```
     - Simpan, lalu tutup.
 
