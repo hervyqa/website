@@ -58,7 +58,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\inkex\
     ```
-    - Ctrl+F, temukan kata 'tostring'. biasanya berada di baris 282. Lalu ganti dengan baris ini
+    - Ctrl+F, temukan kata "document = self.document.getroot().tostring()". biasanya berada di baris 282. Lalu ganti dengan baris ini
     ```
     document = etree.tostring(self.document.getroot())
     ```
@@ -74,17 +74,9 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     ~/.config/inkscape/extensions/
     ```
-    - untuk pengguna GNOME, bisa menggunakan gedit untuk editornya :
+    - Lalu ganti baris etree di ekstensi inkscape dengan perintah dibawah ini.
     ```
-    sudo -H gedit /usr/share/inkscape/extensions/inkex/base.py
-    ```
-    - jika menggunakan KDE, bisa menggunakan kwrite atau kate :
-    ```
-    sudo -H kwrite /usr/share/inkscape/extensions/inkex/base.py
-    ```
-    - Ctrl+F, temukan kata 'tostring'. biasanya berada di baris 282. Lalu ganti dengan baris ini
-    ```
-    document = etree.tostring(self.document.getroot())
+    sudo sed -i -e 's/            document = self.document.getroot().tostring()/            document = etree.tostring(self.document.getroot())/' /usr/share/inkscape/extensions/inkex/base.py
     ```
     - Simpan, lalu tutup.
 
