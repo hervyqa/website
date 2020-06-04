@@ -1,13 +1,10 @@
 {{ define "main" }}
   <div class="main">
     <div class="list journal">
-    {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 12) }}
+    {{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 9) }}
     {{ range $index, $post := $paginator.Pages }}
       {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
     {{ end }}
-    <div>
-    {{ partial "ads_feed.html" . }}
-    </div>
     </div>
     {{ template "_internal/pagination.html" . }}
   </div>

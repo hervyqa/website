@@ -20,9 +20,6 @@
     {{ end}}
   {{ end }}
   {{ partial "gallery.html" . }}
-  <div>
-  {{ partial "ads_display.html" . }}
-  </div>
   {{.Content}}
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
@@ -32,9 +29,6 @@
   </div>
   <div class="comments">
     {{- partial "comments.html" . -}}
-  </div>
-  <div>
-    {{ partial "ads_display.html" . }}
   </div>
 </div>
 {{ partial "three.html" (.Site.RegularPages.Related . ) }}
