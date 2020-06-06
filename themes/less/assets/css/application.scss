@@ -2,7 +2,7 @@
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: "{{ .Site.Params.sansSerifFont }}", sans-serif;
-  --onyx: #17181E;
+  --onyx: #222D32;
   --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
@@ -62,7 +62,6 @@ pre,
 code,
 pre tt {
   font-family: Consolas, "Andale Mono WT", "Andale Mono", Menlo, Monaco, "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, "YaHei Consolas Hybrid", monospace, "Segoe UI Emoji", "PingFang SC", "Microsoft YaHei";
-  font-size: .9em;
 }
 
 pre {
