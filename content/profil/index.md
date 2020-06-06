@@ -24,7 +24,7 @@ Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=2386
 * 2019 - Kontributor di [openSUSE](https://github.com/openSUSE/artwork) - sekarang
 * 2019 - Kontributor di [openSUSE Indonesia](https://www.opensuse-id.org/tentang) - sekarang
 * 2019 - Kontributor Ilustrator di [GNOME Indonesia](https://www.gnome.id) - sekarang
-* 2019 - Ketua Divisi Kreatif dan Ilustrator [Kelompok Linux Arek Suroboyo](https://www.klas.or.id) - sekarang
+* 2019 - Ketua Divisi Kreatif dan Ilustrator [Kelompok Linux Arek Suroboyo](https://www.klas.or.id)
 * 2019 - Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker) - sekarang
 * 2019 - Winner [openSUSE.Asia Summit 2019 Logo Competition](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/)
 * 2019 - Tim [Gimpscape Indonesia](https://gimpscape.org) - sekarang
