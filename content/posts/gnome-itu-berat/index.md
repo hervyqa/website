@@ -151,6 +151,6 @@ Sebaliknya, jika memilih lingkungan destop yang ringan, maka pilih DE selain GNO
 
 Perlu diingat semakin minim fitur maka semakin ringan, semakin banyak fitur sudah tentu berat. Pastinya dengan banyak fitur akan memudahkan aktifitas penggunanya. Jadi, pilihlah dengan bijak sesuai kebutuhan dan spesifikasi mesin.
 
-Sepertinya sudah cukup tulisannya. Anda pengguna WM ataupun mempunyai pengalaman dengan GNOME silahkan berkomentar dibawah ini. Sekian, semoga bermanfaat. ^^
+Sepertinya sudah cukup tulisannya. itu tadi sedikit ulasan tentang GNOME. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***

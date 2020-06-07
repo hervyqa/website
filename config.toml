@@ -5,13 +5,11 @@ baseURL = "https://hervyqa.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "id"
 theme = "less"
-googleAnalytics = "UA-144344761-1"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
 paginate = 12
-disqusShortname = "hervyqa"
 
 [author]
   name = "Hervy Qurrotul Ainur"
@@ -29,8 +27,6 @@ disqusShortname = "hervyqa"
 #  resampleFilter = "lanczos"
 
 [params]
-  # google adsense
-  googleAdsense = "ca-pub-6751507526899918"
   copyright = "Hervyqa"
 
   # image size

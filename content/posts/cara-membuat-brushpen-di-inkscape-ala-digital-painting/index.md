@@ -110,6 +110,6 @@ Penulis sudah membuat template inkscape (.svg) agar lebih mudah digunakan. Silak
 
 ***
 
-Nah, itu tadi tips membuat brushpen di inkscape. Jika kawan-kawan mempunyai pertanyaan, saran, ide, kritikan silahkan komentar dibawah ini. Atau silakan sapa penulis via [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin.
+Nah, itu tadi tips membuat brushpen di inkscape. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***

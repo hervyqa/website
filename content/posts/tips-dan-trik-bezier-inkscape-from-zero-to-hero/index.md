@@ -253,7 +253,7 @@ Caranya hampir sama dengan horizontal. Seleksi nodal lalu pilih perataan nodal s
 Alhamdulillah, sudah selesai hingga di ujung tulisan :)
 Itulah tadi tips untuk memahami bezier dari nol hingga benar-benar paham untuk menggunakannya. Jika Anda baru memulai menggunakan inkscape, itu tak mengapa. Jika sudah lama memakai inkscape, juga tak mengapa. Tulisan ini memang ditujukan untuk semua pengguna inkscape.
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar dibawah ini. Atau silakan sapa penulis via [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa).
+Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
