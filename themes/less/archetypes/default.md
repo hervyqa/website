@@ -41,7 +41,7 @@ Bismillahirrohmanirrohim.
 
 ***
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar dibawah ini. Atau silakan sapa penulis via [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
+Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjugi situs [hervyqa.com](https://hervyqa.com) yang bebas iklan dan tracking. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***
 
