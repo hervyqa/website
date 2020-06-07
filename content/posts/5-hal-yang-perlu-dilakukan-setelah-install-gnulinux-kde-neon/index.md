@@ -7,6 +7,7 @@ date: 2019-09-10T11:43:24+07:00
 draft: false
 slug: ""
 categories:
+- distro
 - desktop
 resources:
 - src: "cover.jpeg"
