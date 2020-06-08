@@ -41,7 +41,7 @@ Bismillahirrohmanirrohim.
 
 ***
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjugi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
+Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***
 
