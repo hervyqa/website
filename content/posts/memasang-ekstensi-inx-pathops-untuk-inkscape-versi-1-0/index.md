@@ -9,8 +9,6 @@ slug: ""
 categories:
 - ekstensi
 - inkscape
-- tips
-- desain
 resources:
 - src: "cover.png"
   name: "cover"

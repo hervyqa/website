@@ -8,9 +8,7 @@ description : "Ekstensi Inkscape yang berfungsi melakukan operasi boolean sepert
 slug: "boolean-rekursif-dengan-ekstensi-ink-pathops-inkscape-di-gnulinux"
 categories:
 - ekstensi
-- tips
 - inkscape
-- desain
 resources:
 - src: "cover.jpeg"
   name: "cover"
