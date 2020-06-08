@@ -21,7 +21,7 @@ Bismillahirrohmanirrohim.
 
 Pada tuturial kali ini penulis akan menjelaskan cara mengganti tema warna gelap di Inkscape.
 Inkscape merupakan perangkat lunak pengolah vector yang bebas. Tak jarang juga desainer yang mengandalkan perangkat lunak Inkscape ini.
-Sama seperti penulis ini yang menjadikan Inkscape sebagai perangkat lunak utama sebagai desain grafis.
+Sama seperti penulis ini yang menjadikan Inkscape sebagai perangkat lunak utama desain grafis.
 
 Belajar dari 0 yang belum tahu bagaimana membuat sebuah persegi hingga benar-benar mencoba ilustrasi dengan teknik yang sangat tinggi.
 Jujur, penulis tak bisa seaktif ini untuk bereksperimen dan mencoba teknik yang detil tanpa menggunakan tema gelap.
