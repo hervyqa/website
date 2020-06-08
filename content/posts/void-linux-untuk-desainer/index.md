@@ -2,8 +2,8 @@
 draft: false
 date: 2020-06-07T19:32:05+07:00
 title: "Void Linux Untuk Desainer"
-subtitle: "Migrasi dari Archlinux ke Voidlinux"
-seotitle: "Distro Void linux untuk desainer floss."
+subtitle: "Jadi faktor inilah yang menjadikan voidlinux sebagai salah satu distro untuk desainer"
+seotitle: "Distro Void linux untuk desainer floss"
 description : "Sebagai desainer dan ilustrator, alasan penulis menggunakan voidlinux dan tetap mempertahankannya."
 slug: ""
 categories:
