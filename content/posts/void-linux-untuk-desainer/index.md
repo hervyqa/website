@@ -29,7 +29,7 @@ Ada beberapa hal yang penulis sukai hingga betah untuk memakainya, padahal sebel
 
 # Rolling rilis, aplikasi desain rilis terbaru dan stabil
 
-Rolling Rilis adalah alasan pertama untuk memilih distribusi OS ini. Sebab degan rolling rilis penulis mendapatkan aplikasi yang terbaru (inkscape, krita, gimp, blender dengan versi terbaru) dari repositori resmi. Sama halnya dengan Archlinux, distronya juga rolling rilis tetapi di Voidlinux paketnya lebih stabil daripada di archlinux. Repodata di Voidlinux juga lebih sedikit, tidak lebih dari 2MB sehingga proses sinkronnya lebih cepat. Repositorinya juga ada 1 repositori free/utama secara bawaan, tetapi repositori non-free (void-repo-nonfree) bisa dipasang secara terpisah.
+Rolling Rilis adalah alasan pertama untuk memilih distribusi OS ini. Sebab degan rolling rilis penulis mendapatkan aplikasi yang terbaru (inkscape, krita, gimp, blender dengan versi terbaru) dari repositori resmi. Sama halnya dengan Archlinux, distronya juga rolling rilis tetapi di Voidlinux paketnya lebih stabil daripada di archlinux. Repodata di Voidlinux juga lebih sedikit, tidak lebih dari 2MB sehingga proses sinkronnya lebih cepat. Repositorinya juga ada satu repositori free/utama secara bawaan, tetapi repositori non-free (void-repo-nonfree) bisa dipasang secara terpisah.
 
 Dengan Rolling rilis ini, penulis bisa mendapatkan Inkscape versi 1.0 tanpa perlu memasang di snap, flatpak, atau PPA. Karena Inkscape 1.0 sudah masuk di repositori voidlinux.
 
