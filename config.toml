@@ -90,6 +90,12 @@ title = "Belajar Mengetik dengan Libre Office"
   weight = 4
   identifier = "freebies"
   url = "/freebies"
+[[menu.main]]
+  name = "Ekstensi"
+  title = "Extensi Inkscape"
+  weight = 5
+  identifier = "ekstensi"
+  url = "/ekstensi"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"
