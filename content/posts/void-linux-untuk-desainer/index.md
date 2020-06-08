@@ -23,7 +23,7 @@ Bismillahirrohmanirrohim.
 
 > Void is a general purpose operating system, based on the monolithic Linux® kernel. Its package system allows you to quickly install, update and remove software; software is provided in binary packages or can be built directly from sources with the help of the XBPS source packages collection.
 
-Ada beberapa hal yang penulis sukai hingga betah untuk memakainya, padahal sebelumnya hanya mencoba (iseng) untuk beberapa hari saja, tetapi sudah jatuh hati dengan distronya. Alasannya ada fitur dan depedensi yang membuat penulis enggan untuk pindah.
+Ada beberapa hal yang penulis sukai hingga betah untuk memakainya, padahal sebelumnya hanya mencoba (iseng) untuk beberapa hari saja, tetapi sudah jatuh hati dengan distronya. Alasannya ada fitur dan depedensi yang membuat penulis enggan untuk berpindah.
 
 ***
 
@@ -116,7 +116,7 @@ Terakhir Xbps-src, dengan ini bisa membuat paket xbps sendiri. Kompilingnya juga
 
 Menurut penulis, yang paling spesial dari distro voidlinux yaitu rolling rilis sehingga mendapatkan aplikasi terbaru dan lebih stabil dari arch, runit init sistem, xbps paket manajemen, dan tersedianya google-fonts.
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjugi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
+Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 [Voidlinux]:https://www.voidlinux.org
 
