@@ -11,9 +11,9 @@ categories:
 - desktop
 - free
 resources:
-- src: "cover.jpeg"
+- src: "cover.png"
   name: "cover"
-- src: "*.jpeg"
+- src: "*.png"
 ---
 
 Bismillahirrohmanirrohim.
