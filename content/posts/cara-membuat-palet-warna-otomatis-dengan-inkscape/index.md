@@ -8,6 +8,7 @@ description : "Palet adalah kumpulan warna yang biasa digunakan untuk mewarnai o
 slug: ""
 categories:
 - inkscape
+- tips
 - desain
 resources:
 - src: "cover.jpeg"

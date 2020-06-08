@@ -8,6 +8,7 @@ description : "PDF merupakan format portabel untuk dokumen, sehingga mempermudah
 slug: ""
 categories:
 - inkscape
+- tips
 - dokumen
 - desain
 resources:

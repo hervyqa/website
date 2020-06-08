@@ -8,6 +8,7 @@ description : "Cara brushpen ini sudah penulis terapkan sejak tahun 2016. Setida
 slug: ""
 categories:
 - inkscape
+- tips
 - desain
 - free
 resources:

@@ -7,8 +7,8 @@ seotitle: "Cara Impor dan Ekspor EPS Inkscape di Windows dan GNU/Linux"
 description : "Adakalanya untuk pengguna Windows dan GNU/Linux mengalam kegalatan saat mengimpor EPS. Lalu bagaimana mengatasi masalah ini? yuk silakan baca tutorialnya."
 slug: ""
 categories:
-- tips
 - inkscape
+- tips
 - desain
 resources:
 - src: "cover.jpeg"

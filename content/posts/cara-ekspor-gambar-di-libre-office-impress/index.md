@@ -8,6 +8,7 @@ slug: "cara-ekspor-gambar-di-libre-office-impress"
 date: 2019-09-11T10:50:27+07:00
 categories:
 - impress
+- tips
 - dokumen
 resources:
 - src: "cover.jpeg"

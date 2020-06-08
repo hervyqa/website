@@ -8,6 +8,7 @@ description : "Tahukah Anda tentang cara merubah profil warna RGB menjadi CMYK d
 slug: ""
 categories:
 - inkscape
+- tips
 - desain
 resources:
 - src: "cover.jpeg"
