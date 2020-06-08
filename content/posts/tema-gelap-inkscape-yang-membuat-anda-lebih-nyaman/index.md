@@ -19,9 +19,10 @@ resources:
 
 Bismillahirrohmanirrohim.
 
-Pada tuturial kali ini penulis akan jelaskan cara mengganti tema warna gelap di Inkscape.
+Pada tuturial kali ini penulis akan menjelaskan cara mengganti tema warna gelap di Inkscape.
 Inkscape merupakan perangkat lunak pengolah vector yang bebas. Tak jarang juga desainer yang mengandalkan perangkat lunak Inkscape ini.
 Sama seperti penulis ini yang menjadikan Inkscape sebagai perangkat lunak utama sebagai desain grafis.
+
 Belajar dari 0 yang belum tahu bagaimana membuat sebuah persegi hingga benar-benar mencoba ilustrasi dengan teknik yang sangat tinggi.
 Jujur, penulis tak bisa seaktif ini untuk bereksperimen dan mencoba teknik yang detil tanpa menggunakan tema gelap.
 Dengan tema gelap membuat mata lebih sehat, baik di siang maupun di malam hari.
@@ -143,7 +144,7 @@ Di Preferences Inkscape, pilihan Change Gtk Theme:, pilih "Yaru-dark"
 
 Dari tema-tema tersebut Anda juga dapat memasang tema dari [gnome-look.org](https://www.gnome-look.org/browse/cat/135/ord/rating/).
 Pilih kategori GTK3 Themes.
-Unduh tema, ekstrak, lalu salin tempel ke direktori ``~/.themes/``
+Unduh tema, ekstrak, lalu salin tempel ke direktori ``~/.themes/``.
 Anda bebas memilih tema dari repositori distro langsung sesuai kesukaan Anda.
 Pilih sesuai selera, jika tidak ada yang sesuai silakan mengunduh tema dari gnome-look.
 
@@ -155,9 +156,6 @@ Bisa juga digunakan untuk tema KDE (Qt)
 
 {{< photo src="tampilan-inkscape-hervyqa.png" alt="Tampilan Inkscape Hervyqa" >}}
 
-***
-
-Barakallahu fiikum.
 Demikian ulasan tentang beberapa tema gelap di Inkscape.
 Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa).
 
