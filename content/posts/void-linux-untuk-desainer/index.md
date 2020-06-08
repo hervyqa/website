@@ -10,6 +10,7 @@ categories:
 - distro
 - desktop
 - inkscape
+- desain
 - free
 resources:
 - src: "cover.jpeg"
