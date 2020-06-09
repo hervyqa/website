@@ -48,12 +48,12 @@ Template Easy Repeat Pattern + Mockup (kanan)
 
 Anda dapat mengunduhnya di galeri Inkscape:
 
-- [Easy Repeat Pattern]()
-- [Easy Repeat Pattern + Mockup]()
+- [Easy Repeat Pattern](https://inkscape.org/~hervyqa/%E2%98%85easy-repeat-pattern)
+- [Easy Repeat Pattern + Mockup](https://inkscape.org/~hervyqa/%E2%98%85easy-repeat-pattern-mockup)
 
 Anda dapat mengunduh full resource berupa template dan video tutorial:
 
-- [Full Resource Easy Repeat Pattern]()
+- [Full Resource Easy Repeat Pattern](https://gitlab.com/hervyqa/easy-repeat-pattern/-/archive/master/easy-repeat-pattern-master.zip)
 
 # Panduan Menggunakan Template
 
