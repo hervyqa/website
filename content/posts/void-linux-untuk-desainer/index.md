@@ -105,7 +105,7 @@ Do you want to continue? [Y/n]
 
 Voidlinux menyediakan berbagai macam arsitektur dan lingkungan desktop. Mulai dari aarc64, armv7, rpi, odroid, i686 dan x86_64 (64bit). Juga menyediakan berbagai macam desktop environment seperti Cinnamon, Enlightenment, Lxde, Lxqt, XFCE, dan Mate. Tentu dengan varian desktop environment ini membuat mudah tampilan desktop. Pemasangan secara normal juga cepat, biasanya kurang dari 5 menit.
 
-Anda dapat mengunjungi situs Voidlinux di [voidlinux.org](voidlinux.org). Untuk Awam bisa mencoba varian Cinnamon atau XFCE (pasang iso via lokal), jika menginginkan yang minimalis bisa mencoba voidlinux yang minimal iso.
+Anda dapat mengunjungi situs Voidlinux di [voidlinux.org](https://voidlinux.org). Untuk Awam bisa mencoba varian Cinnamon atau XFCE (pasang iso via lokal), jika menginginkan yang minimalis bisa mencoba voidlinux yang minimal iso.
 
 # Musl libc, LibreSSL, dan XBPS-src
 
@@ -119,7 +119,7 @@ Menurut penulis, yang paling spesial dari distro voidlinux yaitu rolling rilis s
 
 Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
-[Voidlinux]:https://www.voidlinux.org
+[Voidlinux]:https://voidlinux.org
 
 [Inkscape]:https://www.inkscape.org
 [Gimp]:https://www.gimp.org
