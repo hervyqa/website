@@ -103,7 +103,7 @@ Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [teleg
 
 Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan bebas pelacak.
 
-Semoga Template "Easy Repeat Pattern" ini bermanfaat untuk pembaca dan para desainer Pattern. Aamiin.
+Semoga Template "Easy Repeat Pattern" ini bermanfaat untuk para pembaca dan desainer pattern. Aamiin.
 
 ***
 
