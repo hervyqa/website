@@ -15,6 +15,8 @@ resources:
 - src: "*.png"
 ---
 
+{{< youtube i0j-v9tOjV4 >}}
+
 Bismillahirrohmanirrohim.
 
 Akhirnya rilis "Template Easy repeat Pattern" yang dapat diunduh bebas oleh siapapun.
@@ -49,10 +51,6 @@ Template Easy Repeat Pattern + Mockup (kanan)
 - [Unduh Versi 2.1](https://gitlab.com/hervyqa/easy-repeat-pattern/uploads/54194ed7d5206c8dbdc5e9802d270950/easy-repeat-pattern-v2.1.zip)
 
 - [Dokumentasi](https://gitlab.com/hervyqa/easy-repeat-pattern/)
-
-# Demontrasi
-
-{{< youtube i0j-v9tOjV4 >}}
 
 # Panduan Menggunakan Template
 
