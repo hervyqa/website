@@ -26,7 +26,7 @@ Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitek
 
 Unduh di: [Laman web Ghostscript](https://ghostscript.com/download/gsdnld.html)
 
-Sedangkan untuk pengguna **GNU/Linux** dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang python lxml2 ini.
+Sedangkan untuk pengguna **GNU/Linux** dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang ghostscript ini.
 
 - **Arch/Manjaro** :
 `sudo pacman -S ghostscript`
