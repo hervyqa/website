@@ -43,6 +43,12 @@ paginate = 12
 
   heroHeader = true
 
+  hasBanner=true
+
+[params.banner]
+  url = "https://linktr.ee/vectara.id"
+  src = "/banner/banner.png"
+
 [taxonomies]
   category = "categories"
 
