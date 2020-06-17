@@ -9,14 +9,13 @@
   text-align: center;
 }
 .pagination li {
-  padding: 20px 0px;
   a {
     color: var(--onyx);
     border-radius: 3px;
     border: none;
     background-image: none;
     text-shadow: none;
-    padding: 20px 15px;
+    padding: 20px 10px;
   }
 }
 .pagination li.active {
@@ -26,5 +25,3 @@
 .pagination li.disabled {
   opacity: 0.9;
 }
-
-
