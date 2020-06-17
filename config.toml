@@ -79,29 +79,29 @@ title = "Belajar Desain Grafis"
   identifier = "desain"
   url = "/desain"
 [[menu.main]]
+  name = "Pattern"
+  title = "Seamess Pattern Inkscape"
+  weight = 2
+  identifier = "pattern"
+  url = "/pattern"
+[[menu.main]]
+  name = "Perkakas"
+  title = "Extensi dan Template Inkscape"
+  weight = 3
+  identifier = "perkakas"
+  url = "/perkakas"
+[[menu.main]]
 name = "Dokumen"
 title = "Belajar Mengetik dengan Libre Office"
-  weight = 2
+  weight = 4
   identifier = "dokumen"
   url = "/dokumen"
 [[menu.main]]
-  name = "Template"
-  title = "Template Libre Office"
-  weight = 3
-  identifier = "template"
-  url = "/template"
-[[menu.main]]
   name = "Freebies"
   title = "Freebies Aset Gratis"
-  weight = 4
+  weight = 5
   identifier = "freebies"
   url = "/freebies"
-[[menu.main]]
-  name = "Ekstensi"
-  title = "Extensi Inkscape"
-  weight = 5
-  identifier = "ekstensi"
-  url = "/ekstensi"
 #[[menu.main]]
 #  name = "Premium Template"
 #  title = "Premium Template Libre Office"
