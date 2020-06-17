@@ -8,6 +8,7 @@ slug: "gnome-bluez-libreoffice-impress-free-template"
 description : "Template merdeka LibreOffice Impress GNOME Bluez, template salindia tersebut digunakan oleh para pembicara GNOME.Asia Summit 2019. Ingin tahu demonya?"
 categories:
 - template
+- freebies
 - gnome
 description : ""
 resources:

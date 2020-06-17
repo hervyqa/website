@@ -7,6 +7,7 @@ seotitle: "Cara membuat Seamless Pattern Dengan Inkscape"
 description : "Seamless pattern merupakan pola yang terus menerus berulang hingga tidak ada sisa kanvas yang tertutup dengan bentuk pola tersebut. Seamless pattern merupakan pola yang menarik untuk jenis desain full print."
 slug: ""
 categories:
+- pattern
 - inkscape
 - desain
 resources:

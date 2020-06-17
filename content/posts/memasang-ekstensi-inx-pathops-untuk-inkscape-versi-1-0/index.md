@@ -8,6 +8,7 @@ description : "Ekstensi Inx-Pathops merupakan ekstensi untuk boolean multi objek
 slug: ""
 categories:
 - ekstensi
+- perkakas
 - inkscape
 resources:
 - src: "cover.png"

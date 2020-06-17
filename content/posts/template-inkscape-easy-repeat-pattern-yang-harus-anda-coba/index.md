@@ -7,7 +7,8 @@ seotitle: "Download Mockup Template Inkscape Easy Repeat Pattern SVG Free for Pe
 description : "Template SVG gratis untuk siapapun, khususnya Anda yang hobi mendesain Fabric Seamless Pattern dan Branding Audentity"
 slug: ""
 categories:
-- ekstensi
+- pattern
+- perkakas
 - inkscape
 resources:
 - src: "cover.png"
