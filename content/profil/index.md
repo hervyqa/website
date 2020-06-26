@@ -31,9 +31,9 @@ Seorang Ilustrator, [Mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=2386
 * 2019 - Relawan Desain [Creative Commons Indonesia](https://creativecommons.or.id) - sekarang
 * 2019 - Pengembang [Manjaro-X](https://manjaro-x.netlify.com) - sekarang
 * 2019 - Kontributor [Lumbung LibreOffice](https://lumbung.libreoffice.id) - sekarang
-* 2020 - Mentor [Vectara ID](https://instagram.com/vectara.id) - sekarang
+* 2020 - Mentor & CTO [Vectara ID](https://instagram.com/vectara.id) - sekarang
 * 2020 - Member of [The Document Foundation - LibreOffice](https://documentfoundation.org/governance/members) - sekarang
-* 2019 - Admin [Muslim Pattern Creator](https://www.t.me/muslimpattern) - sekarang
+* 2019 - Founder [Muslim Pattern Creator](https://www.t.me/muslimpattern) - sekarang
 
 ## GIT
 
