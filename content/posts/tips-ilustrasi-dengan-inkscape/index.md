@@ -30,7 +30,7 @@ Alhamdulillah, karena menerapkan tips ini Penulis berhasil menang dalam ajang lo
 
 Baik, berikut tipsnya.
 
-# Pertama, memahami jenis gaya desain
+## Pertama, memahami jenis gaya desain
 
 Dengan memahami jenis gaya desain, akan mengefektifkan ketika membuat ilustrasi. Beberapa jenis desain misalnya flat, gradien, blur, mbe, chrome, wpap, dan lain-lain.
 
@@ -47,7 +47,7 @@ Secara pribadi, gaya desain yang sering Penulis pilih yaitu:
 - Desain pattern, karena Penulis sendiri fokus ke desain seamless pattern dan tidak terlalu beresiko.
 - Terakhir, penulis juga tidak mengilustrasikan gambar yang memperlihatkan aurat perempuan, wajah, tubuh manusia secara utuh, potongan tubuh, ataupun darah.
 
-# Boleh mengambil gambar orang lain, jika...
+## Boleh mengambil gambar orang lain, jika...
 
 Boleh mengambil gambar jika digunakan untuk referensi belajar. Tujuannya untuk memahami style atau gaya, meniru lekukannya, meniru layoutnya, meniru gradasinya, detailnya, dan lain-lain. Dengan ini, kemampuan ilustrasi anda akan meningkat, tetapi konsistensi dalam membuat ilustrasi itu juga diperlukan.
 
@@ -57,13 +57,13 @@ Jadi, ketika orang sudah mengatakan "Oh jadi seperti ini gayanya.. Oh jadi seper
 
 Ketahuilah juga, mengambil karya orang juga beresiko dengan lisensi, dalam kondisi ini dikhawatirkan terjadi penjiplakan karya. Oleh karena itu, kreator sebaiknya menggunakan lisensi [Creative Commons](/lisensi-creative-commons) yang memberikan kemudahan orag lain untuk menggunakan karya milik kreator. Caranya yaitu dengan mencantumkan atribusi dan logo jenis lisensi CC terhadap karya tersebut.
 
-# Perbanyak latihan dan membuat portofolio
+## Perbanyak latihan dan membuat portofolio
 
 Semisalnya Hari Ahad ada jadwal kosong, atau yang biasanya bangun pagi sebelum subuh bisa digunakan untuk latihan membuat ilustrasi. Jika ilustrasinya bagus bisa dijadikan portofolio di [Behance] dan [Dribbble]. Jadi, tidak hanya teknik saja yang kuasai, tetapi dengan memperbanyak latihan dan membuat portofolio juga sebagai faktor ketertarikan klien.
 
 Nah, sekarang masuk ke bagian teknisnya.
 
-# Pakai Tetikus atau Pentab
+## Pakai Tetikus atau Pentab
 
 Pilihan pertama pakai tetikus (mouse). Karena ilustrator akan kesulitan membuat ilustrasi dengan touchpad *(bayangan saja buat ilustrasi yang kompleks menggunakan touchpad saja, bagaimana susahnya )*.
 
@@ -71,15 +71,15 @@ Tapi tidak perlu berangan tinggi, pakai mouse tipe gaming harga sekitar 100-200r
 
 Nah, pilihan kedua bisa pakai Pen Tablet. terakhir kali Penulis cek *(pada postingan ini ditulis)*, harga wacom yang baru Rp. 1.200.000.- untuk Wacom CTL 672 ukuran medium, yang tipe CTL 472 small sekitar Rp.700.000.-, harga tersebut masih terjangkau.
 
-# Pahami Teknik Bezier
+## Pahami Teknik Bezier
 
 Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh pengguna inkscape. Bezier ini yang **PALING PENTING** untuk ilustrasi, apalagi yang ilustrator dengan *genre* seni garis (line art) yang rumit dan kompleks pasti membutuhkannya.
 
 ***
 
-# Terakhir, Memahami pintasan
+## Terakhir, Memahami pintasan
 
-## Mulai dari yang dasar
+### Mulai dari yang dasar
 
 * **<kbd>s</kbd>** untuk memilih objek, path dan teks.
 * **<kbd>r</kbd>** objek persegi.
@@ -91,35 +91,35 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 * **<kbd>d</kbd>** mengambil warna.
 * **<kbd>g</kbd>** memberi warna gradien.
 
-## Memindahkan objek
+### Memindahkan objek
 
 * Memilih objek dan menahan **<kbd>Shift</kbd>** untuk menggerakkan objek dengan cepat.
 * Memilih objek dan menahan **<kbd>Alt</kbd>** untuk menggerakkan objek dengan lambat. Biasanya untuk presisi perpindahan objek.
 
-## Memperbesar objek
+### Memperbesar objek
 
 * **tahan <kbd>Shift<kbd>** untuk simetris secara horizontal.
 * **tahan <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd>** untuk simetris secara horizontal dan vertikal.
 
-## Salin tempel
+### Salin tempel
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd>** untuk menyalin objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd>** untuk menempelkan objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd></kbd>** untuk menggantikan style objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd>** duplikasi objek. Sama dengan saltem (salin tempel) namun duplikat tidak tergantung posisi kursor tetikus.
 
-## Zoom
+### Zoom
 
 * **<kbd>3</kbd>** zoom pada objek yang dipilih.
 * **<kbd>4</kbd>** zoom pada semua objek.
 * **<kbd>5</kbd>** zoom pada kanvas.
 
-## Menggabungkan objek
+### Menggabungkan objek
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>g</kbd>** grup objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>u</kbd>** melepaskan grup objek.
 
-## Pintasan dialog
+### Pintasan dialog
 
 * **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd></kbd>** untuk mengatur warna fill stroke.
 * **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd></kbd>** lapisan/layer
@@ -127,7 +127,7 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 * **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd></kbd>** merubah typeface tulisan.
 * **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>7</kbd></kbd>** menambahkan path efek. Biasanya Penulis menggunakan efek bend dan envelope destruction.
 
-## Modifikasi objek
+### Modifikasi objek
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd>** untuk menyatukan objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>_</kbd></kbd>** untuk memotong objek.
@@ -138,18 +138,18 @@ Pintasan **<kbd>B</kbd>** adalah pintasan bezier yang sering digunakan oleh peng
 * **<kbd><kbd>Ctrl</kbd>+<kbd>k</kbd></kbd>** untuk menggabungkan objek.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd></kbd>** untuk memecah objek jadi beberapa bagian.
 
-## Merubah jadi path
+### Merubah jadi path
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd>** merubah objek menjadi path.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd>** merubah stroke menjadi path.
 
-## Snap alias magnet node
+### Snap alias magnet node
 
 * **<kbd>%</kbd>** Snap.
 
 Tips: nonaktifkan snap (**<kbd>%</kbd>**) ketika sedang membuat ilustrasi *line Art* dan aktifkan kembali saat butuh snap pada titik node tertentu.
 
-## Terakhir pintasan tampilan
+### Terakhir pintasan tampilan
 
 * **<kbd><kbd>Ctrl</kbd>+<kbd>b</kbd></kbd>** scrollbar.
 * **<kbd><kbd>Ctrl</kbd>+<kbd>r</kbd></kbd>** screenruler.

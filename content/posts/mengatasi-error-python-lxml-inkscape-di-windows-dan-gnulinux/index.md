@@ -23,29 +23,44 @@ Berikut tipsnya.
 
 ***
 
+## Instalasi
+
 Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitektur komputer Anda. Apakah 32-bit (win32) atau 64-bit (amd64).
 
 Unduh di laman web ini: [Lxml versi 3.8.0](https://pypi.org/project/lxml/3.8.0/#downloads). Pilih berkas dengan akhiran `.exe`.
 
 Sedangkan untuk pengguna GNU/Linux dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang python lxml ini.
 
-- **Arch/Manjaro** :
-`sudo pacman -S python2-lxml`
+- Arch/Manjaro:
+    ```
+    sudo pacman -S python-lxml
 
-- **Fedora/Centos/Red Hat** : 
-`sudo dnf install python2-lxml`
+    ```
 
-- **Centos/Red Hat** : 
-`sudo -c 'yum install python2-lxml'`
+- Fedora/Centos/Red Hat:
+    ```
+    sudo dnf install python3-lxml
+    ```
 
-- **Ubuntu/Debian/Deepin** :
-`sudo apt install python-lxml`
+- Centos/Red Hat:
+    ```
+    sudo -c 'yum install python3-lxml'
+    ```
 
-- **openSUSE** :
-`sudo zypper install python2-lxml`
+- Ubuntu/Debian/Deepin:
+    ```
+    sudo apt install python3-lxml
+    ```
 
-- **Void** :
-`sudo xbps-install -S python-lxml`
+- openSUSE:
+    ```
+    sudo zypper install python3-lxml
+    ```
+
+- Void:
+    ```
+    sudo xbps-install -S python3-lxml
+    ```
 
 Nah mudah sekali bukan untuk pengguna GNU/Linux.
 

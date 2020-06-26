@@ -21,7 +21,7 @@ Pengaturan awal LibreOffice memang perlu dilakukan dulu sebelum memulai membuat 
 
 ***
 
-# Gunakan Bahasa Indonesia sebagai bahasa baku
+## Gunakan Bahasa Indonesia sebagai bahasa baku
 
 Harus menggunakan Bahasa Indonesia sebagai bahasa baku di LibreOffice. Mengapa?, sebab fitur Bahasa lokal yang tersedia di LibreOffice merupakan fitur yang bagus untuk orang awam. Bahkan lebih mudah diajarkan untuk anak Sekolah Dasar yang masih baru belajar mengetik. Perlu Anda ketahui ada sekitar tiga ratus lebih kata dan string yang berhasil diterjemahkan oleh Tim Penerjemah LibreOffice Indonesia, sudah sepantasnya untuk menghargai tim penerjemah lokal.
 
@@ -79,7 +79,7 @@ sudo pacman -S libreoffice-fresh-id
 
 ***
 
-# Mengatur Unit Pengukuran
+## Mengatur Unit Pengukuran
 
 Kedua, biasanya Sistem operasi yang sudah menggunakan format Bahasa Indonesia sebagai format baku secara otomatis LibreOffice mendeteksi unit pengukuran ke sentimeter. Nah, ini manfaat lain mengatur lokal dan memasang Bahasa Indonesia yang secara otomatis mengatur ke sentimeter. Namun, jika format Bahasa Anda masih Bahasa Inggris maka unit yang digunakan adalah inchi, bukan sentimeter. Untuk merubah unit pengaturan tersebut dari inchi ke sentimeter adalah sebagai berikut.
 
@@ -93,7 +93,7 @@ Kedua, biasanya Sistem operasi yang sudah menggunakan format Bahasa Indonesia se
 
 ***
 
-# Mengisi Data Pengguna
+## Mengisi Data Pengguna
 
 Manfaat untuk mengisi formulir Data pengguna yaitu memudahkan pengguna lain untuk mengetahui pemilik berkas tersebut. Data tersebut bermanfaat untuk Metadata berkas dokumen yang Anda buat. Misalnya untuk memudahkan fitur komentar, didalam komentar akan tahu siapa yang penulis komentar (komentar ini berfungsi untuk menambahkan catatan dan perbaikan proposal, makalah, ataupun naskah skripsi). Manfaat lain data pengguna yaitu memaksimalkan metadata berkas. Jika dokumen ODF tersebut diekspor ke PDF, nantinya di metadata PDF akan tertera nama Anda sebagai pemilik dokumen dan piranti lunak apa yang Anda gunakan.
 
@@ -111,7 +111,7 @@ Berikut cara untuk mengisi Data Pengguna LibreOffice:
 
 ***
     
-# Mengisi Dokumen Properti
+## Mengisi Dokumen Properti
 
 Dokumen Properti penting untuk menampilkan metadata. Mulai dari Deskripsi, Keamanan, Fonta dan lain-lain. Cara untuk mengisi Dokumen properti adalah sebagai berikut:
 
@@ -127,7 +127,7 @@ Dokumen Properti penting untuk menampilkan metadata. Mulai dari Deskripsi, Keama
 
 ***
 
-# Koreksi Otomatis
+## Koreksi Otomatis
 
 Anda bisa menggunakan fitur Koreksi Otomatis untuk mempercepat Penulisan. Misalnya “libreoffice” diganti dengan “LibreOffice”, “gimp” diganti “GIMP”, dan lain-lain. Adapun cara menggunakan KoreksiOtomatis sebagai berikut.
 
@@ -140,7 +140,7 @@ Anda bisa menggunakan fitur Koreksi Otomatis untuk mempercepat Penulisan. Misaln
 
 ***
 
-# Menggunakan Fitur Komentar dan Pelacak perubahan
+## Menggunakan Fitur Komentar dan Pelacak perubahan
 
 Anda bisa menggunakan fitur komentar untuk memberikan catatan. Sedangkan fitur Pelacak Perubahan digunakan untuk memantau perubahan isi dokumen, sehingga perubahan tersebut bisa diterima sebagai pembenahan dan bisa sebagai penolakan. Fitur ini sangat cocok untuk pegawai dan mahasiswa yang membutuhkan asistensi tugas proposal/skripsi/tesis/disertasi via daring.
 
@@ -148,7 +148,7 @@ Anda bisa menggunakan fitur komentar untuk memberikan catatan. Sedangkan fitur P
 
 ***
 
-# Selalu gunakan Fonta Liberation sebagai Fonta Baku
+## Selalu gunakan Fonta Liberation sebagai Fonta Baku
 
 Perlu diketahui bahwa LibreOffice sudah mendukung Fonta bebas untuk menggantikan Microsoft Office. Jika Anda pengguna GNU/Linux, Anda tidak perlu memasang fonta Microsoft di Distro GNU/Linux, sebab LibreOffice sendiri sudah menggantikan fonta Microsoft Office sejak LibreOffice itu dibuat.
 
@@ -171,7 +171,7 @@ Beberapa fonta ini yang tidak disediakan LibreOffice tetapi ada dikebanyakan rep
 
 ***
 
-# Selalu gunakan ODF
+## Selalu gunakan ODF
 
 Meskipun Anda bekerja dengan LibreOffice, yakinlah selalu untuk menggunakan Open Document Format (ODF). Gunakan LibreOffice Writer dengan format .odt bukan .doc atau .docx. Ini penting karena berhubungan dengan kompatibilitas dokumen.
 

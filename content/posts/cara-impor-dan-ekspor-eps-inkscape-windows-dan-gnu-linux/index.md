@@ -22,6 +22,8 @@ Untuk pengguna windows biasanya ketika mengimpor berkas `.eps` mengalami kendala
 
 ***
 
+## Instalasi
+
 Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitektur komputer Anda. Apakah 32-bit (win32) atau 64-bit (amd64).
 
 Unduh di: [Laman web Ghostscript](https://ghostscript.com/download/gsdnld.html)
@@ -29,22 +31,34 @@ Unduh di: [Laman web Ghostscript](https://ghostscript.com/download/gsdnld.html)
 Sedangkan untuk pengguna **GNU/Linux** dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang ghostscript ini.
 
 - **Arch/Manjaro** :
-`sudo pacman -S ghostscript`
+    ```
+    sudo pacman -S ghostscript
+    ```
 
-- **Fedora/Centos/Red Hat** : 
-`sudo dnf install ghostscript`
+- **Fedora/Centos/Red Hat** :
+    ```
+    sudo dnf install ghostscript
+    ```
 
 - **Centos/Red Hat** : 
-`sudo -c 'yum install ghostscript'`
+    ```
+    sudo -c 'yum install ghostscript'
+    ```
 
 - **Ubuntu/Debian/Deepin** :
-`sudo apt install ghostscript`
+    ```
+    sudo apt install ghostscript
+    ```
 
 - **openSUSE** :
-`sudo zypper install ghostscript`
+    ```
+    sudo zypper install ghostscript
+    ```
 
 - **Void** :
-`sudo xbps-install -S ghostscript`
+    ```
+    sudo xbps-install -S ghostscript
+    ```
 
 Nah mudah sekali bukan untuk pengguna GNU/Linux.
 

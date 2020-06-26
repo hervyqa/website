@@ -22,11 +22,11 @@ Bagi pengguna GNU/Linux ada saja trik yang menarik untuk disimak. Misalnya pada 
 
 ***
 
-# Unduh Ekstensi Generate Palet Warna
+## Unduh Ekstensi Generate Palet Warna
 
 Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98%85generate-palette-extension). Kemudian klik ikon unduh. Atau Anda bisa langsung mengunduhnya dengan mengklik [tautan ini](https://inkscape.org/gallery/item/11353/inkscape-generate-palette_M9QCGWg.zip).
 
-# Memasang Ekstensi
+## Memasang Ekstensi
 
 * Pertama, ekstrak berkas zip tersebut. kemudian, salin kedua berkas *generate_palette.inx* dan *generate_palette.py*.
 * Lalu, untuk pengguna GNU/Linux silakan menempel kedua berkas tersebut ke:
@@ -38,7 +38,7 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 ~\AppData\Roaming\inkscape\extensions
 ```
 
-# Cara Menggunakan Ekstensi
+## Cara Menggunakan Ekstensi
 
 * Buka perangkat lunak Inkscape.
 * Buatlah warna palet pilihan Anda. Misalnya dengan membuat beberapa objek persegi yang memiliki warna berbeda-beda.
@@ -57,7 +57,7 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
   {{< photo src="palet-berhasil-dibuat.png" alt="Palet Berhasil Dibuat dengan inkscape" >}}
 {{</ photoset >}}
 
-# Mengganti Warna Palet
+## Mengganti Warna Palet
 
 * Pilih ikon segitiga disamping kanan palet warna.
 * Kemudian, pilih palet warna yang Anda inginkan.
@@ -67,7 +67,7 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
   {{< photo src="berhasil-menerapkan-palet.png" alt="Berhasil Menerapkan Palet" >}}
 {{</ photoset >}}
 
-# Lokasi Palet warna
+## Lokasi Palet warna
 
 Palet warna yang Anda buat akan tersimpan di direktory palette dengan format *.gpl* (gimp palette).
 
@@ -90,6 +90,6 @@ Baik, sekian tutorialnya. Semoga bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***
 
-# Pranala Penting
+## Pranala Penting
 
 * [Generate color palette](https://github.com/olibia/inkscape-generate-palette)

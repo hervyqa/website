@@ -23,7 +23,7 @@ Tulisan ini menunjukkan hal-hal apa saja yang perlu dilakukan setalah install GN
 
 ***
 
-# Refresh dan Update
+## Refresh dan Update
 
 Ada dua cara mengupdate di GNU/Linux, pertama menggunakan GUI di software center KDE atau yang disebut Dicover dan kedua menggunakan CLI di terminal.
 Hal yang penulis sukai adalah mengeksekusi perintah dengan terminal. Di KDE Aplikasi, terminal biasa disebut "Konsole".
@@ -36,7 +36,7 @@ sudo pkcon refresh -y && sudo pkcon update -y
 
 ***
 
-# Pasang Paket Dasar
+## Pasang Paket Dasar
 
 Selanjutnya pasang paket dasar seperti git, fonta, codec, icc-profil dan lain-lain.
 
@@ -51,7 +51,7 @@ kcron kubuntu-driver-manager icc-profiles icc-profiles-free -y
 
 ***
 
-# Pasang KDE Aplikasi
+## Pasang KDE Aplikasi
 
 Memasang aplikasi QT dan KDE.
 
@@ -78,7 +78,7 @@ sudo pkcon install falkon -y; sudo pkcon remove firefox -y;
 
 ***
 
-# Pasang Paket Aplikasi untuk Desain dan Produktifitas
+## Pasang Paket Aplikasi untuk Desain dan Produktifitas
 
 Pasang Aplikasi desain dan perkantoran.
 ```
@@ -101,7 +101,7 @@ kdenlive synfigstudio -y
 
 ***
 
-# Terakhir, Hapus Depedensi yang tidak diperlukan
+## Terakhir, Hapus Depedensi yang tidak diperlukan
 
 ```
 sudo apt autoremove -y

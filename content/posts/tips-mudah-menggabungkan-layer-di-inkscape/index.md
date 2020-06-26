@@ -21,7 +21,7 @@ Menggabungkan layer di inkscape memang belum ada untuk fitur ini. Tetapi bisa di
 
 ***
 
-# Pintasan Layer
+## Pintasan Layer
 
 Perlu Anda ketahui, sebelum masuk untuk menggabungkan layer lebih baik memahami pintasan layer. Pintasan layer tersebut Antara lain:
 
@@ -36,7 +36,7 @@ Perlu Anda ketahui, sebelum masuk untuk menggabungkan layer lebih baik memahami 
 
 Pintasan tersebut bersifat opsional, artinya boleh digunakan boleh tidak.
 
-# Pintasan Salin Tempel
+## Pintasan Salin Tempel
 
 Pintasan ini menurut penulis harus dihafalkan, sebab sering dipakai ketika mendesain. Pintasannya antara lain:
 
@@ -46,7 +46,7 @@ Pintasan ini menurut penulis harus dihafalkan, sebab sering dipakai ketika mende
 * **Ctrl+Shift+v** : menempelkan gaya dari objek ke objek lainnya.
 * **Ctrl+Alt+v** : menempelkan objek sesuai asal lokasi.
 
-# Menggabungkan Layer di Inkscape
+## Menggabungkan Layer di Inkscape
 
 * Cara untuk menggabungkan layer sebenarnya menyeleksi objek dahulu lalu dipotong (cut) dengan **Ctrl+x** dari layer pertama.
 * Kemudian pindah ke layer tujuan. Gunakan pintasan **Ctrl+page_up/down** untuk berpindah.

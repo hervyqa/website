@@ -22,7 +22,7 @@ Sebelumnya penulis pernah memposting [template artboard](/menggunakan-artboard-y
 
 ***
 
-# Cara Pemasangan
+## Cara Pemasangan
 
 - Unduh dahulu ekstensi di galeri inkscape di [tautan ini](https://inkscape.org/~hervyqa/%E2%98%85empty-page-for-branding-creative-marketplace).
 - Ekstrak zip.
@@ -35,7 +35,7 @@ Sebelumnya penulis pernah memposting [template artboard](/menggunakan-artboard-y
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\
     ```
-# Cara Penggunaan
+## Cara Penggunaan
 
 - Buka Inkscape.
 - Tekan Ctrl+Alt+N untuk membuka template baru.
@@ -43,7 +43,7 @@ Sebelumnya penulis pernah memposting [template artboard](/menggunakan-artboard-y
 - Pilih Jenis kanvas di Media Size.
 - Klik "Create from template"
 
-# Cuplikan Ekstensi
+## Cuplikan Ekstensi
 
 {{< photo src="empty-page-hervyqa-1.png" alt="" >}}
 

@@ -49,7 +49,7 @@ Anda bisa memasangnya yang tersedia di repositori.
 
 ***
 
-# Adwaita-Dark
+## Adwaita-Dark
 
 {{< photo src="adwaita-dark-hervyqa.png" alt="Adwaita Dark" >}}
 
@@ -57,7 +57,7 @@ Secara bawaan Inkscape sudah membawa tema adwaita.
 Adwaita bisa langsung digunakan dengan mengganti tema di preferences.
 Baik GNU/Linux, Windows, Mac bisa langsung menggunakannya.
 
-# Adapta-Nokto
+## Adapta-Nokto
 
 {{< photo src="adapta-nokto-hervyqa.png" alt="Adapta Nokto" >}}
 
@@ -73,7 +73,7 @@ Cara memasang tema adapta:
 
 Di Preferences Inkscape, pilihan Change Gtk Theme:, pilih "Adapta-Nokto"
 
-# Arc-Dark
+## Arc-Dark
 
 {{< photo src="arc-dark-hervyqa.png" alt="Arc Dark" >}}
 
@@ -89,7 +89,7 @@ Cara memasang tema Arc:
 
 Di Preferences Inkscape, pilihan Change Gtk Theme:, pilih "Arc-Dark"
 
-# Breeze-Dark
+## Breeze-Dark
 
 {{< photo src="breeze-dark-hervyqa.png" alt="Breeze Dark" >}}
 
@@ -106,7 +106,7 @@ Cara memasang tema Breeze Dark:
 
 Di Preferences Inkscape, pilihan Change Gtk Theme:, pilih "Breeze-Dark"
 
-# Plata-Noir
+## Plata-Noir
 
 {{< photo src="plata-noir-hervyqa.png" alt="Plata Noir" >}}
 
@@ -121,7 +121,7 @@ Cara memasang tema Plata Noir:
 
 Di Preferences Inkscape, pilihan Change Gtk Theme:, pilih "Plata-Noir"
 
-# Yaru-Dark
+## Yaru-Dark
 
 {{< photo src="yaru-dark-hervyqa.png" alt="Yaru Dark" >}}
 

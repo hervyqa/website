@@ -28,7 +28,7 @@ Ada beberapa hal yang penulis sukai hingga betah untuk memakainya, padahal sebel
 
 ***
 
-# Rolling rilis, aplikasi desain rilis terbaru dan stabil
+## Rolling rilis, aplikasi desain rilis terbaru dan stabil
 
 Rolling Rilis adalah alasan pertama untuk memilih distribusi OS ini. Sebab degan rolling rilis penulis mendapatkan aplikasi yang terbaru (inkscape, krita, gimp, blender dengan versi terbaru) dari repositori resmi. Sama halnya dengan Archlinux, distronya juga rolling rilis tetapi di Voidlinux paketnya lebih stabil daripada di archlinux. Repodata di Voidlinux juga lebih sedikit, tidak lebih dari 2MB sehingga proses sinkronnya lebih cepat. Repositorinya juga ada satu repositori free/utama secara bawaan, tetapi repositori non-free (void-repo-nonfree) bisa dipasang secara terpisah.
 
@@ -36,7 +36,7 @@ Dengan Rolling rilis ini, penulis bisa mendapatkan Inkscape versi 1.0 tanpa perl
 
 {{< photo src="inkscape-1-0-hervyqa.png" alt="Inkscape 1.0 Rolling rilis" >}}
 
-# Runit, sistem init yang ringan
+## Runit, sistem init yang ringan
 
 Runit yang membuat proses booting lebih cepat, karena sistem initnya hanya memakai 1 PID, jadi tidak terlalu berat ketika booting. Runit juga lebih sederhana struktur kode dan lebih efisien dari pada systemd yang bloat (sisem init yang dipakai oleh ubuntu, fedora, openSUSE, debian dan arch). Baterai laptop juga lebih awet beberapa jam. Jika pengguna meggunakan WM (misalnya i3, dwm, bspwm) sebagai desktopnya, kurang lebih sekitar 200MB ram yang dipakai. Jadi dengan runit performanya lebih cepat, efisiensi, dan aman. Cocok sekali jika mendesain dengan perangkat lunak yang berat seperti inkscape, krita, gimp, openshot, dan blender3d.
 
@@ -44,7 +44,7 @@ Runit yang membuat proses booting lebih cepat, karena sistem initnya hanya memak
 
 {{< photo src="voidlinux-hervyqa-workspace.png" alt="Hervyqa Workspace" >}}
 
-# XBPS, paket manager yang ringkas dan rapi
+## XBPS, paket manager yang ringkas dan rapi
 
 Xbps ini paket manajer yang lebih rapi dari paket manajer lain yang pernah penulis coba sebelumnya (APT, DNF, Pacman, Zypper). Perintah memasang lebih mirip Pacman Archlinux tetapi tampilan keluarannya mirip DNF Fedora.
 ```
@@ -79,7 +79,7 @@ Keluarannya juga mudah dipahami, menggunakan bintang untuk paket yang sudah dipa
 [-] xsane-gimp-0.999_3              GTK-based X11 frontend for SANE - plugin for GIMP
 ```
 
-# Google fonts, fonta gratis untuk penggunaan personal dan komersial
+## Google fonts, fonta gratis untuk penggunaan personal dan komersial
 
 Voidlinux menyediakan paket google-fonts, hal ini tentu mengejutkan bagi penulis. Anda tak perlu repot-repot mengunduh satu-persatu fonta di situs resminya. Cukup memasang google-fonts-ttf dan semua fonta di akan terpasang.
 
@@ -101,13 +101,13 @@ Do you want to continue? [Y/n]
 
 {{< photo src="google-font-voidlinux-hervyqa.png" alt="Hervyqa Workspace" >}}
 
-# Arsitektur dan Desktop Environment
+## Arsitektur dan Desktop Environment
 
 Voidlinux menyediakan berbagai macam arsitektur dan lingkungan desktop. Mulai dari aarc64, armv7, rpi, odroid, i686 dan x86_64 (64bit). Juga menyediakan berbagai macam desktop environment seperti Cinnamon, Enlightenment, Lxde, Lxqt, XFCE, dan Mate. Tentu dengan varian desktop environment ini membuat mudah tampilan desktop. Pemasangan secara normal juga cepat, biasanya kurang dari 5 menit.
 
 Anda dapat mengunjungi situs Voidlinux di [voidlinux.org](https://voidlinux.org). Untuk Awam bisa mencoba varian Cinnamon atau XFCE (pasang iso via lokal), jika menginginkan yang minimalis bisa mencoba voidlinux yang minimal iso.
 
-# Musl libc, LibreSSL, dan XBPS-src
+## Musl libc, LibreSSL, dan XBPS-src
 
 Sebenarnya fitur ini tidak terlalu berpengaruh dibidang Desain Grafis. Tetapi dibidang server dan cloud enginerring tentu sangat berpengaruh. LibreSSL menggantikan openSSL yang sebelumnya mempunyai bug kritis, sehingga dengan libreSSL ini lebih aman. Musl libc merupakan implementasi dari libc, sebagaimana sebagai standar pustaka C. Musl sendiri disarankan untuk server, tetapi memungkinkan juga untuk komputer desktop. Musl sebagai pengganti Glibc, tentu musl lebih efisiensi dari Glibc.
 

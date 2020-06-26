@@ -20,79 +20,79 @@ Bismillahirrohmanirrohim.
 
 ***
 
-# part 1
+## part 1
 
-# Apa yang dimaksud dengan Seamless Pattern
+## Apa yang dimaksud dengan Seamless Pattern
 
-# Nilai Jual dari Seamless pattern
+## Nilai Jual dari Seamless pattern
 
-## Pattern Merefleksikan sebuah Gaya Hidup
+### Pattern Merefleksikan sebuah Gaya Hidup
 
-## Pattern menceritakan sesuatu hal tentang Kustomer
+### Pattern menceritakan sesuatu hal tentang Kustomer
 
-## Pattern menceritakan sebuah kisah
+### Pattern menceritakan sebuah kisah
 
-## Pattern produk tunggal yang dapat digunakan oleh berbagai macam produk
+### Pattern produk tunggal yang dapat digunakan oleh berbagai macam produk
 
-# Mengapa memilih Desain Seamless Pattern
+## Mengapa memilih Desain Seamless Pattern
 
-# Tipe Seamless Pattern
+## Tipe Seamless Pattern
 
-# Mencari Ide dan Merancang Pattern
+## Mencari Ide dan Merancang Pattern
 
-## Sederhanakan koleksi Pattern
+### Sederhanakan koleksi Pattern
 
-## Tentukan seberapa banyak jumlah koleksi pattern
+### Tentukan seberapa banyak jumlah koleksi pattern
 
-## Gunakan Pedoman Sketsa Pattern
+### Gunakan Pedoman Sketsa Pattern
 
-## Mencari Papan Inspirasi
+### Mencari Papan Inspirasi
 
-## Sketsa gambaran pattern yang ada dipikiran
+### Sketsa gambaran pattern yang ada dipikiran
 
 
-# part 2
+## part 2
 
-# Pewarnaan dan digitalisasi Sketsa
+## Pewarnaan dan digitalisasi Sketsa
 
-## Tentukan bagaimana pewarnaan pada sketsa
+### Tentukan bagaimana pewarnaan pada sketsa
 
-## Pilihan pewarnaan
+### Pilihan pewarnaan
 
     metode 1: water color surface pattern designer
     metode 2: digitalisasi sketsa menggunakan vektor
 
-# Pewarnaan dan digitalisasi sketsa
+## Pewarnaan dan digitalisasi sketsa
 
-## Transfer hasil sketsa dan diwarnai
+### Transfer hasil sketsa dan diwarnai
 
-## Scan hasil sketsa bewarna
+### Scan hasil sketsa bewarna
 
-## Hapus latar putih
+### Hapus latar putih
 
-## Vektorisasi hasil watercolor
+### Vektorisasi hasil watercolor
 
-## Awal Membuat Seamless pattern
+### Awal Membuat Seamless pattern
 
-# part 3
+## part 3
 
-# Tipe Seamless Pattern
+## Tipe Seamless Pattern
 
-## Pattern Titik (Dot pattern)
+### Pattern Titik (Dot pattern)
 
-## TOSS atau Pattern Acak (Random Pattern)
+### TOSS atau Pattern Acak (Random Pattern)
 
     buatlah elemen individu (rough sktch untuk outline dan final elemen)
 
-## Pattern Komplek (Complex Pattern)
+### Pattern Komplek (Complex Pattern)
 
-## Pattern Kombinasi (Combination Pattern)
+### Pattern Kombinasi (Combination Pattern)
 
-# CMYK Seamless Pattern
+## CMYK Seamless Pattern
 
-# Seamless Pattern Manual
+## Seamless Pattern Manual
 
-# Seamless Pattern Otomatis
+## Seamless Pattern Otomatis
 
 {{< youtube cz2ez7vMaP0 >}}
 

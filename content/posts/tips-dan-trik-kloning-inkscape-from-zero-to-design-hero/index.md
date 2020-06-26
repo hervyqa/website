@@ -23,7 +23,7 @@ Semoga dengan panduan ini, pembaca memahami kembali teknik kloning dari dasar hi
 
 ***
 
-# Perbedaan Kloning dan Duplikasi
+## Perbedaan Kloning dan Duplikasi
 
 Kloning (clone) merupakan penyalinan/penggandaan objek atau tapak (path) yang masih terhubung. Artinya, jika ada objek yang disalin maka sub-objek akan mengikuti bentuk, warna, dan gaya oleh induk objek. Berbeda dengan duplikasi. Duplikasi merupakan menggandakan objek yang tidak terhubung oleh induk objek asal. Sehingga duplikasi tidak mempengaruhi perubahan pada induk objek.
 
@@ -47,7 +47,7 @@ Jadi, ketika menggunakan kloning ini akan merubah dari warna isi (fill), warna s
 
 ***
 
-# Pintasan Kloning
+## Pintasan Kloning
 
 Pintasan duplikasi yaitu menggunakan **Ctrl+d**. Sedangkan pintasan Kloning menggunakan **Alt+d**. Perbedaanya di **Alt** saja. Yaa.. mudah dihafal bukan. Ingat kloning, Ingat **Alt+d** :)
 
@@ -57,7 +57,7 @@ Nah, kalau misalnya setelah kloning, yaitu sub-objek akan dijadikan objek terpis
 
 ***
 
-# Kapan menggunakan Kloning?
+## Kapan menggunakan Kloning?
 
 Jawabannya sederhana: Jika membutuhkan objek yang **banyak** dalam **bentuk yang sama** gunakanlah kloning. Jangan diduplikasi.
 
@@ -77,7 +77,7 @@ Beberapa kegiatan berikut yang bisa dilakukan dengan kloning, misalnya:
 
 ***
 
-# Galat Umum
+## Galat Umum
 
 Sebenarnya tidak ada kegalatan (error). Hanya saja pengguna awam masih belum tahu. Misalnya:
 
@@ -85,7 +85,7 @@ Sebenarnya tidak ada kegalatan (error). Hanya saja pengguna awam masih belum tah
 
 ***
 
-# Apa saja yang bisa di kloning?
+## Apa saja yang bisa di kloning?
 
 Semua objek dan tapak bisa di kloning. Seperti:
 
@@ -102,7 +102,7 @@ Bahkan semua objek yang sudah diset klip, set mask, blur, dan objek yang tak bew
 
 ***
 
-# Pilih dialog lapis (layer) atau Objek?
+## Pilih dialog lapis (layer) atau Objek?
 
 Bagian ini hanyalah sebagai pilihan saja. Sebagai manajemen objek disarankan menggunakan dialog objek dari pada menggunakan manajemen lapis. Menunya di **Object > Objects**. Alasan memilih dialog objek adalah:
 
@@ -116,7 +116,7 @@ Jadi dengan manajemen objek akan mempermudah menyeleksi objek-objek termasuk obj
 
 ***
 
-# Kloning Semprot (Spray)
+## Kloning Semprot (Spray)
 
 {{< photo src="bintang-awal.png" alt="Kloning Bintang Inkscape" >}}
 
@@ -130,7 +130,7 @@ Setiap objek yang di spray merupakan sub-objek kloning. Untuk melepaskan sub-klo
 
 ***
 
-# Kloning Cermin
+## Kloning Cermin
 
 Dari daftar ketujuh objek yang dapat dikloningkan yaitu "Objek dan tapak yang digrup". Objek kloning ini jarang diketahui oleh pengguna inkscape pemula. Jadi setiap grup yang didalamnya terdapat objek dan tapak, tentunya bisa dikloningkan. Jadi, konsepnya seperti itu.
 
@@ -158,7 +158,7 @@ Mudah bukan. Jika Anda paham dengan dasar kloning ini maka bisa di kembangkan la
 
 ***
 
-# Kloning Memutar (Mandala)
+## Kloning Memutar (Mandala)
 
 Agar lebih mudah menerapkan teknik kloning memutar yaitu digunakan untuk membuat mandala. Panduan tetap memakai ukuran kanvas 4000px:4000px yang digunakan untuk kloning cermin sebelumnnya. Untuk membuat mandala, maka dasar areanya bukan persegi, tetapi lingkaran. Kita awali membuat mandala yang paling mudah dahulu, yaitu mandala 1/4. Jadi, gambaran untuk membuat mandala 1/4 yaitu seperti berikut ini.
 

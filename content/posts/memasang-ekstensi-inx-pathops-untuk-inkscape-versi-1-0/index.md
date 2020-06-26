@@ -41,7 +41,7 @@ Pada tahap ini pattern sudah siap untuk dijadikan desain repeat & seamless patte
 
 ***
 
-# Tahap Pemasangan
+## Tahap Pemasangan
 
 Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :)
 
@@ -84,7 +84,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 
 6. selesai
 
-# Cara Penggunaan
+## Cara Penggunaan
 
 Buka Inkscape, klik menu **Extensions > Generate from Path > PathOps**. Kemudian pilih boolean yang akan digunakan.
 
@@ -98,7 +98,7 @@ Buka Inkscape, klik menu **Extensions > Generate from Path > PathOps**. Kemudian
 
 Prosesnya sama dengan boolean inkscape pada umumnya, tinggal memilih objek yang akan digunakan kemudian pilih menu boolean di PathOps.
 
-# Kode Sumber
+## Kode Sumber
 
 Arsip ZIP Inkscape 1.0 bisa di unduh disini:
 [PathOps Sofyan](https://gitlab.com/artemtech/inx-pathops/-/archive/inkscape-1.0/inx-pathops-inkscape-1.0.zip?path=src)
@@ -109,7 +109,7 @@ Arsip ZIP Inkscape 0.9.2 bisa di unduh disini:
 Ekstensi ini dikembangkan oleh:
 [PathOps su-v](https://gitlab.com/su-v/inx-pathops)
 
-# Lisensi
+## Lisensi
 
 Ink-PathOps menggunakan lisensi GPL-2+.
 

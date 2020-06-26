@@ -38,7 +38,7 @@ Make sure all your designs, both path and object. Please be included in the **de
 
 {{< photo src="example.jpeg" alt="Example use mandala templates" >}}
 
-# Download template
+## Download template
 
 The author has created an inkscape (.svg) template to make it easier to use. Please right-click link below then **Save link As** to download.
 

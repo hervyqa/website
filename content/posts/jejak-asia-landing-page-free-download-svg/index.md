@@ -16,7 +16,7 @@ resources:
 
 Free SVG assets for Anyone. For asset requirements of illustrations, web interfaces, poster, microblog, and so on. It is strongly recommended using inkscape for its vector software. Free for personal and commercial.
 
-# Required Font:
+## Required Font:
 
 * Adobe Source Sans Pro
 * Font Awesome 4
@@ -33,7 +33,7 @@ Free SVG assets for Anyone. For asset requirements of illustrations, web interfa
 
 ***
 
-# License:
+## License:
 
 Free for Personal & Commercial.
 

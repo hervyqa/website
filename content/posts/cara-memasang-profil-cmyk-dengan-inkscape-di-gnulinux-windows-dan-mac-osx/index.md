@@ -24,9 +24,9 @@ Seringkali desainer mengalami perbedaan warna antara desain di monitor dengan ha
 
 Dengan menggunakan profil warna Adobe ICC, inkscape dapat mengetahui warna mana saja yang didukung oleh CMYK. Profil warna CMYK yang disediakan oleh Adobe cukup bervariasi, misalnya SWOP, Gracol, Fogra, Japan Color dan-lain-lain. Profil warna tersebut didapatkan dengan mengunduh langsung di laman web Adobe.
 
-# Jenis Profil Warna Adobe ICC
+## Jenis Profil Warna Adobe ICC
 
-## #RGB
+### #RGB
 
 Selain menggunakan profil warna sRGB, Inkscape dapat menggunakan profil warna lainnya, seperti:
 
@@ -40,7 +40,7 @@ Selain menggunakan profil warna sRGB, Inkscape dapat menggunakan profil warna la
 * SDTV NTSC
 * SDTV PAL
 
-## #CMYK
+### #CMYK
 
 Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adalah profil **US Web Coated (SWOP) v2**. Selain profil warna tersebut dapat menggunakan profil warna CMYK lain, seperti:
 
@@ -59,9 +59,9 @@ Sedangkan profil warna yang dibutuhkan adalah CMYK, biasanya yang digunakan adal
 * Japan Color 2002 Newspaper
 * Japan Color 2003 Web Coated
 
-# Cara memasang Adobe ICC di GNU/Linux
+## Cara memasang Adobe ICC di GNU/Linux
 
-## Ubuntu, Debian, Fedora, openSUSE dan turunannya.
+### Ubuntu, Debian, Fedora, openSUSE dan turunannya.
 
 * Unduh profil warna untuk [Adobe ICC untuk GNU/Linux](https://www.adobe.com/support/downloads/iccprofiles/iccprofiles_win.html)
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
@@ -78,7 +78,7 @@ atau jikalau ditaruh di root,taruhlah di folder.
 /usr/share/color/icc/
 ```
 
-## Arch linux, Manjaro dan turunannya.
+### Arch linux, Manjaro dan turunannya.
 
 Untuk pengguna Arch linux dan turunannya dapat menggunakan AUR Helper (misalnya yay) untuk memasang Adobe-ICC.
 
@@ -86,7 +86,7 @@ Untuk pengguna Arch linux dan turunannya dapat menggunakan AUR Helper (misalnya 
 yay adobe-icc
 ```
 
-# Cara memasang Adobe ICC di Windows
+## Cara memasang Adobe ICC di Windows
 
 * Unduh profil warna untuk [Adobe ICC untuk Windows](https://www.adobe.com/support/downloads/iccprofiles/iccprofiles_win.html).
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
@@ -96,7 +96,7 @@ yay adobe-icc
 C:\Windows\system32\spool\drivers\
 ```
 
-# Cara memasang Adobe ICC di Mac OS-X
+## Cara memasang Adobe ICC di Mac OS-X
 
 * Unduh profil warna untuk [Adobe ICC untuk Mac OSX](https://www.adobe.com/support/downloads/iccprofiles/iccprofiles_mac.html).
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
@@ -106,7 +106,7 @@ C:\Windows\system32\spool\drivers\
 **namapengguna** > Library > Colorsync > Profiles
 ```
 
-# Mengatur Profil warna di Inkscape
+## Mengatur Profil warna di Inkscape
 
 * Buka Inkscape, kemudian pilih Menu >Sunting (Edit) > Pilih Preferences.
 * Pada Tab Input/Output, pilih Manajemen Warna.
@@ -124,7 +124,7 @@ C:\Windows\system32\spool\drivers\
 Keterangan:
 _Dengan menandai warna diluar gamut, artinya warna yang tidak didukung CMYK akan berubah menjadi abu-abu secara baku._
 
-# Warna Diluar Gamut
+## Warna Diluar Gamut
 
 Didalam urusan percetakan, pengecekan warna dengan soft proofing "out of gamut" sangat membantu. Terutama untuk mengetahui batasan warna CMYK didalam profil warna RGB. Juga mengetahui perubahan warna yang signifikan ketika akan dicetak.
 

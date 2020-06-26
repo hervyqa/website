@@ -32,7 +32,7 @@ Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian
 
 ***
 
-# Simbol
+## Simbol
 
 Simbol-simbol lisensi Creative Commons mempunyai arti kurang lebih seperti ini.
 
@@ -46,42 +46,42 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 
 ***
 
-# Atribusi
+## Atribusi
 
-## CC BY
+### CC BY
 
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * Boleh untuk tujuan komersil.
 * Lisensi CC yang paling bebas.
 
-## CC BY-SA
+### CC BY-SA
 
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * Boleh untuk tujuan komersil
 * Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang sudah dirubah bentuk harus menggunakan lisensi **CC BY SA** juga.
 
-## CC BY-ND
+### CC BY-ND
 
 * Harus atribusi/mencantumkan nama pemilik.
 * **Tidak Boleh dirubah bentuk dan di modifikasi.**
 * Boleh untuk tujuan komersil
 
-## CC BY-NC
+### CC BY-NC
 
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * **Tidak boleh untuk tujuan komersil.**
 
-## CC BY-NC-SA
+### CC BY-NC-SA
 
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * **Tidak boleh untuk tujuan komersil.**
 * Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang sudah dirubah bentuk harus menggunakan lisensi **CC BY NC SA** juga.
 
-## CC BY-NC-ND
+### CC BY-NC-ND
 
 * Harus atribusi/mencantumkan nama pemilik.
 * **Tidak Boleh dirubah bentuk dan di modifikasi.**

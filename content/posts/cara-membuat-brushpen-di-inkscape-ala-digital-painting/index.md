@@ -39,7 +39,7 @@ Atau path yang membutuhkan detail yang tinggi. Ah, lewati saja ilustrasi di atas
 
 ***
 
-# Membuat Path Brush dari Bezier (Pentool).
+## Membuat Path Brush dari Bezier (Pentool).
 
 Pertama buatlah satu path brush dulu dengan bezier. Tekan **b** kemudian gambar lengkungannya. Misalnya seperti path dibawah ini.
 
@@ -49,7 +49,7 @@ Setelah itu buatlah gambar dengan ketinggian yang berbeda. Misalnya tadi dengan 
 
 {{< photo src="path-2.png" alt="Contoh Path 2" >}}
 
-# Membuat Brush dari Freehand (P).
+## Membuat Brush dari Freehand (P).
 
 Untuk membuat brush bisa Anda gunakan freehand **p** atau bezier **b**. Oke, kita coba dari freehand dulu.
 
@@ -75,7 +75,7 @@ Anda bisa mengatur ketebalannya dengan mode node **n**. Tekan **n** kemudian aka
 
 Jadi, caranya sangat sederhana. Pertama **salin** pathnya, kemudian freehand tekan **p**, atur parameter menjadi **60**, ganti bentuknya dari none menjadi **Dari papan klip**. Selesai :).
 
-# Membuat Brush dari Bezier (B).
+## Membuat Brush dari Bezier (B).
 
 Caranya hampir sama dengan freehand tadi. Pertama tekan **b** untuk bezier. Kemudian salin path yang akan dijadikan brush.
 
@@ -83,7 +83,7 @@ Lalu pada parameter bezier, pilih **Bentuk:** dari None menjadi **Dari papan kli
 
 {{< photo src="path-8.png" alt="Mengatur parameter bezier di inkscape" >}}
 
-# Aturan sederhana Path Brush.
+## Aturan sederhana Path Brush.
 
 Aturan sederhana tatkala membuat path brush, yaitu:
 
@@ -97,13 +97,13 @@ Aturan sederhana tatkala membuat path brush, yaitu:
 Dari gambar diatas. Brushpen yang **sebelah kiri dari tumpul ke lancip**. Dan yang **sebelah kanan dari lancip ke tumpul**. Maka hasil brushnya juga berbeda, meskipun dari arah yang sama.
 
 
-# Buatlah Variasi brushpen.
+## Buatlah Variasi brushpen.
 
 Mungkin contoh diatas menggunakan path yang sederhana. Tetapi Anda juga bisa menggunakan path yang anda buat sendiri. Hasilnya akan lebih bervariasi.
 
 {{< photo src="brushpen_kreatif.png" alt="Brushpen Kreatif Inkscape" >}}
 
-# Mockup path brush.
+## Mockup path brush.
 
 Penulis sudah membuat template inkscape (.svg) agar lebih mudah digunakan. Silakan klik kanan [tautan ini](mockup_brushpen.svg) lalu **Save link As** untuk mengunduh.
 

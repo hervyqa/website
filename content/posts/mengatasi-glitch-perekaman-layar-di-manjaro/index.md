@@ -30,7 +30,7 @@ Baik, langkah-langkahnya seperti berikut ini.
 
 ***
 
-# Mengecek driver
+## Mengecek driver
 
 Lakukan pengecekan konfigurasi driver yang tersedia
 
@@ -67,14 +67,14 @@ Maka keluarannya mirip seperti ini:
             video-vesa            2017.03.12                true            PCI
 ```
 
-# Memasang video-modesetting
+## Memasang video-modesetting
 
 
 ```
 sudo mhwd -i pci video-modesetting
 ```
 
-# Menghapus xf86-video-intel
+## Menghapus xf86-video-intel
 
 ```
 sudo pacman -R xf86-video-intel
