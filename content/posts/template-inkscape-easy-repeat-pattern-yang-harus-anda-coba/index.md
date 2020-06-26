@@ -37,7 +37,7 @@ Khusus untuk "Easy Repeat Pattern + Mockup.svg" terdapat sembilan mockup setiap 
 Total 18 Mockup.
 Cukup banyak jika digunakan untuk keperluan Branding.
 
-# Cuplikan Template
+## Cuplikan
 
 {{< photoset max="2" >}}
   {{< photo src="easy-repeat-pattern.png" alt="Easy Repeat Pattern" >}}
@@ -47,13 +47,13 @@ Cukup banyak jika digunakan untuk keperluan Branding.
 Tampilan Template Easy Repeat Pattern (kiri).
 Template Easy Repeat Pattern + Mockup (kanan)
 
-# Unduh Template
+## Unduh
 
 - [Unduh Versi 2.1](https://gitlab.com/hervyqa/easy-repeat-pattern/uploads/54194ed7d5206c8dbdc5e9802d270950/easy-repeat-pattern-v2.1.zip)
 
 - [Dokumentasi](https://gitlab.com/hervyqa/easy-repeat-pattern/)
 
-# Panduan Menggunakan Template
+## Panduan
 
 - Pertama, salin (Copy) dahulu semua berkas `.SVG` lalu tempel (paste) ke :
     + GNU/linux:
@@ -72,7 +72,7 @@ Template Easy Repeat Pattern + Mockup (kanan)
 - Jika ingin mengekspor ke PNG bisa menggunakan espor bawaan inkscape. Atau menggunakan ekstensi Inkporter. gunakan id "pattern" untuk mengekspor textur pattern. id "mockup-1x1" untuk ekspor mockup 1x1. dan id "mockup-3x3" untuk mengekspor mockup 3x3. Unduh inkporter dari [tautan ini](https://inkscape.org/~raniaamina/%E2%93%85inkporter).
 - Anda bisa melihat Template & ekstensi lainnya di: https://inkscape.org/~hervyqa/
 
-# Template Mockup Preview
+## Mockup
 
 {{< photoset max="2" >}}
   {{< photo src="pattern-1x1.png" alt="Pattern 1x1" >}}
