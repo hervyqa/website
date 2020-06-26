@@ -116,7 +116,7 @@ Jadi dengan manajemen objek akan mempermudah menyeleksi objek-objek termasuk obj
 
 ***
 
-# Kloning Semprot/Spray.
+# Kloning Semprot (Spray)
 
 {{< photo src="bintang-awal.png" alt="Kloning Bintang Inkscape" >}}
 
