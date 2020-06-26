@@ -36,7 +36,7 @@ paginate = 4
   # fonts
   sansSerifFont = "Josefin Sans"
   titleFont = "Spartan"
-  bodyFont = "Muli"
+  bodyFont = "Quicksand"
 
   hasLogo = true
   accentColor = "#019CB5"
