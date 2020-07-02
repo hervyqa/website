@@ -93,7 +93,7 @@ yay adobe-icc
 * Kemudian ekstrak `AdobeICCProfilesCS4Win_end-user.zip`
 * Salin direktori **RGB** dan **CMYK**, kemudian tempelkan ke direktori dibawah ini. Gunakan hak akses administrator untuk menempelkannya.
 ```
-C:\Windows\system32\spool\drivers\
+C:\Windows\system32\spool\drivers\color
 ```
 
 ## Cara memasang Adobe ICC di Mac OS-X
