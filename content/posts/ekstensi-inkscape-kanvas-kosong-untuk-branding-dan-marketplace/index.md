@@ -24,7 +24,7 @@ Sebelumnya penulis pernah memposting [template artboard](/menggunakan-artboard-y
 
 ## Cara Pemasangan
 
-- Unduh dahulu ekstensi di galeri inkscape di [tautan ini](https://inkscape.org/~hervyqa/%E2%98%85empty-page-for-branding-creative-marketplace).
+- Unduh dahulu ekstensi di galeri inkscape di [tautan ini](https://inkscape.org/~hervyqa/%E2%98%85creative-empty-page).
 - Ekstrak zip.
 - Salin (copy) semua file py dan inx.
 - Bagi pengguna Distribusi GNU/Linux, tempel (paste) ke:
