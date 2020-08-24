@@ -43,7 +43,7 @@ paginate = 4
 
   heroHeader = true
 
-  hasBanner=true
+  hasBanner=false
 
 [params.banner]
   url = "https://linktr.ee/vectara.id"
