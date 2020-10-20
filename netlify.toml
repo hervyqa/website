@@ -48,3 +48,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://www.hervyqa.com/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "http://hervyqa.netlify.app/*"
+  to = "http://www.hervyqa.com/:splat"
+  status = 301
+  force = true
