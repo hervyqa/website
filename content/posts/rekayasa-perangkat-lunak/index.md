@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2019-09-18T16:41:21+07:00
+date: 2022-01-13T11:41:21+07:00
 title: "Rekayasa Perangkat Lunak"
 subtitle: "Relasi Rekayasa Perangkat Lunak Dengan Penggunanya"
 seotitle: "Relasi Rekayasa Perangkat Lunak Dengan Penggunanya"
