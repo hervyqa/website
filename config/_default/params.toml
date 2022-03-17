@@ -1,0 +1,128 @@
+# default parameters
+
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x".
+# Note: logo_width is not work with .svg file
+logo_width = "60x"
+# logo text will only show when logo is missing.
+logo_text = "Hervy Qurotul"
+# navbar fixed to top
+navbar_fixed = false
+# OpenGraph / Twitter Card metadata
+description = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
+author = "Hervy Qurrotul"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# contact info
+address = "Jalan Raya Ngoro, RT 02/02 Desa Kembangsri, Ngoro, Mojokerto, Jawa Timur."
+mobile = "+6281234492171"
+email = "hervyqa@pm.me"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# search
+search = true
+
+# featured post title
+
+featured_post_title = "Posting Unggulan"
+recent_post_title = "Posting Terbaru"
+mainSections = ["blog"]
+# about widget content
+about_widget_content = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
+# footer content
+footer_content = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
+# copyright
+copyright = "© 2019-2022 Hervy Qurrotul.<br> Didesain oleh [Themefisher](https://themefisher.com/) & dikembangkan oleh [Gethugothemes](https://gethugothemes.com/)."
+
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script= ""
+
+[permalinks]
+  posts = '/:slug'
+  categories = '/:slug'
+
+# preloader
+
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# banner
+
+[banner]
+enable = true
+title_large = "Multimedia **!**"
+title_small = "& Hervy Qurrotul Blog"
+image = "images/banner.png"
+background_image = "/images/banner-bg-shape.svg"
+#content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
+content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil."
+button_label = "Profil saya"
+button_link = "about/"
+
+# advertise
+
+[advertisement]
+image = "images/promotion.png"
+link = "https://langitketujuh.id/"
+
+# cookies
+
+[cookies]
+enable = false
+expire_days = 2
+content = "Situs ini menggunakan cookie. Dengan terus menggunakan situs web ini, Anda menyetujui penggunaannya."
+button = "Saya Setuju"
+
+# sidebar widgets
+
+[widgets]
+sidebar = ["about", "categories", "recent-post", "newsletter"]
+# available widget : about,categories,newsletter,recent-post
+
+
+# subscription
+[subscription]
+enable = false
+# mailchimp subsciption
+mailchimp_form_action = "#" # ex:https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074 replace this url with yours
+mailchimp_form_name = "#" # ex:b_463ee871f45d2d93748e77cad_a0a2c6d074 replace this code with yours
+
+
+############################# social site ########################
+[[social]]
+title = "telegram"
+icon = "fab fa-telegram"
+link = "https://t.me/hervyqa"
+
+[[social]]
+title = "facebook"
+icon = "fab fa-facebook"
+link = "https://fb.com/hervyqa"
+
+[[social]]
+title = "twitter"
+icon = "fab fa-twitter"
+link = "https://twitter.com/hervyqa"
+
+[[social]]
+title = "instagram"
+icon = "fab fa-instagram"
+link = "https://instagram.com/hervyqa"
+
+#[[social]]
+#title = "linkedin"
+#icon = "fab fa-linkedin"
+#link = "#"
+
+#[[social]]
+#title = "github"
+#icon = "fab fa-github"
+#link = "https://github.com/hervyqa"
+
+[[social]]
+title = "gitlab"
+icon = "fab fa-gitlab"
+link = "https://gitlab.com/hervyqa"

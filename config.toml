@@ -1,136 +1,61 @@
-#image horizontal = 1920x1281px
-#image vertical = 1920x1440px
+# site variables
 
-baseURL = "https://hervyqa.netlify.app/"
-languageCode = "en-us"
-DefaultContentLanguage = "id"
-theme = "less"
-RemovePathAccents = true
-timeout = 200000
-enableRobotsTXT = true
-canonifyURLs = true
-paginate = 4
+# customize your color and font from here.
+[params.variables]
+color_primary = "#0a8451"
+body_color = "#fff"
+text_color = "#555"
+text_dark = "#222"
+text_light = "#999"
+border_color = "#e1e1e1"
+black = "#000"
+white = "#fff"
+light = "#f2f2f2"
 
-[author]
-  name = "Hervy Qurrotul Ainur Rozi"
+# font variables
 
-[blackfriday]
-  hrefTargetBlank = true
-  noreferrerLinks = true
-  nofollowLinks = true
+# base font size for full website,
+font_size = "18px" # default is 16px
 
-[permalinks]
-  posts = "/:slug"
-  categories = "/:slug"
+# font scale sizes
+# "minorSecond": 1.067,
+# "majorSecond": 1.125,
+# "minorThird": 1.2,
+# "majorThird": 1.25,
+# "perfectFourth": 1.333,
+# "augmentedFourth": 1.414,
+# "perfectFifth": 1.5,
+# "goldenRatio": 1.618
+font_scale = "1.15" # default is "majorThird": 1.25
 
-[imaging]
-  resampleFilter = "lanczos"
+# give your font name from google font. add font weight using ":wght@" and separate by ";"
+# example: "Work Sans:wght@400;500;600"
+font_primary = "Open Sans:wght@400"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = "Open Sans:wght@400;700"
+font_secondary_type = "sans-serif" # [serif/sans-serif]
+font_icon = "Font Awesome 5 Free"
 
-[params]
-  copyright = "Hervyqa"
+# plugins
 
-  # image size
-  sizes = [ "2048" , "1024" , "512" ]
-  tags = []
+# css plugins
+[[params.plugins.css]]
+link = "plugins/font-awesome/fontawesome.min.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/brands.css"
+[[params.plugins.css]]
+link = "plugins/font-awesome/solid.css"
 
-  # fonts
-  sansSerifFont = "Josefin Sans"
-  titleFont = "Spartan"
-  bodyFont = "Quicksand"
-
-  hasLogo = true
-  accentColor = "#019CB5"
-
-  heroHeader = true
-
-  hasBanner=false
-
-[params.banner]
-  url = "https://linktr.ee/vectara.id"
-  src = "/banner/banner.png"
-
-[taxonomies]
-  category = "categories"
-
-[params.titles]
-  posts = "Desain"
-  categories = "Kategori"
-
-[params.social]
-  email = "hervyqa@gmail.com"
-  domain = "Hervy Qurrotul Ainur"
-  instagram = "hervyqa"
-  twitter = "hervyqa"
-  #youtube = "Hervyqa"
-  facebook = "hervyqa"
-  pinterest = "hervyqa/seamless-pattern"
-  shutterstock = "hervyqa?rid=238649869&utm_medium=email&utm_source=ctrbreferral-link"
-  #github = "hervyqa"
-  #gitlab = "hervyqa"
-  #dribbble = "hervyqa"
-  #behance = "hervyqa"
-  paypal = "hervyqa"
-  telegram = "hervyqa"
-
-[[menu.main]]
-name = "Desain Grafis"
-title = "Belajar Desain Grafis"
-  weight = 1
-  identifier = "desain"
-  url = "/desain"
-[[menu.main]]
-  name = "Pattern"
-  title = "Seamess Pattern Inkscape"
-  weight = 2
-  identifier = "pattern"
-  url = "/pattern"
-[[menu.main]]
-  name = "Perkakas"
-  title = "Extensi dan Template Inkscape"
-  weight = 3
-  identifier = "perkakas"
-  url = "/perkakas"
-[[menu.main]]
-name = "Dokumen"
-title = "Belajar Mengetik dengan Libre Office"
-  weight = 4
-  identifier = "dokumen"
-  url = "/dokumen"
-[[menu.main]]
-  name = "Freebies"
-  title = "Freebies Aset Gratis"
-  weight = 5
-  identifier = "freebies"
-  url = "/freebies"
-#[[menu.main]]
-#  name = "Premium Template"
-#  title = "Premium Template Libre Office"
-#  weight = 4
-#  identifier = "premium"
-#  url = "/premium"
-#[[menu.main]]
-#  name = "Manjaro-X"
-#  title = "Unofficial Manjaro GNOME Distribution"
-#  weight = 5
-#  identifier = "manjaro-x"
-#  url = "https://manjaro-x.netlify.com"
-[[menu.main]]
-  name = "Profil"
-  title = "Info & kontak"
-  weight = 9
-  identifier = "profil"
-  url = "/profil"
-
-# For footer
-[params.license]
-  type = "CC BY-NC 4.0"
-  url = "/cc-by-nc"
-
-[params.policy]
-  type = "Privacy Policy"
-  url = "/policy"
-
-[[related.indices]]
-  name = "categories"
-  weight =  1 # We don't really need this, but omitting it would disable the indice.
-  includeNewer = true
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/webfont-loader/webfont-loader-2.min.js"

@@ -1,2 +1,0 @@
-Sitemap: https://hervyqa.com/sitemap.xml
-User-agent:*

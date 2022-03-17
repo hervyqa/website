@@ -1,0 +1,76 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Beranda"
+url = ""
+weight = 1
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+name = "Profil"
+url = "about/"
+weight = 3
+
+[[main]]
+name = "Porto"
+url = "porto/"
+weight = 4
+
+[[main]]
+name = "Kabari"
+url = "contact/"
+weight = 5
+
+[[main]]
+name = "Halaman"
+url = "#"
+weight = 6
+hasChildren = true
+
+  [[main]]
+  parent = "Halaman"
+  name = "Penanda"
+  url = "tags/"
+  weight = 1
+
+  [[main]]
+  parent = "Halaman"
+  name = "Kategori"
+  url = "categories/"
+  weight = 2
+
+# footer menu
+[[footer]]
+name = "Beranda"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "Profil"
+url = "about/"
+weight = 3
+
+[[footer]]
+name = "Porto"
+url = "porto/"
+weight = 4
+
+[[footer]]
+name = "Kabari"
+url = "contact/"
+weight = 5
+
+[[footer]]
+name = "Kebijakan privasi"
+url = "privacy-policy/"
+weight = 6
