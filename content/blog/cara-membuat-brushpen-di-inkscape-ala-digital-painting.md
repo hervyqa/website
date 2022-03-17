@@ -16,9 +16,9 @@ BrushPen vektor di inkscape ini tidak seperti brush di perangkat lunak raster la
 Cara brushpen ini sudah penulis terapkan sejak tahun 2016. Lumayan cepat, jika digunakan untuk ilustrasinya yang kompleks. Misalnya pada karya ilustrasi di bawah ini:
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 1 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 2 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 3 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 4 Hervyqa" >}}
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-2-hervyqa.png" alt="Line Art 2 Hervyqa" >}}
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-3-hervyqa.png" alt="Line Art 3 Hervyqa" >}}
+{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-4-hervyqa.png" alt="Line Art 4 Hervyqa" >}}
 
 Brush ini bermanfaat jika path yang dibutuhkan untuk menggambar serat, tekstur, dan pola lainnya.
 Atau path yang membutuhkan detail yang tinggi. Ah, lewati saja ilustrasi di atas. Langsung saja kita mulai tutorialnya.
