@@ -1,7 +1,6 @@
 # Default
 baseURL = "https://hervyqa.netlify.app/"
 title = "Hervy Qurrotul | Multimedia & Personal Blog"
-theme = ""
 languageName = "Id"
 languageCode = "id-id"
 # post pagination
