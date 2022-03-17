@@ -3,7 +3,7 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x".
 # Note: logo_width is not work with .svg file
 logo_width = "60x"
@@ -14,7 +14,7 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
 author = "Hervy Qurrotul"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Jalan Raya Ngoro, RT 02/02 Desa Kembangsri, Ngoro, Mojokerto, Jawa Timur."
 mobile = "+6281234492171"
