@@ -12,11 +12,11 @@ categories:
 
 Salah satu cara untuk mengekspor gambar di Libre Office Impress yaitu dengan fitur Ekspor bawaan (File > Export > pilih citra gambar). Namun dengan cara ini tidak bisa mengekspor semua slide. Berita bagusnya Libre Office Sendiri menyediakan ekstensi untuk mengekspor slide sebagai gambar.
 
-## Ekstensi "Export As Images"
+#### Ekstensi "Export As Images"
 
 Dengan menggunakan ekstensi ini orang bisa mengekspor semua slide dengan mudah. Didukung dengan citra JPG, PNG, GIF, BMP dan TIFF.
 
-## Cara mepasang ekstensi
+#### Cara mepasang ekstensi
 
 Cara pasangnya sangat mudah, unduh berkas OXT yang tersedia di halaman [Ekstensi Libreoffice](https://extensions.libreoffice.org/extensions/export-as-images) atau klik [ini](https://extensions.libreoffice.org/extensions/export-as-images/0.9.3/@@download/file/exportasimages-0-9-3.oxt) untuk mengunduh langsung.
 
@@ -45,7 +45,7 @@ Kemudian ppilih Restart Application untuk memuat ulang Libre Office.
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/libreoffice-6.png" alt="langkah-6-libreoffice" >}}
 
-## Cara menggunakan ekstensi
+#### Cara menggunakan ekstensi
 
 Pertama Pilih menu File --> Pili Export As Images
 

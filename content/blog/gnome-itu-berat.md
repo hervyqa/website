@@ -17,15 +17,15 @@ Mengapa pakai GNOME, bukannya pakai WM lebih ringan? Mari kita simak alasannya.
 
 ***
 
-## Banyak distribusi yang menyediakan GNOME
+#### Banyak distribusi yang menyediakan GNOME
 
 GNOME merupakan lingkungan destop yang tersedia di banyak distribusi mirip Unix maupun di BSD. Jadi GNOME merupakan lingkungan destop yang universal.
 
-## Handal dan stabil
+#### Handal dan stabil
 
 Banyak distribusi yang menggunakan GNOME sebagai lingkungan destop bakunya. Hal ini sudah pasti GNOME dipercayai sebagai lingkungan destop yang kuat dan stabil. Apalagi distribusi seperti RedHat dan Ubuntu menjadikannya sebagai lingkungan destop utama.
 
-## Tampilan yang bersih dan dekorasi yang minimal
+#### Tampilan yang bersih dan dekorasi yang minimal
 
 Tampilan GNOME yang bersih dan mudah ditebak. Pengalaman pengguna yang pas dan pastinya pengguna baru tidaklah sulit untuk memakai GNOME.
 
@@ -35,7 +35,7 @@ Misalnya di GNOME 3 mengapa tidak ada tombol minimize? karena pada tombol minimi
 
 Lagi, mengapa tidak ada tombol layar penuh (fulscreen)?, karena di titlebar jika diklik dua kali sudah bisa layar penuh tanpa menggeser kursor ke tombol pojokan. Mudah dan sederhana.
 
-## Kebutuhan saya tercukupi dengan aplikasi GNOME
+#### Kebutuhan saya tercukupi dengan aplikasi GNOME
 
 Banyak aplikasi GNOME Gtk3+ yang memudahkan penggunanya. Seperti epiphany untuk penjelajah web, evince untuk pembuka dokumen pdf, brasero untuk pembakar optik DVD, fragment untuk pengunduh berkas torrent, totem dan rhythmbox untuk pemutar berkas multimedia.
 
@@ -49,32 +49,32 @@ Jika dibahas satu-persatu pasti panjang tetapi bukan ranah artikel ini. Belum la
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gtk-aplikasi.png" alt="GTK Aplikasi" >}}
 
-## Kaya dengan ekstensi dan tema
+#### Kaya dengan ekstensi dan tema
 
 GNOME menyediakan ekstensi untuk mempercepat alur kerja dengan [GNOME Extensions](https://extensions.gnome.org) dan [GNOME Look](https://gnome-look.org) untuk merubah tampilan GNOME.
 
 Tetapi untuk GNOME yang saya gunakan, bersih tanpa ekstensi dan tema tambahan. Mengapa? karena dengan menonaktifkan ekstensi dan tema merupakan cara untuk mengurangi penggunaan daya RAM. Bahkan saya nonaktifkan semua ekstensi _gnome-shell_-nya. Kalau untuk tema tetap menggunakan Adwaita, karena Adwaita lebih minimalis dan bawaannya GNOME.
 
-## Mudah mencadangkan data dengan deja-dup
+#### Mudah mencadangkan data dengan deja-dup
 
 Salah satu aplikasi favorit yaitu deja-dup. Fungsinya untuk mencadangkan data baik secara daring maupun luring. Data ini bukan yang tampak saja seperti direktori dokumen, gambar, video, musik, dan di destop. Tetapi dengan deja-dup akan mencadangkan data seperti autentifikasi akun, surel, konfigurasi dConf, SSH, gnuPG, catatan, sejarah, dan berkas tersembunyi. Jadi, dengan deja-dup hanya dengan sekali klik data akan sinkronisasi secara otomatis dan terenkripsi. Mana mungkin mencadangkan direktori satu-persatu secara manual. Pastinya dengan deja-dup lebih mudah dan aman.
 
-## Autentifikasi akun
+#### Autentifikasi akun
 
 Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih mudah. Sebab kalender, surel, notifikasi acara, catatan, pencadangan, dan kata sandi sudah sinkron otomatis. Setelah masuk dengan akun daring, misalnya evolution sebagai pembuka surel akan terdeteksi otomatis. jika menggunakan google drive nautilus juga mendeteksi secara otimatis. Ya memang benar, semuanya sudah terintegrasi. Jadi membuka surel tak perlu lagi membuka di penjelajah web, cukup klik evolution selesai sudah.
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/akun-daring.png" alt="Akun Daring" >}}
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/evolution.png" alt="Evolution" >}}
 
-## Mudah menyambungkan tampilan ke monitor atau proyektor
+#### Mudah menyambungkan tampilan ke monitor atau proyektor
 
 Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan `super+p` kemudian memilih mode tampilan.
 
-## Adanya fitur tampilan dinamis
+#### Adanya fitur tampilan dinamis
 
 Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan `ctrl+alt+atas/bawah` layar bisa berpindah tempat, atau memindahkan jendela aktif dengan `ctrl+shift+alt+atas/bawah`.
 
-## Faktanya!
+#### Faktanya!
 
 GNOME merupakan lingkungan destop dengan berbagai fitur yang memudahkan penggunanya seperti yang sudah saya sebutkan diatas. Faktanya semakin banyak fitur maka semakin banyak aplikasi yang berjalan di atar belakang, hal ini menyebabkan penggunaan daya yang kurang bersahabat. Apalagi dengan pemakaian RAM lebih dari 25% sudah dikatakan berat, khususnya untuk orang Indonesia.
 
@@ -125,11 +125,11 @@ CPU yang saya gunakan keluaran intel SandyBridge generasi 2, bisa dikatakan jadu
 
 ***
 
-## Sebagai pengguna GNOME biasa
+#### Sebagai pengguna GNOME biasa
 
 Sampai di sebuah titik dimana saya sebagai pengguna GNOME biasa harus memperkenalkan aplikasi GNOME dan GTK lainnya kepada teman, rekan, dan pengguna GNU/Linux lainnya. Alhasil saya meremaster distro Manjaro dengan lingkungan dektop GNOME yang bersih dan penuh dengan aplikasi GNOME, sebut saja [Manjaro-X](https://manjaro-x.netlify.com).
 
-## Kesimpulan
+#### Kesimpulan
 
 Jika memilih fitur dan kemudahan, maka GNOME lebih tepat digunakan. Terlebih banyak aplikasi GNOME yang sudah siap untuk medukung aktifitas sehari-hari.
 

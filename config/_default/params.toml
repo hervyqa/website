@@ -30,11 +30,11 @@ featured_post_title = "Posting Unggulan"
 recent_post_title = "Posting Terbaru"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
+about_widget_content = "Membahas tips perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux."
 # footer content
-footer_content = "Membahas perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux antusias."
+footer_content = "Membahas tips perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux."
 # copyright
-copyright = "© 2019-2022 Hervy Qurrotul.<br> Didesain oleh [Themefisher](https://themefisher.com/) & dikembangkan oleh [Gethugothemes](https://gethugothemes.com/)."
+copyright = "© 2019-2022 Hervy Qurrotul Ainur."
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""

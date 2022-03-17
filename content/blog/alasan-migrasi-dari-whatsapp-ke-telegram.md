@@ -17,33 +17,33 @@ Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/laman-telegram.png" alt="live-cd-1" >}}
 
-### Selamanya gratis
+#### Selamanya gratis
 
 Whatsapp juga gratis, namun dulu pernah memungut biaya berlangganan dari penggunanaya selama setahun. Line juga gratis, tetapi memonetisasi dari iklan dan langanan berbayar. Seperti langganan akun official dan stiker.
 
 BBM juga gratis, tapi dengan iklan yang sangat mengganggu setiap menggulir cerita. Sedangkan Telegram, sudah gratis dan bersih tanpa iklan.
 
-### Pesan di telegram terkirim lebih cepat
+#### Pesan di telegram terkirim lebih cepat
 
 Telegram menggunakan server berbasis cloud computing. Jadi manfaatnya, Anda tidak perlu khawatir kehabisan ruang memori. Dan semua data tersimpan rapi di server telegram.
 
 Berbeda dengan WhatsApp yang berbasis peer to peer, sehingga Anda mengharuskan membackup tiap mingguan atau tiap bulanan, serta menghabiskan banyak kuota data untuk backup ke cloud.
 
-### Ukuran aplikasi yang lebih kecil dan performanya yang ringan
+#### Ukuran aplikasi yang lebih kecil dan performanya yang ringan
 
 LINE sekitar 88MB. WhatsApps memiliki ukuran sekitar 30MB. Sedangkan Telegram hanya memiliki ukuran sekitar 15MB saja.
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/multi-platform-telegram.png" alt="Multi Platform Telegram" >}}
 
-### Mengirim gambar dan video dengan kualitas tinggi
+#### Mengirim gambar dan video dengan kualitas tinggi
 
 Telegram mampu mengirim gambar atau foto dengan resolusi tinggi. Sehingga gambar tidak pecah dan blur.
 
-### Streaming audio dan video
+#### Streaming audio dan video
 
 Telegram memiliki fitur menarik, yaitu straming audio dan video. Pengguna memiliki dua opsi: Unduh dan memainkannya. Bila mengklik tombol putar maka akan terunduh di latar belakang.
 
-### Dukungan multi platform yang sempurna
+#### Dukungan multi platform yang sempurna
 
 Telegram juga ada aplikasi untuk pengguna smartphone, web dan desktop. Pengguna desktop seperti Windows, Mac, GNU/Linux. Berbeda dengan WhatsApps, mereka mengandalkan aplikasi web. Anda diharuskan membuka browser dahulu kemudian login dengan qr code, dan aplikasi di handphone anda harus selalu aktif. Yah, memang merepotkan sekali.
 
@@ -51,7 +51,7 @@ Sedangkan Telegram untuk desktop, Anda hanya perlu login dan verifikasi sekali. 
 
 Tentu, Telegram lebih mudah bukan.
 
-### Kapasitas upload berkas yang lebih besar
+#### Kapasitas upload berkas yang lebih besar
 
 Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Sedangkan WhatsApps mengirim berkas maksimal 16MB saja.
 
@@ -59,11 +59,11 @@ Perbedaan yang sangat jauh.
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/group-telegram.png" alt="Group Telegram" >}}
 
-### Daya tampung grup yang lebih besar
+#### Daya tampung grup yang lebih besar
 
 WhatsApps menampung 256 anggota setiap grup, yang sebelumnya 100 anggota. Telegram memberikan 200.000 anggota per grupnya. Bahkan Penulis juga masuk di grup telegram [Belajar GNU Linux Indonesia](https://t.me/gnulinuxindonesia) yang memiliki lebih dari 7000 anggota.
 
-### Adanya fitur kanal (channel)
+#### Adanya fitur kanal (channel)
 
 Ini adalah fitur yang paling disukai. Anda bisa berlangganan secara gratis di setiap kanal. Nantinya pengguna yang berlaganan tentu akan mendapatkan informasi dari kanal tersebut.
 
@@ -73,32 +73,32 @@ Penulis juga memiliki kanal sendiri seperti [@langitketujuh_group](https://t.me/
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/bot-telegram.png" alt="Bot Telegram" >}}
 
-### Adanya fitur bot
+#### Adanya fitur bot
 
 Bot adalah aplikasi yang nantinya bisa memberikan perintah. Misalnya Anda memiliki grup, maka Anda membutuhkan bot spam untuk menghalang spammer.
 
 Faktanya, grup di Telegram lebih sejahtera. Karena lebih terhindar dari iklan dan berita yang tidak jelas sumbernya.
 
-### Interaktif
+#### Interaktif
 
 Telegram memiliki fitur standar seberti: balas, teruskan, mension, hastag. Telegram juga memiliki berbagai stiker bagus dan gratis. Sejauh ini lebih bagus daripada stiker LINE. Bahkan Anda juga bisa membuat stiker sendiri.
 
-### Ada fitur simpan perpesanan
+#### Ada fitur simpan perpesanan
 
 Misalnya Anda menemukan pesan yang penting. Bisa Anda simpan di "Simpan Perpesanan". Sangat efisien bila Anda mempunyai info atau sekedar membuat catatan sederhana. Fitur ini kadang disebut juga sebagai "Draf Pesan".
 
-### Menggunakan fitur ID, tidak perlu membagikan nomor Anda.
+#### Menggunakan fitur ID, tidak perlu membagikan nomor Anda.
 
 Anda bisa menggunakan ID nama pengguna. Misalnya Penulis memiliki ID [@hervyqa](https://t.me/hervyqa) dan bisa di akses dengan alamat [https://t.me/hervyqa](https://t.me/hervyqa). Jadi, dengan fitur ini Anda tidak perlu menyimpan nomor kontak dahulu untuk melakukan perpesanan dan komunikasi lainnya. Fitur ID membuat lebih privasi tanpa memberikan nomor telefon.
 
-### Multi akun pengguna
+#### Multi akun pengguna
 
 Telegram memungkinkan banyak akun pengguna dalam satu aplikasi untuk nomor telepon yang berbeda. Dengan fitur ini, Anda dapat dengan mudah memisahkan pesan pribadi dan bisnis Anda tanpa banyak kesulitan.
 
 {{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/privacy-telegram.png" alt="Privacy Telegram" >}}
 
 
-### Privasi dan keamanan
+#### Privasi dan keamanan
 
 Sejauh ini privasi dan keamanan adalah fitur keunggulan di Telegram. Perlu Anda ketahui, perpesanan Anda akan aman (tidak tersebar luas kepada siapapun). Jadi tidak khawatir untuk disalahgunakan.
 

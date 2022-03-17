@@ -14,7 +14,7 @@ KDE Neon adalah GNU/Linux Distribusi yang minimal dan mudah dikonfigurasi. KDE N
 
 Tulisan ini menunjukkan hal-hal apa saja yang perlu dilakukan setalah install GNU/Linux KDE Neon untuk pengguna pemula.
 
-### Refresh dan update
+#### Refresh dan update
 
 Ada dua cara mengupdate di GNU/Linux, pertama menggunakan GUI di software center KDE atau yang disebut Dicover dan kedua menggunakan CLI di terminal.
 Hal yang penulis sukai adalah mengeksekusi perintah dengan terminal. Di KDE Aplikasi, terminal biasa disebut "Konsole".
@@ -25,7 +25,7 @@ Buka aplikasi "Konsole" di menu kemudian masukkan perintah berikut
 sudo pkcon refresh -y && sudo pkcon update -y
 ```
 
-### Pasang paket dasar
+#### Pasang paket dasar
 
 Selanjutnya pasang paket dasar seperti git, fonta, codec, icc-profil dan lain-lain.
 
@@ -38,7 +38,7 @@ ttf-bitstream-vera testdisk kubuntu-restricted-extras \
 kcron kubuntu-driver-manager icc-profiles icc-profiles-free -y
 ```
 
-### Pasang aplikasi KDE
+#### Pasang aplikasi KDE
 
 Memasang aplikasi QT dan KDE.
 
@@ -63,7 +63,7 @@ Jika Anda kurang suka dengan browser Firefox, sebaiknya pasang Falkon sebagai al
 sudo pkcon install falkon -y; sudo pkcon remove firefox -y;
 ```
 
-### Pasang paket aplikasi untuk desain dan produktifitas
+#### Pasang paket aplikasi untuk desain dan produktifitas
 
 Pasang Aplikasi desain dan perkantoran.
 ```
@@ -84,7 +84,7 @@ sudo pkcon install \
 kdenlive synfigstudio -y 
 ```
 
-### Terakhir, hapus depedensi yang tidak diperlukan
+#### Hapus depedensi yang tidak diperlukan
 
 ```
 sudo apt autoremove -y

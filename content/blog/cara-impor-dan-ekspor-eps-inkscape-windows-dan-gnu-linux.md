@@ -13,7 +13,7 @@ Untuk pengguna windows biasanya ketika mengimpor berkas `.eps` mengalami kendala
 
 ***
 
-## Instalasi
+#### Instalasi
 
 Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitektur komputer Anda. Apakah 32-bit (win32) atau 64-bit (amd64).
 

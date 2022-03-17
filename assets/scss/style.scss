@@ -12,7 +12,7 @@ $light: {{.light | default "#EDF6F5"}};
 
 
 // font variables
-$font-size: {{.font_size | default "18px"}};
+$font-size: {{.font_size | default "16px"}};
 $font-scale: {{.font_scale | default "1.25"}};
 $font-primary: '{{ replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .font_primary | default "Lato"}}', {{.font_primary_type | default "sans-serif"}};
 $font-secondary: '{{ replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .font_secondary | default "Lato"}}', {{.font_secondary_type | default "sans-serif"}};

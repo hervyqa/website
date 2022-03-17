@@ -1,5 +1,5 @@
 ---
-title: "My Profile"
+title: "Profil saya"
 description: "this is meta-description"
 image: "images/.png"
 layout: "about"
