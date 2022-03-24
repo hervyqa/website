@@ -79,7 +79,7 @@ button = "Saya Setuju"
 # sidebar widgets
 
 [widgets]
-sidebar = ["about", "categories", "recent-post", "newsletter"]
+sidebar = ["about", "newsletter", "recent-post", "categories"]
 # available widget : about,categories,newsletter,recent-post
 
 
