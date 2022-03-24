@@ -1,7 +1,7 @@
 ---
 title: "Profil saya"
 description: "this is meta-description"
-image: "images/.png"
+image: "images/author.png"
 layout: "about"
 draft: false
 
