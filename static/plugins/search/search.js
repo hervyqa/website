@@ -61,7 +61,7 @@ function executeSearch(searchQuery) {
       populateResults(result);
     } else {
       let elm = document.getElementById("search-results");
-      elm.innerHTML += "<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/37659754/129837093-dcf35b93-982a-48d5-a9fd-4035dcefc4e0.png\" width=\"200\"><h3>No Search Found</h3></div>";
+      elm.innerHTML += "<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"/plugins/search/not-found.svg\" width=\"200\"><h3>Tidak ditemukan</h3></div>";
     }
   });
 }
