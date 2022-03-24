@@ -8,7 +8,7 @@ logo = "images/logo.svg"
 # Note: logo_width is not work with .svg file
 logo_width = "60x"
 # logo text will only show when logo is missing.
-logo_text = "Hervy Qurotul"
+logo_text = "Hervy Qurotul Ainur"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
@@ -34,7 +34,7 @@ about_widget_content = "Membahas tips perangkat lunak bebas yang berfokus untuk 
 # footer content
 footer_content = "Membahas tips perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux."
 # copyright
-copyright = "© 2019-2022 Hervy Qurrotul Ainur."
+copyright = "© 2019-2022 | Hervy Qurrotul Ainur."
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""
