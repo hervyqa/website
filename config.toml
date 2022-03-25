@@ -30,9 +30,9 @@ font_scale = "1.25" # default is "majorThird": 1.25
 
 # give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
-font_primary = "Open Sans:wght@400"
+font_primary = "Nunito:wght@400"
 font_primary_type = "sans-serif" # [serif/sans-serif]
-font_secondary = "Open Sans:wght@400;700"
+font_secondary = "Nunito:wght@400;700"
 font_secondary_type = "sans-serif" # [serif/sans-serif]
 font_icon = "Font Awesome 5 Free"
 
