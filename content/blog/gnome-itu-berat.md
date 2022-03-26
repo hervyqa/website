@@ -47,7 +47,7 @@ Aplikasi grafis gthumb untuk pembuka gambar, glade untuk mendesain UI aplikasi, 
 
 Jika dibahas satu-persatu pasti panjang tetapi bukan ranah artikel ini. Belum lagi aplikasi tak resmi GNOME dari GTK3+.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gtk-aplikasi.png" alt="GTK Aplikasi" >}}
+{{< image src="images/blog/gtk-aplikasi.png" alt="GTK Aplikasi" >}}
 
 #### Kaya dengan ekstensi dan tema
 
@@ -63,8 +63,8 @@ Salah satu aplikasi favorit yaitu deja-dup. Fungsinya untuk mencadangkan data ba
 
 Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih mudah. Sebab kalender, surel, notifikasi acara, catatan, pencadangan, dan kata sandi sudah sinkron otomatis. Setelah masuk dengan akun daring, misalnya evolution sebagai pembuka surel akan terdeteksi otomatis. jika menggunakan google drive nautilus juga mendeteksi secara otimatis. Ya memang benar, semuanya sudah terintegrasi. Jadi membuka surel tak perlu lagi membuka di penjelajah web, cukup klik evolution selesai sudah.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/akun-daring.png" alt="Akun Daring" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/evolution.png" alt="Evolution" >}}
+{{< image src="images/blog/akun-daring.png" alt="Akun Daring" >}}
+{{< image src="images/blog/evolution.png" alt="Evolution" >}}
 
 #### Mudah menyambungkan tampilan ke monitor atau proyektor
 
@@ -115,13 +115,13 @@ Dengan ps_mem, pemakaian sekitar 790.5 MiB
 
 Tes lain yang sederhana yaitu membuka banyak aplikasi bersamaan. Ternyata CPU saya masih tenang dan grafiknya masih wajar. Jadi saya semakin optimis untuk menggunakan GNOME.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/membuka-aplikasi-gnome-1.png" alt="Membuka Aplikasi Gnome 1" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/membuka-aplikasi-gnome-2.png" alt="Membuka Aplikasi Gnome 2" >}}
+{{< image src="images/blog/membuka-aplikasi-gnome-1.png" alt="Membuka Aplikasi Gnome 1" >}}
+{{< image src="images/blog/membuka-aplikasi-gnome-2.png" alt="Membuka Aplikasi Gnome 2" >}}
 
 CPU yang saya gunakan keluaran intel SandyBridge generasi 2, bisa dikatakan jadul. Padahal saat ini generasi 10 sudah rilis.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ihwal-1.png" alt="ihwal 1" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ihwal-2.png" alt="ihwal 2" >}}
+{{< image src="images/blog/ihwal-1.png" alt="ihwal 1" >}}
+{{< image src="images/blog/ihwal-2.png" alt="ihwal 2" >}}
 
 ***
 

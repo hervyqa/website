@@ -44,16 +44,16 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 * Ketika selesai diatur, pilih *Terapkan*.
 * Tutup dan buka kembali Inkscapenya, agar palet dibaca ulang.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/membuka-palet-ekstensi.png" alt="Membuka Palet Ekstensi dengan Inkscape" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/palet-berhasil-dibuat.png" alt="Palet Berhasil Dibuat dengan inkscape" >}}
+{{< image src="images/blog/membuka-palet-ekstensi.png" alt="Membuka Palet Ekstensi dengan Inkscape" >}}
+{{< image src="images/blog/palet-berhasil-dibuat.png" alt="Palet Berhasil Dibuat dengan inkscape" >}}
 
 #### Mengganti warna palet
 
 * Pilih ikon segitiga disamping kanan palet warna.
 * Kemudian, pilih palet warna yang Anda inginkan.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/memilih-warna-palet.png" alt="Memilih Warna Palet dengan Inkscape" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/berhasil-menerapkan-palet.png" alt="Berhasil Menerapkan Palet" >}}
+{{< image src="images/blog/memilih-warna-palet.png" alt="Memilih Warna Palet dengan Inkscape" >}}
+{{< image src="images/blog/berhasil-menerapkan-palet.png" alt="Berhasil Menerapkan Palet" >}}
 
 #### Lokasi palet warna
 

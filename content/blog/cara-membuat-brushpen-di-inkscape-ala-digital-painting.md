@@ -15,10 +15,10 @@ BrushPen vektor di inkscape ini tidak seperti brush di perangkat lunak raster la
 
 Cara brushpen ini sudah penulis terapkan sejak tahun 2016. Lumayan cepat, jika digunakan untuk ilustrasinya yang kompleks. Misalnya pada karya ilustrasi di bawah ini:
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 1 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-2-hervyqa.png" alt="Line Art 2 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-3-hervyqa.png" alt="Line Art 3 Hervyqa" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ilustrasi-4-hervyqa.png" alt="Line Art 4 Hervyqa" >}}
+{{< image src="images/blog/ilustrasi-1-hervyqa.png" alt="Line Art 1 Hervyqa" >}}
+{{< image src="images/blog/ilustrasi-2-hervyqa.png" alt="Line Art 2 Hervyqa" >}}
+{{< image src="images/blog/ilustrasi-3-hervyqa.png" alt="Line Art 3 Hervyqa" >}}
+{{< image src="images/blog/ilustrasi-4-hervyqa.png" alt="Line Art 4 Hervyqa" >}}
 
 Brush ini bermanfaat jika path yang dibutuhkan untuk menggambar serat, tekstur, dan pola lainnya.
 Atau path yang membutuhkan detail yang tinggi. Ah, lewati saja ilustrasi di atas. Langsung saja kita mulai tutorialnya.
@@ -29,11 +29,11 @@ Atau path yang membutuhkan detail yang tinggi. Ah, lewati saja ilustrasi di atas
 
 Pertama buatlah satu path brush dulu dengan bezier. Tekan **b** kemudian gambar lengkungannya. Misalnya seperti path dibawah ini.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-1.png" alt="Contoh Path 1" >}}
+{{< image src="images/blog/path-1.png" alt="Contoh Path 1" >}}
 
 Setelah itu buatlah gambar dengan ketinggian yang berbeda. Misalnya tadi dengan ukuran 10px, selanjutnya 8px, 6px, 4px, 2px. Seperti gambar dibawah ini.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-2.png" alt="Contoh Path 2" >}}
+{{< image src="images/blog/path-2.png" alt="Contoh Path 2" >}}
 
 #### Membuat brush dari freehand (P).
 
@@ -41,23 +41,23 @@ Untuk membuat brush bisa Anda gunakan freehand **p** atau bezier **b**. Oke, kit
 
 Tekan **p** untuk pintasan freehand. Kemudian pilihlah salah satu path, misalnya yang nomer **5**. Kemudian tekan **ctrl + c** untuk menyalinnya.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-3.png" alt="Contoh Path 3" >}}
+{{< image src="images/blog/path-3.png" alt="Contoh Path 3" >}}
 
 Kemudian aturlah parameter menjadi **60**. Nilai ini bervariasi, bisa kurang bisa lebih. Biasanya penulis memakai 60-70 untuk membuat brush di inkscape.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-4.png" alt="Mengatur parameter ukuran freehand inkscape" >}}
+{{< image src="images/blog/path-4.png" alt="Mengatur parameter ukuran freehand inkscape" >}}
 
 Kemudian ganti paramater **Bentuk:** dari None menjadi **Dari papan klip** (en: from clipboard).
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-5.png" alt="Mengatur parameter bentuk freehand inkscape" >}}
+{{< image src="images/blog/path-5.png" alt="Mengatur parameter bentuk freehand inkscape" >}}
 
 Masih dalam freehand **p**, buatlah path bebas dari coretan Anda.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-6.png" alt="Membuat freehand di inkscape" >}}
+{{< image src="images/blog/path-6.png" alt="Membuat freehand di inkscape" >}}
 
 Anda bisa mengatur ketebalannya dengan mode node **n**. Tekan **n** kemudian akan ada ujung pangkal untuk menarik tebal dan tipisnya.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-7.png" alt="Mengatur ketebalan freehand di inkscape" >}}
+{{< image src="images/blog/path-7.png" alt="Mengatur ketebalan freehand di inkscape" >}}
 
 Jadi, caranya sangat sederhana. Pertama **salin** pathnya, kemudian freehand tekan **p**, atur parameter menjadi **60**, ganti bentuknya dari none menjadi **Dari papan klip**. Selesai :).
 
@@ -67,7 +67,7 @@ Caranya hampir sama dengan freehand tadi. Pertama tekan **b** untuk bezier. Kemu
 
 Lalu pada parameter bezier, pilih **Bentuk:** dari None menjadi **Dari papan klip**.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-8.png" alt="Mengatur parameter bezier di inkscape" >}}
+{{< image src="images/blog/path-8.png" alt="Mengatur parameter bezier di inkscape" >}}
 
 #### Aturan sederhana path brush.
 
@@ -78,7 +78,7 @@ Aturan sederhana tatkala membuat path brush, yaitu:
 * Hasil brush bewarna hitam. Apapun warna pathnya tatkala dijadikan brush akan selalu hitam.
 * Beda bentuk, beda hasil. Jadi, baik freehand maupun bezier menjadikan brush dari sisi **kiri ke kanan**. Lebih jelasnya seperti gambar dibawah ini.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/path-9.png" alt="Contoh Path 9" >}}
+{{< image src="images/blog/path-9.png" alt="Contoh Path 9" >}}
 
 Dari gambar diatas. Brushpen yang **sebelah kiri dari tumpul ke lancip**. Dan yang **sebelah kanan dari lancip ke tumpul**. Maka hasil brushnya juga berbeda, meskipun dari arah yang sama.
 
@@ -87,13 +87,13 @@ Dari gambar diatas. Brushpen yang **sebelah kiri dari tumpul ke lancip**. Dan ya
 
 Mungkin contoh diatas menggunakan path yang sederhana. Tetapi Anda juga bisa menggunakan path yang anda buat sendiri. Hasilnya akan lebih bervariasi.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/brushpen_kreatif.png" alt="Brushpen Kreatif Inkscape" >}}
+{{< image src="images/blog/brushpen_kreatif.png" alt="Brushpen Kreatif Inkscape" >}}
 
 #### Mockup path brush.
 
 Penulis sudah membuat template inkscape (.svg) agar lebih mudah digunakan. Silakan klik kanan [tautan ini](mockup_brushpen.svg) lalu **Save link As** untuk mengunduh.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/mockup_brushpen.png" alt="Mockup Brushpen Inkscape" >}}
+{{< image src="images/blog/mockup_brushpen.png" alt="Mockup Brushpen Inkscape" >}}
 
 ***
 

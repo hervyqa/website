@@ -107,9 +107,9 @@ C:\Windows\system32\spool\drivers\color
 * Pada Proofing cawang **Menandai warna diluar gamut**.
 * Di Profil piranti pilih **US Web Coated (SWOP) v2** untuk profil CMYK, Anda juga bisa memilih Gracol.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/pengaturan_1.png" alt="pengaturan 1 di Inkscape" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/pengaturan_2.png" alt="pengaturan 2 di Inkscape" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/pengaturan_3.png" alt="pengaturan 3 di Inkscape" >}}
+{{< image src="images/blog/pengaturan_1.png" alt="pengaturan 1 di Inkscape" >}}
+{{< image src="images/blog/pengaturan_2.png" alt="pengaturan 2 di Inkscape" >}}
+{{< image src="images/blog/pengaturan_3.png" alt="pengaturan 3 di Inkscape" >}}
 
 Keterangan:
 _Dengan menandai warna diluar gamut, artinya warna yang tidak didukung CMYK akan berubah menjadi abu-abu secara baku._
@@ -122,11 +122,11 @@ Triknya adalah dengan tidak menggunakan warna khusus, seperti hijau pekat, biru 
 
 Jika terpaksa menggunakan warnanya, maka kurangi saturasinya. Serta gunakan pencahayaan yang cukup, sehingga warna tidak terlalu gelap.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/out_off_gammut.png" alt="Warna diluar gamut di Inkscape" >}}
+{{< image src="images/blog/out_off_gammut.png" alt="Warna diluar gamut di Inkscape" >}}
 Untuk mengaktifkan profil warna, tekan tombol kanan bawah, diatas palet warna.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/profil_warna_tidak_aktif.png" alt="Profil warna tidak aktif di Inkscape" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/profil_warna_aktif.png" alt="Profil warna aktif di Inkscape" >}}
+{{< image src="images/blog/profil_warna_tidak_aktif.png" alt="Profil warna tidak aktif di Inkscape" >}}
+{{< image src="images/blog/profil_warna_aktif.png" alt="Profil warna aktif di Inkscape" >}}
 
 Contohnya seperti diatas. Tatkala menggunakan profil CMYK SWOP, warna yang digunakan sesuai dan tanpa keluar dari warna gamut. Maka perbedaan warna keduanya tidak terlalu berubah. Sehingga warna desain yang dicetak tidak mengalami perubahan yang signifikan baik dicetak offset maupun digital.
 

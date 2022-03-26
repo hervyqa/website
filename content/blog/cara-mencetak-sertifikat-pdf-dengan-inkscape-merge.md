@@ -21,7 +21,7 @@ Buka terminal anda kemudian jalankan perintah ini
 gem install inkscape_merge
 ```
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/install-inkscape-merge.png" alt="Install Inkscape Merge" >}}
+{{< image src="images/blog/install-inkscape-merge.png" alt="Install Inkscape Merge" >}}
 
 Jika gem path muncul peringatan seperti diatas, maka tambahkan baris berikut untuk ditambahkan ke .bashrc, .zshrc atau shell anda lainnya.
 
@@ -30,7 +30,7 @@ Jika gem path muncul peringatan seperti diatas, maka tambahkan baris berikut unt
 export PATH="${HOME}/.gem/ruby/2.6.0/bin:$PATH"
 ```
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gem-path.png" alt="pengaturan gem path" >}}
+{{< image src="images/blog/gem-path.png" alt="pengaturan gem path" >}}
 
 ***
 #### Variabel
@@ -47,26 +47,26 @@ Variabel ini hanya sekedar contoh, Anda bisa menggunakan variabel lain misalnya 
 
 Tahap ini membuat template dengan Inkscape. Buatlah sertifikat dengan ukuran A4 format datar (lebar=29.7, tinggi=21 cm). Sebagai contoh hasil template.svg seperti berikut ini.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/contoh-sertifikat.png" alt="Contoh Sertifikat" >}}
+{{< image src="images/blog/contoh-sertifikat.png" alt="Contoh Sertifikat" >}}
 Perhatikan juga setiap variabelnya.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/variabel-sertifikat.png" alt="Variabel Sertifikat" >}}
+{{< image src="images/blog/variabel-sertifikat.png" alt="Variabel Sertifikat" >}}
 
 Pastikan menggunakan rata tengah untuk variabel. Umumnya ketika di generate untuk variabel nama kadang tidak lurus.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/tengah-1.png" alt="tengah-1" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/tengah-2.png" alt="tengah-2" >}}
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/tengah-3.png" alt="tengah-3" >}}
+{{< image src="images/blog/tengah-1.png" alt="tengah-1" >}}
+{{< image src="images/blog/tengah-2.png" alt="tengah-2" >}}
+{{< image src="images/blog/tengah-3.png" alt="tengah-3" >}}
 
 #### Membuat data csv
 
 Buka libreoffice calc, kemudian buatlah data seperti ini sebagai contohnya.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/data-sertifikat.png" alt="Data Sertifikat" >}}
+{{< image src="images/blog/data-sertifikat.png" alt="Data Sertifikat" >}}
 
 Pastikan variabel di calc ini memiliki nama yang sesuai dengan variabel di template svg tadi. Kemudian simpan dengan format `.csv`
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/simpan-sertifikat.png" alt="Simpan Sertifikat" >}}
+{{< image src="images/blog/simpan-sertifikat.png" alt="Simpan Sertifikat" >}}
 
 ***
 #### Eksekusi
@@ -83,11 +83,11 @@ Sebagai contoh:
 inkscape_merge -d data.csv -f template.svg -o sertifikat/%VAR_nama%-pelatihan-batch-1.pdf
 ```
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/contoh-perintah.png" alt="Contoh Perintah" >}}
+{{< image src="images/blog/contoh-perintah.png" alt="Contoh Perintah" >}}
 
 Maka keluarannya seperti ini.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/contoh-keluaran.png" alt="Contoh Keluaran" >}}
+{{< image src="images/blog/contoh-keluaran.png" alt="Contoh Keluaran" >}}
 
 keterangan:
 * -d = data csv
@@ -99,7 +99,7 @@ keterangan:
 
 Hasil PDF berada di direktori "sertifikat"
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/contoh-hasil.png" alt="Contoh Hasil" >}}
+{{< image src="images/blog/contoh-hasil.png" alt="Contoh Hasil" >}}
 
 Begitu mudah bukan. Sekian, semoga bermanfaat.
 

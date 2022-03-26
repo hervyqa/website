@@ -17,34 +17,34 @@ Caranya singkat dan mudah.
 Dalam tutorial ini akan saya demokan membuat bootable PureOS. Baiklah langsung saja.
 
 Langkah 1: Buka GNOME Disk di menu.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_1.png" alt="buka-gnome-disk" >}}
+{{< image src="images/blog/gnome-disk_1.png" alt="buka-gnome-disk" >}}
 
 Langkah 2: Pilihlah Stik USB.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_2.png" alt="memilih-usb-dignome-disks" >}}
+{{< image src="images/blog/gnome-disk_2.png" alt="memilih-usb-dignome-disks" >}}
 
 Langkah 3: Pada ikon tiga baris pilihlah "Restore Disk Image".
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_3.png" alt="pilih-restore-disk" >}}
+{{< image src="images/blog/gnome-disk_3.png" alt="pilih-restore-disk" >}}
 
 Langkah 4: Akan muncul pesan dialog "Restore Disk Image". Pada bagian image to restore tekan tombol kotak yang bertuliskan "none".
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_4.png" alt="dialog-restore-disk-image" >}}
+{{< image src="images/blog/gnome-disk_4.png" alt="dialog-restore-disk-image" >}}
 
 Langkah 5: Selanjutnya Select Disk Image to Restore, artinya pilihlah berkas ISO GNU/Linux yang akan dibuat bootable USB.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_5.png" alt="memilih-berkas-iso" >}}
+{{< image src="images/blog/gnome-disk_5.png" alt="memilih-berkas-iso" >}}
 
 Langkah 6: Jika sudah benar memasukkan berkas ISO, pilihlah dan tekan "Start Restoring".
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_6.png" alt="start-restoring" >}}
+{{< image src="images/blog/gnome-disk_6.png" alt="start-restoring" >}}
 
 Langkah 7: Pilih dan tekanlah "Restore".
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_7.png" alt="restore" >}}
+{{< image src="images/blog/gnome-disk_7.png" alt="restore" >}}
 
 Langkah 8: Masukkan Kata sandi root Anda dengan benar, sebab segala aktifitas yang berhubungan dengan pemartisian akan memerlukan hak akses penuh.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_8.png" alt="masukkan-kata-sandi" >}}
+{{< image src="images/blog/gnome-disk_8.png" alt="masukkan-kata-sandi" >}}
 
 Langkah 9: Tunggulah beberapa menit, GNOME Disks sedang membuat bootable ISO.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_9.png" alt="proses-gnome-disks" >}}
+{{< image src="images/blog/gnome-disk_9.png" alt="proses-gnome-disks" >}}
 
 Langkah 10: Ketika sudah 100% proses selesai. Bootable USB PureOS siap digunakan.
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/gnome-disk_10.png" alt="bootable-gnome-disks" >}}
+{{< image src="images/blog/gnome-disk_10.png" alt="bootable-gnome-disks" >}}
 
 Selesai, Jadi begitu mudah membuat bootable USB dengan GNOME Disks. Sekian, Semoga bermanfaat.
 

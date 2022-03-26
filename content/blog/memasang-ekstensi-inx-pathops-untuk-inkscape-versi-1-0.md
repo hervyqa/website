@@ -26,11 +26,11 @@ Beberapa objek yang dapat di boolean diantaranya seperti:
 
 Jika terdapat objek hasil clone dan gambar bitmap, maka pathops akan melewatinya. Lebih jelasnya seperti gambar dibawah ini. Pattern yang belum dipotong dari bagian luar artboard.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ink-pathops-sebelum.png" alt="ink-pathops-sebelum" >}}
+{{< image src="images/blog/ink-pathops-sebelum.png" alt="ink-pathops-sebelum" >}}
 
 Pattern sudah dipotong dari bagian luar artboard.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/ink-pathops-sesudah.png" alt="ink-pathops-sesudah" >}}
+{{< image src="images/blog/ink-pathops-sesudah.png" alt="ink-pathops-sesudah" >}}
 
 Pada tahap ini pattern sudah siap untuk dijadikan desain repeat & seamless pattern.
 

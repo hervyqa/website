@@ -15,7 +15,7 @@ Berbicara soal perpesanan instan, mungkin Anda berpendapat WhatsApps adalah laya
 
 Jika anda belum tahu, diluar sana ada aplikasi pesan instan yang tak kalah fitur dengan WhatsApps. Aplikasi tersebut adalah [Telegram](https://telegram.org/) yang dibuat oleh Pavel Durov, seseorang yang menghargai privasi. [Telegram](https://telegram.org/) di Indonesia memang belum begitu terkenal. Padahal Telegram juga mempunyai keunggulan yang tidak ada di perpesanan instan lainnya. Apa saja kelebihannya?
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/laman-telegram.png" alt="live-cd-1" >}}
+{{< image src="images/blog/laman-telegram.png" alt="live-cd-1" >}}
 
 #### Selamanya gratis
 
@@ -33,7 +33,7 @@ Berbeda dengan WhatsApp yang berbasis peer to peer, sehingga Anda mengharuskan m
 
 LINE sekitar 88MB. WhatsApps memiliki ukuran sekitar 30MB. Sedangkan Telegram hanya memiliki ukuran sekitar 15MB saja.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/multi-platform-telegram.png" alt="Multi Platform Telegram" >}}
+{{< image src="images/blog/multi-platform-telegram.png" alt="Multi Platform Telegram" >}}
 
 #### Mengirim gambar dan video dengan kualitas tinggi
 
@@ -57,7 +57,7 @@ Telegram mampu mengirim berkas yang mencapai 1.5GB per berkasnya. Sedangkan What
 
 Perbedaan yang sangat jauh.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/group-telegram.png" alt="Group Telegram" >}}
+{{< image src="images/blog/group-telegram.png" alt="Group Telegram" >}}
 
 #### Daya tampung grup yang lebih besar
 
@@ -71,7 +71,7 @@ Misalnya Anda yang memiliki engagement besar, bisa membuat kanal untuk pengikut 
 
 Penulis juga memiliki kanal sendiri seperti [@langitketujuh_group](https://t.me/langitketujuh_group) yang berisikan cara migrasi Windows ke GNU/Linux. Kanal [@klimoker](https://t.me/klimoker) untuk pengguna GNU/Linux didaerah Mojokerto. Dan tersedia juga kanal-kanal lainnya di Telegram.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/bot-telegram.png" alt="Bot Telegram" >}}
+{{< image src="images/blog/bot-telegram.png" alt="Bot Telegram" >}}
 
 #### Adanya fitur bot
 
@@ -95,7 +95,7 @@ Anda bisa menggunakan ID nama pengguna. Misalnya Penulis memiliki ID [@hervyqa](
 
 Telegram memungkinkan banyak akun pengguna dalam satu aplikasi untuk nomor telepon yang berbeda. Dengan fitur ini, Anda dapat dengan mudah memisahkan pesan pribadi dan bisnis Anda tanpa banyak kesulitan.
 
-{{< image title="" w="" h="" o="webp q100" p="center" c="rounded" src="images/blog/privacy-telegram.png" alt="Privacy Telegram" >}}
+{{< image src="images/blog/privacy-telegram.png" alt="Privacy Telegram" >}}
 
 
 #### Privasi dan keamanan
