@@ -4,7 +4,7 @@ date: 2019-07-27T10:25:48+07:00
 title: "Cara Mudah Mengoptimalkan Inkscape"
 description : "Beberapa ulasan singkat dan menarik untuk mengoptimalkan kinerja inkscape. Tujuannya untuk mempercepat workflow dan meminimalisir terjadinya force close."
 image: "images/blog/cara-mudah-mengoptimalkan-inkscape.png"
-type: "featured" # [featured/regular]
+type: "regular" # [featured/regular]
 categories:
 - inkscape
 ---
