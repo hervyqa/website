@@ -4,7 +4,7 @@ date: 2019-12-26T23:54:47+07:00
 title: "Cara Mencetak Sertifikat PDF Dengan Inkscape-Merge"
 description : "PDF merupakan format portabel untuk dokumen, sehingga mempermudah untuk ditampilkan dan dicetak. Ternyata dengan Inkscape Merge mencetak sertifikat jadi lebih mudah, mari simak tutorialnya."
 image: "images/blog/cara-mencetak-sertifikat-pdf-dengan-inkscape-merge.png"
-type: "featured" # [featured/regular]
+type: "regular" # [featured/regular]
 categories:
 - inkscape
 - sertifikat

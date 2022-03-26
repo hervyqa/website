@@ -4,7 +4,7 @@ date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 description: "This is meta description"
 image: "images/blog/{{ .Name }}.png"
-type: "featured" # featured/regular
+type: "regular" # featured/regular
 categories:
 - 
 ---

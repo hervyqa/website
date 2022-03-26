@@ -4,7 +4,7 @@ date: 2019-07-03T19:03:21+07:00
 title: "Begitu Mudahnya Memahami Lisensi Creative Commons"
 description : "Apakah anda tau tentang lisensi Creative Commons? Penasaran? Simak panduan singkat berikut."
 image: "images/blog/begitu-mudahnya-memahami-lisensi-creative-commons.png"
-type: "featured" # [featured/regular]
+type: "regular" # [featured/regular]
 categories:
 - lisensi
 - inkscape
