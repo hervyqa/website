@@ -48,7 +48,7 @@
 {{ else }}
 
 <!-- image processing -->
-{{ $options:= add (add (string (.Get "w" | default $imageWidth)) "x ") (.Get "o") }}
+{{ $options:= add (add (string (.Get "w" | default $imageWidth)) "x ") (.Get "o" | default `webp q100`) }}
 {{ .Scratch.Set `image` ($image.Resize $options).RelPermalink }}
 
 <!-- fallback image -->
@@ -59,12 +59,12 @@
 <!-- image figure -->
 {{ if .Get `title` }}
 <figure class="{{.Scratch.Get `image-position`}}">
-  <img loading="lazy" decoding="async" class="{{.Get `c`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
+  <img loading="lazy" decoding="async" class="{{.Get `c` | default `rounded` }}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
   <figcaption>{{.Get `title` | markdownify}}</figcaption>
 </figure>
 {{ else }}
 <!-- image tag -->
-<img loading="lazy" decoding="async" class="{{.Get `c`}} {{.Scratch.Get `image-position`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
+<img loading="lazy" decoding="async" class="{{.Get `c` | default `rounded` }} {{.Scratch.Get `image-position`}}" width="{{.Get `w` | default $imageWidth }}" height="{{.Get `h` | default $imageHeight}}" src="{{.Scratch.Get `image`}}" alt="{{.Get `alt`}}" onerror="this.onerror='null';this.src='{{.Scratch.Get `image_fallback`}}'">
 {{ end }}
 
 <!-- image from content folder -->
