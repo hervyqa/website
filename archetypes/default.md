@@ -13,6 +13,8 @@ categories:
 
 Paragraf
 
+{{< image src="images/blog/image.png" alt="alternate title" >}}
+
 ***
 
 Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
