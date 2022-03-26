@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-01-30T07:10:08+07:00
-title: "Mengatasi Glitch Perekaman Layar Di Manjaro"
+title: "Mengatasi glitch perekaman layar di manjaro linux"
 description : "Masalah yang sering ditemui ketika merekam layar adalah gitching. Entah karena driver yang tidak cocok atau kernelnya. Dan ternyata solusinya seperti ini."
 image: "images/blog/mengatasi-glitch-perekaman-layar-di-manjaro.png"
 type: "regular" # [featured/regular]

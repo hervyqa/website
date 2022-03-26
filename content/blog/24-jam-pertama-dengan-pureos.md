@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-09-18T16:41:21+07:00
-title: "24 Jam Pertama dengan PureOS"
+title: "24 jam pertama dengan pure os"
 description : "PureOS merupakan distribusi GNU/Linux spesial yang dibangun oleh Purism dan secara resmi di endorse langsung oleh FSF (Free Software Foundation)."
 image: "images/blog/24-jam-pertama-dengan-pureos.png"
 slug: "24-jam-pertama-dengan-pureos"

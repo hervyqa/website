@@ -1,10 +1,10 @@
 ---
 draft: false
 date: 2020-01-01T10:59:18+07:00
-title: "GNOME itu Berat!"
+title: "GNOME itu berat!"
 description : "Tulisan ini merupakan pengalaman pribadi dengan GNOME. Lingkungan destop yang sederhana, kuat, dan elegan. Mengapa pakai GNOME, bukannya lebih berat? Mari kita simak."
 image: "images/blog/gnome-itu-berat.png"
-type: "featured" # [featured/regular]
+type: "regular" # [featured/regular]
 categories:
 - gnome
 ---
@@ -68,11 +68,11 @@ Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih
 
 #### Mudah menyambungkan tampilan ke monitor atau proyektor
 
-Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan `super+p` kemudian memilih mode tampilan.
+Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan <kbd>Super</kbd>+<kbd>p</kbd>` kemudian memilih mode tampilan.
 
 #### Adanya fitur tampilan dinamis
 
-Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan `ctrl+alt+atas/bawah` layar bisa berpindah tempat, atau memindahkan jendela aktif dengan `ctrl+shift+alt+atas/bawah`.
+Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd> layar bisa berpindah tempat, atau memindahkan jendela aktif dengan <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd>.
 
 #### Faktanya!
 

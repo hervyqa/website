@@ -1,6 +1,6 @@
 ---
-title: "Search Result"
-description: "this is meta description"
+title: "Hasil Pencarian"
+description: "Yang dicari-cari.."
 layout: "search"
 draft: false
 ---

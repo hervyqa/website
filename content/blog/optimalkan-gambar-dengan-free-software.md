@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-07-10T08:18:41+07:00
-title: "Mengoptimalkan Gambar dengan Free Software"
+title: "Mengoptimalkan gambar dengan free software"
 description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan perangkat lunak bebas."
 image: "images/blog/optimalkan-gambar-dengan-free-software.png"
 type: "regular" # featured/regular

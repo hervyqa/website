@@ -4,7 +4,7 @@ title = "Hervy Qurrotul | Multimedia & Personal Blog"
 languageName = "Id"
 languageCode = "id-id"
 # post pagination
-paginate = "6"
+paginate = "8"
 # post excerpt
 summaryLength = "10"
 # google analytics

@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-01-31T10:40:54+07:00
-title: "Cara Membuat BrushPen di Inkscape ala Digital Painting"
+title: "Cara membuat brushpen di Inkscape ala digital painting"
 description : "Cara brushpen ini sudah penulis terapkan sejak tahun 2016. Setidaknya dengan brushpen di inkscape, membuat karya ilustrasi yang kompleks jadi lebih cepat."
 image: "images/blog/cara-membuat-brushpen-di-inkscape-ala-digital-painting.png"
 type: "featured" # [featured/regular]
@@ -39,7 +39,7 @@ Setelah itu buatlah gambar dengan ketinggian yang berbeda. Misalnya tadi dengan 
 
 Untuk membuat brush bisa Anda gunakan freehand **p** atau bezier **b**. Oke, kita coba dari freehand dulu.
 
-Tekan **p** untuk pintasan freehand. Kemudian pilihlah salah satu path, misalnya yang nomer **5**. Kemudian tekan **ctrl + c** untuk menyalinnya.
+Tekan **p** untuk pintasan freehand. Kemudian pilihlah salah satu path, misalnya yang nomer **5**. Kemudian tekan **<kbd>Ctrl</kbd>+<kbd>c</kbd>** untuk menyalinnya.
 
 {{< image src="images/blog/path-3.png" alt="Contoh Path 3" >}}
 

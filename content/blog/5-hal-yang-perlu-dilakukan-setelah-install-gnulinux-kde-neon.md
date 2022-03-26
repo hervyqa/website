@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-09-10T11:43:24+07:00
-title: "5 Hal yang perlu dilakukan setelah install GNU/Linux KDE Neon"
+title: "5 Hal yang perlu dilakukan setelah install gnu/linux kde neon"
 description : "KDE Neon merupakan spesial GNU/Linux distribusi yang merilis aplikasi KDE secara terbaru. Beberapa hal yang perlu dilakukan setelah install KDE Neon, seperti pasang pembaruan, aplikasi, dan codec."
 image: "images/blog/5-hal-yang-perlu-dilakukan-setelah-install-gnulinux-kde-neon.png"
 type: "regular" # [featured/regular]

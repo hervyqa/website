@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-06-09T05:51:09+07:00
-title: "Template Inkscape Easy Repeat Pattern Yang Harus Anda Coba"
+title: "Template inkscape easy repeat pattern yang harus anda coba"
 description : "Template SVG gratis untuk siapapun, khususnya Anda yang hobi mendesain Fabric Seamless Pattern dan Branding Audentity"
 image: "images/blog/template-inkscape-easy-repeat-pattern-yang-harus-anda-coba.png"
 type: "featured" # featured/regular
@@ -54,7 +54,7 @@ Template Easy Repeat Pattern + Mockup (kanan)
     ```
 - Ukuran bawaan template ini adalah 3000x3000pt yang setara dengan 4000x4000px 96DPI.
 - Perlu diketahui "Easy Repeat Pattern + Mockup.svg" lebih banyak membutuhkan daya CPU, jadi kemungkinan komputer/laptop sedikit bekerja keras.
-- Buka dari template baru (Ctrl+Alt+N). Pilih "Easy Repeat Pattern" atau "Easy Repeat Pattern + Mockup".
+- Buka dari template baru <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>n</kbd>). Pilih "Easy Repeat Pattern" atau "Easy Repeat Pattern + Mockup".
 - Gunakan Objek dialog, Buka di Menu > Object > Object. Dialog objek ini sangat membantu untuk manajemen objek.
 - Pastikan elemen pattern anda berada di grup "your-design-here". Bisa dilihat di status bar atau dialog Objek.
 - Jika ingin mengekspor ke PNG bisa menggunakan espor bawaan inkscape. Atau menggunakan ekstensi Inkporter. gunakan id "pattern" untuk mengekspor textur pattern. id "mockup-1x1" untuk ekspor mockup 1x1. dan id "mockup-3x3" untuk mengekspor mockup 3x3. Unduh inkporter dari [tautan ini](https://inkscape.org/~raniaamina/%E2%93%85inkporter).
@@ -62,17 +62,17 @@ Template Easy Repeat Pattern + Mockup (kanan)
 
 #### Mockup
 
-{{< image w="230" src="images/blog/pattern-1x1.png" alt="Pattern 1x1" >}}
-{{< image w="230" src="images/blog/pattern-3x3.png" alt="Pattern 3x3" >}}
-{{< image w="230" src="images/blog/mockup-1x1-bag.png" alt="Mockup Bag" >}}
-{{< image w="230" src="images/blog/mockup-1x1-cosmetic.png" alt="Mockup Cosmetic" >}}
-{{< image w="230" src="images/blog/mockup-1x1-cup.png" alt="Mockup Cup" >}}
-{{< image w="230" src="images/blog/mockup-1x1-pillow.png" alt="Mockup Pillow" >}}
-{{< image w="230" src="images/blog/mockup-1x1-plate.png" alt="Mockup Plate" >}}
-{{< image w="230" src="images/blog/mockup-1x1-pouch.png" alt="Mockup Pouch" >}}
-{{< image w="230" src="images/blog/mockup-1x1-shoes.png" alt="Mockup Shoes" >}}
-{{< image w="230" src="images/blog/mockup-1x1-socks.png" alt="Mockup Socks" >}}
-{{< image w="230" src="images/blog/mockup-1x1-t-shirt.png" alt="Mockup T-shirt" >}}
+{{< image src="images/blog/pattern-1x1.png" alt="Pattern 1x1" >}}
+{{< image src="images/blog/pattern-3x3.png" alt="Pattern 3x3" >}}
+{{< image src="images/blog/mockup-1x1-bag.png" alt="Mockup Bag" >}}
+{{< image src="images/blog/mockup-1x1-cosmetic.png" alt="Mockup Cosmetic" >}}
+{{< image src="images/blog/mockup-1x1-cup.png" alt="Mockup Cup" >}}
+{{< image src="images/blog/mockup-1x1-pillow.png" alt="Mockup Pillow" >}}
+{{< image src="images/blog/mockup-1x1-plate.png" alt="Mockup Plate" >}}
+{{< image src="images/blog/mockup-1x1-pouch.png" alt="Mockup Pouch" >}}
+{{< image src="images/blog/mockup-1x1-shoes.png" alt="Mockup Shoes" >}}
+{{< image src="images/blog/mockup-1x1-socks.png" alt="Mockup Socks" >}}
+{{< image src="images/blog/mockup-1x1-t-shirt.png" alt="Mockup T-shirt" >}}
 
 ***
 

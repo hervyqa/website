@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-10-28T20:13:39+07:00
-title: "Pengaturan Penting Libreoffice Yang Terlupakan"
+title: "Pengaturan penting libreoffice yang terlupakan"
 description : "Pengaturan awal LibreOffice memang perlu dilakukan dulu sebelum memulai membuat dokumen. Pengaturan awal termasuk metadata, fonta, bahasa, format, koreksi otomatis yang kadang dilupakan oleh pengguna LibreOffice awam. Supaya lebih produktif, simak tips berikut ini."
 image: "images/blog/pengaturan-penting-libreoffice-yang-terlupakan.png"
 type: "regular" # featured/regular

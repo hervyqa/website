@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-05-17T08:36:21+07:00
-title: "Memasang Ekstensi Inx-Pathops Untuk Inkscape Versi 1.0"
+title: "Memasang ekstensi inx-pathops untuk inkscape versi 1.0"
 description : "Ekstensi Inx-Pathops merupakan ekstensi untuk boolean multi objek. Dengan Ink-Pathops Anda dapat melakukan proses boolean secara bersamaan dalam objek grup. Misalnya Union, Difference, Intersection, Cut path, dan lain sebagainya."
 image: "images/blog/memasang-ekstensi-inx-pathops-untuk-inkscape-versi-1-0.png"
 type: "regular" # [featured/regular]
@@ -53,7 +53,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\inkex\
     ```
-    - Ctrl+F, temukan baris dibawah ini. Biasanya berada di baris 282.
+    - <kbd>Ctrl</kbd>+<kbd>f</kbd>, temukan baris dibawah ini. Biasanya berada di baris 282.
     ```
     document = self.document.getroot().tostring()
     ```
@@ -67,7 +67,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 
     Ekstensi ini tidak berlaku untuk GNU/Linux yang pemasangan inkscapenya via Flatpak, Apppimage dan Snap. Flatpak menggunakan Sandbox untuk melindungi isi paketnya, Appimage bersifat portable, Snap memakai SquasFS yang dimana tidak bisa memodifikasi kode sistemnya. Solusinya jika memakai GNU/Linux Ubuntu dan turunannya, hapus inkscape lama lalu pasang melalui [PPA Inkscape](https://inkscape.org/release/inkscape-1.0/gnulinux/ubuntu/ppa/dl/).
 
-    - Tempel (paste) ekstensi ke dalam direktori ini. (tekan ctl+H atau alt+titik untuk menampilkan direktori .config)
+    - Tempel (paste) ekstensi ke dalam direktori ini. (tekan <kbd>Ctrl</kbd>+<kbd>h</kbd> atau <kbd>Alt</kbd>+<kbd>.</kbd> untuk menampilkan direktori .config)
 
     ```
     ~/.config/inkscape/extensions/

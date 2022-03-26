@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-01-22T10:04:24+07:00
-title: "Cara memasang Profil CMYK dengan Inkscape di GNU/Linux, Windows dan Mac OS-X"
+title: "Cara memasang profil cmyk dengan inkscape di gnu/linux, windows dan mac os-x"
 description : "Tahukah Anda tentang cara merubah profil warna RGB menjadi CMYK dengan Inkscape? cara ini penting untuk menyelaraskan tampilan monitor, sehingga tidak terjadi perbedaan hasil warna di percetakan offset maupun digital."
 image: "images/blog/cara-memasang-profil-cmyk-dengan-inkscape-di-gnulinux-windows-dan-mac-osx.png"
 type: "regular" # [featured/regular]

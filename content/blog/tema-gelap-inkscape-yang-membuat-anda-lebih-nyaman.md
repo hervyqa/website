@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-06-08T16:17:38+07:00
-title: "Tema Gelap Inkscape yang membuat Anda lebih nyaman"
+title: "Tema gelap inkscape yang membuat Anda lebih nyaman"
 description : "Bosan dengan tema gelap yang itu-itu saja? cobalah tema gelap yang sepert ini."
 image: "images/blog/tema-gelap-inkscape-yang-membuat-anda-lebih-nyaman.png"
 type: "regular" # featured/regular
@@ -27,11 +27,11 @@ Baik versi GNU/Linux, Windows dan Mac sudah masuk didalamnya.
 Cara mengganti tema gelap Adwaita adalah sebagai berikut:
 
 - Buka Inkscape.
-- Tekan Ctrl+Shift+P untuk membuka menu preferences.
+- Tekan <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> untuk membuka menu preferences.
 - Pilih "Interface", lalu klik longgar tab (expand).
 - Pilih sub-menu "Theme".
 - Pada pilihan Change Gtk Theme:, pilih "Adwaita-Dark"
-- Tutup Preferences (Alt+F4)
+- Tutup Preferences <kbd>Alt</kbd>+<kbd>F4</kbd>
 
 Tema Inkscape akan berubah menjadi gelap dengan tema "Adwaita-Dark".
 Tetapi jika Anda menggunakan GNU/Linux banyak tema yang bisa Anda coba.

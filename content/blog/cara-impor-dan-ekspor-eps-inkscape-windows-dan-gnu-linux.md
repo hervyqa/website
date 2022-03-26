@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-04-07T01:11:50+07:00
-title: "Cara Impor dan Ekspor EPS Inkscape di Windows dan GNU/Linux"
+title: "Cara impor dan ekspor eps inkscape di Windows dan gnu/linux"
 description : "Adakalanya untuk pengguna Windows dan GNU/Linux mengalam kegalatan saat mengimpor EPS. Lalu bagaimana mengatasi masalah ini? yuk silakan baca tutorialnya."
 image: "images/blog/cara-impor-dan-ekspor-eps-inkscape-windows-dan-gnu-linux.png"
 type: "regular" # [featured/regular]
