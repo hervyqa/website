@@ -4,7 +4,7 @@ date: 2020-06-09T05:51:09+07:00
 title: "Template inkscape easy repeat pattern yang harus anda coba"
 description : "Template SVG gratis untuk siapapun, khususnya Anda yang hobi mendesain Fabric Seamless Pattern dan Branding Audentity"
 image: "images/blog/template-inkscape-easy-repeat-pattern-yang-harus-anda-coba.png"
-type: "featured" # featured/regular
+type: "regular" # featured/regular
 categories:
 - template
 - inkscape
