@@ -4,9 +4,10 @@ date: 2020-03-09T10:41:38+07:00
 title: "Tips dan trik kloning di inkscape"
 description : "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar untuk mandala."
 image: "images/blog/tips-dan-trik-kloning-objek-di-inkscape.png"
-type: "regular" # featured/regular
+type: "featured" # featured/regular
 categories:
 - inkscape
+- kloning
 ---
 
 Sebenarnya teknik kloning ini sudah klasik pembahasannya, namun jarang digunakan oleh pengguna Inkscape kebanyakan. Padahal jika dicermati lebih lanjut tekning kloning ini dapat dijadikan halftone, mandala, background, seamless pattern, dan mockup atau template. Mockup ini bisa berupa maskot, kartu nama, kartu identitas, flyer, mug, kover buku, pigora, dan segala macam produk untuk branding.
