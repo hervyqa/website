@@ -34,7 +34,7 @@ about_widget_content = "Membahas tips perangkat lunak bebas yang berfokus untuk 
 # footer content
 footer_content = "Membahas tips perangkat lunak bebas yang berfokus untuk multimedia dan GNU/Linux."
 # copyright
-copyright = "© 2019-2022 | Hervy Qurrotul Ainur."
+copyright = "© 2019-2022 | [Hervy Qurrotul Ainur](https://hervyqa.id)<br>& Developed by [Statichunt](https://statichunt.com/)."
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""

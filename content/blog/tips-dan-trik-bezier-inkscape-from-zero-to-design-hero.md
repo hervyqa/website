@@ -152,7 +152,7 @@ Memisahkan nodal ini kebalikan dari menggabungkan 2 nodal tadi. Yaitu membuat 2 
 
 ##### Pengancingan nodal (snapping)
 
-Secara bawaan nodal sudah mengaktifkan pengancingan. Pengancingan ini bisa diaktifkan dengan pintasan **%** (pakai papan ketik QWERTY **Shift+5**).
+Secara bawaan nodal sudah mengaktifkan pengancingan. Pengancingan ini bisa diaktifkan dengan pintasan **%** (pakai papan ketik QWERTY **<kbd>Shift</kbd>+<kbd>+5</kbd>**).
 
 Manfaat pengancingan ini untuk melekatkan nodal ke nodal, nodal ke sudut objek, nodal ke halaman, nodal teks, dan lain-lain.
 
@@ -178,43 +178,43 @@ Setiap sifat memiliki tanda masing-masing. Tanda nodalnya sebagai berikut:
 
 ##### Garis Lurus (Line)
 
-Pintasan garis lurus yaitu **Shift+l**. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan garis segmen yang lurus ini maka tidak muncul dua segmen kurva.
+Pintasan garis lurus yaitu **<kbd>Shift</kbd>+<kbd>l</kbd>**. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan garis segmen yang lurus ini maka tidak muncul dua segmen kurva.
 
 {{< image src="images/blog/t-23.png" alt="Garis lurus di Inkscape" >}}
 
 ##### Halus (Smooth)
 
-Sifat garis lurus ini kebalikan dari garis lurus. Pintasan Garis halus yaitu dengan menekan **Shift+s**. Sifat ini akan memunculkan dua segmen kurva yang membentuk garis yang melengkung.
+Sifat garis lurus ini kebalikan dari garis lurus. Pintasan Garis halus yaitu dengan menekan **<kbd>Shift</kbd>+<kbd>s</kbd>**. Sifat ini akan memunculkan dua segmen kurva yang membentuk garis yang melengkung.
 
 {{< image src="images/blog/t-24.png" alt="Garis halus di Inkscape" >}}
 
 ##### Auto Halus (Autosmooth)
 
-Garis Halus Otomatis ini hampir sama dengan Shift+s tadi, namun efeknya melembutkan nodal-nodal sekitarnya. Pintasannya yaitu **Shift+a**. Jika dilihat dari perbedaannya halus otomatis ini fix sesuai bentuk yang telah ditentukan, tapi masih halus. Ilustrasinya sebagai berikut sebagai perbandingan.
+Garis Halus Otomatis ini hampir sama dengan <kbd>Shift</kbd>+<kbd>+s</kbd> tadi, namun efeknya melembutkan nodal-nodal sekitarnya. Pintasannya yaitu **<kbd>Shift</kbd>+<kbd>a</kbd>**. Jika dilihat dari perbedaannya halus otomatis ini fix sesuai bentuk yang telah ditentukan, tapi masih halus. Ilustrasinya sebagai berikut sebagai perbandingan.
 
 {{< image src="images/blog/t-25.png" alt="Garis halus otomatis di Inkscape" >}}
 
-Jadi, jika memakai garis halus otomatis (Shift+a), maka bentuk kembali seperti garis halus awal sebelumnya. Meskipun segmen kurva dirubah.
+Jadi, jika memakai garis halus otomatis <kbd>Shift</kbd>+<kbd>a</kbd>, maka bentuk kembali seperti garis halus awal sebelumnya. Meskipun segmen kurva dirubah.
 
 ##### Simetris (Simetris)
 
-Pintasan Simetris yaitu **Shift+y**. Sifat simetris ini akan membuat dua segmen kurva memiliki panjang yang sama, baik kanan maupun kiri. Huruf **Y** juga secara bentuk sama antara kanan-kiri, jadi mudah dihafal untuk sifat ini.
+Pintasan Simetris yaitu **<kbd>Shift</kbd>+<kbd>y</kbd>**. Sifat simetris ini akan membuat dua segmen kurva memiliki panjang yang sama, baik kanan maupun kiri. Huruf **<kbd>Y</kbd>** juga secara bentuk sama antara kanan-kiri, jadi mudah dihafal untuk sifat ini.
 
 {{< image src="images/blog/t-26.png" alt="Garis simetris di Inkscape" >}}
 
 ##### Kurva (Curve)
 
-Pintasan Kurva yaitu **Shift+c**. Sifat kurva ini membuat garis lancip sehingga dua kurva tidak saling bersinggungan.
+Pintasan Kurva yaitu **<kbd>Shift</kbd>+<kbd>c</kbd>**. Sifat kurva ini membuat garis lancip sehingga dua kurva tidak saling bersinggungan.
 
 {{< image src="images/blog/t-27.png" alt="Garis kurva di Inkscape" >}}
 
 Jadi, Kesimpulannya untuk menyederhanakan sifat nodal ini adalah:
 
-* Lurus : **Shift+l**
-* Halus : **Shift+s**
-* Halus Otomatis :**Shift+a**
-* Simetris : **Shift+y**
-* Lancip : **Shift+c**
+* Lurus : **<kbd>Shift</kbd>+<kbd>l</kbd>**
+* Halus : **<kbd>Shift</kbd>+<kbd>s</kbd>**
+* Halus Otomatis :**<kbd>Shift</kbd>+<kbd>a</kbd>**
+* Simetris : **<kbd>Shift</kbd>+<kbd>y</kbd>**
+* Lancip : **<kbd>Shift</kbd>+<kbd>c</kbd>**
 
 Mudah bukan!
 
