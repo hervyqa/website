@@ -42,14 +42,14 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     Cache-Control = "public, max-age=31536000"
 
-#[[redirects]]
-#  from = "https://hervyqa.netlify.app/*"
-#  to = "https://www.hervyqa.com/:splat"
-#  status = 301
-#  force = true
-#
-#[[redirects]]
-#  from = "http://hervyqa.netlify.app/*"
-#  to = "http://www.hervyqa.com/:splat"
-#  status = 301
-#  force = true
+[[redirects]]
+ from = "https://hervyqa.netlify.app/*"
+ to = "https://hervyqa.id/:splat"
+ status = 301
+ force = true
+
+[[redirects]]
+ from = "http://hervyqa.netlify.app/*"
+ to = "https://hervyqa.id/:splat"
+ status = 301
+ force = true
