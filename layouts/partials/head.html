@@ -45,7 +45,7 @@
 {{ $image_path_local :=  printf "static/%s" $image_path -}}
 {{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
 {{ if fileExists $image_path_local -}}
-  <meta property="og:image" content="{{ $image_path | absURL }}" />
+  <meta property="og:image" content="{{ $image_path | absURL }}"/>
   {{/* If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height  */ -}}
   {{ if ne $image_ext "svg" -}}
     {{ with (imageConfig $image_path_local) -}}
@@ -57,7 +57,7 @@
     <meta property="og:image:height" content="{{ .Height }}">
     {{ end -}}
   {{ end -}}
-  <meta property="og:image:type" content="image/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
+  <meta property="og:image:type" content="images/{{ if eq $image_ext `svg` }}svg+xml{{ else }}{{ replaceRE `^jpg$` `jpeg` $image_ext }}{{ end }}">
 {{ end -}}
 <meta name="twitter:title" content="{{ with .Title }}{{ . }}{{ else }}{{ site.Title }}{{ end }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}"/>

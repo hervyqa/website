@@ -14,7 +14,7 @@ navbar_fixed = false
 # OpenGraph / Twitter Card metadata
 description = "Seputar perangkat lunak bebas untuk multimedia dengan GNU/Linux."
 author = "Hervy Qurrotul Ainur"
-image = "images/logo.svg" # this image will be used as fallback if a page has no image of its own
+image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Jalan Raya Ngoro, RT 02/02 Desa Kembangsri, Ngoro, Mojokerto, Jawa Timur."
 mobile = "+6281234492171"

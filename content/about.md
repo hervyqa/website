@@ -1,7 +1,7 @@
 ---
 title: "Profil saya"
 description: "this is meta-description"
-image: "images/page/profil.png"
+image: "images/page/bg-profil.png"
 layout: "about"
 draft: false
 

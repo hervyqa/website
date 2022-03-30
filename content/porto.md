@@ -1,7 +1,7 @@
 ---
 title: "Karya portofolio"
 description: "this is meta-description"
-image: "images/page/porto.png"
+image: "images/page/bg-porto.png"
 layout: "porto"
 draft: false
 ---
