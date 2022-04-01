@@ -99,9 +99,9 @@ Jadi dengan manajemen objek akan mempermudah menyeleksi objek-objek termasuk obj
 
 {{< image src="images/blog/bintang-awal.png" alt="Kloning Bintang Inkscape" >}}
 
-Contoh sederhana spray ini ketika membuat bintang-bintang. Konsepnya sama, yaitu buat dahulu objek induknya lalu di kloning. Membuat bjek bintang bisa dengan menekan **Shift+8** (tanda bintang).
+Contoh sederhana spray ini ketika membuat bintang-bintang. Konsepnya sama, yaitu buat dahulu objek induknya lalu di kloning. Membuat bjek bintang bisa dengan menekan <kbd><kbd>*</kbd></kbd>.
 
-Buatlah objek bintang, pilih objeknya kemudian tekan tekan **a** untuk kloning semprot/spray. Agar lebih variatif gunakan parameter bintang seperti ini: lebar=50, jumlah=20, rotasi=100, skala=60.
+Buatlah objek bintang, pilih objeknya kemudian tekan tekan <kbd><kbd>a</kbd></kbd> untuk kloning semprot/spray. Agar lebih variatif gunakan parameter bintang seperti ini: lebar=50, jumlah=20, rotasi=100, skala=60.
 
 {{< image src="images/blog/bintang-kloning.png" alt="Kloning Bintang Inkscape" >}}
 
@@ -113,7 +113,7 @@ Dari daftar ketujuh objek yang dapat dikloningkan yaitu "Objek dan tapak yang di
 
 Pada panduan ini menggunakan ukuran kanvas 4000px:4000px. Lalu cara untuk membuat kloning cermin adalah sebagai berikut:
 
-* Pertama, buatlah persegi (r) setengah kanvas. Persegi ini digunakan untuk area satu sisi. Taruh persegi tersebut di sebelah kanan misalnya. Ukurannya 2000px:4000px, gunakan pengancingan (snapping) untuk melekatkan di pojok kanvas. Sebagai opsional, berilah warna putih 100% pada persegi tersebut.
+* Pertama, buatlah persegi <kbd><kbd>r</kbd></kbd> setengah kanvas. Persegi ini digunakan untuk area satu sisi. Taruh persegi tersebut di sebelah kanan misalnya. Ukurannya 2000px:4000px, gunakan pengancingan (snapping) untuk melekatkan di pojok kanvas. Sebagai opsional, berilah warna putih 100% pada persegi tersebut.
 
 {{< image src="images/blog/cermin-kanan.png" alt="Kloning Cermin Inkscape" >}}
 
@@ -121,7 +121,7 @@ Pada panduan ini menggunakan ukuran kanvas 4000px:4000px. Lalu cara untuk membua
 
 {{< image src="images/blog/cermin-group.png" alt="Melihat objek grup pada dialog objek" >}}
 
-* Objek induk berada di kanan, yaitu persegi tadi. Lalu untuk mengkloningnya tekan **Alt+d** satu kali. kemudian tekan **h** satu kali untuk mencerminkan secara horizontal. Setelah di cerminkan taruhlah sub-objek (persegi baru) dibagian kiri. Sub-objek ini hanya kloning dari objek induk yang kanan, otomatis setiap perubahan di objek induk akan di ikuti oleh sub-objek lainnya. Biasanya sub-objek klon ini di dialog objek berawalan nama **use**xx. Agar lebih mudah, berilah nama grup kanan dan kiri seperti gambar ini.
+* Objek induk berada di kanan, yaitu persegi tadi. Lalu untuk mengkloningnya tekan <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd> satu kali. kemudian tekan **h** satu kali untuk mencerminkan secara horizontal. Setelah di cerminkan taruhlah sub-objek (persegi baru) dibagian kiri. Sub-objek ini hanya kloning dari objek induk yang kanan, otomatis setiap perubahan di objek induk akan di ikuti oleh sub-objek lainnya. Biasanya sub-objek klon ini di dialog objek berawalan nama **use**xx. Agar lebih mudah, berilah nama grup kanan dan kiri seperti gambar ini.
 
 {{< image src="images/blog/cermin-kiri.png" alt="Melihat objek grup kloning pada dialog objek" >}}
 
