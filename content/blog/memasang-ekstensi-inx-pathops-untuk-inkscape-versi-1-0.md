@@ -53,7 +53,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
     ```
     C:\Program Files\Inkscape\share\inkscape\extensions\inkex\
     ```
-    - <kbd>Ctrl</kbd>+<kbd>f</kbd>, temukan baris dibawah ini. Biasanya berada di baris 282.
+    - <kbd><kbd>Ctrl</kbd>+<kbd>f</kbd></kbd>, temukan baris dibawah ini. Biasanya berada di baris 282.
     ```
     document = self.document.getroot().tostring()
     ```
@@ -67,7 +67,7 @@ Cara pemasangannya diharapkan untuk dibaca pelan-pelan agar lebih berhati-hati :
 
     Ekstensi ini tidak berlaku untuk GNU/Linux yang pemasangan inkscapenya via Flatpak, Apppimage dan Snap. Flatpak menggunakan Sandbox untuk melindungi isi paketnya, Appimage bersifat portable, Snap memakai SquasFS yang dimana tidak bisa memodifikasi kode sistemnya. Solusinya jika memakai GNU/Linux Ubuntu dan turunannya, hapus inkscape lama lalu pasang melalui [PPA Inkscape](https://inkscape.org/release/inkscape-1.0/gnulinux/ubuntu/ppa/dl/).
 
-    - Tempel (paste) ekstensi ke dalam direktori ini. (tekan <kbd>Ctrl</kbd>+<kbd>h</kbd> atau <kbd>Alt</kbd>+<kbd>.</kbd> untuk menampilkan direktori .config)
+    - Tempel (paste) ekstensi ke dalam direktori ini. (tekan <kbd><kbd>Ctrl</kbd>+<kbd>h</kbd></kbd> atau <kbd><kbd>Alt</kbd>+<kbd>.</kbd></kbd> untuk menampilkan direktori .config)
 
     ```
     ~/.config/inkscape/extensions/
@@ -133,6 +133,6 @@ Barakallahu fiikum. Memang perlu bersabar untuk memasang ekstensi ini, tetapi In
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

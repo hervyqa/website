@@ -68,11 +68,11 @@ Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih
 
 #### Mudah menyambungkan tampilan ke monitor atau proyektor
 
-Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan <kbd>Super</kbd>+<kbd>p</kbd>` kemudian memilih mode tampilan.
+Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan <kbd><kbd>Super</kbd>+<kbd>p</kbd>` kemudian memilih mode tampilan.
 
 #### Adanya fitur tampilan dinamis
 
-Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd> layar bisa berpindah tempat, atau memindahkan jendela aktif dengan <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd>.
+Fitur ini menarik, karena membuat layar kerja lebih fleksibel. Cukup dengan <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd></kbd> layar bisa berpindah tempat, atau memindahkan jendela aktif dengan <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd>/<kbd>↓</kbd></kbd>.
 
 #### Faktanya!
 

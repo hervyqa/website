@@ -64,7 +64,7 @@ Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah meng
 
 #### Aktifkan snap seperlunya
 
-Tombol pintasan snap adalah **<kbd>%</kbd>**, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis cukup mengaktifkan snap seperlunya saja. Misalnya,
+Tombol pintasan snap adalah <kbd><kbd>%</kbd></kbd>, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis cukup mengaktifkan snap seperlunya saja. Misalnya,
 
 * snap to path, node, and handles.
 * snap to cusp nodes, incl. rectagle corners.
@@ -103,4 +103,4 @@ Jadi, itu saja beberapa hal yang harus dilakukan dan harus dihindari. Sekian, te
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id

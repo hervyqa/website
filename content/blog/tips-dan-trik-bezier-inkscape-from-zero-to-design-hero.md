@@ -31,7 +31,7 @@ Seperti biasa, penulis akan memulai dari yang paling dasar dahulu. Orang awam ak
 
 ##### Membuat garis lurus
 
-Untuk memudahkan membuat path, diawali dengan membuat path yang sederhana dahulu. Misalnya membuat bentuk segitiga. Segitiga memiliki 3 nodal (nodal) atau titik. Cara membuat garis lurus yaitu cukup tekan **b**, lalu **mengklik dan melepaskannya**. Kemudian disambungkan ke nodal terakhir.
+Untuk memudahkan membuat path, diawali dengan membuat path yang sederhana dahulu. Misalnya membuat bentuk segitiga. Segitiga memiliki 3 nodal (nodal) atau titik. Cara membuat garis lurus yaitu cukup tekan <kbd><kbd>b</kbd></kbd>, lalu **mengklik dan melepaskannya**. Kemudian disambungkan ke nodal terakhir.
 
 {{< image src="images/blog/t-1.png" alt="Garis lurus di Inkscape" >}}
 
@@ -52,13 +52,13 @@ Membuat garis melengkung yaitu dengan **klik**, **tahan dan geser**, lalu **lepa
 
 {{< image src="images/blog/t-3.png" alt="Garis melengkung di Inkscape" >}}
 
-Pada contoh dibawah ini, nodal nomer **2** akan dibuat melengkung. Nah, tatkala sampai di nodal nomer **3**, jika tidak ingin menyambungkan garis ke nodal **1** maka tekan **Enter** untuk melepaskannya.
+Pada contoh dibawah ini, nodal nomer **2** akan dibuat melengkung. Nah, tatkala sampai di nodal nomer **3**, jika tidak ingin menyambungkan garis ke nodal **1** maka tekan <kbd><kbd>Enter</kbd></kbd> untuk melepaskannya.
 
 {{< image src="images/blog/t-4.png" alt="Membuat garis melengkung di Inkscape" >}}
 
 1. Klik, lepaskan.
 2. Klik, tahan dan geser, lepaskan.
-3. Klik, lepaskan, tekan **Enter**.
+3. Klik, lepaskan, tekan <kbd><kbd>Enter</kbd></kbd>.
 
 ##### Membuat garis lancip
 
@@ -68,13 +68,13 @@ Teknik garis lancip ini hampir sama dengan membuat garis melengkung. Hanya saja 
 
 1. Klik, tahan dan geser, lepaskan.
 2. Klik, lepaskan.
-3. Klik, tahan dan geser, lepaskan. tekan **Enter**.
+3. Klik, tahan dan geser, lepaskan. tekan <kbd><kbd>Enter</kbd></kbd>.
 
 Di nodal **2** hanya di klik lalu dilepaskan. Lengkungan nodalnya berasal dari awal nodal 1. Kemudian di nodal **3** klik, tahan, lalu lepaskan lagi.
 
 {{< image src="images/blog/t-6.png" alt="Membuat garis lancip di Inkscape" >}}
 
-Ketika menggeser garis jika dibutuhkan garis yang lurus maka **tahan dengan menekan CTRL**.
+Ketika menggeser garis jika dibutuhkan garis yang lurus maka **tahan** dengan menekan <kbd><kbd>Ctrl</kbd></kbd>.
 
 {{< image src="images/blog/t-7.png" alt="Menggeser nodal garis yang lurus di Inkscape" >}}
 
@@ -84,11 +84,11 @@ Ketika menggeser garis jika dibutuhkan garis yang lurus maka **tahan dengan mene
 
 #### 2. Dapat Memodifikasi Nodal
 
-Memodifikasi nodal dapat dilakukan dengan menekan pintasan **n**. Bisa juga menggunakan **F2**, tetapi jari akan jauh menjangkaunya. Sederhananya pakai **n**.
+Memodifikasi nodal dapat dilakukan dengan menekan pintasan <kbd><kbd>n</kbd></kbd>. Bisa juga menggunakan <kbd><kbd>F2</kbd></kbd>, tetapi jari akan jauh menjangkaunya. Sederhananya pakai <kbd><kbd>n</kbd></kbd>.
 
 ##### Menambahkan nodal
 
-Menambahkan nodal dalam segmen yaitu dengan **mengklik 2x** di antara garis segmen. Cara ini yang paling mudah. Perhatikan contoh dibawah ini dengan membuat garis, lalu ditambahkan 2 nodal baru.
+Menambahkan nodal dalam segmen yaitu dengan **mengklik 2 kali** di antara garis segmen. Cara ini yang paling mudah. Perhatikan contoh dibawah ini dengan membuat garis, lalu ditambahkan 2 nodal baru.
 
 {{< image src="images/blog/t-8.png" alt="Membuat nodal garis baru di Inkscape" >}}
 
@@ -96,31 +96,31 @@ Setelah nodal baru terbentuk, Anda dapat merubah posisi nodalnya.
 
 ##### Menghapus nodal
 
-Menghapus nodal yaitu dengan menyeleksi nodal, kemudian tekan **Delete** untuk menghapusnya.
+Menghapus nodal yaitu dengan menyeleksi nodal, kemudian tekan <kbd><kbd>Delete</kbd></kbd> untuk menghapusnya.
 
 {{< image src="images/blog/t-9.png" alt="Menghapus nodal di Inkscape" >}}
 
 ##### Melanjutkan nodal terputus
 
-Melanjutkan nodal ketika bezier putus ditengah jalan. Yaitu tekan **s** untuk memilih/seleksi path, lalu tekan **b** untuk melanjutkan bezier. Kemudian lanjutkan titik terakhir yang akan dilanjutkan.
+Melanjutkan nodal ketika bezier putus ditengah jalan. Yaitu tekan <kbd><kbd>s</kbd></kbd> untuk memilih/seleksi path, lalu tekan <kbd><kbd>b</kbd></kbd> untuk melanjutkan bezier. Kemudian lanjutkan titik terakhir yang akan dilanjutkan.
 
 {{< image src="images/blog/t-10.png" alt="Melanjutkan nodal yang terputus di Inkscape" >}}
 
 ##### Membatalkan nodal
 
-Nah, ketika salah menempatkan nodal, tekan **Backspace** untuk membatalkannya. Misalnya pada situasi seperti ini: disaat mode bezier **b**, setelah membuat beberapa klik nodal. Tekan **Backspace** untuk membatalkan secara mundur satu-persatu.
+Nah, ketika salah menempatkan nodal, tekan <kbd><kbd>Backspace</kbd></kbd> untuk membatalkannya. Misalnya pada situasi seperti ini: disaat mode bezier <kbd><kbd>b</kbd></kbd>, setelah membuat beberapa klik nodal. Tekan <kbd><kbd>Backspace</kbd></kbd> untuk membatalkan secara mundur satu-persatu.
 
 {{< image src="images/blog/t-11.png" alt="Membatalkan nodal di Inkscape" >}}
 
 ##### Membatalkan bezier
 
-Sedangkan untuk membatalkan bezier, tekan **Esc**. Misalnya pada saat membuat path dengan bezier **b**, setelah mengklik beberapa nodal, klik, klik, klik... tetapi merasa kurang pas dan akhirnya tidak jadi. Tekan saja **Esc** untuk membatalkannya.
+Sedangkan untuk membatalkan bezier, tekan <kbd><kbd>Esc</kbd></kbd>. Misalnya pada saat membuat path dengan bezier <kbd><kbd>b</kbd></kbd>, setelah mengklik beberapa nodal, klik, klik, klik... tetapi merasa kurang pas dan akhirnya tidak jadi. Tekan saja <kbd><kbd>Esc</kbd></kbd> untuk membatalkannya.
 
 {{< image src="images/blog/t-12.png" alt="Membatalkan bezier di Inkscape" >}}
 
 ##### Menggabungkan nodal dengan segmen baru
 
-Menggabungkan nodal dengan menekan **n** lalu pilih tombol gabung nodal dengan segmen baru.
+Menggabungkan nodal dengan menekan <kbd><kbd>n</kbd></kbd> lalu pilih tombol gabung nodal dengan segmen baru.
 
 {{< image src="images/blog/t-13.png" alt="Menggabungkan nodal dengan segmen baru di Inkscape" >}}
 
@@ -128,7 +128,7 @@ Menggabungkan nodal dengan menekan **n** lalu pilih tombol gabung nodal dengan s
 
 ##### Hapus segmen diantara nodal
 
-Menghapus segmen yaitu dengan menyeleksi nodal terpilih. Jadi, tekan **n**, seleksi nodal, lalu tekan tombol hapus segmen.
+Menghapus segmen yaitu dengan menyeleksi nodal terpilih. Jadi, tekan <kbd><kbd>n</kbd></kbd>, seleksi nodal, lalu tekan tombol hapus segmen.
 
 {{< image src="images/blog/t-15.png" alt="Menghapus segmen di Inkscape" >}}
 
@@ -152,17 +152,17 @@ Memisahkan nodal ini kebalikan dari menggabungkan 2 nodal tadi. Yaitu membuat 2 
 
 ##### Pengancingan nodal (snapping)
 
-Secara bawaan nodal sudah mengaktifkan pengancingan. Pengancingan ini bisa diaktifkan dengan pintasan **%** (pakai papan ketik QWERTY **<kbd>Shift</kbd>+<kbd>+5</kbd>**).
+Secara bawaan nodal sudah mengaktifkan pengancingan. Pengancingan ini bisa diaktifkan dengan pintasan <kbd><kbd>%</kbd></kbd>.
 
 Manfaat pengancingan ini untuk melekatkan nodal ke nodal, nodal ke sudut objek, nodal ke halaman, nodal teks, dan lain-lain.
 
-Ketika mode bezier **b**, gunakan pengancingan untuk kebutuhan tertentu. Jadi, bisa kondisional.
+Ketika mode bezier <kbd><kbd>b</kbd></kbd>, gunakan pengancingan untuk kebutuhan tertentu. Jadi, bisa kondisional.
 
 {{< image src="images/blog/t-21.png" alt="Pengancingan di Inkscape" >}}
 
 ##### Skala Nodal
 
-Nodal juga bisa diskalakan (diperbesar dan diperkecil). Yaitu dengan ikon transformasi nodal. Dengan menahan **<kbd>Ctrl</kbd>** nodal transformasi akan mengunci lebar dan tinggi, sedangkan dengan menahan **<kbd>Shift</kbd>** nodal akan bersifat simetris.
+Nodal juga bisa diskalakan (diperbesar dan diperkecil). Yaitu dengan ikon transformasi nodal. Dengan menahan <kbd><kbd>Ctrl</kbd></kbd> nodal transformasi akan mengunci lebar dan tinggi, sedangkan dengan menahan <kbd><kbd>Shift</kbd></kbd> nodal akan bersifat simetris.
 
 {{< image src="images/blog/t-22.png" alt="Transformasi skala di Inkscape" >}}
 
@@ -178,43 +178,43 @@ Setiap sifat memiliki tanda masing-masing. Tanda nodalnya sebagai berikut:
 
 ##### Garis Lurus (Line)
 
-Pintasan garis lurus yaitu **<kbd>Shift</kbd>+<kbd>l</kbd>**. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan garis segmen yang lurus ini maka tidak muncul dua segmen kurva.
+Pintasan garis lurus yaitu <kbd><kbd>Shift</kbd>+<kbd>l</kbd></kbd>. Biasanya berguna untuk membuat ilustrasi seperti WPAP. Dengan garis segmen yang lurus ini maka tidak muncul dua segmen kurva.
 
 {{< image src="images/blog/t-23.png" alt="Garis lurus di Inkscape" >}}
 
 ##### Halus (Smooth)
 
-Sifat garis lurus ini kebalikan dari garis lurus. Pintasan Garis halus yaitu dengan menekan **<kbd>Shift</kbd>+<kbd>s</kbd>**. Sifat ini akan memunculkan dua segmen kurva yang membentuk garis yang melengkung.
+Sifat garis lurus ini kebalikan dari garis lurus. Pintasan Garis halus yaitu dengan menekan <kbd><kbd>Shift</kbd>+<kbd>s</kbd></kbd>. Sifat ini akan memunculkan dua segmen kurva yang membentuk garis yang melengkung.
 
 {{< image src="images/blog/t-24.png" alt="Garis halus di Inkscape" >}}
 
 ##### Auto Halus (Autosmooth)
 
-Garis Halus Otomatis ini hampir sama dengan <kbd>Shift</kbd>+<kbd>+s</kbd> tadi, namun efeknya melembutkan nodal-nodal sekitarnya. Pintasannya yaitu **<kbd>Shift</kbd>+<kbd>a</kbd>**. Jika dilihat dari perbedaannya halus otomatis ini fix sesuai bentuk yang telah ditentukan, tapi masih halus. Ilustrasinya sebagai berikut sebagai perbandingan.
+Garis Halus Otomatis ini hampir sama dengan <kbd><kbd>Shift</kbd>+<kbd>s</kbd></kbd> tadi, namun efeknya melembutkan nodal-nodal sekitarnya. Pintasannya yaitu <kbd><kbd>Shift</kbd>+<kbd>a</kbd></kbd>. Jika dilihat dari perbedaannya halus otomatis ini fix sesuai bentuk yang telah ditentukan, tapi masih halus. Ilustrasinya sebagai berikut sebagai perbandingan.
 
 {{< image src="images/blog/t-25.png" alt="Garis halus otomatis di Inkscape" >}}
 
-Jadi, jika memakai garis halus otomatis <kbd>Shift</kbd>+<kbd>a</kbd>, maka bentuk kembali seperti garis halus awal sebelumnya. Meskipun segmen kurva dirubah.
+Jadi, jika memakai garis halus otomatis <kbd><kbd>Shift</kbd>+<kbd>a</kbd></kbd>, maka bentuk kembali seperti garis halus awal sebelumnya. Meskipun segmen kurva dirubah.
 
 ##### Simetris (Simetris)
 
-Pintasan Simetris yaitu **<kbd>Shift</kbd>+<kbd>y</kbd>**. Sifat simetris ini akan membuat dua segmen kurva memiliki panjang yang sama, baik kanan maupun kiri. Huruf **<kbd>Y</kbd>** juga secara bentuk sama antara kanan-kiri, jadi mudah dihafal untuk sifat ini.
+Pintasan Simetris yaitu <kbd><kbd>Shift</kbd>+<kbd>y</kbd></kbd>. Sifat simetris ini akan membuat dua segmen kurva memiliki panjang yang sama, baik kanan maupun kiri. Huruf Y juga secara bentuk sama antara kanan-kiri, jadi mudah dihafal untuk sifat ini.
 
 {{< image src="images/blog/t-26.png" alt="Garis simetris di Inkscape" >}}
 
 ##### Kurva (Curve)
 
-Pintasan Kurva yaitu **<kbd>Shift</kbd>+<kbd>c</kbd>**. Sifat kurva ini membuat garis lancip sehingga dua kurva tidak saling bersinggungan.
+Pintasan Kurva yaitu <kbd><kbd>Shift</kbd>+<kbd>c</kbd></kbd>. Sifat kurva ini membuat garis lancip sehingga dua kurva tidak saling bersinggungan.
 
 {{< image src="images/blog/t-27.png" alt="Garis kurva di Inkscape" >}}
 
 Jadi, Kesimpulannya untuk menyederhanakan sifat nodal ini adalah:
 
-* Lurus : **<kbd>Shift</kbd>+<kbd>l</kbd>**
-* Halus : **<kbd>Shift</kbd>+<kbd>s</kbd>**
-* Halus Otomatis :**<kbd>Shift</kbd>+<kbd>a</kbd>**
-* Simetris : **<kbd>Shift</kbd>+<kbd>y</kbd>**
-* Lancip : **<kbd>Shift</kbd>+<kbd>c</kbd>**
+* Lurus : <kbd><kbd>Shift</kbd>+<kbd>l</kbd>
+* Halus : <kbd><kbd>Shift</kbd>+<kbd>s</kbd>
+* Halus Otomatis :<kbd>Shift</kbd>+<kbd>a</kbd>
+* Simetris : <kbd><kbd>Shift</kbd>+<kbd>y</kbd>
+* Lancip : <kbd><kbd>Shift</kbd>+<kbd>c</kbd>
 
 Mudah bukan!
 
@@ -222,7 +222,7 @@ Mudah bukan!
 
 #### 4. Memahami Perataan Nodal
 
-Terakhir, untuk meratakan nodal yaitu dengan panel Pelurusan dan Perataan. Pintasannya **<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd>**. Ketika menyeleksi nodal seleksi nodal kemudian pilih pelurusan nodal mana yang akan dikehendaki.
+Terakhir, untuk meratakan nodal yaitu dengan panel Pelurusan dan Perataan. Pintasannya <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd>. Ketika menyeleksi nodal seleksi nodal kemudian pilih pelurusan nodal mana yang akan dikehendaki.
 
 {{< image src="images/blog/t-28.png" alt="Perataan nodal di Inkscape" >}}
 

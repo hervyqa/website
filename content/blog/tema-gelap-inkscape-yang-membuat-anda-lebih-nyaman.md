@@ -27,11 +27,11 @@ Baik versi GNU/Linux, Windows dan Mac sudah masuk didalamnya.
 Cara mengganti tema gelap Adwaita adalah sebagai berikut:
 
 - Buka Inkscape.
-- Tekan <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd> untuk membuka menu preferences.
+- Tekan <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd></kbd> untuk membuka menu preferences.
 - Pilih "Interface", lalu klik longgar tab (expand).
 - Pilih sub-menu "Theme".
 - Pada pilihan Change Gtk Theme:, pilih "Adwaita-Dark"
-- Tutup Preferences <kbd>Alt</kbd>+<kbd>F4</kbd>
+- Tutup Preferences <kbd><kbd>Alt</kbd>+<kbd>F4</kbd>
 
 Tema Inkscape akan berubah menjadi gelap dengan tema "Adwaita-Dark".
 Tetapi jika Anda menggunakan GNU/Linux banyak tema yang bisa Anda coba.
@@ -149,7 +149,7 @@ Bisa juga digunakan untuk tema KDE (Qt)
 Demikian ulasan tentang beberapa tema gelap di Inkscape.
 Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa).
 
-Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan bebas pelacak.
+Terima kasih telah mengunjungi situs [hervyqa.id](https://hervyqa.id), situs yang membahas desain dengan Floss yang bebas iklan dan bebas pelacak.
 Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 ***
@@ -170,6 +170,6 @@ Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

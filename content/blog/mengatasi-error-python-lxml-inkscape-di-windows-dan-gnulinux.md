@@ -16,11 +16,11 @@ Berikut tipsnya.
 
 ## Instalasi
 
-Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitektur komputer Anda. Apakah 32-bit (win32) atau 64-bit (amd64).
+<!--Bagi pengguna windows silakan mengunjungi situs laman web berikut. Pilih arsitektur komputer Anda. Apakah 32-bit (win32) atau 64-bit (amd64).
+Unduh di laman web ini: [lxml](https://pypi.org/project/lxml/). Pilih berkas dengan akhiran `.whl`.
+Sedangkan untuk -->
 
-Unduh di laman web ini: [Lxml versi 3.8.0](https://pypi.org/project/lxml/3.8.0/#downloads). Pilih berkas dengan akhiran `.exe`.
-
-Sedangkan untuk pengguna GNU/Linux dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang python lxml ini.
+Catatan: Cara ini khusus pengguna GNU/Linux saja. Buka terminal favorit Anda lalu pasang python lxml ini.
 
 - Arch/Manjaro:
     ```
@@ -48,7 +48,7 @@ Sedangkan untuk pengguna GNU/Linux dengan sebaris perintah terminal masalah ters
     sudo zypper install python3-lxml
     ```
 
-- Void:
+- Void & LangitKetujuh:
     ```
     sudo xbps-install -S python3-lxml
     ```
@@ -77,6 +77,6 @@ Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan s
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

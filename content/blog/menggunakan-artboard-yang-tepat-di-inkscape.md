@@ -23,7 +23,7 @@ Langsung saja, Saya akan mendemontrasikan contohnya. Misalnya membuat artboard L
 
 #### Pengaturan Properti Dokumen
 
-Di Document properties <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd></kbd>.
+Di Document properties <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd></kbd></kbd>.
 
 * Display units : px
 * Units : px
@@ -33,7 +33,7 @@ Di Document properties <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>D</kbd></k
 
 #### Pengaturan Layer
 
-* Buat 2 layer <kbd><kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>L</kbd></kbd>, "Background" dan "Artwork".
+* Buat 2 layer <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>n</kbd></kbd>, "Background" dan "Artwork".
 * Buatlah persegi sesuai artboard. Misalnya 500 X 500 px sesuai ukuran logo tadi. Kemudian luruskan sesuai kanvas. dan taruh ke layer "Background". Kemudian lock layer background tersebut.
 * Kemudian, Pindah dan pilih layer "Artwork".
 

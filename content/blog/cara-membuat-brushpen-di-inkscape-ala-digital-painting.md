@@ -27,7 +27,7 @@ Atau path yang membutuhkan detail yang tinggi. Ah, lewati saja ilustrasi di atas
 
 #### Membuat path brush dari bezier (pentool).
 
-Pertama buatlah satu path brush dulu dengan bezier. Tekan **b** kemudian gambar lengkungannya. Misalnya seperti path dibawah ini.
+Pertama buatlah satu path brush dulu dengan bezier. Tekan <kbd><kbd>b</kbd></kbd> kemudian gambar lengkungannya. Misalnya seperti path dibawah ini.
 
 {{< image src="images/blog/path-1.png" alt="Contoh Path 1" >}}
 
@@ -37,9 +37,9 @@ Setelah itu buatlah gambar dengan ketinggian yang berbeda. Misalnya tadi dengan 
 
 #### Membuat brush dari freehand (P).
 
-Untuk membuat brush bisa Anda gunakan freehand **p** atau bezier **b**. Oke, kita coba dari freehand dulu.
+Untuk membuat brush bisa Anda gunakan freehand <kbd><kbd>p</kbd></kbd> atau bezier <kbd><kbd>b</kbd></kbd>. Oke, kita coba dari freehand dulu.
 
-Tekan **p** untuk pintasan freehand. Kemudian pilihlah salah satu path, misalnya yang nomer **5**. Kemudian tekan **<kbd>Ctrl</kbd>+<kbd>c</kbd>** untuk menyalinnya.
+Tekan <kbd><kbd>p</kbd></kbd> untuk pintasan freehand. Kemudian pilihlah salah satu path, misalnya yang nomer 5. Kemudian tekan <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd> untuk menyalinnya.
 
 {{< image src="images/blog/path-3.png" alt="Contoh Path 3" >}}
 
@@ -51,19 +51,19 @@ Kemudian ganti paramater **Bentuk:** dari None menjadi **Dari papan klip** (en: 
 
 {{< image src="images/blog/path-5.png" alt="Mengatur parameter bentuk freehand inkscape" >}}
 
-Masih dalam freehand **p**, buatlah path bebas dari coretan Anda.
+Masih dalam freehand <kbd><kbd>p</kbd></kbd>, buatlah path bebas dari coretan Anda.
 
 {{< image src="images/blog/path-6.png" alt="Membuat freehand di inkscape" >}}
 
-Anda bisa mengatur ketebalannya dengan mode node **n**. Tekan **n** kemudian akan ada ujung pangkal untuk menarik tebal dan tipisnya.
+Anda bisa mengatur ketebalannya dengan mode node <kbd><kbd>n</kbd></kbd>. Tekan <kbd><kbd>n</kbd></kbd> kemudian akan ada ujung pangkal untuk menarik tebal dan tipisnya.
 
 {{< image src="images/blog/path-7.png" alt="Mengatur ketebalan freehand di inkscape" >}}
 
-Jadi, caranya sangat sederhana. Pertama **salin** pathnya, kemudian freehand tekan **p**, atur parameter menjadi **60**, ganti bentuknya dari none menjadi **Dari papan klip**. Selesai :).
+Jadi, caranya sangat sederhana. Pertama **salin** pathnya, kemudian freehand tekan <kbd><kbd>p</kbd></kbd>, atur parameter menjadi **60**, ganti bentuknya dari none menjadi **Dari papan klip**. Selesai :).
 
 #### Membuat brush dari bezier (B).
 
-Caranya hampir sama dengan freehand tadi. Pertama tekan **b** untuk bezier. Kemudian salin path yang akan dijadikan brush.
+Caranya hampir sama dengan freehand tadi. Pertama tekan <kbd><kbd>b</kbd></kbd> untuk bezier. Kemudian salin path yang akan dijadikan brush.
 
 Lalu pada parameter bezier, pilih **Bentuk:** dari None menjadi **Dari papan klip**.
 

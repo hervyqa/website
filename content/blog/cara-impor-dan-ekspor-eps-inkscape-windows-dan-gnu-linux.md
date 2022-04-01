@@ -46,7 +46,7 @@ Sedangkan untuk pengguna **GNU/Linux** dengan sebaris perintah terminal masalah 
     sudo zypper install ghostscript
     ```
 
-- **Void/LangitKetujuh** :
+- **Void & LangitKetujuh** :
     ```
     sudo xbps-install -S ghostscript
     ```
@@ -77,6 +77,6 @@ Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan s
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

@@ -54,7 +54,7 @@ Template Easy Repeat Pattern + Mockup (kanan)
     ```
 - Ukuran bawaan template ini adalah 3000x3000pt yang setara dengan 4000x4000px 96DPI.
 - Perlu diketahui "Easy Repeat Pattern + Mockup.svg" lebih banyak membutuhkan daya CPU, jadi kemungkinan komputer/laptop sedikit bekerja keras.
-- Buka dari template baru <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>n</kbd>). Pilih "Easy Repeat Pattern" atau "Easy Repeat Pattern + Mockup".
+- Buka dari template baru <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>n</kbd></kbd>. Pilih "Easy Repeat Pattern" atau "Easy Repeat Pattern + Mockup".
 - Gunakan Objek dialog, Buka di Menu > Object > Object. Dialog objek ini sangat membantu untuk manajemen objek.
 - Pastikan elemen pattern anda berada di grup "your-design-here". Bisa dilihat di status bar atau dialog Objek.
 - Jika ingin mengekspor ke PNG bisa menggunakan espor bawaan inkscape. Atau menggunakan ekstensi Inkporter. gunakan id "pattern" untuk mengekspor textur pattern. id "mockup-1x1" untuk ekspor mockup 1x1. dan id "mockup-3x3" untuk mengekspor mockup 3x3. Unduh inkporter dari [tautan ini](https://inkscape.org/~raniaamina/%E2%93%85inkporter).
@@ -79,7 +79,7 @@ Template Easy Repeat Pattern + Mockup (kanan)
 Barakallahu fiikum.
 Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa).
 
-Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan bebas pelacak.
+Terima kasih telah mengunjungi situs [hervyqa.id](https://hervyqa.id), situs yang membahas desain dengan Floss yang bebas iklan dan bebas pelacak.
 
 Semoga Template "Easy Repeat Pattern" ini bermanfaat untuk para pembaca dan desainer pattern. Aamiin.
 
@@ -101,6 +101,6 @@ Semoga Template "Easy Repeat Pattern" ini bermanfaat untuk para pembaca dan desa
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

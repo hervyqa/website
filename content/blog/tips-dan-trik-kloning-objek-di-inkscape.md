@@ -30,7 +30,7 @@ Jadi, objek A yang merupakan induk objek menjadi pusat kloning dari objek B. Vis
 
 {{< image src="images/blog/visual-kloning.png" alt="Visual Kloning" >}}
 
-Ciri khas utama dari Sub-Objek adalah tidak bisa dirubah nodalnya. Ini terlihat ketika memilih edit nodal (n), maka nodal yang kelihatan adalah nodal induk objek saja.
+Ciri khas utama dari Sub-Objek adalah tidak bisa dirubah nodalnya. Ini terlihat ketika memilih edit nodal  <kbd><kbd>n</kbd></kbd>, maka nodal yang kelihatan adalah nodal induk objek saja.
 
 {{< image src="images/blog/sifat-sub-objek.png" alt="Sifat Sub Objek" >}}
 
@@ -38,11 +38,11 @@ Jadi, ketika menggunakan kloning ini akan merubah dari warna isi (fill), warna s
 
 #### Pintasan Kloning
 
-Pintasan duplikasi yaitu menggunakan **<kbd>Ctrl</kbd>+<kbd>d</kbd>**. Sedangkan pintasan Kloning menggunakan **<kbd>Alt</kbd>+<kbd>d</kbd>**. Perbedaanya di **<kbd>Alt</kbd>** saja. Yaa.. mudah dihafal bukan. Ingat kloning, Ingat **<kbd>Alt</kbd>+<kbd>d</kbd>** :)
+Pintasan duplikasi yaitu menggunakan <kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd>. Sedangkan pintasan Kloning menggunakan <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd>. Perbedaanya di <kbd><kbd>Alt</kbd></kbd> saja. Yaa.. mudah dihafal bukan. Ingat kloning, Ingat <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd> :)
 
 {{< image src="images/blog/pintasan-kloning.png" alt="Pintasan Kloning Inkscape" >}}
 
-Nah, kalau misalnya setelah kloning, yaitu sub-objek akan dijadikan objek terpisah tanpa mengikuti gaya induk objek sebelumnnya. Bagaimana? Mudah, cukup tekan **<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd>**. Otomatis sub-objek akan terputus dari induk objeknya dan menjadi objek biasa yang dapat menjadi induk objek lagi.
+Nah, kalau misalnya setelah kloning, yaitu sub-objek akan dijadikan objek terpisah tanpa mengikuti gaya induk objek sebelumnnya. Bagaimana? Mudah, cukup tekan <kbd><kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd></kbd>. Otomatis sub-objek akan terputus dari induk objeknya dan menjadi objek biasa yang dapat menjadi induk objek lagi.
 
 #### Kapan menggunakan Kloning?
 
@@ -66,7 +66,7 @@ Beberapa kegiatan berikut yang bisa dilakukan dengan kloning, misalnya:
 
 Sebenarnya tidak ada kegalatan (error). Hanya saja pengguna awam masih belum tahu. Misalnya:
 
-* Sub-objek tidak bisa dilakukan proses boolean. Seperti disatukan, dibedakan, eksklusi, interseksi, divisi, potong tapak dan sebagainya. Tidak bisa dilakukannya proses tersebut, kecuali sudah diputus hubungan antara kloning dengan induknya. Cara memutuskannya yaitu dengan menekan **<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd>** tadi.
+* Sub-objek tidak bisa dilakukan proses boolean. Seperti disatukan, dibedakan, eksklusi, interseksi, divisi, potong tapak dan sebagainya. Tidak bisa dilakukannya proses tersebut, kecuali sudah diputus hubungan antara kloning dengan induknya. Cara memutuskannya yaitu dengan menekan <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd></kbd> tadi.
 
 #### Apa saja yang bisa di kloning?
 
@@ -105,7 +105,7 @@ Buatlah objek bintang, pilih objeknya kemudian tekan tekan **a** untuk kloning s
 
 {{< image src="images/blog/bintang-kloning.png" alt="Kloning Bintang Inkscape" >}}
 
-Setiap objek yang di spray merupakan sub-objek kloning. Untuk melepaskan sub-kloning menggunakan **<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd>**.
+Setiap objek yang di spray merupakan sub-objek kloning. Untuk melepaskan sub-kloning menggunakan <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd></kbd>.
 
 #### Kloning Cermin
 
@@ -117,7 +117,7 @@ Pada panduan ini menggunakan ukuran kanvas 4000px:4000px. Lalu cara untuk membua
 
 {{< image src="images/blog/cermin-kanan.png" alt="Kloning Cermin Inkscape" >}}
 
-* Kemudian pilih persegi lalu tekan **<kbd>Ctrl</kbd>+<kbd>g</kbd>** untuk menggabungkan, tekannya satu kali saja. Dalam hal ini persegi tersebut tidak ada objek lain yang digabungkan, sehingga untuk melihat suatu objek telah digrup atau tidaknya silakan lihat di dialog **objek**. Adapun objek yang digrup pasti berawalan **g**xx. Contohnya seperti ini.
+* Kemudian pilih persegi lalu tekan <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> untuk menggabungkan, tekannya satu kali saja. Dalam hal ini persegi tersebut tidak ada objek lain yang digabungkan, sehingga untuk melihat suatu objek telah digrup atau tidaknya silakan lihat di dialog **objek**. Adapun objek yang digrup pasti berawalan **g**xx. Contohnya seperti ini.
 
 {{< image src="images/blog/cermin-group.png" alt="Melihat objek grup pada dialog objek" >}}
 
@@ -139,19 +139,19 @@ Agar lebih mudah menerapkan teknik kloning memutar yaitu digunakan untuk membuat
 
 {{< image src="images/blog/mandala-kloning-konsep.png" alt="Rancangan mandala 1/4" >}}
 
-* Area 1: Buatlah objek induk dengan lingkaran (e). Atur dengan nilai awal 0, dan akhiran 90 derajat. Kemudian tekan **Ctlr+g** untuk di grup. yang seperti gambar dibawah ini.
+* Area 1: Buatlah objek induk dengan lingkaran <kbd><kbd>e</kbd></kbd>. Atur dengan nilai awal 0, dan akhiran 90 derajat. Kemudian tekan  <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> untuk di grup. yang seperti gambar dibawah ini.
 
 {{< image src="images/blog/mandala-1.png" alt="Area 1" >}}
 
-* Area 2: Kloning induk objek (area 1) dengan **Alt+d**. Kemudian cerminkan secara horizontal dengan **h**. Taruh di samping kiri.
+* Area 2: Kloning induk objek (area 1) dengan <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd>. Kemudian cerminkan secara horizontal dengan <kbd><kbd>h</kbd></kbd>. Taruh di samping kiri.
 
 {{< image src="images/blog/mandala-2.png" alt="Area 2" >}}
 
-* Area 3: Kloning induk ojek (area 1) dengan **Alt+d**. Kemudian cerminkan dengan horizontal dengan **h**, lalu cerminkan lagi secara vertikal dengan **v**. Taruh diatas area 2.
+* Area 3: Kloning induk ojek (area 1) dengan <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd>. Kemudian cerminkan dengan horizontal dengan <kbd><kbd>h</kbd></kbd>, lalu cerminkan lagi secara vertikal dengan <kbd><kbd>v</kbd></kbd>. Taruh diatas area 2.
 
 {{< image src="images/blog/mandala-3.png" alt="Area 3" >}}
 
-* Area 4: Kloning induk ojek (area 1) dengan **Alt+d**. Kemudian cerminkan dengan horizontal dengan **v**. Lalu taruh diatas area 1.
+* Area 4: Kloning induk ojek (area 1) dengan <kbd><kbd>Alt</kbd>+<kbd>d</kbd></kbd>. Kemudian cerminkan dengan horizontal dengan <kbd><kbd>v</kbd></kbd>. Lalu taruh diatas area 1.
 
 {{< image src="images/blog/mandala-4.png" alt="Area 4" >}}
 
@@ -169,7 +169,7 @@ Agar lebih mudah menerapkan teknik kloning memutar yaitu digunakan untuk membuat
 
 {{< image src="images/blog/mandala-jenis.png" alt="Jenis penerapan mandala 1/4" >}}
 
-* Tahap akhir. Jika digunakan untuk upload ke [Shutterstock] maka selain objek induk di lepaskan kloningnya. Dalam mandala 1/4 tadi untuk area 2,3, dan 4 yang perlu dilepaskan. Cara melepasan kloningnya yaitu dengan menyeleksi objek tersebut lalu tekan **Shft+Alt+d**.
+* Tahap akhir. Jika digunakan untuk upload ke [Shutterstock] maka selain objek induk di lepaskan kloningnya. Dalam mandala 1/4 tadi untuk area 2,3, dan 4 yang perlu dilepaskan. Cara melepasan kloningnya yaitu dengan menyeleksi objek tersebut lalu tekan <kbd><kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>d</kbd></kbd>.
 
 {{< image src="images/blog/mandala-objek-putus.png" alt="Lepas Kloning" >}}
 {{< image src="images/blog/mandala-objek-lepas-grup.png" alt="Lepas grup" >}}
@@ -201,6 +201,6 @@ Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan s
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter

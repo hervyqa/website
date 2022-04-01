@@ -33,9 +33,9 @@ Anda bisa memberikan backround warna putih. Buatlah 2 layer, misalnya: **Backgro
 
 ##### Konversi Objek menjadi bentuk Path
 
-Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**, maka konversikan ke bentuk path. Caranya dengan menekan **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd>**.
+Jika Anda membuat objek **persegi**, **lingkaran**, **bintang**, dan **teks**, maka konversikan ke bentuk path. Caranya dengan menekan <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd></kbd>.
 
-Jika terdapat objek **stroke** maka rubahlah menjadi bentuk path juga. Caranya dengan menekan **<kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd>**.
+Jika terdapat objek **stroke** maka rubahlah menjadi bentuk path juga. Caranya dengan menekan <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd></kbd>.
 
 {{< image src="images/blog/konversi.png" alt="Konversi dengan Inksape" >}}
 
@@ -70,7 +70,7 @@ Fitur ini hanya diperuntukkan untuk inkscape, sedangkan untuk piranti lain belum
 
 ##### Pastikan memilih Gradien yang solid
 
-Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, maka gunakan gradien radial yang simetris lingkaran sempurna dan bukan gradien yang lonjong. Gunakan tombol **<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd>** kemudian drag, untuk membuat gradien radial yang simetris.
+Gunakanlah gradien yang **tidak** mengandung transpansi. Disarankan juga untuk mengggunakan gradien linear saja. Jika Anda menggunakan gradien radial, maka gunakan gradien radial yang simetris lingkaran sempurna dan bukan gradien yang lonjong. Gunakan tombol <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd></kbd> kemudian drag, untuk membuat gradien radial yang simetris.
 
 {{< image src="images/blog/solid.png" alt="Gradien solid dengan Inksape" >}}
 
@@ -167,4 +167,4 @@ Nah itu tadi beberapa tips dari Penulis. Sekian, semoga bermanfaat untuk pembaca
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id

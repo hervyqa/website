@@ -94,7 +94,7 @@ Do you want to continue? [Y/n]
 
 Voidlinux menyediakan berbagai macam arsitektur dan lingkungan desktop. Mulai dari aarc64, armv7, rpi, odroid, i686 dan x86_64 (64bit). Juga menyediakan berbagai macam desktop environment seperti Cinnamon, Enlightenment, Lxde, Lxqt, XFCE, dan Mate. Tentu dengan varian desktop environment ini membuat mudah tampilan desktop. Pemasangan secara normal juga cepat, biasanya kurang dari 5 menit.
 
-Anda dapat mengunjungi situs Voidlinux di [voidlinux.org](https://voidlinux.org). Untuk Awam bisa mencoba varian Cinnamon atau XFCE (pasang iso via lokal), jika menginginkan yang minimalis bisa mencoba voidlinux yang minimal iso.
+Anda dapat mengunjungi situs Voidlinux di [voidlinux.org](https://voidlinux.org). Untuk Awam bisa mencoba varian XFCE (pasang iso via lokal), jika menginginkan yang minimalis bisa mencoba voidlinux yang minimal iso.
 
 #### Musl libc, LibreSSL, dan XBPS-src
 
@@ -106,7 +106,7 @@ Terakhir Xbps-src, dengan ini bisa membuat paket xbps sendiri. Kompilingnya juga
 
 Menurut penulis, yang paling spesial dari distro voidlinux yaitu rolling rilis sehingga mendapatkan aplikasi terbaru dan lebih stabil dari arch, runit init sistem, xbps paket manajemen, dan tersedianya google-fonts.
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs [hervyqa.com](https://hervyqa.com), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
+Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs [hervyqa.id](https://hervyqa.id), situs yang membahas desain dengan Floss yang bebas iklan dan pelacak. Semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
 
 [Voidlinux]:https://voidlinux.org
 
@@ -126,6 +126,6 @@ Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan kom
 [Dreamstime]:https//www.dreamstime.com
 [Shutterstock]:https://submit.shutterstock.com/?ref=238649869
 
-[Hervyqa]:https://hervyqa.com
+[Hervyqa]:https://hervyqa.id
 [Manjaro-X]:https://manjaro-x.id
 [Inkporter]:https://github.com/raniaamina/inkporter
