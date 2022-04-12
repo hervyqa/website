@@ -53,3 +53,9 @@ HUGO_ENABLEGITINFO = "true"
  to = "https://hervyqa.id/:splat"
  status = 301
  force = true
+
+[[redirects]]
+ from = "https://hervyqa.id/project/izi-laporan-tahunan-2021"
+ to = "https://drive.google.com/drive/folders/1Day1y_GCt6kM45PxGqwWjoXl448s37IG?usp=sharing"
+ status = 301
+ force = true
