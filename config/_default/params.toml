@@ -12,7 +12,7 @@ logo_text = "Hervy Qurotul Ainur"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Generalis di Desain Layout (Scribus), Animasi (Blender3D), Pattern, Logo, Branding dan Ilustrasi (Inkscape & Krita). Juga Pengembang LangitKetujuh OS GNU/Linux."
+description = "Pengembang LangitKetujuh OS GNU/Linux. Generalis desain layout, animasi, pattern, logo, branding dan ilustrasi."
 author = "Hervy Qurrotul Ainur"
 image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -58,7 +58,7 @@ title_small = "& Hervy Qurrotul Blog"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 #content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
-content = "Generalis di Desain Layout ([Scribus](https://scribus.net)), Animasi ([Blender3D](https://blender.org)), Pattern, Logo, Branding dan Ilustrasi ([Inkscape](https://inkscape.org) & [Krita](https://krita.org)). Juga Pengembang [**LangitKetujuh OS**](https://langitketujuh.id) GNU/Linux untuk Multimedia."
+content = "Pengembang [**LangitKetujuh OS**](https://langitketujuh.id) GNU/Linux untuk Multimedia. Generalis Desain Layout ([Scribus](https://scribus.net)), Animasi ([Blender3D](https://blender.org)), Pattern, Logo, Branding dan Ilustrasi ([Inkscape](https://inkscape.org) & [Krita](https://krita.org))."
 button_label = "Baca blog"
 button_link = "blog/"
 
