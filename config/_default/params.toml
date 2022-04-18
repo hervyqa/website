@@ -58,9 +58,9 @@ title_small = "& Hervy Qurrotul Blog"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 #content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
-content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil."
-button_label = "Profil saya"
-button_link = "about/"
+content = "Pengembang [**LangitKetujuh OS**](https://langitketujuh.id) GNU/Linux untuk Multimedia. Fokus di Desktop Publishing ([Scribus](https://scribus.net)), Animasi ([Blender3D](https://blender.org)), Pattern, Logo, Branding dan Ilustrasi ([Inkscape](https://inkscape.org) & [Krita](https://krita.org))."
+button_label = "Baca blog"
+button_link = "blog/"
 
 # advertise
 
