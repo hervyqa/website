@@ -59,21 +59,21 @@ code {
 }
 
 .section {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 
   @include tablet {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
 
   &-sm {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   &-title {
-    margin-bottom: 45px;
+    margin-bottom: 35px;
     position: relative;
     z-index: 1;
   }
