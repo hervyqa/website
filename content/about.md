@@ -1,6 +1,6 @@
 ---
 title: "Profil saya"
-description: "Sekedar beberapa pengalaman dan rutinitas sehari-hari."
+description: "Sekedar beberapa pengalaman, informasi personal dan rutinitas sehari-hari."
 image: "images/page/bg-profil.png"
 layout: "about"
 draft: false
@@ -19,7 +19,7 @@ experience:
   - "2019 • Kontributor [Lumbung LibreOffice](https://lumbung.libreoffice.id)"
   - "2019 • Kontributor di [openSUSE Indonesia](https://www.opensuse-id.org/tentang)"
   - "2019 • Kontributor di [openSUSE](https://github.com/openSUSE/artwork)"
-  - "2019 • Pengembang [Manjaro-X](https://manjaro-x.netlify.com)"
+  - "2019 • Kreator [Manjaro-X](https://manjaro-x.id)"
   - "2019 • Relawan Desain [Creative Commons Indonesia](https://creativecommons.or.id)"
   - "2019 • Tim [Gimpscape Indonesia](https://gimpscape.org)"
   - "2019 • Winner [openSUSE.Asia Summit 2019 Logo Competition](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/)"
@@ -44,14 +44,14 @@ education:
 Bismillah.
 
 Salam kenal semuanya. Kurang lebih seperti ini profil singkat saya.
-1. Pengguna GNU/Linux sekitar 8 tahun lebih sejak 2014. Mulai dari point rilis hingga rolling release, baik dengan gui maupun tui saja.
-2. Seorang ilustrator, [mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=238649869), animator, video editor. Alhamdulillah beberapa kali menang dalam lomba dan kontes internasional.
-3. Developer [LangitKetujuh OS](https://langitketujuh.id), yaitu sistem operasi yang telah digunakan lebih dari 7000 orang. Bertugas untuk merawat dan memperbarui paket, termasuk situs utama dan [panduannya](https://panduan.langitketujuh.id).
-4. Beberapa kesibukan lain ikut menjadi [kontributor paket](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Ahervyqa+is%3Aclosed) di voidlinux.
-5. Pengajar di [Mentari Umsida](https://mentariumsida.com) ([Universitas Muhammadiyah Sidoarjo](https://umsida.ac.id)).
-6. Kontributor dibeberapa komunitas besar GNU/Linux. Seperti Gnome indonesia, openSUSE indonesia, LibreOffice, Komunitas linux arek surabaya.
+- Pengguna GNU/Linux sekitar 8 tahun lebih sejak 2014. Mulai dari point rilis hingga rolling release, baik dengan gui maupun tui saja.
+- Seorang ilustrator, [mikrostoker](http://www.shutterstock.com/g/hervyqa?rid=238649869), animator, video editor. Sejak masa kanak-kanak sudah suka menggambar dan Alhamdulillah kini beberapa kali menang dalam lomba maupun kontes internasional seperti [desain logo](https://news.opensuse.org/2019/07/09/opensuse-asia-summit-2019-logo-competition-winner/) dan [template presentasi](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020/).
+- Kreator dan developer [LangitKetujuh OS](https://langitketujuh.id) GNU/Linux, yaitu sistem operasi untuk kebutuhan multimedia yang telah digunakan lebih dari 7000 orang. Bertugas untuk merawat dan memperbarui paket, termasuk situs utama dan [panduannya](https://panduan.langitketujuh.id). Sebelumnya saya sebagai developer [Manjaro-X](https://manjaro-x/id), tetapi sudah fokus ke LangitKetujuh OS.
+- Beberapa kesibukan lain ikut menjadi [kontributor paket](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Ahervyqa+is%3Aclosed) di [voidlinux](https://voidlinux.org).
+- Pengajar di komunitas multimedia [Mentari Umsida](https://mentariumsida.com) ([Universitas Muhammadiyah Sidoarjo](https://umsida.ac.id)).
+- Kontributor dibeberapa komunitas besar GNU/Linux. Seperti [Gnome indonesia](https://gnome.id), [openSUSE indonesia](https://opensuse.id), [LibreOffice](https://libreoffice.id) dan [Komunitas linux arek surabaya](https://klas.or.id).
 
-Beberapa keahlian saya antara lain:
+Beberapa keahlian saya, antara lain:
 
 - Ilustrasi vektor, mockup, pattern, logo dengan [Inkscape](https://inkscape.org/).
 - Desain layout seperti majalah, laporan tahunan, branding identity dengan [Scribus](https://scribus.net/).
