@@ -5,8 +5,9 @@ title: "{{ replace .Name "-" " " | title }}"
 description: "This is meta description"
 image: "images/blog/{{ .Name }}.png"
 type: "regular" # featured/regular
-categories:
+categories: # max 2
 - 
+-
 ---
 
 #### Judul
@@ -19,10 +20,10 @@ Paragraf
 
 {{< image src="images/blog/image.png" alt="alternate title" >}}
 
-- <kbd><kbd>a</kbd></kbd> Fungsi
-- <kbd><kbd>Ctrl</kbd>+<kbd>a</kbd></kbd> Fungsi
-- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>a</kbd></kbd> Fungsi
-- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> Fungsi
+- <kbd><kbd>a</kbd></kbd> = Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>a</kbd></kbd> = Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>a</kbd></kbd> = Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> = Fungsi
 
 ***
 
