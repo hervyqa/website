@@ -16,9 +16,9 @@ description = "Pengembang LangitKetujuh OS GNU/Linux. Generalis desain layout, a
 author = "Hervy Qurrotul Ainur"
 image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Jalan Raya Ngoro, RT 02/02 Desa Kembangsri, Ngoro, Mojokerto, Jawa Timur."
-mobile = "+6281234492171"
-email = "hervyqa@pm.me"
+address = "Jalan Raya Ngoro, RT 02/02,<br>Desa Kembangsri, Ngoro,<br>Mojokerto, Jawa Timur."
+mobile = "+6281336762725"
+email = "hervyqa@proton.me"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
