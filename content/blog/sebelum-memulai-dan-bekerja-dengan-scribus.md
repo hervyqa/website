@@ -5,7 +5,7 @@ title: "Sebelum Memulai dan Bekerja dengan Scribus"
 description: "Hal-hal yang perlu diketahui sebelum memulai dengan scribus. Kamu wajib tahu."
 image: "images/blog/sebelum-memulai-dan-bekerja-dengan-scribus.png"
 type: "featured" # featured/regular
-categories:
+categories: # max 2
 - scribus
 ---
 
@@ -44,27 +44,27 @@ Cukup menggunakan 4 docker ini. Yang paling sering digunakan yaitu docker proper
 
 Beberapa shortcut yang wajib dihafal yaitu:
 
-- <kbd><kbd>t</kbd></kbd> = Masukkan teks
-- <kbd><kbd>n</kbd></kbd> = Link teks
-- <kbd><kbd>s</kbd></kbd> = Masukkan shape
-- <kbd><kbd>F4</kbd></kbd> = Style manager
-- <kbd><kbd>Ctrl</kbd>+<kbd>i</kbd></kbd> = Tambah gambar
-- <kbd><kbd>Ctrl</kbd>+<kbd>e</kbd></kbd> = Foto efek
-- <kbd><kbd>Ctrl</kbd>+<kbd>t</kbd></kbd> = Story editor
-- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>e</kbd></kbd> = Ekspor ke gambar
-- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd></kbd> = Ekspor ke pdf siap cetak
+- <kbd><kbd>t</kbd></kbd> = masukkan teks
+- <kbd><kbd>n</kbd></kbd> = link teks
+- <kbd><kbd>s</kbd></kbd> = masukkan shape
+- <kbd><kbd>F4</kbd></kbd> = style manager
+- <kbd><kbd>Ctrl</kbd>+<kbd>i</kbd></kbd> = tambah gambar
+- <kbd><kbd>Ctrl</kbd>+<kbd>e</kbd></kbd> = foto efek
+- <kbd><kbd>Ctrl</kbd>+<kbd>t</kbd></kbd> = story editor
+- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>e</kbd></kbd> = ekspor ke gambar
+- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd></kbd> = ekspor ke pdf siap cetak
 
 Beberapa shortcut ada perlu ditambahkan manual. Masuk ke `File` > `Preferences` > `Keyboard shortcut`. Pilih jenis fungsinya, klik `Set` lalu tekan shortcut yang dikehendaki.
-- <kbd><kbd>Ctrl</kbd>+<kbd>m</kbd></kbd> = Master pages
-- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>m</kbd></kbd> = Apply Master pages
-- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>g</kbd></kbd> = Manage Guides
+- <kbd><kbd>Ctrl</kbd>+<kbd>m</kbd></kbd> = master pages
+- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>m</kbd></kbd> = apply Master pages
+- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>g</kbd></kbd> = manage Guides
 
 Jenis perintah pada umumnya.
-- <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd> = Copy
-- <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd> = Paste
-- <kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd> = Duplikat
-- <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> = Grup
-- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>g</kbd></kbd> = Ungroup
+- <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd> = copy
+- <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd> = paste
+- <kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd> = duplikat
+- <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> = grup
+- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>g</kbd></kbd> = ungroup
 
 #### Ganti semua warna ke cmyk
 
