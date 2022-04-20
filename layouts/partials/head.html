@@ -45,11 +45,29 @@
 <meta name="msapplication-TileColor" content="{{site.Params.variables.color_primary | default `#da532c`}}">
 <meta name="theme-color" content="{{site.Params.variables.body_color | default `#ffffff` }}">
 
-
 {{ "<!-- Open Graph image and Twitter Card metadata -->" | safeHTML }}
 {{ $image_path := .Params.image | default site.Params.image -}}
 {{ $image_path_local :=  printf "static/%s" $image_path -}}
 {{ $image_ext := trim (path.Ext $image_path | lower) "." -}}
+
+<!-- image path -->
+{{ $imagePath:= .Params.image }}
+{{ if $imagePath }}
+  <!-- image CDN -->
+  {{ if hasPrefix $imagePath "http" }}
+  <meta property="og:image" content="{{ $imagePath | safeURL }}"/>
+  {{ else }}
+  <!-- /image cdn -->
+    <!-- image processing for multiple device -->
+    {{ if fileExists (add `assets/` $imagePath) }}
+    {{ $image:= resources.Get $imagePath }}
+    {{ $imageFallback:= $image.Resize "1400x jpg" }}
+    <meta property="og:image" content="{{$imageFallback.RelPermalink}}"/>
+  {{ end }}
+{{ end }}
+{{ end }}
+<!-- /image path -->
+
 {{ if fileExists $image_path_local -}}
   <meta property="og:image" content="{{ $image_path | absURL }}"/>
   {{/* If not SVG, read image aspect ratio and define Twitter Card and Open Graph width and height  */ -}}
