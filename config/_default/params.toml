@@ -112,6 +112,16 @@ title = "instagram"
 icon = "fab fa-instagram"
 link = "https://instagram.com/hervyqa"
 
+[[social]]
+title = "gitlab"
+icon = "fab fa-gitlab"
+link = "https://gitlab.com/hervyqa"
+
+[[social]]
+title = "feed rss"
+icon = "fa fa-rss"
+link = "https://hervyqa.id/index.xml"
+
 #[[social]]
 #title = "linkedin"
 #icon = "fab fa-linkedin"
@@ -121,8 +131,3 @@ link = "https://instagram.com/hervyqa"
 #title = "github"
 #icon = "fab fa-github"
 #link = "https://github.com/hervyqa"
-
-[[social]]
-title = "gitlab"
-icon = "fab fa-gitlab"
-link = "https://gitlab.com/hervyqa"
