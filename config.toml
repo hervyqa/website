@@ -26,7 +26,7 @@ font_size = "17px" # default is 16px
 # "augmentedFourth": 1.414,
 # "perfectFifth": 1.5,
 # "goldenRatio": 1.618
-font_scale = "1.25" # default is "majorThird": 1.25
+font_scale = "1.21" # default is "majorThird": 1.25
 
 # give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
