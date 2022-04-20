@@ -1,12 +1,12 @@
 # Default
 baseURL = "https://hervyqa.id/"
-title = "Multimedia & Personal Blog | Hervy Qurrotul Ainur | hervyqa.id"
+title = "Hervy Qurrotul Ainur - Free Software & Multimedia. | hervyqa.id"
 languageName = "Id"
 languageCode = "id-id"
 # post pagination
 paginate = "8"
 # post excerpt
-summaryLength = "10"
+summaryLength = "15"
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
