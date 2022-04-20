@@ -68,15 +68,15 @@ Pintasan <kbd><kbd>b</kbd></kbd> adalah pintasan bezier yang sering digunakan ol
 
 ##### Mulai dari yang dasar
 
-* <kbd><kbd>s</kbd></kbd> untuk memilih objek, path dan teks.
-* <kbd><kbd>r</kbd></kbd> objek persegi.
-* <kbd><kbd>e</kbd></kbd> objek lingkaran.
-* <kbd><kbd>*</kbd></kbd> objek segitiga dan bintang.
-* <kbd><kbd>t</kbd></kbd> menambahkan teks.
-* <kbd><kbd>b</kbd></kbd> untuk membuat objek dengan bezier.
-* <kbd><kbd>n</kbd></kbd> menambahkan atau mengurangi node.
-* <kbd><kbd>d</kbd></kbd> mengambil warna.
-* <kbd><kbd>g</kbd></kbd> memberi warna gradien.
+* <kbd><kbd>s</kbd></kbd> = memilih objek, path dan teks.
+* <kbd><kbd>r</kbd></kbd> = objek persegi.
+* <kbd><kbd>e</kbd></kbd> = objek lingkaran.
+* <kbd><kbd>*</kbd></kbd> = objek segitiga dan bintang.
+* <kbd><kbd>t</kbd></kbd> = menambahkan teks.
+* <kbd><kbd>b</kbd></kbd> = membuat objek dengan bezier.
+* <kbd><kbd>n</kbd></kbd> = menambahkan atau mengurangi node.
+* <kbd><kbd>d</kbd></kbd> = mengambil warna.
+* <kbd><kbd>g</kbd></kbd> = memberi warna gradien.
 
 ##### Memindahkan objek
 
@@ -90,46 +90,46 @@ Pintasan <kbd><kbd>b</kbd></kbd> adalah pintasan bezier yang sering digunakan ol
 
 ##### Salin tempel
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd> untuk menyalin objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd> untuk menempelkan objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd></kbd> untuk menggantikan style objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd> duplikasi objek. Sama dengan saltem (salin tempel) namun duplikat tidak tergantung posisi kursor tetikus.
+* <kbd><kbd>Ctrl</kbd>+<kbd>c</kbd></kbd> = untuk menyalin objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>v</kbd></kbd> = untuk menempelkan objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd></kbd> = untuk menggantikan style objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>d</kbd></kbd> = duplikasi objek. Sama dengan saltem (salin tempel) namun duplikat tidak tergantung posisi kursor tetikus.
 
 ##### Zoom
 
-* <kbd><kbd>3</kbd></kbd> zoom pada objek yang dipilih.
-* <kbd><kbd>4</kbd></kbd> zoom pada semua objek.
-* <kbd><kbd>5</kbd></kbd> zoom pada kanvas.
+* <kbd><kbd>3</kbd></kbd> = zoom pada objek yang dipilih.
+* <kbd><kbd>4</kbd></kbd> = zoom pada semua objek.
+* <kbd><kbd>5</kbd></kbd> = zoom pada kanvas.
 
 ##### Menggabungkan objek
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> grup objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>u</kbd></kbd> melepaskan grup objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>g</kbd></kbd> = grup objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>u</kbd></kbd> = melepaskan grup objek.
 
 ##### Pintasan dialog
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd></kbd> untuk mengatur warna fill stroke.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd></kbd> lapisan/layer
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> mengatur pelurusan objek, teks, dan path.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd></kbd> merubah typeface tulisan.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>7</kbd></kbd> menambahkan path efek. Biasanya Penulis menggunakan efek bend dan envelope destruction.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>f</kbd></kbd> = untuk mengatur warna fill stroke.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd></kbd> = lapisan/layer
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> = mengatur pelurusan objek, teks, dan path.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd></kbd> = merubah typeface tulisan.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>7</kbd></kbd> = menambahkan path efek. Biasanya Penulis menggunakan efek bend dan envelope destruction.
 
 ##### Modifikasi objek
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd> untuk menyatukan objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>_</kbd></kbd> untuk memotong objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>^</kbd></kbd> untuk memotong objek. sisa diluar.
-* <kbd><kbd>Ctrl</kbd>+<kbd>*</kbd></kbd> untuk memotong objek. sisa didalam.
-* <kbd><kbd>Ctrl</kbd>+<kbd>/</kbd></kbd> untuk memotong objek dengan garis tepi (stroke).
-* <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd></kbd> untuk memotong garis tepi pada objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>k</kbd></kbd> untuk menggabungkan objek.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd></kbd> untuk memecah objek jadi beberapa bagian.
+* <kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd> = menyatukan objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>_</kbd></kbd> = memotong objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>^</kbd></kbd> = memotong objek. sisa diluar.
+* <kbd><kbd>Ctrl</kbd>+<kbd>*</kbd></kbd> = memotong objek. sisa didalam.
+* <kbd><kbd>Ctrl</kbd>+<kbd>/</kbd></kbd> = memotong objek dengan garis tepi (stroke).
+* <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>/</kbd></kbd> = memotong garis tepi pada objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>k</kbd></kbd> = untuk menggabungkan objek.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>k</kbd></kbd> = untuk memecah objek jadi beberapa bagian.
 
 ##### Merubah jadi path
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd> merubah objek menjadi path.
-* <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd> merubah stroke menjadi path.
-* <kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd> merubah stroke menjadi path.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd></kbd> = merubah objek menjadi path.
+* <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>c</kbd></kbd> = merubah stroke menjadi path.
+* <kbd><kbd>Ctrl</kbd>+<kbd>+</kbd></kbd> = merubah stroke menjadi path.
 
 ##### Snap alias magnet node
 
@@ -139,9 +139,9 @@ Tips: nonaktifkan snap <kbd><kbd>%</kbd></kbd> ketika sedang membuat ilustrasi *
 
 ##### Terakhir pintasan tampilan
 
-* <kbd><kbd>Ctrl</kbd>+<kbd>b</kbd></kbd> scrollbar.
-* <kbd><kbd>Ctrl</kbd>+<kbd>r</kbd></kbd> screenruler.
-* <kbd><kbd>F12</kbd></kbd> membuka/menutup dialog.
+* <kbd><kbd>Ctrl</kbd>+<kbd>b</kbd></kbd> = scrollbar.
+* <kbd><kbd>Ctrl</kbd>+<kbd>r</kbd></kbd> = screenruler.
+* <kbd><kbd>F12</kbd></kbd> = membuka/menutup dialog.
 
 ***
 
