@@ -68,7 +68,7 @@ Jenis perintah pada umumnya.
 
 #### Ganti semua warna ke cmyk
 
-Jika kebutuhan desain layout Anda untuk dicetak, maka rubahlah warna yang semua RGB menjadi CMYK. CMYK aalah jenis warna spot yang waras untuk percetakan. Pendapat pribadi, baik untuk percetakan atau pun digital saja tetap saya ganti ke CMYK. Cari amannya jika sewaktu-waktu akan dicetak (tentunya akan minim revisi).
+Jika kebutuhan desain layout Anda untuk dicetak, maka rubahlah warna yang semua RGB menjadi CMYK. CMYK adalah jenis warna spot yang waras untuk percetakan. Secara pribadi, baik untuk percetakan atau pun digital saja tetap diganti ke CMYK. Cari amannya jika sewaktu-waktu akan dicetak, tentunya akan meminimalisir revisi.
 
 Masuk ke menu `Edit` > `Color and Fill`. Pilih warna yang terdapat warna RGB. Lalu klik `Edit`.
 
