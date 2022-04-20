@@ -40,7 +40,7 @@ font_icon = "Font Awesome 5 Free"
 
 # css plugins
 [[params.plugins.css]]
-link = "plugins/font-awesome/fontawesome.min.css"
+link = "plugins/font-awesome/fontawesome.css"
 [[params.plugins.css]]
 link = "plugins/font-awesome/brands.css"
 [[params.plugins.css]]
@@ -48,18 +48,14 @@ link = "plugins/font-awesome/solid.css"
 
 # js plugins
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "plugins/jquery/jquery.js"
 [[params.plugins.js]]
-link = "plugins/code/functions.js"
+link = "plugins/bootstrap/bootstrap.js"
 [[params.plugins.js]]
-link = "plugins/code/code.js"
+link = "plugins/search/fuse.js"
 [[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
+link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-#[[params.plugins.js]]
-#link = "plugins/jquery/jquery.min.js"
-#[[params.plugins.js]]
-#link = "plugins/search/mark.js"
-#[[params.plugins.js]]
-#link = "plugins/webfont-loader/webfont-loader-2.min.js"
+[[params.plugins.js]]
+link = "plugins/webfont-loader/webfont-loader-2.js"

@@ -33,48 +33,32 @@ var fuseOptions = {
 
 var searchQuery = param("s");
 if (searchQuery) {
-  document.getElementById('search-query').value = searchQuery;
+  $("#search-query").val(searchQuery);
   executeSearch(searchQuery);
 }
 
-function fetchJSONFile(path, callback) {
-  var httpRequest = new XMLHttpRequest();
-  httpRequest.onreadystatechange = function() {
-      if (httpRequest.readyState === 4) {
-          if (httpRequest.status === 200) {
-              var data = JSON.parse(httpRequest.responseText);
-              if (callback) callback(data);
-          }
-      }
-  };
-  httpRequest.open('GET', path);
-  httpRequest.send(); 
-}
-
 function executeSearch(searchQuery) {
-
-  fetchJSONFile(indexURL, function(data) {
-    let pages = data;
-    let fuse = new Fuse(pages, fuseOptions);
-    let result = fuse.search(searchQuery);
+  $.getJSON(indexURL, function (data) {
+    var pages = data;
+    var fuse = new Fuse(pages, fuseOptions);
+    var result = fuse.search(searchQuery);
     if (result.length > 0) {
       populateResults(result);
     } else {
-      let elm = document.getElementById("search-results");
-      elm.innerHTML += "<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"/plugins/search/not-found.svg\" width=\"200\"><h3>Tidak ditemukan</h3></div>";
+      $('#search-results').append("<div class=\"text-center\"><img class=\"img-fluid mb-5\" src=\"https://user-images.githubusercontent.com/37659754/129837093-dcf35b93-982a-48d5-a9fd-4035dcefc4e0.png\" width=\"200\"><h3>No Search Found</h3></div>");
     }
   });
 }
 
 function populateResults(result) {
-  result.forEach(function(value, key) {
+  $.each(result, function (key, value) {
     var contents = value.item.contents;
     var snippet = "";
     var snippetHighlights = [];
     if (fuseOptions.tokenize) {
       snippetHighlights.push(searchQuery);
     } else {
-      value.matches.forEach(function(mvalue, matchKey) {
+      $.each(value.matches, function (matchKey, mvalue) {
         if (mvalue.key === "tags" || mvalue.key === "categories") {
           snippetHighlights.push(mvalue.value);
         } else if (mvalue.key == "contents") {
@@ -90,7 +74,7 @@ function populateResults(result) {
       snippet += contents.substring(0, summaryInclude * 2);
     }
     //pull template from hugo templarte definition
-    var templateDefinition = document.getElementById('search-result-template').innerHTML;
+    var templateDefinition = $('#search-result-template').html();
     //replace values
     var output = render(templateDefinition, {
       key: key,
@@ -102,15 +86,11 @@ function populateResults(result) {
       categories: value.item.categories,
       snippet: snippet
     });
-    document.getElementById('search-results').innerHTML += output;
-    
-    // TODO (vietanhdev): Mark keywords by Mark.js
-    // Disabled for now
-    // snippetHighlights.forEach(function(snipvalue, snipkey) {
-    //   let markInstance = new Mark(document.getElementById("summary-" + key));
-    //   console.log(keyword);
-    //   markInstance.mark(keyword);
-    // });
+    $('#search-results').append(output);
+
+    $.each(snippetHighlights, function (snipkey, snipvalue) {
+      $("#summary-" + key).mark(snipvalue);
+    });
   });
 }
 
