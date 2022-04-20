@@ -17,7 +17,7 @@ timeout = 60000
 #buymeacoffeeid = ""
 #adsensedataadclient = ""
 #discussionid = ""
-rssLimit = 20
+rssLimit = 100
 
 # Modules
 [module]
