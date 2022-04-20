@@ -62,7 +62,7 @@
     {{ if fileExists (add `assets/` $imagePath) }}
     {{ $image:= resources.Get $imagePath }}
     {{ $imageFallback:= $image.Resize "1400x jpg" }}
-    <meta property="og:image" content="{{$imageFallback.RelPermalink}}"/>
+    <meta property="og:image" content="{{ $imageFallback.RelPermalink | absURL }}"/>
   {{ end }}
 {{ end }}
 {{ end }}
