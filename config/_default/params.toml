@@ -30,9 +30,9 @@ featured_post_title = "Posting Unggulan"
 recent_post_title = "Posting Terbaru"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Seputar perangkat lunak bebas untuk multimedia dengan GNU/Linux."
+about_widget_content = "Seputar perangkat lunak bebas untuk multimedia dengan perangkat lunak bebas GNU/Linux."
 # footer content
-footer_content = "Seputar perangkat lunak bebas untuk multimedia dengan GNU/Linux."
+footer_content = "Seputar perangkat lunak bebas untuk multimedia dengan perangkat lunak bebas GNU/Linux."
 # copyright
 copyright = "© 2019-2022 | [Hervy Qurrotul Ainur](https://hervyqa.id)<br>& Developed by [Statichunt](https://statichunt.com/)."
 
@@ -53,8 +53,8 @@ preloader = "" # use jpg, png, svg or gif format.
 
 [banner]
 enable = true
-title_large = "Multimedia **!**"
-title_small = "& Hervy Qurrotul Blog"
+title_large = "Hervy Qurrotul Ainur"
+title_small = "Free Software &<br>Multimedia."
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 #content = "Pengembang **[LangitKetujuh OS](https://langitketujuh.id)** untuk GNU/Linux multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
