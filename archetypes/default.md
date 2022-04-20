@@ -19,6 +19,11 @@ Paragraf
 
 {{< image src="images/blog/image.png" alt="alternate title" >}}
 
+- <kbd><kbd>a</kbd></kbd> Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>a</kbd></kbd> Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>a</kbd></kbd> Fungsi
+- <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> Fungsi
+
 ***
 
 Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
