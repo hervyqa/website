@@ -59,4 +59,4 @@ Beberapa keahlian saya, antara lain:
 - Digital painting dan desian mockup dengan [Krita](https://krita.org).
 - Desain template proposal dan presentasi dengan [LibreOffice](https://libreoffice.org/)
 
-Saya selalu menggunakan perangkat lunak 100% bebas untuk sehari-hari dan mengejakan proyek. Saat ini menerima beberapa projek desain layout, ilustrasi, logo, branding dan 3d animasi. Dan sekarang masih tinggal di Mojokerto, Jawa Timur. Anda dapat menghubungi saya melalui [halaman kontak](/contact).
+Saya selalu menggunakan perangkat lunak 100% bebas untuk mengerjakan proyek dan sehari-hari. Saat ini menerima beberapa projek desain layout, ilustrasi, logo, branding dan 3d animasi. Dan sekarang masih tinggal di Mojokerto, Jawa Timur. Anda dapat menghubungi saya melalui [halaman kontak](/contact).
