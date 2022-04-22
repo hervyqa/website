@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-06-07T19:32:05+07:00
-title: "Void linux untuk desainer"
+title: "Void Linux untuk Desainer"
 description : "Sebagai desainer dan ilustrator, alasan penulis menggunakan voidlinux dan tetap mempertahankannya."
 image: "images/blog/void-linux-untuk-desainer.png"
 type: "regular" # featured/regular

@@ -1,6 +1,6 @@
 ---
-title: "Privacy policy"
-description: "this is meta-description"
+title: "Kebijakan Privasi"
+description: "Kebijakan privasi untuk pengguna dan kreator."
 draft: false
 
 ---

@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-07-03T19:03:21+07:00
-title: "Begitu mudahnya memahami lisensi creative commons"
+title: "Begitu Mudahnya Memahami Lisensi Creative Commons"
 description : "Apakah anda tau tentang lisensi Creative Commons? Penasaran? Simak panduan singkat berikut."
 image: "images/blog/begitu-mudahnya-memahami-lisensi-creative-commons.png"
 type: "regular" # [featured/regular]

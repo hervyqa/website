@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-07-04T23:33:14+07:00
-title: "Inkscape untuk pemula"
+title: "Inkscape untuk Pemula"
 description : "Artikel ini sangat relevan untuk pemula yang mau hijrah ke inkscape. Serta hal-hal yang perlu diketahui tentang inkscape dasar mulai dari pemasangan, performa, komunitas, dan kebebasan perangkat lunak."
 image: "images/blog/inkscape-untuk-pemula.png"
 type: "featured" # [featured/regular]

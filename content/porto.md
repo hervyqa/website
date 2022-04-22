@@ -1,5 +1,5 @@
 ---
-title: "Karya portofolio"
+title: "Karya Portofolio"
 description: "this is meta-description"
 image: "images/page/bg-porto.png"
 layout: "porto"

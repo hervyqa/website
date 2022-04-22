@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-01-31T21:41:28+07:00
-title: "Tips dan trik bezier inkscape: from zero to design hero"
+title: "Tips dan Trik Bezier Inkscape: From Zero To Design Hero"
 description : "Bagaimana sih cara untuk melatih bezier yang bagus? Dasar tekniknya bagaimana? Apa yang harus dipelajari?. Yuk, temukan jawabannya disini."
 image: "images/blog/tips-dan-trik-bezier-inkscape-from-zero-to-design-hero.png"
 type: "featured" # featured/regular

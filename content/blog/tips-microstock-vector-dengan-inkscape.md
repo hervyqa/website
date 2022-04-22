@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-07-27T10:25:48+07:00
-title: "Tips microstock vektor dengan inkscape"
+title: "Tips Microstock Vektor dengan Inkscape"
 description : "Hal-hal yang harus dilakukan oleh mikrostoker untuk membuat desain vector EPS dengan inkscape hingga lolos ke agensi."
 image: "images/blog/tips-microstock-vector-dengan-inkscape.png"
 type: "regular" # featured/regular

@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-09-09T09:07:08+07:00
-title: "Tips ilustrasi dengan inkscape"
+title: "Tips Ilustrasi dengan Inkscape"
 description: "Tips dan cara mudah untuk belajar ilustrasi dengan Inkscape perangkat lunak bebas."
 image: "images/blog/tips-ilustrasi-dengan-inkscape.png"
 type: "regular" # featured/regular

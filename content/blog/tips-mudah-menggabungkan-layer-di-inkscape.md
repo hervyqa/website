@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-02-05T10:06:07+07:00
-title: "Tips mudah menggabungkan layer di inkscape"
+title: "Tips Mudah Menggabungkan Layer di Inkscape"
 description : "Menggabungkan layer di inkscape memang belum ada untuk fitur ini. Tetapi bisa diakali dengan memindahkan objek dari layer ke layer lainnya."
 image: "images/blog/tips-mudah-menggabungkan-layer-di-inkscape.png"
 type: "regular" # featured/regular

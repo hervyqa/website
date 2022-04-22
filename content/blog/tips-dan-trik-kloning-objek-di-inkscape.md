@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-03-09T10:41:38+07:00
-title: "Tips dan trik kloning di inkscape"
+title: "Tips dan Trik Kloning di Inkscape"
 description : "Membahas teknik kloning yang mudah dipahami. Mulai dari teknik kloning dasar, kloning simetris, dan kloning memutar untuk mandala."
 image: "images/blog/tips-dan-trik-kloning-objek-di-inkscape.png"
 type: "featured" # featured/regular

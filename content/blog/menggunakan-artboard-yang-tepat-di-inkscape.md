@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2019-08-25T22:45:47+07:00
-title: "Menggunakan artboard yang tepat di inkscape"
+title: "Menggunakan Artboard yang Tepat di Inkscape"
 description : "Artboard berfungsi untuk mempermudah membuat perngaturan properti dokumen svg di Inkscape. Sehingga tidak perlu lagi mengatur lapisan latar belakang, ukuran kanvas, pengisian metadata, latar belakang transparansi, penampil unit, dan lain-lain."
 image: "images/blog/menggunakan-artboard-yang-tepat-di-inkscape.png"
 type: "regular" # featured/regular

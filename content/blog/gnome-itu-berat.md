@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-01-01T10:59:18+07:00
-title: "GNOME itu berat!"
+title: "GNOME itu Berat!"
 description : "Tulisan ini merupakan pengalaman pribadi dengan GNOME. Lingkungan destop yang sederhana, kuat, dan elegan. Mengapa pakai GNOME, bukannya lebih berat? Mari kita simak."
 image: "images/blog/gnome-itu-berat.png"
 type: "regular" # [featured/regular]

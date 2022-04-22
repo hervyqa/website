@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-04-07T00:16:41+07:00
-title: "Mengatasi error lxml python inkscape di windows dan gnu/linux"
+title: "Mengatasi Error Lxml Python Inkscape Di Windows dan GNU/Linux"
 description : "Ada beberapa ekstensi tambahan yang belum didukung oleh inkscape sendiri sehingga muncul galat. Untuk mengatasi kegalatan ini, pengguna inkscape diharuskan untuk memasang pustaka python agar ekstensi berjalan dengan lancar. Lalu pustaka apakah itu?"
 image: "images/blog/mengatasi-error-python-lxml-inkscape-di-windows-dan-gnulinux.png"
 type: "regular" # [featured/regular]
