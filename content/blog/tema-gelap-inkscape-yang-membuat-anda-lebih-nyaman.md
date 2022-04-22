@@ -1,7 +1,7 @@
 ---
 draft: false
 date: 2020-06-08T16:17:38+07:00
-title: "Tema gelap inkscape yang membuat Anda lebih nyaman"
+title: "Tema Gelap Inkscape yang Membuat Anda Lebih Nyaman"
 description : "Bosan dengan tema gelap yang itu-itu saja? cobalah tema gelap yang sepert ini."
 image: "images/blog/tema-gelap-inkscape-yang-membuat-anda-lebih-nyaman.png"
 type: "regular" # featured/regular
