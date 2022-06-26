@@ -11,8 +11,6 @@ experience:
   title: "Pengalaman"
   experience_list:
   - "2019 • Desainer dan Ilustrator Freelance - sekarang"
-  - "2019 • Founder [Muslim Pattern Creator](https://www.t.me/muslimpattern)"
-  - "2019 • Ketua Divisi Kreatif dan Ilustrator [Kelompok Linux Arek Suroboyo](https://www.klas.or.id)"
   - "2019 • Ketua Divisi Kreatif dan Ilustrator [Kelompok Linux Arek Suroboyo](https://www.klas.or.id)"
   - "2019 • Ketua [Komunitas Linux Mojokerto](https://www.t.me/klimoker)"
   - "2019 • Kontributor Ilustrator di [GNOME Indonesia](https://www.gnome.id)"
@@ -27,7 +25,7 @@ experience:
   - "2020 • Member of [The Document Foundation - LibreOffice](https://documentfoundation.org/governance/members)"
   - "2020 • Mentor & CTO [Vectara ID](https://instagram.com/vectara.id)"
   - "2020 • Winner [Winners of the LibreOffice Template Contest 2020](https://adfinis.com/en/blog/winners-of-the-libreoffice-template-contest-2020/)"
-  - "2021 • Ketua [Pimpinan Cabang Pemuda Muhammadiyah Ngoro Mojokerto](pcpmngoro.or.id)"
+  - "2021 • Ketua [Pimpinan Cabang Pemuda Muhammadiyah Ngoro Mojokerto](https://pcpmngoro.or.id)"
   - "2021 • Kontributor pemaket [Voidlinux](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Ahervyqa+is%3Aclosed)"
   - "2022 • Ketua [Mentari Umsida](https://mentariumsida.com)"
 
