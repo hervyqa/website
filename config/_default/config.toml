@@ -16,7 +16,7 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 timeout = 60000
 #buymeacoffeeid = ""
 #adsensedataadclient = ""
-#discussionid = ""
+disqusShortname = "hervyqa"
 rssLimit = 20
 
 # Modules
