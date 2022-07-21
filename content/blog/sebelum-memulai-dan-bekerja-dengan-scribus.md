@@ -9,7 +9,7 @@ categories: # max 2
 - scribus
 ---
 
-Scribus adalah perangkat lunak untuk mendesain tata letak halaman. Umumnya digunakan dalam urusan percetakan, seperti untuk membuat majalah, koran, buku, novel, laporan, dan lain-lain. Tetapi scribus lebih berfungsi untuk hal artistik, sebab memiliki fitur yang tidak seperti perangkat perkantoran pada umumnya. Jika Anda familiar dengan adobe indesign, maka scribus lebih mirip seperti itu.
+Scribus adalah perangkat lunak bebas untuk mendesain tata letak halaman. Umumnya digunakan dalam urusan percetakan, seperti untuk membuat majalah, koran, buku, novel, laporan, dan lain-lain. Tetapi scribus lebih berfungsi untuk hal artistik, sebab memiliki fitur yang tidak seperti perangkat perkantoran pada umumnya. Jika Anda familiar dengan adobe indesign, maka scribus lebih mirip seperti itu.
 
 Sepengalaman penulis ketika menggunakan scribus, akan lebih baik jika mengetahui hal-hal apa saja sebelum belajar scribus. Ini penting, sebab akan meningkatkan alur kerja dan menghindari hal yang tidak perlu dilakukan.
 
