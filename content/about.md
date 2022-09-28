@@ -47,6 +47,7 @@ Salam kenal semuanya. Kurang lebih seperti ini profil singkat saya.
 - Kreator dan developer [LangitKetujuh OS](https://langitketujuh.id) GNU/Linux, yaitu sistem operasi untuk kebutuhan multimedia yang telah digunakan lebih dari 7000 orang. Bertugas untuk merawat dan memperbarui paket, termasuk situs utama dan [panduannya](https://panduan.langitketujuh.id). Sebelumnya saya sebagai developer [Manjaro-X](https://manjaro-x/id), tetapi sudah fokus ke LangitKetujuh OS.
 - Beberapa kesibukan lain ikut menjadi [kontributor paket](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Ahervyqa+is%3Aclosed) di [voidlinux](https://voidlinux.org).
 - Pengajar di komunitas multimedia [Mentari Umsida](https://mentariumsida.com) ([Universitas Muhammadiyah Sidoarjo](https://umsida.ac.id)).
+- Kontributor di paket [Void Linux](https://github.com/void-linux/void-packages/pulls?q=is%3Apr+author%3Ahervyqa+is%3Aclosed).
 - Kontributor dibeberapa komunitas besar GNU/Linux. Seperti [Gnome indonesia](https://gnome.id), [openSUSE indonesia](https://opensuse.id), [LibreOffice](https://libreoffice.id) dan [Komunitas linux arek surabaya](https://klas.or.id).
 
 Beberapa keahlian saya, antara lain:
