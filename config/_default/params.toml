@@ -59,8 +59,10 @@ image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 #content = "Kreator **[LangitKetujuh OS](https://langitketujuh.id)** untuk multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
 content = "Kreator [**LangitKetujuh OS**](https://langitketujuh.id) untuk Multimedia. Generalis Desain Layout ([Scribus](https://scribus.net)), Animasi ([Blender3D](https://blender.org)), Pattern, Logo, Branding, Ilustrasi ([Inkscape](https://inkscape.org) & [Krita](https://krita.org)) dan Template Dokumen ([LibreOffice](https://libreoffice.org))."
-button_label = "Baca blog"
-button_link = "blog/"
+button_label = "Blog"
+button_link = "blog"
+#button_label_aditional = "Buy Me Coffe"
+#button_link_aditional = "buymecoffe"
 
 # advertise
 
