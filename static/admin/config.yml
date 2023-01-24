@@ -14,8 +14,15 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {
+        label: 'Draft',
+        name: 'draft',
+        widget: 'select',
+        options:
+          [{ label: "True", value: "true" }, { label: "False", value: "false" }],
+        }
       - {label: "Title", name: "title", widget: "string"}
-      - { label: "Description", name: "description", widget: "markdown" }
+      - {label: "Description", name: "description", widget: "markdown" }
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {
@@ -24,5 +31,13 @@ collections:
         widget: 'select',
         options:
           [{ label: 'Featured', value: "featured" }, { label: 'Regular', value: "regular" }],
-      }
+        }
+      - {
+        label: "Categories",
+        name: "categories",
+        widget: "list",
+        max: 5,
+        min: 1,
+        default: ["python", "r", "mysql", "data-science", "machine-learning"],
+        }
       - {label: "Body", name: "body", widget: "markdown"}
