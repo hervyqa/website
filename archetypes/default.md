@@ -6,7 +6,7 @@ description: "This is meta description"
 image: "images/blog/{{ .Name }}.png"
 type: "regular" # featured/regular
 categories: # max 2
-- 
+-
 -
 ---
 
