@@ -32,12 +32,5 @@ collections:
         options:
           [{ label: 'Featured', value: "featured" }, { label: 'Regular', value: "regular" }],
         }
-      - {
-        label: "Categories",
-        name: "categories",
-        widget: "list",
-        max: 5,
-        min: 1,
-        default: ["python", "r", "mysql", "data-science", "machine-learning"],
-        }
+      - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
