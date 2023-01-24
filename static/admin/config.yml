@@ -2,7 +2,12 @@ backend:
   name: git-gateway
   branch: main
   media_folder: "assets/images/blog"
+  media_library:
+    name: uploadcare
+    config:
+      publicKey: demopublickey
   public_folder: "/public/images/blog"
+  logo_url : "assets/images/logo.svg"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
