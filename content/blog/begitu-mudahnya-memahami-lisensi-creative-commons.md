@@ -1,25 +1,25 @@
 ---
 draft: false
+title: Begitu Mudahnya Memahami Lisensi Creative Commons
+description: Apakah anda tau tentang lisensi Creative Commons? Penasaran? Simak
+  panduan singkat berikut.
 date: 2019-07-03T19:03:21+07:00
-title: "Begitu Mudahnya Memahami Lisensi Creative Commons"
-description : "Apakah anda tau tentang lisensi Creative Commons? Penasaran? Simak panduan singkat berikut."
-image: "images/blog/begitu-mudahnya-memahami-lisensi-creative-commons.png"
-type: "regular" # [featured/regular]
+image: images/blog/begitu-mudahnya-memahami-lisensi-creative-commons.png
+type: regular
 categories:
-- lisensi
-- inkscape
-- ilustrasi
+  - lisensi
+  - inkscape
+  - ilustrasi
 ---
-
 Cara penggunaan lisensi Creative Commons (CC) ini semudah menempelkan stiker. Kita membuat karya seni yang indah kemudian didaringkan secara digital dengan memberikan tautan atribusi CC. Ya, memang semudah itu.
 
-***
+- - -
 
 Sebelumnya, pada artikel ini saya asumsikan Anda sebagai kreator karya seni. Ketika memberikan atribusi karya seni, kembali lagi kepada Anda sebagai pemilik karya tersebut, apakah orang lain boleh merubahnya ataukah boleh menjualnya juga? kalau boleh lisensinya bagaimana, kalau tidak lisensinya bagimana juga.
 
 Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian lisensi dengan sebuah tanda/simbol. Anda cukup memberikan simbol CC dan tautan pada karya seni tersebut. Simbol dan logo Creative Commons bisa anda dapatkan bebas [disini](https://www.creativecommons.org/about/downloads/).
 
-***
+- - -
 
 #### Simbol
 
@@ -33,7 +33,7 @@ Simbol-simbol lisensi Creative Commons mempunyai arti kurang lebih seperti ini.
 
 Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urutkan dari yang atas adalah yang paling bebas kemudian ke bawah semakin ketat aturannya.
 
-***
+- - -
 
 #### Atribusi
 
@@ -63,7 +63,7 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 * Boleh dirubah bentuk dan di modifikasi.
 * **Tidak boleh untuk tujuan komersil.**
 
-### CC BY-NC-SA
+##### CC BY-NC-SA
 
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
@@ -77,13 +77,10 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 * **Tidak boleh untuk tujuan komersil.**
 * Lisensi yang paling ketat. :")
 
-***
+- - -
 
 > *Prinsip "some right reserved" memegang keuntungan bagi pemegang hak cipta maupun penggunaan ciptaan.*
 
-Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Creative Commons, Baca bukunya saja di [BUKU CC-ID]. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Creative Commons, Baca bukunya saja di [BUKU CC-ID](https://bit.ly/madewithccID). Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
 
-***
-
-[BUKU CC-ID]:https://bit.ly/madewithccID
-[Wikimedia]:https://www.wikimedia.org/
+- - -
