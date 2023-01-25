@@ -35,7 +35,7 @@ collections:
     files:
       - label: "Profil"
         name: "about"
-        file: "content/about"
+        file: "content/about/_index.md"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "about"}
           - {label: "Draft", name: "draft", widget: "boolean", default: true}
