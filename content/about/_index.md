@@ -1,9 +1,9 @@
 ---
+draft: false
 title: "Profil Saya"
 description: "Sekedar beberapa pengalaman, informasi personal dan rutinitas sehari-hari."
 image: "images/page/bg-profil.png"
 layout: "about"
-draft: false
 
 # experience
 experience:
