@@ -34,7 +34,7 @@ about_widget_content = "Seputar perangkat lunak bebas untuk multimedia dengan pe
 # footer content
 footer_content = "Seputar perangkat lunak bebas untuk multimedia dengan perangkat lunak bebas GNU/Linux."
 # copyright
-copyright = "© 2019-2022 | [Hervy Qurrotul Ainur](https://hervyqa.id)<br>& Developed by [Statichunt](https://statichunt.com/)."
+copyright = "Copyright © 2019-2023 [Hervy Qurrotul Ainur](https://hervyqa.id).</br>Content is [CC BY-SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/) & Developed by [Statichunt](https://statichunt.com/)."
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script= ""
@@ -95,6 +95,26 @@ mailchimp_form_name = "#" # ex:b_463ee871f45d2d93748e77cad_a0a2c6d074 replace th
 
 ############################# social site ########################
 [[social]]
+title = "linkedin"
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/hervyqa/"
+
+[[social]]
+title = "sourcehut"
+icon = "fa-brands fa-git-alt"
+link = "https://sr.ht/~hervyqa"
+
+[[social]]
+title = "github"
+icon = "fab fa-github"
+link = "https://github.com/hervyqa"
+
+[[social]]
+title = "gitlab"
+icon = "fab fa-gitlab"
+link = "https://gitlab.com/hervyqa"
+
+[[social]]
 title = "telegram"
 icon = "fab fa-telegram"
 link = "https://t.me/hervyqa"
@@ -114,22 +134,7 @@ title = "instagram"
 icon = "fab fa-instagram"
 link = "https://instagram.com/hervyqa"
 
-[[social]]
-title = "gitlab"
-icon = "fab fa-gitlab"
-link = "https://gitlab.com/hervyqa"
-
-[[social]]
-title = "feed rss"
-icon = "fa fa-rss"
-link = "https://hervyqa.id/index.xml"
-
-#[[social]]
-#title = "linkedin"
-#icon = "fab fa-linkedin"
-#link = "#"
-
-#[[social]]
-#title = "github"
-#icon = "fab fa-github"
-#link = "https://github.com/hervyqa"
+# [[social]]
+# title = "feed rss"
+# icon = "fa fa-rss"
+# link = "https://hervyqa.id/index.xml"
