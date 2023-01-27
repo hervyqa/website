@@ -4,7 +4,7 @@ backend:
 
 logo_url : "/images/index.jpg"
 media_folder: "assets/images/blog"
-public_folder: "/public/images/blog"
+public_folder: "images/blog"
 
 collections:
   - name: "blog"
