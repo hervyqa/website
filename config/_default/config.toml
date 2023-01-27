@@ -9,9 +9,24 @@ disableLanguages = ["fr"] # example: ["fr"] for disable french language
 timeout = 60000
 buymeacoffeeid = ""
 adsensedataadclient = ""
-disqusShortname = "hervyqa"
-#googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# disqusShortname = "hervyqa"
+# googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 rssLimit = 20
+
+[params.giscus]
+repo = "hervyqa/website"
+repoID = "R_kgDOI2ly8Q"
+category = "General"
+categoryID = "DIC_kwDOI2ly8c4CT10N"
+mapping = "pathname"
+strict = "0"
+reactionsEnabled = "1"
+emitMetadata = "0"
+inputPosition = "bottom"
+# theme = "preferred_color_scheme"
+theme = "light"
+lang = "en"
+loading = "lazy"
 
 # Modules
 [module]
