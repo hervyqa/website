@@ -134,7 +134,7 @@ title = "instagram"
 icon = "fab fa-instagram"
 link = "https://instagram.com/hervyqa"
 
-# [[social]]
-# title = "feed rss"
-# icon = "fa fa-rss"
-# link = "https://hervyqa.id/index.xml"
+[[social]]
+title = "feed rss"
+icon = "fa fa-rss"
+link = "https://hervyqa.id/index.xml"
