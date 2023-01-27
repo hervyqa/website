@@ -5,17 +5,17 @@
 color_primary = "#0a8451"
 body_color = "#ffffff"
 text_color = "#1a1a1a"
-text_dark = "#222222"
+text_dark = "#292929"
 text_light = "#999999"
 border_color = "#e1e1e1"
-black = "#000000"
+black = "#292929"
 white = "#ffffff"
 light = "#f2f2f2"
 
 # font variables
 
 # base font size for full website,
-font_size = "17px" # default is 16px
+font_size = "16px" # default is 16px
 
 # font scale sizes
 # "minorSecond": 1.067,
@@ -26,13 +26,15 @@ font_size = "17px" # default is 16px
 # "augmentedFourth": 1.414,
 # "perfectFifth": 1.5,
 # "goldenRatio": 1.618
-font_scale = "1.21" # default is "majorThird": 1.25
+font_scale = "1.25" # default is "majorThird": 1.25
 
 # give your font name from google font. add font weight using ":wght@" and separate by ";"
 # example: "Work Sans:wght@400;500;600"
-font_primary = "Nunito:wght@400"
+# font_primary = "Lora:wght@400"
+# font_primary = "PT Serif:wght@400"
+font_primary = "Noto Serif:wght@400"
 font_primary_type = "sans-serif" # [serif/sans-serif]
-font_secondary = "Nunito:wght@400;700"
+font_secondary = "Noto Serif:wght@400;700"
 font_secondary_type = "sans-serif" # [serif/sans-serif]
 font_icon = "Font Awesome 6 Free"
 
