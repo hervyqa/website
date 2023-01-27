@@ -133,7 +133,7 @@ Tipsnya saya untuk meminimalisir macet/not-responding/_nge-hang_ antara lain:
 
 Ada fakta menarik tentang Free Software. Salah satunya tentang cara marketing. Marketing dalam Perangkat Propietary pasti banyak, karena ada produk yang jelas dan harus mereka jual. Berbeda dengan marketing FLOSS (Free/Libre Open Source Software), Marketing FLOSS itu nyaris tidak ada, yang ada hanyalah _Customer Service_ yang bisa disebut dengan "Komunitas". Komunitas FLOSS membantu dengan kesuka-relaan, saling berusaha menjawab dan membantu. Anda bisa bertanya-tanya di komunitas, meminta bantuan dan memberikan solusi. Tetapi alangkah baiknya jika meminta bantuan mengucakpkan "Tolong" di awal dan "Terima kasih" di akhir.
 
-Jujur saja artikel ini ditulis bukan tentang inkscapenya, melainkan karena [komunitasnya](https:www.t.me/gimpscape). Mulai dari semangat gotong royong, berusaha membuat karya sebagus mungkin (cek karya di [RuangKaryaGimpscape](https:www.t.me/gimpscape_ruang_karya)), dan menamkan ideologi bahwa _"free software benar-benar menuaikan hak-hak Anda"_. ^^
+Jujur saja artikel ini ditulis bukan tentang inkscapenya, melainkan karena [komunitasnya](https://t.me/gimpscape). Mulai dari semangat gotong royong, berusaha membuat karya sebagus mungkin (cek karya di [RuangKaryaGimpscape](https:www.t.me/gimpscape_ruang_karya)), dan menamkan ideologi bahwa _"free software benar-benar menuaikan hak-hak Anda"_. ^^
 
 ***
 
