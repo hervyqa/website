@@ -3,20 +3,14 @@ baseURL = "https://hervyqa.id/"
 title = "Free Software & Multimedia"
 languageName = "Id"
 languageCode = "id-id"
-# post pagination
 paginate = "8"
-# post excerpt
 summaryLength = "15"
-# google analytics
-#googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-#disqusShortname = "hervyqa" # get your shortname form here : https://disqus.com
-# disable language
 disableLanguages = ["fr"] # example: ["fr"] for disable french language
 timeout = 60000
 buymeacoffeeid = ""
 adsensedataadclient = ""
-disqusShortname = ""
+disqusShortname = "hervyqa"
+#googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 rssLimit = 20
 
 # Modules
