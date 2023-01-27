@@ -4,7 +4,7 @@ draft: true
 title: Software Open Source untuk Data Analyst yang harus dimiliki
 description: Beberapa perkakas open source yang dibutuhkan oleh data analyst.
 date: 2023-01-27T18:29:44.415Z
-image: images/blog/5-hal-yang-perlu-dilakukan-setelah-install-gnulinux-kde-neon.png
+image: /public/images/blog/cara-mudah-mengoptimalkan-inkscape.png
 type: regular
 categories:
   - data-analyst
