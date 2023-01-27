@@ -53,7 +53,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 [banner]
 enable = true
-title_large = "Hervy Qurrotul Ainur"
+title_large = "Hervy Q. A."
 title_small = "Free Software &<br>Multimedia"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
@@ -134,7 +134,7 @@ title = "instagram"
 icon = "fab fa-instagram"
 link = "https://instagram.com/hervyqa"
 
-[[social]]
-title = "feed rss"
-icon = "fa fa-rss"
-link = "https://hervyqa.id/index.xml"
+# [[social]]
+# title = "feed rss"
+# icon = "fa fa-rss"
+# link = "https://hervyqa.id/index.xml"
