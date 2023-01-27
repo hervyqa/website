@@ -26,23 +26,23 @@ name = "Kabari"
 url = "contact/"
 weight = 5
 
-[[main]]
-name = "Halaman"
-url = "#"
-weight = 6
-hasChildren = true
+# [[main]]
+# name = "Halaman"
+# url = "#"
+# weight = 6
+# hasChildren = true
 
-  [[main]]
-  parent = "Halaman"
-  name = "Penanda"
-  url = "tags/"
-  weight = 1
+#   [[main]]
+#   parent = "Halaman"
+#   name = "Penanda"
+#   url = "tags/"
+#   weight = 1
 
-  [[main]]
-  parent = "Halaman"
-  name = "Kategori"
-  url = "categories/"
-  weight = 2
+#   [[main]]
+#   parent = "Halaman"
+#   name = "Kategori"
+#   url = "categories/"
+#   weight = 2
 
 # footer menu
 [[footer]]
@@ -71,6 +71,6 @@ url = "contact/"
 weight = 5
 
 [[footer]]
-name = "Kebijakan privasi"
+name = "Privasi"
 url = "privacy-policy/"
 weight = 6
