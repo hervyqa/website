@@ -48,7 +48,7 @@ $level-size: $font-size;
   .h#{$level} {
     font-size: $level-size;
     line-height: calc(2px + 2ex + 2px);
-    margin-bottom: 0.65em;
+    margin-bottom: 0.70em;
     @include tablet {
       font-size: calc( #{$level-size} * .90);
     }
