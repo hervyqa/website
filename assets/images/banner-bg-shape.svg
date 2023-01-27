@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1600" height="535.37" fill="none" version="1.1" viewBox="0 0 1600 535.37" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 302.42c431.58 276.82 1293.1 177.09 1600-302.42v535.37h-1600z" fill="#0a8451" fill-opacity=".2"/>
+<svg width="1600" height="680" fill="none" version="1.1" viewBox="0 0 1600 680" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1005" x="-.52466" y="-.52466" width="2.0493" height="2.0493" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="95.064089"/>
+  </filter>
+  <clipPath id="clipPath1171">
+   <rect width="1600" height="680" fill="#fff" stop-color="#000000" stroke-width=".32319px"/>
+  </clipPath>
+ </defs>
+ <g clip-path="url(#clipPath1171)" stroke-width=".32319px">
+  <circle transform="matrix(2.8306 -.6313 .2131 .99776 -3054.4 925.91)" cx="1479.6" cy="464.34" r="217.43" fill="#00f88f" filter="url(#filter1005)" opacity=".7" stop-color="#000000" style="mix-blend-mode:normal"/>
+  <circle transform="matrix(2.4678 -.60408 .31447 1.0722 -2502.1 1177.9)" cx="1479.6" cy="464.34" r="217.43" fill="#0268ff" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
+  <circle transform="matrix(2.1742 .45285 -.46066 .95722 -2662.3 -635.44)" cx="1479.6" cy="464.34" r="217.43" fill="#15fbec" filter="url(#filter1005)" opacity=".5" stop-color="#000000" style="mix-blend-mode:normal"/>
+  <circle transform="matrix(2.1094 .27754 -.44692 .58667 -2718.3 -12.36)" cx="1479.6" cy="464.34" r="217.43" fill="#55fcd3" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
+  <circle transform="matrix(2.6522 .2805 -.19503 1.2048 -3266.2 -189.5)" cx="1479.6" cy="464.34" r="217.43" fill="#c7f" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
+ </g>
 </svg>
