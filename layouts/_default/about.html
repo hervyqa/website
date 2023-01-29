@@ -42,13 +42,13 @@
     </div>
     <div class="row">
 
-      {{ with .Params.experience }}
+      {{ with .Params.software }}
       {{ if .enable }}
-      <div class="col-md-6">
+      <div class="row-md-6 mb-4">
         <div class="border rounded p-4">
-          <h2 class="mb-5 h4 title-border">{{ .title | markdownify }}</h2>
-          <ul class="list-styled" style="columns:2">
-            {{ range .experience_list }}
+          <h2 class="h4 mb-5 title-border">{{ .title | markdownify }}</h2>
+          <ul class="list-styled" style="columns:4">
+            {{ range .software_list }}
             <li>{{ . | markdownify}}</li>
             {{ end }}
           </ul>
@@ -57,15 +57,33 @@
       {{ end }}
       {{ end }}
 
+      {{ with .Params.experience }}
+      {{ if .enable }}
+      <div class="row-md-6 mb-4">
+        <div class="p-4 border rounded">
+          <h2 class="h4 mb-5 title-border">{{ .title | markdownify }}</h2>
+          <div class="row">
+            {{ range .experience_list }}
+            <div class="col-md-6 mb-3">
+              <h4 class="h6 mb-2">{{ .name | markdownify }}</h4>
+              <p>{{.content | markdownify}}</p>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+      {{ end }}
+
       {{ with .Params.education }}
       {{ if .enable }}
-      <div class="col-md-6 mb-4 mb-md-0">
+      <div class="row-md-6 mb-4">
         <div class="p-4 border rounded">
           <h2 class="h4 mb-5 title-border">{{ .title | markdownify }}</h2>
           <div class="row">
             {{ range .education_list }}
             <div class="col-md-6 mb-3">
-              <h4 class="h5 mb-2">{{ .name | markdownify }}</h4>
+              <h4 class="h6 mb-2">{{ .name | markdownify }}</h4>
               <p>{{.content | markdownify}}</p>
             </div>
             {{ end }}
