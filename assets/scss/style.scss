@@ -1,15 +1,15 @@
 // color variables
 {{ with site.Params.variables }}
-$color-primary: {{.color_primary | default "#2563EB"}};
-$text-color: {{.text_color | default "#777"}};
-$text-dark: {{.text_dark | default "#222"}};
-$text-light: {{.text_light | default "#999"}};
-$body-color: {{.body_color | default "#fff"}};
-$border-color: {{.border_color | default "#ECECEC"}};
-$black: {{.black | default "#000"}};
-$white: {{.white | default "#fff"}};
-$light: {{.light | default "#EDF6F5"}};
-
+$color-primary: {{.color_primary | default "#0a8451"}};
+$color-primary: {{.color_primary_dark | default "#086A41"}};
+$text-color: {{.text_color | default "#333333"}};
+$text-dark: {{.text_dark | default "#222222"}};
+$text-light: {{.text_light | default "#4d4d4d"}};
+$body-color: {{.body_color | default "#ffffff"}};
+$border-color: {{.border_color | default "#ececec"}};
+$black: {{.black | default "#292929"}};
+$white: {{.white | default "#ffffff"}};
+$light: {{.light | default "#edf6f5"}};
 
 // font variables
 $font-size: {{.font_size | default "16px"}};
