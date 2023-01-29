@@ -16,7 +16,7 @@ description = "Kreator LangitKetujuh OS untuk Multimedia. Generalis Desain Layou
 author = "Hervy Qurrotul Ainur"
 image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
-address = "Jalan Raya Ngoro, RT 02/02,<br>Desa Kembangsri, Ngoro,<br>Mojokerto, Jawa Timur."
+address = "Ds. Kembangsri, RT 02/02, </br>Kec. Ngoro, Mojokerto,<br>Jawa Timur."
 mobile = "+6281336762725"
 email = "hervyqa@proton.me"
 # contact form action
