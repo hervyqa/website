@@ -16,10 +16,10 @@ name = "Profil"
 url = "about/"
 weight = 3
 
-[[main]]
-name = "Porto"
-url = "porto/"
-weight = 4
+# [[main]]
+# name = "Porto"
+# url = "porto/"
+# weight = 4
 
 [[main]]
 name = "Kabari"
