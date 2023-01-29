@@ -27,7 +27,7 @@
         {{ $imageWebp:= $image.Resize $options }}
         <img decoding="async" loading="lazy" width="{{$image.Width}}" height="{{$image.Height}}"
           src="{{ $imageWebp.RelPermalink }}" onerror="this.onerror=null;this.src='{{$image.RelPermalink}}'"
-          alt="foto hervy qurrotul ainur rozi" class="img-fluid">
+          alt="" class="img-fluid">
       </div>
       {{ end }}
     </div>
