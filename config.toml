@@ -3,7 +3,6 @@
 # customize your color and font from here.
 [params.variables]
 color_primary = "#0a8451"
-color_primary_dark = "#086A41"
 text_color = "#333333"
 text_dark = "#222222"
 text_light = "#4d4d4d"
@@ -12,6 +11,16 @@ border_color = "#ececec"
 black = "#292929"
 white = "#ffffff"
 light = "#edf6f5"
+
+color_primary_invert = "#0a8451"
+text_color_invert = "#cccccc"
+text_dark_invert = "#dddddd"
+text_light_invert = "#b2b2b2"
+body_color_invert = "#0d1117" #g
+border_color_invert = "#2e343a" #g
+black_invert = "#d6d6d6"
+white_invert = "#000000"
+light_invert = "#010409" #g
 
 # font variables
 

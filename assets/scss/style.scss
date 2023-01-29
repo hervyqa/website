@@ -1,7 +1,6 @@
 // color variables
 {{ with site.Params.variables }}
 $color-primary: {{.color_primary | default "#0a8451"}};
-$color-primary: {{.color_primary_dark | default "#086A41"}};
 $text-color: {{.text_color | default "#333333"}};
 $text-dark: {{.text_dark | default "#222222"}};
 $text-light: {{.text_light | default "#4d4d4d"}};
@@ -10,6 +9,17 @@ $border-color: {{.border_color | default "#ececec"}};
 $black: {{.black | default "#292929"}};
 $white: {{.white | default "#ffffff"}};
 $light: {{.light | default "#edf6f5"}};
+
+// dark color variables
+$color-primary-invert: {{.color_primary_invert | default "#086a41"}};
+$text-color-invert: {{.text_color_invert | default "#cccccc"}};
+$text-dark-invert: {{.text_dark_invert | default "#dddddd"}};
+$text-light-invert: {{.text_light_invert | default "#b2b2b2"}};
+$body-color-invert: {{.body_color_invert | default "#0d1117"}};
+$border-color-invert: {{.border_color_invert | default "#363b42"}};
+$black-invert: {{.black_invert | default "#d6d6d6"}};
+$white-invert: {{.white_invert | default "#000000"}};
+$light-invert: {{.light_invert | default "#12090a"}};
 
 // font variables
 $font-size: {{.font_size | default "16px"}};
@@ -24,15 +34,16 @@ $font-icon: '{{.font_icon | default "Font Awesome 6 Free"}}';
 
 // import theme style
 @import 'mixins';
-
 @import 'typography';
 
 @import 'buttons';
-
 @import 'common';
-
 @import 'custom';
+@import 'templates/navigation';
+@import 'templates/main';
 
-@import 'templates/navigation.scss';
-
-@import 'templates/main.scss';
+@import 'dark/typography';
+@import 'dark/buttons';
+@import 'dark/common';
+@import 'dark/templates/navigation';
+@import 'dark/templates/main';

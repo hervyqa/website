@@ -1,0 +1,61 @@
+@media (prefers-color-scheme: dark) {
+  /*  typography */
+
+  html {
+    font-size: $font-size;
+  }
+
+  body {
+    font-family: $font-primary;
+    font-weight: 400;
+    line-height: 1.75;
+    color: $text-color-invert;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-family: $font-secondary;
+    font-weight: 700;
+    color: $text-dark-invert;
+  }
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: $font-secondary;
+    font-weight: 700;
+    color: $text-dark-invert;
+  }
+
+  small,
+  .small {
+    font-size: 0.8rem;
+  }
+
+  // list in descending order to prevent extra sort function
+  $type-levels: 6, 5, 4, 3, 2, 1;
+
+  // create map with h[x] as key
+  $level-size: $font-size;
+  @each $level in $type-levels {
+    $level-size: $level-size * $font-scale;
+    // output heading styles
+    h#{$level},
+    .h#{$level} {
+      font-size: $level-size;
+      line-height: calc(2px + 2ex + 2px);
+      margin-bottom: 0.70em;
+      @include tablet {
+        font-size: calc( #{$level-size} * .90);
+      }
+      @include mobile {
+        font-size: calc( #{$level-size} * .85);
+      }
+    }
+  }
+}

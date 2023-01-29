@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1600" height="680" fill="none" version="1.1" viewBox="0 0 1600 680" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="filter1005" x="-.52466" y="-.52466" width="2.0493" height="2.0493" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="95.064089"/>
-  </filter>
   <clipPath id="clipPath648">
    <rect width="1600" height="680" fill="#fff" stop-color="#000000" stroke-width=".32319px"/>
   </clipPath>
-  <filter id="filter1005-3" x="-.52466" y="-.52466" width="2.0493" height="2.0493" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="95.064089"/>
+  <filter id="filter1160" x="-.45567" y="-.3444" width="1.9113" height="1.6888" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="85.513601"/>
+  </filter>
+  <filter id="filter1164" x="-.389" y="-1.0212" width="1.778" height="3.0424" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="72.87073"/>
+  </filter>
+  <filter id="filter1168" x="-.38451" y="-.85269" width="1.769" height="2.7054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="58.209225"/>
+  </filter>
+  <filter id="filter1172" x="-.54125" y="-.2657" width="2.0825" height="1.5314" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="96.388158"/>
   </filter>
  </defs>
- <g clip-path="url(#clipPath648)" stroke-width=".32319px">
-  <circle transform="matrix(2.6512 .26128 -.56173 .55228 -2832.1 -107.69)" cx="1479.6" cy="464.34" r="217.43" fill="#15fbec" filter="url(#filter1005)" opacity=".5" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.1198 .44761 -.44912 .94616 -2778.6 -557.97)" cx="1479.6" cy="464.34" r="217.43" fill="#55fcd3" filter="url(#filter1005)" opacity=".7" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.3251 -.51014 .17505 .80627 -2095.5 846.36)" cx="1479.6" cy="464.34" r="217.43" fill="#00f88f" filter="url(#filter1005)" opacity=".7" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.6522 .2805 -.19503 1.2048 -2562.2 -204.25)" cx="1479.6" cy="464.34" r="217.43" fill="#c7f" filter="url(#filter1005-3)" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.571 .10474 .42374 1.0024 -3688.8 114.98)" cx="1479.6" cy="464.34" r="217.43" fill="#0268ff" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
+ <g clip-path="url(#clipPath648)" fill-opacity=".8" stroke-width=".32319px">
+  <path transform="matrix(2.1198 .38688 -.44912 .81778 -3229.7 -403.54)" d="m1476.7 51.83 126.26 595.92 324.14-197.95c-158.87-4.0975-337.92-109.13-450.4-397.97z" fill="#55fcd3" filter="url(#filter1160)" style="mix-blend-mode:normal"/>
+  <path transform="matrix(2.3251 -.41961 .17505 .66319 -1703.9 865.35)" d="m1456.3-198.77c-42.773 257.11-144.9 724.32-427.41 658.2l385.98 212.45z" fill="#00f88f" filter="url(#filter1172)" style="mix-blend-mode:normal"/>
+  <path transform="matrix(2.9013 .25529 -.21335 1.0965 -2872 -52.337)" d="m1423.3 254.32a217.43 217.43 0 0 0-154.34 156.43l363.32-84.588-1.3124-17.847a217.43 217.43 0 0 0-151.4-61.402 217.43 217.43 0 0 0-56.275 7.4074z" fill="#b944ff" filter="url(#filter1168)" style="mix-blend-mode:normal"/>
+  <path transform="matrix(2.571 .10474 .42374 1.0024 -3489 235.5)" d="m1321.5 315.32-15.328 92.999 449.59-46.977c-90.94-110.35-294.08-190.92-434.26-46.022z" fill="#0268ff" filter="url(#filter1164)" style="mix-blend-mode:normal"/>
  </g>
 </svg>

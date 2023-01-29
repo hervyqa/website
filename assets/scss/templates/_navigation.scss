@@ -18,14 +18,6 @@
       @include desktop-lg {
         margin-right: 12px;
       }
-
-      &:first-child::before {
-        border-left: 1px solid $border-color;
-      }
-
-      &:last-child::before {
-        border-right: 1px solid $border-color;
-      }
     }
   }
 
@@ -64,7 +56,6 @@
       font-family: $font-secondary;
       font-size: .9rem;
       font-weight: 400;
-      color: $black;
       padding: .7em 1.5em;
       border-radius: 50px;
       transition: .2s ease;
@@ -203,6 +194,7 @@
   }
 
   input {
+    background-color: $light;
     font-size: 30px;
     color: $black;
 
@@ -218,6 +210,8 @@
 
 /* offcanvas */
 .offcanvas {
+  background-color: $body-color;
+
   .offcanvas-menu {
     padding-top: 20px;
 
@@ -247,6 +241,7 @@
     position: absolute;
     top: 11px;
     right: 24px;
+      color: $color-primary;
   }
 }
 

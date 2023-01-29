@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1600" height="680" fill="none" version="1.1" viewBox="0 0 1600 680" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <filter id="filter1005" x="-.52466" y="-.52466" width="2.0493" height="2.0493" color-interpolation-filters="sRGB">
+  <filter id="filter1005" x="-.14695" y="-.66195" width="1.2939" height="2.3239" color-interpolation-filters="sRGB">
    <feGaussianBlur stdDeviation="95.064089"/>
   </filter>
   <clipPath id="clipPath1171">
    <rect width="1600" height="680" fill="#fff" stop-color="#000000" stroke-width=".32319px"/>
   </clipPath>
+  <linearGradient id="linearGradient1475" x1="1125.1" x2="1552.7" y1="301.42" y2="543.26" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#08ff96" offset="0"/>
+   <stop stop-color="#45f7ff" stop-opacity=".3" offset="1"/>
+  </linearGradient>
  </defs>
- <g clip-path="url(#clipPath1171)" stroke-width=".32319px">
-  <circle transform="matrix(2.8306 -.6313 .2131 .99776 -3054.4 925.91)" cx="1479.6" cy="464.34" r="217.43" fill="#00f88f" filter="url(#filter1005)" opacity=".7" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.4678 -.60408 .31447 1.0722 -2502.1 1177.9)" cx="1479.6" cy="464.34" r="217.43" fill="#0268ff" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.1742 .45285 -.46066 .95722 -2662.3 -635.44)" cx="1479.6" cy="464.34" r="217.43" fill="#15fbec" filter="url(#filter1005)" opacity=".5" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.1094 .27754 -.44692 .58667 -2718.3 -12.36)" cx="1479.6" cy="464.34" r="217.43" fill="#55fcd3" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
-  <circle transform="matrix(2.6522 .2805 -.19503 1.2048 -3266.2 -189.5)" cx="1479.6" cy="464.34" r="217.43" fill="#c7f" filter="url(#filter1005)" stop-color="#000000" style="mix-blend-mode:normal"/>
+ <g clip-path="url(#clipPath1171)">
+  <path d="m1811.3 473.06s-475.54-451.1-763.85-136.3c-291.09 317.84-766.59 465.12-766.59 465.12h1552.6z" fill="url(#linearGradient1475)" filter="url(#filter1005)" stop-color="#000000" stroke-width=".71915px" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path d="m938.75 571.6c-291.09 317.84-766.59 272.35-766.59 272.35h1552.6c-309.5-234.14-592.39-461.02-785.98-272.35z" fill="#2a80ff" fill-opacity=".8" filter="url(#filter1005)" stop-color="#000000" stroke-width=".52064px" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+  <path d="m-103.41 393.6v406.85h1661c-382.65-97.237-1565-11.673-1661-406.85z" fill="#8f55fc" fill-opacity=".8" filter="url(#filter1005)" stop-color="#000000" stroke-width=".4293px" style="-inkscape-stroke:none;font-variation-settings:normal"/>
  </g>
 </svg>
