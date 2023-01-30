@@ -74,9 +74,9 @@ atau jikalau ditaruh di root,taruhlah di folder.
 
 Untuk pengguna Arch linux dan turunannya dapat menggunakan AUR Helper (misalnya yay) untuk memasang Adobe-ICC.
 
-```
+{{< cmd >}}
 yay adobe-icc
-```
+{{< /cmd >}}
 
 #### Memasang Adobe ICC di Windows
 
@@ -84,6 +84,7 @@ yay adobe-icc
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
 * Kemudian ekstrak `AdobeICCProfilesCS4Win_end-user.zip`
 * Salin direktori **RGB** dan **CMYK**, kemudian tempelkan ke direktori dibawah ini. Gunakan hak akses administrator untuk menempelkannya.
+
 ```
 C:\Windows\system32\spool\drivers\color
 ```
@@ -94,8 +95,9 @@ C:\Windows\system32\spool\drivers\color
 * Pilih Adobe ICC for end user, pilih accept, klik Download.
 * Kemudian ekstrak `AdobeICCProfilesCS4Mac_end-user.zip`.
 * Masuk ke direktori dibawah ini, kemudian salin **RGB** dan **CMYK**. Kemudian tempelkan ke direktori dibawah ini.
+
 ```
-**namapengguna** > Library > Colorsync > Profiles
+User > Library > Colorsync > Profiles
 ```
 
 #### Mengatur Profil warna di inkscape

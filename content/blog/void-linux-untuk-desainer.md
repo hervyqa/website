@@ -36,9 +36,12 @@ Runit yang membuat proses booting lebih cepat, karena sistem initnya hanya memak
 #### XBPS, paket manager yang ringkas dan rapi
 
 Xbps ini paket manajer yang lebih rapi dari paket manajer lain yang pernah penulis coba sebelumnya (APT, DNF, Pacman, Zypper). Perintah memasang lebih mirip Pacman Archlinux tetapi tampilan keluarannya mirip DNF Fedora.
-```
-% xbps-install -S arc-theme
 
+{{< cmd >}}
+sudo xbps-install -S arc-theme
+{{< /cmd >}}
+
+```
 Name               Action    Version           New version            Download size
 adwaita-icon-theme install   -                 3.36.1_1               -
 gnome-themes-extra install   -                 3.28_2                 -
@@ -51,8 +54,12 @@ Do you want to continue? [Y/n] y
 ```
 
 Keluarannya juga mudah dipahami, menggunakan bintang untuk paket yang sudah dipasang.
+
+{{< cmd >}}
+xbps-query -Rs gimp
+{{< /cmd >}}
+
 ```
-% xbps-query -Rs gimp
 [*] gimp-2.10.18_1                  GNU image manipulation program
 [-] gimp-devel-2.10.18_1            GNU image manipulation program - development files
 [-] gimp-lqr-plugin-0.7.2_1         Gimp plugins for image resizing through seam carving
@@ -72,13 +79,19 @@ Keluarannya juga mudah dipahami, menggunakan bintang untuk paket yang sudah dipa
 
 Voidlinux menyediakan paket google-fonts, hal ini tentu mengejutkan bagi penulis. Anda tak perlu repot-repot mengunduh satu-persatu fonta di situs resminya. Cukup memasang google-fonts-ttf dan semua fonta di akan terpasang.
 
+{{< cmd >}}
+xbps-query -Rs google-fonts-ttf
+{{< /cmd >}}
+
 ```
-% xbps-query -Rs google-fonts-ttf
 [*] google-fonts-ttf-20190605_1 TrueType fonts from the Google Fonts project
 ```
-```
-% xbps-install -S google-fonts-ttf
 
+{{< cmd >}}
+sudo xbps-install -S google-fonts-ttf
+{{< /cmd >}}
+
+```
 Name             Action    Version           New version            Download size
 google-fonts-ttf install   20190605_1        20190605_1             194MB
 

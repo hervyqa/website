@@ -68,7 +68,7 @@ Fitur andalan lainnya yaitu akun daring. Dengan akun daring pekerjaan jadi lebih
 
 #### Mudah menyambungkan tampilan ke monitor atau proyektor
 
-Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan <kbd><kbd>Super</kbd>+<kbd>p</kbd>` kemudian memilih mode tampilan.
+Dengan GNOME mudah mendeteksi resolusi layar. Ya, umumnya menggunakan <kbd><kbd>Super</kbd>+<kbd>p</kbd></kbd> kemudian memilih mode tampilan.
 
 #### Adanya fitur tampilan dinamis
 
@@ -80,8 +80,11 @@ GNOME merupakan lingkungan destop dengan berbagai fitur yang memudahkan pengguna
 
 Padahal GNOME tidak terlalu berat juga. RAM yang digunakan sekitar 775 MiB dari 4GB, kurang dari 20% ketika idle.
 
+{{< cmd >}}
+free
+{{< /cmd >}}
+
 ```
-[hervyqa@dell ~]$ free
               total        used        free      shared  buff/cache   available
 Mem:           3851         775        2050         251        1025        2580
 Swap:         15258           0       15258
@@ -89,9 +92,11 @@ Swap:         15258           0       15258
 
 Dengan ps_mem, pemakaian sekitar 790.5 MiB
 
+{{< cmd >}}
+sudo ps_mem
+{{< /cmd >}}
+
 ```
-[hervyqa@dell ~]$ sudo ps_mem
-[sudo] password for hervyqa:
  Private  +   Shared  =  RAM used	Program
 
 360.0 KiB +  46.5 KiB = 406.5 KiB	rtkit-daemon

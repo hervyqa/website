@@ -22,34 +22,40 @@ Unduh di: [Laman web Ghostscript](https://ghostscript.com/download/gsdnld.html)
 Sedangkan untuk pengguna **GNU/Linux** dengan sebaris perintah terminal masalah terselesaikan. Caranya dengan membuka terminal emulator favorit Anda lalu pasang ghostscript ini.
 
 - **Arch/Manjaro** :
-    ```
-    sudo pacman -S ghostscript
-    ```
+
+{{< cmd >}}
+sudo pacman -S ghostscript
+{{< /cmd >}}
 
 - **Fedora/Centos/Red Hat** :
-    ```
-    sudo dnf install ghostscript
-    ```
+
+{{< cmd >}}
+sudo dnf install ghostscript
+{{< /cmd >}}
 
 - **Centos/Red Hat** : 
-    ```
-    sudo -c 'yum install ghostscript'
-    ```
+
+{{< cmd >}}
+sudo -c 'yum install ghostscript'
+{{< /cmd >}}
 
 - **Ubuntu/Debian/Deepin** :
-    ```
-    sudo apt install ghostscript
-    ```
+
+{{< cmd >}}
+sudo apt install ghostscript
+{{< /cmd >}}
 
 - **openSUSE** :
-    ```
-    sudo zypper install ghostscript
-    ```
+
+{{< cmd >}}
+sudo zypper install ghostscript
+{{< /cmd >}}
 
 - **Void & LangitKetujuh** :
-    ```
-    sudo xbps-install -S ghostscript
-    ```
+
+{{< cmd >}}
+sudo xbps-install -S ghostscript
+{{< /cmd >}}
 
 Nah mudah sekali bukan untuk pengguna GNU/Linux.
 

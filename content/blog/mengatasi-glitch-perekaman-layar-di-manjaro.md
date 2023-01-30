@@ -24,9 +24,9 @@ Baik, langkah-langkahnya seperti berikut ini.
 
 Lakukan pengecekan konfigurasi driver yang tersedia
 
-```
+{{< cmd >}}
 mhwd -l
-```
+{{< /cmd >}}
 
 Maka keluarannya mirip seperti ini:
 
@@ -60,15 +60,15 @@ Maka keluarannya mirip seperti ini:
 #### Memasang video-modesetting
 
 
-```
+{{< cmd >}}
 sudo mhwd -i pci video-modesetting
-```
+{{< /cmd >}}
 
 #### Menghapus xf86-video-intel
 
-```
+{{< cmd >}}
 sudo pacman -R xf86-video-intel
-```
+{{< /cmd >}}
 
 Kemudian muat ulang komputer. Tunggu sampai selesai. Sekarang glitch di manjaro sudah terselesaikan.
 

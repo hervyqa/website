@@ -21,19 +21,23 @@ Perkakas favorit Penulis adalah `svgo`, karena dengan `svgo` ini mampu mengkompr
 
 Cara Install `svgo` di distro GNU/Linux
 
-```
-$ sudo npm install -g svgo
-```
+{{< cmd >}}
+sudo npm install -g svgo
+{{< /cmd >}}
 
 Repo Fedora
 
-```
-$ sudo dnf install nodejs-svgo
-```
+{{< cmd >}}
+sudo dnf install nodejs-svgo
+{{< /cmd >}}
 
 Lanjut ke demontrasinya (Penulis menggunakan GNU/Linux KDE NEON). Contoh Penulis punya 3 jenis ilustrasi. Kemudian lihat isi berkasnya.
+
+{{< cmd >}}
+ls -lh
+{{< /cmd >}}
+
 ```
-$ ls -lh
 total 680K
 -rw-r--r-- 1 hervyqa users 224K May 14 11:02 ilustrasi-1.svg
 -rw-r--r-- 1 hervyqa users 174K May 14 11:02 ilustrasi-2.svg
@@ -41,8 +45,12 @@ total 680K
 ```
 
 Kompresi berkas svg dengan nama lain.
+
+{{< cmd >}}
+svgo ilustrasi-1.svg -o ilustrasi-1-hasil.svg
+{{< /cmd >}}
+
 ```
-$ svgo ilustrasi-1.svg -o ilustrasi-1-hasil.svg
 ilustrasi-1.svg:
 Done in 664 ms!
 223.576 KiB - 82.8% = 38.366 KiB
@@ -51,18 +59,20 @@ Done in 664 ms!
 Dari contoh diatas svgo berhasil merubah `ilustrasi-1.svg` menjadi `ilustrasi-1-hasil.svg`. Dari 223.567 Kib manjadi 38.366 Kib.
 
 Anda juga bisa kompresi berkas svg sekaligus. Tapi jika anda melakukan ini harap backup dulu berkas svg inkscape aslinya.
-```
-mkdir backup
-```
 
-```
+{{< cmd >}}
+mkdir backup
+{{< /cmd >}}
+
+{{< cmd >}}
 cp *.svg backup
-```
+{{< /cmd >}}
 
 Kemudian kompres berkas svg sekaligus
-```
+
+{{< cmd >}}
 svgo *.svg
-```
+{{< /cmd >}}
 
 ```
 ilustrasi-1.svg:
@@ -90,47 +100,53 @@ Cara install di GNU/Linux:
 
 * openSUSE
 
-```
-$ sudo zypper install optipng
-```
+{{< cmd >}}
+sudo zypper install optipng
+{{< /cmd >}}
 
 * Debian/Ubuntu/Mint
 
-```
-$ sudo apt install optipng
-```
+{{< cmd >}}
+sudo apt install optipng
+{{< /cmd >}}
 
 * Fedora
 
-```
-$ sudo dnf install optipng
-```
+{{< cmd >}}
+sudo dnf install optipng
+{{< /cmd >}}
 
 * Centos dengan repo epel
 
-```
-$ su -c 'yum install optipng'
-```
+{{< cmd >}}
+su -c 'yum install optipng'
+{{< /cmd >}}
 
 * Arch/Manjaro
 
-```
-$ sudo pacman -S optipng
-```
+{{< cmd >}}
+sudo pacman -S optipng
+{{< /cmd >}}
 
 Mari kita coba.
 Kita lihat ukuran berkasnya dahulu.
 
+{{< cmd >}}
+ls -lh
+{{< /cmd >}}
+
 ```
-$ ls -lh
 total 284K
 -rw-r--r-- 1 hervyqa users 281K Jul  6 13:05 gambar.png
 ```
 
 Kemudian kompres berkas pngnya.
 
+{{< cmd >}}
+optipng gambar.png
+{{< /cmd >}}
+
 ```
-$ optipng gambar.png
 ** Processing: /home/hervyqa/Documents/ilustrasi/2019/gambar.png
 1000x661 pixels, 4x8 bits/pixel, RGB+alpha
 Input IDAT size = 286837 bytes
@@ -154,8 +170,12 @@ Output file size = 268972 bytes (18416 bytes = 6.41% decrease)
 ```
 
 Kemudian cek lagi.
+
+{{< cmd >}}
+ls -lh
+{{< /cmd >}}
+
 ```
-$ ls -lh
 total 264K
 -rw-r--r-- 1 hervyqa users 263K Jul 10 07:58 gambar.png
 ```
@@ -176,46 +196,52 @@ Cara install di GNU/Linux:
 
 * openSUSE
 
-```
-$ sudo zypper install jpegoptim
-```
+{{< cmd >}}
+sudo zypper install jpegoptim
+{{< /cmd >}}
 
 * Debian/Ubuntu/Mint
 
-```
-$ sudo apt install jpegoptim
-```
+{{< cmd >}}
+sudo apt install jpegoptim
+{{< /cmd >}}
 
 * Fedora
 
-```
-$ sudo dnf install jpegoptim
-```
+{{< cmd >}}
+sudo dnf install jpegoptim
+{{< /cmd >}}
 
 * Centos dengan repo epel
 
-```
-$ su -c 'yum install jpegoptim'
-```
+{{< cmd >}}
+su -c 'yum install jpegoptim'
+{{< /cmd >}}
 
 * Arch/Manjaro
 
-```
-$ sudo pacman -S jpegoptim
-```
+{{< cmd >}}
+sudo pacman -S jpegoptim
+{{< /cmd >}}
 
 Caranya hampir sama dengan `optipng`. kita cek dulu berkasnya.
 
+{{< cmd >}}
+ls -lh
+{{< /cmd >}}
+
 ```
-$ ls -lh
 total 308K
 -rw-r--r-- 1 hervyqa users 302K Jul  6 14:58 gambar.jpg
 ```
 
 Kemudian kompres berkas jpgnya.
 
+{{< cmd >}}
+jpegoptim gambar.jpg
+{{< /cmd >}}
+
 ```
-$ jpegoptim gambar.jpg
 /home/hervyqa/Documents/ilustrasi/2019/gambar.jpg 750x600 24bit P Exif IPTC XMP Adobe  [OK] 308454 --> 295806 bytes (4.10%), optimized.
 ```
 

@@ -23,35 +23,40 @@ Sedangkan untuk -->
 Catatan: Cara ini khusus pengguna GNU/Linux saja. Buka terminal favorit Anda lalu pasang python lxml ini.
 
 - Arch/Manjaro:
-    ```
-    sudo pacman -S python-lxml
 
-    ```
+{{< cmd >}}
+sudo pacman -S python-lxml
+{{< /cmd >}}
 
 - Fedora/Centos/Red Hat:
-    ```
-    sudo dnf install python3-lxml
-    ```
+
+{{< cmd >}}
+sudo dnf install python3-lxml
+{{< /cmd >}}
 
 - Centos/Red Hat:
-    ```
-    sudo -c 'yum install python3-lxml'
-    ```
+
+{{< cmd >}}
+sudo -c 'yum install python3-lxml'
+{{< /cmd >}}
 
 - Ubuntu/Debian/Deepin:
-    ```
-    sudo apt install python3-lxml
-    ```
+
+{{< cmd >}}
+sudo apt install python3-lxml
+{{< /cmd >}}
 
 - openSUSE:
-    ```
-    sudo zypper install python3-lxml
-    ```
+
+{{< cmd >}}
+sudo zypper install python3-lxml
+{{< /cmd >}}
 
 - Void & LangitKetujuh:
-    ```
-    sudo xbps-install -S python3-lxml
-    ```
+
+{{< cmd >}}
+sudo xbps-install -S python3-lxml
+{{< /cmd >}}
 
 Nah mudah sekali bukan untuk pengguna GNU/Linux.
 

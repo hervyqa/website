@@ -62,11 +62,12 @@ Beberapa orang yang pernah memakai debian, ubuntu, atau fedora akan lebih menger
 
 Secara bawaan GNOME menggunakan Wayland sebagai sesi bawaan, jika mesin Anda tidak didukung bisa menggunakan Xorg seperti pada mesin laptop saya Dell Vostro 3350 yang masih menggunakan mesin lama dan belum mampu untuk memakai Wayland secara optimal. Oleh karena itu diharuskan mengganti pengaturan Wayland Gnome Display Manager (GDM) ke X agar touchpad tidak muncul ganda.
 
-```
+{{< cmd >}}
 sudo -H gedit /etc/gdm3/daemon.conf
-```
+{{< /cmd >}}
 
 dan hilangkan tanda pagar # menjadi
+
 ```
 WaylandEnable=false
 ```

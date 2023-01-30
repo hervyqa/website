@@ -17,18 +17,17 @@ Dengan Inkscape merge mencetak sertifikat lebih cepat dan effisien. Berbekal apl
 
 Buka terminal anda kemudian jalankan perintah ini
 
-```
+{{< cmd >}}
 gem install inkscape_merge
-```
+{{< /cmd >}}
 
 {{< image src="images/blog/install-inkscape-merge.png" alt="Install Inkscape Merge" >}}
 
 Jika gem path muncul peringatan seperti diatas, maka tambahkan baris berikut untuk ditambahkan ke .bashrc, .zshrc atau shell anda lainnya.
 
-```
-#### gem path
+{{< file "~/.bashrc" >}}
 export PATH="${HOME}/.gem/ruby/2.6.0/bin:$PATH"
-```
+{{< /file >}}
 
 {{< image src="images/blog/gem-path.png" alt="pengaturan gem path" >}}
 
@@ -73,15 +72,17 @@ Pastikan variabel di calc ini memiliki nama yang sesuai dengan variabel di templ
 
 Perintah eksekusinya begitu mudah dipahami.
 
-```
+
+{{< cmd >}}
 inkscape_merge -d [.csv] -f [.svg] -o [hasil.pdf]
-```
+{{< /cmd >}}
 
 Sebagai contoh:
 
-```
+
+{{< cmd >}}
 inkscape_merge -d data.csv -f template.svg -o sertifikat/%VAR_nama%-pelatihan-batch-1.pdf
-```
+{{< /cmd >}}
 
 {{< image src="images/blog/contoh-perintah.png" alt="Contoh Perintah" >}}
 

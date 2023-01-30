@@ -21,74 +21,63 @@ Hal yang penulis sukai adalah mengeksekusi perintah dengan terminal. Di KDE Apli
 
 Buka aplikasi "Konsole" di menu kemudian masukkan perintah berikut
 
-```
+{{< cmd >}}
 sudo pkcon refresh -y && sudo pkcon update -y
-```
+{{< /cmd >}}
 
 #### Pasang paket dasar
 
 Selanjutnya pasang paket dasar seperti git, fonta, codec, icc-profil dan lain-lain.
 
-```
-sudo pkcon install \
-git kio-gdrive bluez-obexd gwenview \
-ffmpegthumbs kffmpegthumbnailer usb-creator-kde \
-ttf-mscorefonts-installer fonts-font-awesome \
-ttf-bitstream-vera testdisk kubuntu-restricted-extras \
-kcron kubuntu-driver-manager icc-profiles icc-profiles-free -y
-```
+{{< cmd >}}
+sudo pkcon install git kio-gdrive bluez-obexd gwenview ffmpegthumbs kffmpegthumbnailer usb-creator-kde ttf-mscorefonts-installer fonts-font-awesome ttf-bitstream-vera testdisk kubuntu-restricted-extras kcron kubuntu-driver-manager icc-profiles icc-profiles-free -y
+{{< /cmd >}}
 
 #### Pasang aplikasi KDE
 
 Memasang aplikasi QT dan KDE.
 
-```
-sudo pkcon install \
-kamoso kate kcalc kdeconnect \
-partitionmanager kmail kget kdf \
-kcolorchooser kfind k3b kaffeine elisa \
-amarok sweeper simplescreenrecorder ktorrent akregator \
-konversation kleopatra korganizer kontact -y
-```
+{{< cmd >}}
+sudo pkcon install kamoso kate kcalc kdeconnect partitionmanager kmail kget kdf kcolorchooser kfind k3b kaffeine elisa amarok sweeper simplescreenrecorder ktorrent akregator konversation kleopatra korganizer kontact -y
+{{< /cmd >}}
 
 Karena sudah memasang Kaffeine player sebagai pemutar Video, sebaiknya hapus VLC Sebab Kaffeine lebih ringan dan dikembangkan langsung oleh tim KDE.
 
-```
+{{< cmd >}}
 sudo pkcon install kaffeine -y; sudo pkcon remove vlc -y
-```
+{{< /cmd >}}
 
 Jika Anda kurang suka dengan browser Firefox, sebaiknya pasang Falkon sebagai alternatifnya. Falkon juga dikembangkan oleh tim KDE.
 
-```
+{{< cmd >}}
 sudo pkcon install falkon -y; sudo pkcon remove firefox -y;
-```
+{{< /cmd >}}
 
 #### Pasang paket aplikasi untuk desain dan produktifitas
 
 Pasang Aplikasi desain dan perkantoran.
-```
-sudo pkcon install inkscape gimp optipng \
-libreoffice libreoffice-kde \
-libreoffice-style-breeze ktouch -y
-```
+
+{{< cmd >}}
+sudo pkcon install inkscape gimp optipng libreoffice libreoffice-kde libreoffice-style-breeze ktouch -y
+{{< /cmd >}}
 
 Jika Anda seorang pembuat Fonta pasanglah fontforge.
-```
-sudo pkcon install \
-fontforge -y
-```
+
+{{< cmd >}}
+sudo pkcon install fontforge -y
+{{< /cmd >}}
 
 Jika Anda seorang editor video dan animasi pasanglah kdenlive dan synfigstudio.
-```
-sudo pkcon install \
-kdenlive synfigstudio -y 
-```
+
+{{< cmd >}}
+sudo pkcon install kdenlive synfigstudio -y
+{{< /cmd >}}
 
 #### Hapus depedensi yang tidak diperlukan
 
-```
+{{< cmd >}}
 sudo apt autoremove -y
-```
+{{< /cmd >}}
 
 Nah, Selesai.
 

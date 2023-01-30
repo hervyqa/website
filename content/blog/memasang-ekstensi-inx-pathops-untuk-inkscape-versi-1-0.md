@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: 2020-05-17T08:36:21+07:00
 title: "Memasang Ekstensi Inx-Pathops untuk Inkscape Versi 1.0"
 description : "Ekstensi Inx-Pathops merupakan ekstensi untuk boolean multi objek. Dengan Ink-Pathops Anda dapat melakukan proses boolean secara bersamaan dalam objek grup. Misalnya Union, Difference, Intersection, Cut path, dan lain sebagainya."

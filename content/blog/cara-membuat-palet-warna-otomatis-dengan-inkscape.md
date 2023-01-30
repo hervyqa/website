@@ -22,10 +22,13 @@ Silahkan kunjungi laman web [ekstensi palet](https://inkscape.org/~olibia/%E2%98
 
 * Pertama, ekstrak berkas zip tersebut. kemudian, salin kedua berkas *generate_palette.inx* dan *generate_palette.py*.
 * Lalu, untuk pengguna GNU/Linux silakan menempel kedua berkas tersebut ke:
+
 ```
 ~/.config/inkscape/extensions
 ```
+
 * Jika Anda menggunakan Windows, silahkan menempelkannya ke:
+
 ```
 ~\AppData\Roaming\inkscape\extensions
 ```
@@ -62,6 +65,7 @@ Palet warna yang Anda buat akan tersimpan di direktory palette dengan format *.g
 Lokasi berkasnya berada di:
 
 * GNU/Linux :
+
 ```
 ~/.config/inkscape/palette
 ```

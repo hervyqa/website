@@ -40,32 +40,33 @@ Sedangkan cara memasang untuk pengguna GNU/Linux, lebih cepat memasang dengan te
 
 * Ubuntu/Debian
 
-```
+{{< cmd >}}
 sudo apt install libreoffice-l10n-id
-```
+{{< /cmd >}}
 
 * Fedora
 
-```
+{{< cmd >}}
 sudo dnf install libreoffice-langpack-id
-```
+{{< /cmd >}}
 
 * openSUSE
 
-```
+{{< cmd >}}
 sudo zypper in libreoffice-l10n-id
-```
+{{< /cmd >}}
 
 * Arch/Manjaro
 
-```
+{{< cmd >}}
 sudo pacman -S libreoffice-still-id
-```
+{{< /cmd >}}
 
-atau
-```
+atau jika menggunakan `libreoffice-fresh`.
+
+{{< cmd >}}
 sudo pacman -S libreoffice-fresh-id
-```
+{{< /cmd >}}
 
 #### Mengatur Unit Pengukuran
 

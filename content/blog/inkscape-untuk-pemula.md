@@ -36,64 +36,85 @@ Performa inkscape juga cukup ringan, di PC saya membuka aplikasi inkscape cuma s
 
 Inkscape paling mudah di install lewat Software Center, tinggal klik install saja dan tunggu sampai selesai. Jika tidak biasa dengan GUI bisa menggunakan perintah Command Promt.
 
-Cara install:
+##### Cara install:
 
-- **openSUSE**
+* LangitKetujuh
 
-```
-$ sudo zypper install inkscape
-```
+{{< cmd >}}
+get inkscape
+{{< /cmd >}}
 
-- **Centos/RedHat**
+* Void linux
 
-```
-$ su -c 'yum install inkscape'
-```
+{{< cmd >}}
+sudo xbps-install -S inkscape
+{{< /cmd >}}
 
-- **Fedora**
+* openSUSE
 
-```
-$ sudo dnf install inkscape
-```
+{{< cmd >}}
+sudo zypper install inkscape
+{{< /cmd >}}
 
-- **Debian/Ubuntu**
+* Centos/RedHat
 
-Update dahulu (sebagai opsi)
+{{< cmd >}}
+su -c 'yum install inkscape'
+{{< /cmd >}}
 
-```
-$ sudo apt update; sudo apt upgrade
-$ sudo apt install inkscape
-```
+* Fedora
 
-- **Ubuntu PPA**
+{{< cmd >}}
+sudo dnf install inkscape
+{{< /cmd >}}
 
-```
-$ sudo add-apt-repository ppa:inkscape.dev/stable
-$ sudo apt-get update
-$ sudo apt install inkscape
-```
+* Debian/Ubuntu
 
-- **Arch/Manjaro**
+{{< cmd >}}
+sudo apt update; sudo apt upgrade
+{{< /cmd >}}
 
-Update dahulu (sebagai opsi)
+{{< cmd >}}
+sudo apt install inkscape
+{{< /cmd >}}
 
-```
-$ sudo pacman -Syyu
-$ sudo pacman -S inkscape
-```
+* Ubuntu PPA
 
-- **Snap**
+{{< cmd >}}
+sudo add-apt-repository ppa:inkscape.dev/stable
+{{< /cmd >}}
 
-```
-$ sudo snap install inkscape
-```
+{{< cmd >}}
+sudo apt-get update
+{{< /cmd >}}
 
-- **Flatpak**
-```
-$ flatpak install flathub org.inkscape.Inkscape
-```
+{{< cmd >}}
+sudo apt install inkscape
+{{< /cmd >}}
 
-- **Microsoft Windows & Mac OS**
+* Arch/Manjaro
+
+{{< cmd >}}
+sudo pacman -Syyu
+{{< /cmd >}}
+
+{{< cmd >}}
+sudo pacman -S inkscape
+{{< /cmd >}}
+
+* Snap
+
+{{< cmd >}}
+sudo snap install inkscape
+{{< /cmd >}}
+
+* Flatpak
+
+{{< cmd >}}
+flatpak install flathub org.inkscape.Inkscape
+{{< /cmd >}}
+
+* Microsoft Windows & Mac OS
 
 Laman Unduh [Inkscape]
 
@@ -105,9 +126,6 @@ Kalau dibandingkan dengan `CDR` (CorelDraw) memiliki versi sendiri-sendiri. Cont
 
 Contoh berkas svg.
 ```svg
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD svg 20000303 Stylable//EN"
-"http://www.w3.org/TR/2000/03/WD-SVG-20000303/DTD/svg-20000303 stylable.dtd">
 <svg width="100px" height="50px">
 <text style="fill:red" x ="10" y="20">Hello World !</text>
 </svg>
