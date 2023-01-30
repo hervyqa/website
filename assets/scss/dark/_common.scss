@@ -44,20 +44,57 @@
     }
   }
 
+  span.label {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 80%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    background-color: $color-primary-invert;
+    color: $text-dark-invert;
+    user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+  }
+
   pre {
     display: block;
     padding: 9.5px;
     margin: 10px 0px 10px;
     border-radius: 6px!important;
     white-space: pre-wrap;
-    background-color: #131516!important;
-    color: $light-invert;
+    background-color: $light_invert !important;
+    word-break: normal !important;
+    word-wrap: normal !important;
+    white-space: pre !important;
   }
 
   code {
-    color: $color-primary-invert;
     margin-bottom: 0 !important;
     font-size: 100%;
+  }
+
+  code.caption {
+    color: $text-dark-invert !important;
+    border: none;
+    font-size: 80%;
+    font-weight: 700;
+    margin-left: 1em;
+  }
+
+  code.cmd::before {
+    content: "$";
+    width: 1.5em;
+    padding: 0 .5em;
+    margin-right: .5em;
+    -webkit-user-select: none;
   }
 
   .section {
