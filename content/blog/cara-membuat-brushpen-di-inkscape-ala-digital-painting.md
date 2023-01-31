@@ -4,7 +4,7 @@ date: 2020-01-31T10:40:54+07:00
 title: "Cara Membuat Brushpen di Inkscape ala Digital Painting"
 description : "Cara brushpen ini sudah penulis terapkan sejak tahun 2016. Setidaknya dengan brushpen di inkscape, membuat karya ilustrasi yang kompleks jadi lebih cepat."
 image: "images/blog/cara-membuat-brushpen-di-inkscape-ala-digital-painting.png"
-type: "featured" # [featured/regular]
+type: "regular" # [featured/regular]
 categories:
 - inkscape
 ---
