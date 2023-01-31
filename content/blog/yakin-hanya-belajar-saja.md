@@ -41,10 +41,10 @@ Dan berbagai pertanyaan lainnya.
 Jawaban sederhananya: "_Karena saya sudah terbiasa dengan itu._"
 Bisa dikatakan jawaban tersebut sangat subjektif berdasarkan pengalaman si penjawab, namun realitanya demikian.
 
-Cara terbiasa agar bisa lancar dalam hal pememrograman, berarti coding everyday.
+Cara agar terbiasa dan lancar dalam hal pememrograman komputer, berarti coding everyday.
 Terbiasa agar bisa membuat desain yang bagus, ya harus desain everyday.
 Terbiasa bicara bahasa jepang, ya japanese everyday.
-Terbiasa public speaking, tentu speaking everyday.
+Terbiasa public speaking, tentunya speaking everyday.
 
 Saya masih ingat dengan guru biologi SMP sekaligus pengajar olimpiade MIPA saya kala itu,
 "_Pak, kenapa bisa hafal diluar kepala istilah-istilah proses pencernaan, pernafasan, pendengaran, sistem ekresi, sel, dan lain-lain?_".
@@ -59,10 +59,11 @@ Selain "sudah terbiasa", alasan kuat lainnya yaitu memiliki tujuan terhadap apa 
 Hal inilah yang dijadikan fundamental (niat dan motivasi) untuk membiasakan diri.
 Sebelum berencana terbiasa dengan hal tertentu, pastikan terlebih dulu alasan kuat mengapa memerlukan itu.
 
-Sebagai contoh, mengapa saya harus menggunakan linux? saya belum mampu untuk membeli lisensi windows dan tidak mau menggunakan software ilegal.
-Mengapa saya belajar python dan sql? kelak saya menjadi data scientist profesional.
-Mengapa saya belajar java? ingin menjadi programmer mobile di company besar.
-Dan sebagainya. Akan terasa hampa jika melakukan hal tanpa memiliki tujuan yang berarti.
+Sebagai contoh, mengapa harus menggunakan linux? karena ingin menjadi sysadmin yang tersertifikasi di suatu perusahaan.
+Mengapa harus terbiasa dengan python dan sql? kelak saya menjadi data scientist profesional.
+Mengapa harus terbiasa dengan java? ingin menjadi programmer mobile di company.
+Mengapa harus terbiasa dengan inkscape? ingin menjadi desainer logo yang hebat.
+Dan sebagainya. Akan terasa hampa jika melakukan suatu hal tanpa memiliki tujuan yang berarti dan tidak ditentukan.
 
 ##### Memiliki fitur lebih
 
@@ -75,11 +76,11 @@ Dan sebagainya.
 
 Jawaban dari argumen tersebut umumnya lebih merujuk ke hal teknis.
 
-##### Bergabung dengan circle
+##### Jaringan yang sama
 
-_"Saya menggunakan AAA karena circle saya banyak yang pakai"_, argumen yang cukup rasional.
+_"Saya menggunakan AAA karena di circle saya banyak yang pakai"_, argumen yang cukup rasional.
 Setelah mengetahui tujuan, pasti ada juga suatu individu atau kelompok dengan passion yang sama.
-Dengan bergabung ke suatu kelompok/komunitas seseorang akan dapat membangun koneksi sesuai circle terkait.
+Dengan bergabung ke suatu kelompok/komunitas seseorang akan dapat membangun koneksi sesuai jaringan yang sama.
 Dengan demikian, suatu saat dapat meminta feedback jika portofolio sudah dibuat.
 
 ##### Kembali ke konsep
@@ -98,9 +99,13 @@ Mengajari lainnya >
 Membimbing >
 Memfasilitasi pelajar agar terjaganya konsep pembelajaran.
 
-Jika hanya membaca buku, berlangganan course, menonton webinar, dan video tutorial saja,
+Jika hanya membaca buku, berlangganan course, menonton webinar dan video tutorial saja,
 ini hanya bagian terkecil dari konsep pembelajaran diatas.
 Harus lebih, seseorang harus membiasakan dengan mempraktikannya. Everyday!
+
+> "Aku benci setiap menit latihan, tapi aku berkata, _Jangan berhenti._
+> Menderitalah sekarang dan jalani sisa hidup Anda sebagai juara."
+> - Muhammad Ali
 
 ***
 
