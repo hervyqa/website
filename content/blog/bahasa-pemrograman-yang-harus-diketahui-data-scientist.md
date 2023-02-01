@@ -26,7 +26,7 @@ Python yang diciptakan oleh [Guido van Rossum](https://gvanrossum.github.io) mer
 
 Python yang disarankan untuk dipasang minimal versi `python3.10` agar mendapat dukungan sepenuhnya. Python yang merupakan bahasa pemrograman multi-paradigma juga menawarkan beberapa dukungan pemrograman fungsional yang mirip `lisp`, seperti filter, map, reduce, set dan ekspresi generator.
 
-[Pustaka](https://pypi.org) yang ditawarkan python juga sangat banyak sekali. Misalnya pandas, numpy, scipy, scikit-learn, matplotlib, seaborn dan masih banyak lagi untuk kebutuhan data science. Anda dapat mencoba python sesuai tautan diatas dan latih kemampuan pemrograman setiap hari.
+[Pustaka](https://pypi.org) yang ditawarkan python juga banyak sekali. Misalnya pandas, numpy, scipy, scikit-learn, matplotlib, seaborn dan masih banyak lagi untuk kebutuhan data science. Anda dapat mencoba python sesuai tautan diatas dan latih kemampuan pemrograman setiap hari.
 
 {{< cmd >}}
 python
@@ -37,6 +37,48 @@ Python 3.10.9 (main, Dec  6 2022, 18:44:57) [GCC 11.3.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
 >>> print("Hello World")
 Hello World
+```
+
+#### SQL
+
+- Website: https://mariadb.org
+- Dokumentasi: https://mariadb.org/documentation
+- Buku: https://mariadb.com/kb/en/books
+
+SQL (Structured Query Language) [baca: _sequel_] merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional (RDBMS).
+Hampir semua server basis data menggunakan SQL untuk manajemen data.
+
+Data scientist tentu akan bergulat dengan database, seperti pembuatan database, mengolah, dan menerjemahkan data agar lebih dipahami.
+Sehingga diperlukan untuk menentukan keputusan stakeholder.
+
+Dalam penggunaan SQL, saya menyarankan menggunakan [MariaDB](https://mariadb.org) (fork dari [MySQL](https://www.mysql.com)) sebagai manajemen data karena lebih leluasa untuk dikembagkan secara terbuka dan tidak terikat oleh produk yang berlisensi proprietary (Oracle).
+Serta memiliki storage engine yang lebih banyak dari MySQL.
+
+{{< cmd >}}
+sudo mysql -u root -p
+{{< /cmd >}}
+
+```sql
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 3
+Server version: 10.6.11-MariaDB MariaDB Server
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| hervymart          |
+| hervypraktek       |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+6 rows in set (0,097 sec)
+
+MariaDB [(none)]>
 ```
 
 #### R
@@ -76,50 +118,6 @@ Type 'q()' to quit R.
 
 > print("HelloWorld")
 [1] "HelloWorld"
-```
-
-#### SQL
-
-- Website: https://mariadb.org
-- Dokumentasi: https://mariadb.org/documentation
-- Buku: https://mariadb.com/kb/en/books
-
-SQL (Structured Query Language) [baca: _sequel_] merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional (RDBMS).
-Hampir semua server basis data menggunakan SQL untuk manajemen data.
-
-Data scientist tentu akan bergulat dengan database, seperti pembuatan database, mengolah, dan menerjemahkan data agar lebih dipahami.
-Sehingga diperlukan untuk menentukan keputusan stakeholder.
-
-Dalam penggunaan SQL, saya menyarankan menggunakan [MariaDB](https://mariadb.org) (fork dari [MySQL](https://www.mysql.com)) sebagai manajemen data karena lebih leluasa untuk dikembagkan secara terbuka dan tidak terikat oleh produk yang berlisensi proprietary (Oracle).
-Serta memiliki storage engine yang lebih banyak dari MySQL.
-
-{{< cmd >}}
-sudo mysql -u root -p
-{{< /cmd >}}
-
-```sql
-Welcome to the MariaDB monitor.  Commands end with ; or \g.
-Your MariaDB connection id is 3
-Server version: 10.6.11-MariaDB MariaDB Server
-
-Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
-
-Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
-
-MariaDB [(none)]> show databases;
-+--------------------+
-| Database           |
-+--------------------+
-| hervymart          |
-| hervypraktek       |
-| information_schema |
-| mysql              |
-| performance_schema |
-| sys                |
-+--------------------+
-6 rows in set (0,097 sec)
-
-MariaDB [(none)]>
 ```
 
 #### Julia
@@ -183,12 +181,12 @@ scala HelloWorld
 #### Kesimpulan
 
 Apapun bahasa yang digunakan, sesuaikan dengan kebutuhan dan kriteria data yang ada agar lebih efektif.
-Jika masih pemula, sudah saya urutkan pemrograman sesuai sub-judul dari yang mudah dan umum, sehingga mudah untuk dipelajari.
+Jika masih pemula, sudah saya urutkan pemrograman sesuai sub-judul dari yang mudah dan umum sehingga mudah untuk dipelajari. Fokus dan kuasai satu-persatu.
 
 Apa bahasa yang terbaik?
 
 Semua bahasa pemrograman adalah terbaik asalkan sesuai tempatnya, karena setiap bahasa memiliki kelebihan dan kekurangan masing-masing.
-Bahkan saya menganjurkan untuk tidak fokus kebahasanya terlebih dahulu, melainkan konsep dasar algoritma pemrogramannya yang lebih penting.
+Bahkan secara pribadi menganjurkan untuk tidak fokus kebahasanya, melainkan memahami konsep dasar algoritma pemrograman terlebih dahulu yang lebih penting.
 
 ***
 
