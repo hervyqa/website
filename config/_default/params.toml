@@ -12,7 +12,7 @@ logo_text = "Hervy Qurotul Ainur"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "Kreator LangitKetujuh OS untuk Multimedia. Generalis Desain Layout (Scribus), Animasi (Blender3D), Pattern, Logo, Branding, Ilustrasi (Inkscape & Krita) dan Template Dokumen (LibreOffice). Serta Kontributor dibeberapa komunitas besar GNU/Linux."
+description = "Seputar data science dengan perangkat lunak bebas."
 author = "Hervy Qurrotul Ainur"
 image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
 # contact info
@@ -26,13 +26,13 @@ search = true
 
 # featured post title
 
-featured_post_title = "Posting Unggulan"
-recent_post_title = "Posting Terbaru"
+featured_post_title = "Unggulan"
+recent_post_title = "Terbaru"
 mainSections = ["blog"]
 # about widget content
-about_widget_content = "Seputar perangkat lunak bebas untuk multimedia dengan perangkat lunak bebas GNU/Linux."
+about_widget_content = "Seputar data science dengan perangkat lunak bebas."
 # footer content
-footer_content = "Seputar perangkat lunak bebas untuk multimedia dengan perangkat lunak bebas GNU/Linux."
+footer_content = "Seputar data science dengan perangkat lunak bebas."
 # copyright
 copyright = "Copyright © 2019-2023 [Hervy Qurrotul Ainur](https://hervyqa.id).</br>Content is [CC BY-SA 4.0.](https://creativecommons.org/licenses/by-sa/4.0/) & Developed by [Statichunt](https://statichunt.com/)."
 
@@ -54,11 +54,10 @@ preloader = "" # use jpg, png, svg or gif format.
 [banner]
 enable = true
 title_large = "Hervy Q. A."
-title_small = "Free Software &<br>Multimedia"
+title_small = "Data Science &<br>Free Software"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
-#content = "Kreator **[LangitKetujuh OS](https://langitketujuh.id)** untuk multimedia. Fokus di branding, animasi, desain grafis dan tekstil. Bagian dari **[Mentari Umsida](https://mentari.umsida.ac.id)**, **[PCPM Ngoro](https://pcpmngoro.or.id)**, Masjid **[Al-Mujahidin](https://almujahidinkembangsri.or.id)**, Travel **[WahyuTrans](https://wahyutranstravel.com)** dan jago masak di **[Bu Win Katering](https://buwinkatering.com)**."
-content = "Kreator [**LangitKetujuh OS**](https://langitketujuh.id) untuk Multimedia. Generalis Desain Layout ([Scribus](https://scribus.net)), Animasi ([Blender3D](https://blender.org)), Pattern, Logo, Branding, Ilustrasi ([Inkscape](https://inkscape.org) & [Krita](https://krita.org)) dan Template Dokumen ([LibreOffice](https://libreoffice.org))."
+content = "Data Enthusiast & Creator [**LangitKetujuh OS**](https://langitketujuh.id)"
 button_label = "Blog"
 button_link = "blog"
 #button_label_aditional = "Buy Me Coffe"
