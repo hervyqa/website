@@ -67,6 +67,7 @@ button_link = "blog"
 # advertise
 
 [advertisement]
+enable = false
 image = "images/promotion.png"
 link = "https://langitketujuh.id/"
 
