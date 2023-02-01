@@ -4,7 +4,7 @@ date: 2022-04-19T16:52:37+07:00
 title: "Sebelum Memulai dan Bekerja dengan Scribus"
 description: "Hal-hal yang perlu diketahui sebelum memulai dengan scribus. Kamu wajib tahu."
 image: "images/blog/sebelum-memulai-dan-bekerja-dengan-scribus.png"
-type: "featured" # featured/regular
+type: "regular" # featured/regular
 categories: # max 2
 - scribus
 ---
