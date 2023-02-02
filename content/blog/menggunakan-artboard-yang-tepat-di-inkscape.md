@@ -2,28 +2,42 @@
 draft: false
 date: 2019-08-25T22:45:47+07:00
 title: "Menggunakan Artboard yang Tepat di Inkscape"
-description : "Artboard berfungsi untuk mempermudah membuat perngaturan properti dokumen svg di Inkscape. Sehingga tidak perlu lagi mengatur lapisan latar belakang, ukuran kanvas, pengisian metadata, latar belakang transparansi, penampil unit, dan lain-lain."
+description : "Artboard berfungsi untuk mempermudah membuat perngaturan properti
+dokumen svg di Inkscape. Sehingga tidak perlu lagi mengatur lapisan latar
+belakang, ukuran kanvas, pengisian metadata, latar belakang transparansi,
+penampil unit, dan lain-lain."
 image: "images/blog/menggunakan-artboard-yang-tepat-di-inkscape.png"
 type: "regular" # featured/regular
 categories:
 - inkscape
 ---
 
-Artboard ini berfungsi untuk mempermudah membuat perngaturan properties dokumen svg di inkscape. Sehingga tidak perlu lagi mengatur layer background, ukuran kanvas, pengisian metadata, checkerboard background, display unit, dan lain-lain. Intinya dengan artboard yang sudah dibuat tadi tinggal salin tempel saja. Jadi mempermudah pekerjaan kita.
+Artboard ini berfungsi untuk mempermudah membuat perngaturan properties dokumen
+svg di inkscape. Sehingga tidak perlu lagi mengatur layer background, ukuran
+kanvas, pengisian metadata, checkerboard background, display unit, dan
+lain-lain. Intinya dengan artboard yang sudah dibuat tadi tinggal salin tempel
+saja. Jadi mempermudah pekerjaan kita.
 
 ***
 
 ## Artboard?
 
-Artboard merupakan area kerja dengan memiliki ukuran. Kemudian apa perbedaannya dengan template?, Jelas beda. Template atau mockup sudah ada konten didalam artboard itu sendiri. Template sendiri biasanya sudah termasuk komponen/elemen desainnya, misal teks, objek, path, bitmap, dll. Sedangkan artboard hanya polosan saja, tanpa elemen apapun. Hanya saja artboard ini sudah diatur nilai panjang dan lebarnya, dan fokus ke ukuran area kerja atau kanvas tadi.
+Artboard merupakan area kerja dengan memiliki ukuran. Kemudian apa perbedaannya
+dengan template?, Jelas beda. Template atau mockup sudah ada konten didalam
+artboard itu sendiri. Template sendiri biasanya sudah termasuk komponen/elemen
+desainnya, misal teks, objek, path, bitmap, dll. Sedangkan artboard hanya
+polosan saja, tanpa elemen apapun. Hanya saja artboard ini sudah diatur nilai
+panjang dan lebarnya, dan fokus ke ukuran area kerja atau kanvas tadi.
 
-Langsung saja, Saya akan mendemontrasikan contohnya. Misalnya membuat artboard Logo dengan ukuran 500px x 500px.
+Langsung saja, Saya akan mendemontrasikan contohnya. Misalnya membuat artboard
+Logo dengan ukuran 500px x 500px.
 
 ***
 
 #### Pengaturan Properti Dokumen
 
-Di Document properties <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd></kbd></kbd>.
+Di Document properties
+<kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd></kbd></kbd>.
 
 * Display units : px
 * Units : px
@@ -33,8 +47,11 @@ Di Document properties <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd></kbd><
 
 #### Pengaturan Layer
 
-* Buat 2 layer <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>n</kbd></kbd>, "Background" dan "Artwork".
-* Buatlah persegi sesuai artboard. Misalnya 500 X 500 px sesuai ukuran logo tadi. Kemudian luruskan sesuai kanvas. dan taruh ke layer "Background". Kemudian lock layer background tersebut.
+* Buat 2 layer <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>n</kbd></kbd>,
+"Background" dan "Artwork".
+* Buatlah persegi sesuai artboard. Misalnya 500 X 500 px sesuai ukuran logo
+tadi. Kemudian luruskan sesuai kanvas. dan taruh ke layer "Background". Kemudian
+lock layer background tersebut.
 * Kemudian, Pindah dan pilih layer "Artwork".
 
 #### Simpan Artboard
@@ -42,13 +59,15 @@ Di Document properties <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd></kbd><
 * Simpan artboard dengan nama "Logo.svg".
 * Selesai.
 
-Jadi semudah itu membuat artboard. Jadi kalau membuat logo baru ya tinggal salin tempel saja kemudian ganti nama.
+Jadi semudah itu membuat artboard. Jadi kalau membuat logo baru ya tinggal salin
+tempel saja kemudian ganti nama.
 
 ***
 
 #### Ukuran Artboard
 
-Beberapa artboard yang sudah saya kumpulkan lengkap dengan ukurannya, seperti dibawah ini.
+Beberapa artboard yang sudah saya kumpulkan lengkap dengan ukurannya, seperti
+dibawah ini.
 
 | Nama artboard  | Lebar | Tinggi |
 | :------------- | :---- | :------ |
@@ -94,22 +113,29 @@ Beberapa artboard yang sudah saya kumpulkan lengkap dengan ukurannya, seperti di
 | whatsapp-status | 1920 px | 1080 px |
 | youtube-gambar-mini | 1280 px | 720 px |
 
-Atau anda bisa mengunduhnya di repo [Artboard](https://gitlab.com/hervyqa/artboard.git)
+Atau anda bisa mengunduhnya di repo
+[Artboard](https://gitlab.com/hervyqa/artboard.git)
 
 #### Cara Ekspor Gambar
 
-Biasanya untuk ekspor berkas PNG dengan **96** DPI untuk hasil standar. Apabila menginginkan hasil yang maksimal gunakanlah **300** DPI.
+Biasanya untuk ekspor berkas PNG dengan **96** DPI untuk hasil standar. Apabila
+menginginkan hasil yang maksimal gunakanlah **300** DPI.
 
 
 #### Menggunakan Artboard sebagai Template
 
-Salin dan tempelkanlah artboard-artboard yang diperlukan ke `~/Templates`. Kemudian Anda bisa membuat artboard dengan klik kanan, Dokumen baru, lalu pilih artboard yang diinginkan.
+Salin dan tempelkanlah artboard-artboard yang diperlukan ke `~/Templates`.
+Kemudian Anda bisa membuat artboard dengan klik kanan, Dokumen baru, lalu pilih
+artboard yang diinginkan.
 
-{{< image src="images/blog/kumpulan-artboard-templates.png" alt="Kumpulan Artboard Templates dengan Inkscape" >}}
-{{< image src="images/blog/menjadikan-template.png" alt="Menjadikan Artboard sebagai Template" >}}
+{{< image src="images/blog/kumpulan-artboard-templates.png"
+alt="Kumpulan Artboard Templates dengan Inkscape" >}}
+{{< image src="images/blog/menjadikan-template.png"
+alt="Menjadikan Artboard sebagai Template" >}}
 
 ***
 
-Nah, selesai sudah tulisannya. Sekian, semoga bermanfaat untuk pembaca semuanya. Aamiin
+Nah, selesai sudah tulisannya. Sekian, semoga bermanfaat untuk pembaca semuanya.
+Aamiin.
 
 ***

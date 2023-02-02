@@ -11,13 +11,22 @@ categories:
   - inkscape
   - ilustrasi
 ---
-Cara penggunaan lisensi Creative Commons (CC) ini semudah menempelkan stiker. Kita membuat karya seni yang indah kemudian didaringkan secara digital dengan memberikan tautan atribusi CC. Ya, memang semudah itu.
+Cara penggunaan lisensi Creative Commons (CC) ini semudah menempelkan
+stiker. Kita membuat karya seni yang indah kemudian didaringkan secara digital
+dengan memberikan tautan atribusi CC. Ya, memang semudah itu.
 
 - - -
 
-Sebelumnya, pada artikel ini saya asumsikan Anda sebagai kreator karya seni. Ketika memberikan atribusi karya seni, kembali lagi kepada Anda sebagai pemilik karya tersebut, apakah orang lain boleh merubahnya ataukah boleh menjualnya juga? kalau boleh lisensinya bagaimana, kalau tidak lisensinya bagimana juga.
+Sebelumnya, pada artikel ini saya asumsikan Anda sebagai kreator karya
+seni. Ketika memberikan atribusi karya seni, kembali lagi kepada Anda sebagai
+pemilik karya tersebut, apakah orang lain boleh merubahnya ataukah boleh
+menjualnya juga? kalau boleh lisensinya bagaimana, kalau tidak lisensinya
+bagimana juga.
 
-Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan pemberian lisensi dengan sebuah tanda/simbol. Anda cukup memberikan simbol CC dan tautan pada karya seni tersebut. Simbol dan logo Creative Commons bisa anda dapatkan bebas [disini](https://www.creativecommons.org/about/downloads/).
+Untungnya, Creative Commons memberikan kemudahan kepada kreator dengan
+pemberian lisensi dengan sebuah tanda/simbol. Anda cukup memberikan simbol CC
+dan tautan pada karya seni tersebut. Simbol dan logo Creative Commons bisa anda
+dapatkan bebas [disini](https://www.creativecommons.org/about/downloads/).
 
 - - -
 
@@ -28,10 +37,13 @@ Simbol-simbol lisensi Creative Commons mempunyai arti kurang lebih seperti ini.
 * **CC** Kepanjangan dari Creative Commons.
 * **BY** Harus memberikan atribusi/mencantumkan nama pemilik.
 * **SA** Share A Like. Berbagi serupa.
-* **ND** Non Derivative. Lisensi harus sama persis tanpa turunan. Bentuk karya utuh tanpa perubahan.
+* **ND** Non Derivative. Lisensi harus sama persis tanpa turunan. Bentuk
+karya utuh tanpa perubahan.
 * **NC** Non Commercial. Tidak boleh untuk tujuan komersil.
 
-Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urutkan dari yang atas adalah yang paling bebas kemudian ke bawah semakin ketat aturannya.
+Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**.
+Saya urutkan dari yang atas adalah yang paling bebas kemudian ke bawah semakin
+ketat aturannya.
 
 - - -
 
@@ -49,7 +61,8 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * Boleh untuk tujuan komersil
-* Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang sudah dirubah bentuk harus menggunakan lisensi **CC BY SA** juga.
+* Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang
+sudah dirubah bentuk harus menggunakan lisensi **CC BY SA** juga.
 
 ##### CC BY-ND
 
@@ -68,7 +81,8 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 * Harus atribusi/mencantumkan nama pemilik.
 * Boleh dirubah bentuk dan di modifikasi.
 * **Tidak boleh untuk tujuan komersil.**
-* Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang sudah dirubah bentuk harus menggunakan lisensi **CC BY NC SA** juga.
+* Harus menggunakan lisensi yang sama. Artinya karya turunan/ karya yang
+sudah dirubah bentuk harus menggunakan lisensi **CC BY NC SA** juga.
 
 ##### CC BY-NC-ND
 
@@ -79,8 +93,12 @@ Selanjutnya, penjelasan singkat **6 macam atribusi Creative Commons**. Saya urut
 
 - - -
 
-> *Prinsip "some right reserved" memegang keuntungan bagi pemegang hak cipta maupun penggunaan ciptaan.*
+> *Prinsip "some right reserved" memegang keuntungan bagi pemegang hak
+> cipta maupun penggunaan ciptaan.*
 
-Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran dengan Creative Commons, Baca bukunya saja di [BUKU CC-ID](https://bit.ly/madewithccID). Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Nah, itu tadi penjelasan singkat dari saya. Jika Anda masih penasaran
+dengan Creative Commons, Baca bukunya saja di [BUKU
+CC-ID](https://bit.ly/madewithccID). Sekian dan terima kasih sudah membaca.
+Semoga bermanfaat.
 
 - - -

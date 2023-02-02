@@ -2,20 +2,26 @@
 draft: false
 date: 2019-07-27T10:25:48+07:00
 title: "Cara Mudah Mengoptimalkan Inkscape"
-description : "Beberapa ulasan singkat dan menarik untuk mengoptimalkan kinerja inkscape. Tujuannya untuk mempercepat workflow dan meminimalisir terjadinya force close."
+description : "Beberapa ulasan singkat dan menarik untuk mengoptimalkan
+kinerja inkscape. Tujuannya untuk mempercepat workflow dan meminimalisir
+terjadinya force close."
 image: "images/blog/cara-mudah-mengoptimalkan-inkscape.png"
 type: "regular" # [featured/regular]
 categories:
 - inkscape
 ---
 
-Tips ini penulis gunakan untuk menghindari tutup paksa di inkscape. Terkadang sedikit merepotkan harus membuka berkas SVG-nya lagi ketika ditutup paksa. Tetapi Alhamdullillah ada beberapa tipsnya sederhana yang saya rangkum seperti dibawah ini.
+Tips ini penulis gunakan untuk menghindari tutup paksa di inkscape.
+Terkadang sedikit merepotkan harus membuka berkas SVG-nya lagi ketika ditutup
+paksa. Tetapi Alhamdullillah ada beberapa tipsnya sederhana yang saya rangkum
+seperti dibawah ini.
 
 ***
 
 #### Gunakan filter kualitas rendah
 
-Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya untuk mempercepat proses render filter dan blur.
+Saya menggunakan settingan ini untuk pengaturan rendering filter. Gunanya
+untuk mempercepat proses render filter dan blur.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Rendering**.
@@ -36,17 +42,21 @@ Manfaatnya untuk memaksimalkan layar kanvas dengan mengurangi ukuran ikon.
 
 #### Impor bitmap dengan link
 
-Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya sendiri lebih memilih _link_  untuk mengimpor gambar bitmap. Anda juga bisa mengaturnya di bagian preferences.
+Ketika import gambar bitmap akan ada pilihan untuk mode embed atau linked. Saya
+sendiri lebih memilih _link_  untuk mengimpor gambar bitmap. Anda juga bisa
+mengaturnya di bagian preferences.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Bitmaps**.
-* Dibagian **Import** hilangkan ceklis **Ask about linking and scaling when importing**.
+* Dibagian **Import** hilangkan ceklis **Ask about linking and scaling
+when importing**.
 * Pada **Bitmap link**, pilih: **Link**.
 * Pada **Bitmap scale** : **Blocky**.
 
 #### Aktifkan autosave
 
-Karena di Windows tidak ada duplikasi ketika _force close_ maka aktifkan juga autosave di preferences.
+Karena di Windows tidak ada duplikasi ketika _force close_ maka aktifkan
+juga autosave di preferences.
 
 * Pilih **Edit** > **Preferences**.
 * Pilih tab **Input/Output**
@@ -60,11 +70,14 @@ Untuk GNU/Linux, tetap seperti ini :
 
 * Autosave directory : **/tmp**
 
-Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang telah mengkoreksi. :)
+Terima kasih juga kepada [Abu Sahal Wisnu](https://t.me/waditos) yang
+telah mengkoreksi. :)
 
 #### Aktifkan snap seperlunya
 
-Tombol pintasan snap adalah <kbd><kbd>%</kbd></kbd>, letak snap dibagian sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis cukup mengaktifkan snap seperlunya saja. Misalnya,
+Tombol pintasan snap adalah <kbd><kbd>%</kbd></kbd>, letak snap dibagian
+sebelah kanan toolbox. Ketika Anda bekerja dengan banyak node, saran Penulis
+cukup mengaktifkan snap seperlunya saja. Misalnya,
 
 * snap to path, node, and handles.
 * snap to cusp nodes, incl. rectagle corners.
@@ -73,19 +86,28 @@ Tombol pintasan snap adalah <kbd><kbd>%</kbd></kbd>, letak snap dibagian sebelah
 
 #### Hindari undo/redo mode teks
 
-Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc** kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node yang ribet maka aman-aman saja pakai undo redo sebanyak apapun.
+Ketika anda masih dalam mode teks atau masih mengetikkan kata dan akan
+melakukan proses undo, maka sebaiknya keluarlah dulu dengan menekan **Esc**
+kemudian boleh undo dan redo. Biasanya akan not-responding dan akan ditutup
+paksa. Tetapi ketika desain Anda ringan (logo misalnya) dan tidak banyak node
+yang ribet maka aman-aman saja pakai undo redo sebanyak apapun.
 
 #### Gradasi sedikit node
 
-Penulis sering menggunakan gradasi tapi tidak pernah sampai _force close_. Jika dirasa berat, maka segeralah simpan dan buka kembali berkas inkscape tadi.
+Penulis sering menggunakan gradasi tapi tidak pernah sampai _force close_.
+Jika dirasa berat, maka segeralah simpan dan buka kembali berkas inkscape tadi.
 
 #### Lingkungan Desktop yang ringan
 
-Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan Lingkungan Desktop yang ringan misalnya Xfce, Lxqt, Openbox, atau migrasi ke Window Manager. Jika Anda migrasi ke Window Manager (WM) cara ini terbilang optimalisasi yang ekstrim, karena membutuhkan learning curve yang tinggi.
+Khusus pengguna linux, kalau RAM Anda dibawah 2Gib sebaiknya gunakan
+Lingkungan Desktop yang ringan misalnya Xfce, Lxqt, Openbox, atau migrasi ke
+Window Manager. Jika Anda migrasi ke Window Manager (WM) cara ini terbilang
+optimalisasi yang ekstrim, karena membutuhkan learning curve yang tinggi.
 
 ***
 
-Jadi, itu saja beberapa hal yang harus dilakukan dan harus dihindari. Sekian, terima kasih sudah membaca. Semoga bermanfaat. :)
+Jadi, itu saja beberapa hal yang harus dilakukan dan harus dihindari.
+Sekian, terima kasih sudah membaca. Semoga bermanfaat. :)
 
 [Inkscape]:https://www.inkscape.org
 [Gimp]:https://www.gimp.org

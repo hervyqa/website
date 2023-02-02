@@ -2,19 +2,27 @@
 draft: false
 date: 2020-01-30T07:10:08+07:00
 title: "Mengatasi Glitch Perekaman Layar di Manjaro Linux"
-description : "Masalah yang sering ditemui ketika merekam layar adalah gitching. Entah karena driver yang tidak cocok atau kernelnya. Dan ternyata solusinya seperti ini."
+description : "Masalah yang sering ditemui ketika merekam layar adalah gitching.
+Entah karena driver yang tidak cocok atau kernelnya. Dan ternyata solusinya
+seperti ini."
 image: "images/blog/mengatasi-glitch-perekaman-layar-di-manjaro.png"
 type: "regular" # [featured/regular]
 categories:
 - distro
 ---
 
-Permasalahan ini muncul tatkala penulis akan membuat video tutorial panduan inkscape untuk pemula. Setelah mencoba salah satu perekam `recordmydesktop` hasilnya sangat kacau. Gambar terlihat pecah dan patah-patah. Kemudian lanjut memasang `simplescreenrecorder`, `obs-studio`, `gtk-recordmydesktop`, hasilnya nihil.
+Permasalahan ini muncul tatkala penulis akan membuat video tutorial panduan
+inkscape untuk pemula. Setelah mencoba salah satu perekam `recordmydesktop`
+hasilnya sangat kacau. Gambar terlihat pecah dan patah-patah. Kemudian lanjut
+memasang `simplescreenrecorder`, `obs-studio`, `gtk-recordmydesktop`, hasilnya
+nihil.
 
 {{< image src="images/blog/glitch-1.png" alt="glitch-1" >}}
 {{< image src="images/blog/glitch-2.png" alt="glitch-2" >}}
 
-Ternyata setelah cukup lama mencari, akhirnya ditemukan juga solusinya. Yakni dengan mengganti ke pengaturan ke modeset dan menghapus paket `xf86-video-intel`.
+Ternyata setelah cukup lama mencari, akhirnya ditemukan juga solusinya. Yakni
+dengan mengganti ke pengaturan ke modeset dan menghapus paket
+`xf86-video-intel`.
 
 Baik, langkah-langkahnya seperti berikut ini.
 
@@ -31,7 +39,6 @@ mhwd -l
 Maka keluarannya mirip seperti ini:
 
 ```
-~ >>> mhwd -l                                                                 
 > 0000:01:00.0 (0300:1002:6760) Display controller ATI Technologies Inc:
 --------------------------------------------------------------------------------
                   NAME               VERSION          FREEDRIVER           TYPE
@@ -59,7 +66,6 @@ Maka keluarannya mirip seperti ini:
 
 #### Memasang video-modesetting
 
-
 {{< cmd >}}
 sudo mhwd -i pci video-modesetting
 {{< /cmd >}}
@@ -70,7 +76,8 @@ sudo mhwd -i pci video-modesetting
 sudo pacman -R xf86-video-intel
 {{< /cmd >}}
 
-Kemudian muat ulang komputer. Tunggu sampai selesai. Sekarang glitch di manjaro sudah terselesaikan.
+Kemudian muat ulang komputer. Tunggu sampai selesai. Sekarang glitch di manjaro
+sudah terselesaikan.
 
 Semoga bermanfaat dan berguna bagi pembaca semuanya. Aamiin.
 

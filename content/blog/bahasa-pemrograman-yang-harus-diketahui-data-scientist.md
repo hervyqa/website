@@ -2,7 +2,8 @@
 draft: false
 date: 2023-02-01T07:30:34+07:00
 title: "Bahasa Pemrograman yang harus diketahui Data Scientist"
-description: "Berbagai bahasa pemrograman yang harus dikuasi untuk data scientist pemula"
+description: "Berbagai bahasa pemrograman yang harus dikuasi untuk data
+scientist pemula"
 image: "images/blog/bahasa-pemrograman-yang-harus-diketahui-data-scientist.png"
 type: "featured" # featured/regular
 categories: # max 2
@@ -10,23 +11,37 @@ categories: # max 2
 - data-science
 ---
 
-Menjadi seorang data scientist tidak diharuskan memiliki latar belakang IT. Dari jaringan yang saya ikuti di LinkedIn banyak yang _switch career_ dari berbagai background ke data scientist.
-Dan itu pun wajar, mengingat secara global perusahaan berbondong-bondong menuju industri digital.
+Menjadi seorang data scientist tidak diharuskan memiliki latar belakang IT.
+Dari jaringan yang saya ikuti di LinkedIn banyak yang _switch career_ dari
+berbagai background ke data scientist. Dan itu pun wajar, mengingat secara
+global perusahaan berbondong-bondong menuju industri digital.
 Di awal januari 2023, saya yang juga konsen dan switch career dari desainer.
 
-Baik, langsung ke pembahasan. Berikut ini adalah bahasa pemrograman yang harus diketahui untuk data scientist. Apa saja?
+Baik, langsung ke pembahasan. Berikut ini adalah bahasa pemrograman yang
+harus diketahui untuk data scientist. Apa saja?
 
 #### Python
 
 - Website: https://python.org
 - Dokumentasi: https://python.org/doc
-- Buku: [PythonBooks](https://pythonbooks.org), [RealPython](https://realpython.com/best-python-books)
+- Buku:
+[PythonBooks](https://pythonbooks.org),
+[RealPython](https://realpython.com/best-python-books)
 
-Python yang diciptakan oleh [Guido van Rossum](https://gvanrossum.github.io) merupakan bahasa high-level data struktur programming yang mana sederhana, jelas dan logis, tetapi efektif untuk pemrograman berbasis orientasi (OOP).
+Python yang diciptakan oleh [Guido van
+Rossum](https://gvanrossum.github.io) merupakan bahasa high-level data struktur
+programming yang mana sederhana, jelas dan logis, tetapi efektif untuk
+pemrograman berbasis orientasi (OOP).
 
-Python yang disarankan untuk dipasang minimal versi `python3.10` agar mendapat dukungan sepenuhnya. Python yang merupakan bahasa pemrograman multi-paradigma juga menawarkan beberapa dukungan pemrograman fungsional yang mirip `lisp`, seperti filter, map, reduce, set dan ekspresi generator.
+Python yang disarankan untuk dipasang minimal versi `python3.10` agar
+mendapat dukungan sepenuhnya. Python yang merupakan bahasa pemrograman
+multi-paradigma juga menawarkan beberapa dukungan pemrograman fungsional yang
+mirip `lisp`, seperti filter, map, reduce, set dan ekspresi generator.
 
-[Pustaka](https://pypi.org) yang ditawarkan python juga banyak sekali. Misalnya pandas, numpy, scipy, scikit-learn, matplotlib, seaborn dan masih banyak lagi untuk kebutuhan data science. Anda dapat mencoba python sesuai tautan diatas dan latih kemampuan pemrograman setiap hari.
+[Pustaka](https://pypi.org) yang ditawarkan python juga banyak sekali.
+Misalnya pandas, numpy, scipy, scikit-learn, matplotlib, seaborn dan masih
+banyak lagi untuk kebutuhan data science. Anda dapat mencoba python sesuai
+tautan diatas dan latih kemampuan pemrograman setiap hari.
 
 {{< cmd >}}
 python
@@ -45,14 +60,19 @@ Hello World
 - Dokumentasi: https://mariadb.org/documentation
 - Buku: https://mariadb.com/kb/en/books
 
-SQL (Structured Query Language) [baca: _sequel_] merupakan bahasa pemrograman untuk mengakses data dalam basis data relasional (RDBMS).
+SQL (Structured Query Language) [baca: _sequel_] merupakan bahasa
+pemrograman untuk mengakses data dalam basis data relasional (RDBMS).
 Hampir semua server basis data menggunakan SQL untuk manajemen data.
 
-Data scientist tentu akan bergulat dengan database, seperti pembuatan database, mengolah, dan menerjemahkan data agar lebih dipahami.
-Sehingga diperlukan untuk menentukan keputusan stakeholder.
+Data scientist tentu akan bergulat dengan database, seperti pembuatan
+database, mengolah, dan menerjemahkan data agar lebih dipahami. Sehingga
+diperlukan untuk menentukan keputusan stakeholder.
 
-Dalam penggunaan SQL, saya menyarankan menggunakan [MariaDB](https://mariadb.org) (fork dari [MySQL](https://www.mysql.com)) sebagai manajemen data karena lebih leluasa untuk dikembagkan secara terbuka dan tidak terikat oleh produk yang berlisensi proprietary (Oracle).
-Serta memiliki storage engine yang lebih banyak dari MySQL.
+Dalam penggunaan SQL, saya menyarankan menggunakan
+[MariaDB](https://mariadb.org) (fork dari [MySQL](https://www.mysql.com))
+sebagai manajemen data karena lebih leluasa untuk dikembagkan secara terbuka dan
+tidak terikat oleh produk yang berlisensi proprietary (Oracle). Serta memiliki
+storage engine yang lebih banyak dari MySQL.
 
 {{< cmd >}}
 sudo mysql -u root -p
@@ -87,11 +107,20 @@ MariaDB [(none)]>
 - Dokumentasi: https://r-project.org/other-docs
 - Buku: https://rstudio.com/resources/books
 
-Bahasa pemrograman R lebih dikenal sebagai bahasa pemrograman untuk statistika dan visualisasi grafis. Dibuat oleh [Ross Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka) dan [Robert Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) di Universitas Auckland, dan sekarang dikembangkan oleh R Development Core Team.
+Bahasa pemrograman R lebih dikenal sebagai bahasa pemrograman untuk
+statistika dan visualisasi grafis. Dibuat oleh [Ross
+Ihaka](https://en.wikipedia.org/wiki/Ross_Ihaka) dan [Robert
+Gentleman](https://en.wikipedia.org/wiki/Robert_Gentleman_(statistician)) di
+Universitas Auckland, dan sekarang dikembangkan oleh R Development Core Team.
 
-Bahasa R dibawah lisensi GNU GPL telah menjadi standar de facto di antara statistikawan untuk pengembangan perangkat lunak statistika, serta digunakan secara luas untuk pengembangan perangkat lunak statistika dan analisis data.
+Bahasa R dibawah lisensi GNU GPL telah menjadi standar de facto di
+antara statistikawan untuk pengembangan perangkat lunak statistika, serta
+digunakan secara luas untuk pengembangan perangkat lunak statistika dan analisis
+data.
 
-Penggunaan bahasa R dapat dilakukan dengan [Jupyter Notebook](https://jupyter.org) atau [RStudio](https://r-project.org.org) untuk memudahkan data scientist untuk mengolah data.
+Penggunaan bahasa R dapat dilakukan dengan [Jupyter
+Notebook](https://jupyter.org) atau [RStudio](https://r-project.org.org) untuk
+memudahkan data scientist untuk mengolah data.
 
 {{< cmd >}}
 R
@@ -126,13 +155,19 @@ Type 'q()' to quit R.
 - Dokumentasi: https://docs.julialang.org/en
 - Buku: https://julialang.org/learning/books
 
-Bahasa pemrograman Julia adalah salah satu bahasa yang digunakan untuk menganalisis numerik dan visualisasi data secara efisien.
-Sama halnya dengan Python, Julia termasuk bahasa high-level yang syntaxnya tergolong mudah untuk pemula.
+Bahasa pemrograman Julia adalah salah satu bahasa yang digunakan untuk
+menganalisis numerik dan visualisasi data secara efisien. Sama halnya dengan
+Python, Julia termasuk bahasa high-level yang syntaxnya tergolong mudah untuk
+pemula.
 
-Bisa dibilang Julia adalah kompetitornya Python, sebab performanya jauh lebih cepat dari python.
-Hal ini dikarenakan Julia dikompil dengan framework LLVM untuk kompilasi JIT, yang sebanding dengan kecepatan bahasa C.
-Selain itu, julia dapat diintegrasikan dengan VIM, Jupyter, dan [VSCode](https://julia-vscode.org).
-Julia juga terdapat [julia packages](https://www.juliapackages.com) untuk pustaka yang dibutuhkan oleh data scientist dan menariknya julia terdapat [Flux](https://fluxml.ai) pustaka khusus untuk Machine Learning.
+Bisa dibilang Julia adalah kompetitornya Python, sebab performanya jauh
+lebih cepat dari python. Hal ini dikarenakan Julia dikompil dengan framework
+LLVM untuk kompilasi JIT, yang sebanding dengan kecepatan bahasa C.
+Selain itu, julia dapat diintegrasikan dengan VIM, Jupyter, dan
+[VSCode](https://julia-vscode.org). Julia juga terdapat [julia
+packages](https://www.juliapackages.com) untuk pustaka yang dibutuhkan oleh data
+scientist dan menariknya julia terdapat [Flux](https://fluxml.ai) pustaka khusus
+untuk Machine Learning.
 
 {{< cmd >}}
 julia
@@ -157,10 +192,15 @@ julia>
 - Dokumentasi: https://docs.scala-lang.org
 - Buku: https://docs.scala-lang.org/books
 
-Scala (Scalable language) dimulai pada 2001 oleh Martin Odersky merupakan bahasa pemrograman untuk kebutuhan general, high-level, dan multi paradigma.
+Scala (Scalable language) dimulai pada 2001 oleh Martin Odersky merupakan
+bahasa pemrograman untuk kebutuhan general, high-level, dan multi paradigma.
 
-Scala, seperti Java juga salah satu bahasa pemrograman yang berorientasi apda objek yang aman juga mendukung pemrograman fungsional.
-Scala berjalan pada platform Java (Java virtual machine) dan kompatibel dengan yang ada program Java.
+Scala, seperti Java juga salah satu bahasa pemrograman yang berorientasi
+pada objek yang aman juga mendukung pemrograman fungsional. Scala berjalan pada
+platform Java (Java virtual machine) dan kompatibel dengan yang ada program
+Java.
+
+{{< file "HelloWorld.scala" >}}
 
 ```scala
 object HelloWorld extends App {
@@ -169,27 +209,39 @@ object HelloWorld extends App {
 ```
 
 Kompilasi:
+
 {{< cmd >}}
 scalac HelloWorld.scala
 {{< /cmd >}}
 
 Menjalankan binary:
+
 {{< cmd >}}
 scala HelloWorld
 {{< /cmd >}}
 
+```sh
+Hello, World!
+```
+
 #### Kesimpulan
 
-Apapun bahasa yang digunakan, sesuaikan dengan kebutuhan dan kriteria data yang ada agar lebih efektif.
-Jika masih pemula, sudah saya urutkan pemrograman sesuai sub-judul dari yang mudah dan umum sehingga mudah untuk dipelajari. Fokus dan kuasai satu-persatu.
+Apapun bahasa yang digunakan, sesuaikan dengan kebutuhan dan kriteria data
+yang ada agar lebih efektif. Jika masih pemula, sudah saya urutkan pemrograman
+sesuai sub-judul dari yang mudah dan umum sehingga mudah untuk dipelajari. Fokus
+dan kuasai satu-persatu.
 
 Apa bahasa yang terbaik?
 
-Semua bahasa pemrograman adalah terbaik asalkan sesuai tempatnya, karena setiap bahasa memiliki kelebihan dan kekurangan masing-masing.
-Bahkan secara pribadi menganjurkan untuk tidak fokus kebahasanya, melainkan memahami konsep dasar algoritma pemrograman terlebih dahulu yang lebih penting.
+Semua bahasa pemrograman adalah terbaik asalkan sesuai tempatnya, karena
+setiap bahasa memiliki kelebihan dan kekurangan masing-masing. Bahkan secara
+pribadi menganjurkan untuk tidak fokus kebahasanya, melainkan memahami konsep
+dasar algoritma pemrograman terlebih dahulu yang lebih penting.
 
 ***
 
 Barakallahu fiikum.
-Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram @hervyqa](https://instagram.com/hervyqa).
-Sekian, semoga tulisan ini bermanfaat untuk pembaca semuanya. Aamiin.
+Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar
+di akun [telegram](https://t.me/hervyqa) atau [instagram
+@hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat
+untuk pembaca semuanya. Aamiin.

@@ -2,14 +2,18 @@
 draft: false
 date: 2019-07-10T08:18:41+07:00
 title: "Mengoptimalkan Gambar dengan Free Software"
-description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan perangkat lunak bebas."
+description : "Cara Mudah untuk mengoptimalkan asset SVG, PNG, dan JPG dengan
+perangkat lunak bebas."
 image: "images/blog/optimalkan-gambar-dengan-free-software.png"
 type: "regular" # featured/regular
 categories:
 - perkakas
 ---
 
-Ada beberapa perkakas yang menurut Penulis bermanfaat untuk mengoptimalkan berkas svg, png, dan jpg. Manfaat nantinya untuk aset website, icon, background, patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI, semuanya menggunakan perintah terminal di GNU/Linux.
+Ada beberapa perkakas yang menurut Penulis bermanfaat untuk mengoptimalkan
+berkas svg, png, dan jpg. Manfaat nantinya untuk aset website, icon, background,
+patern, mockup, cover dan lain-lain. Tapi sayangnya belum ada versi GUI,
+semuanya menggunakan perintah terminal di GNU/Linux.
 
 ***
 
@@ -17,7 +21,12 @@ Ada beberapa perkakas yang menurut Penulis bermanfaat untuk mengoptimalkan berka
 
 Laman Web: https://github.com/svg/svgo
 
-Perkakas favorit Penulis adalah `svgo`, karena dengan `svgo` ini mampu mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer, metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika menggunakan asset `svg`. Misalnya ilustrasi Penulis yang berada di [GNOME.ID], hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture section.
+Perkakas favorit Penulis adalah `svgo`, karena dengan `svgo` ini mampu
+mengkompres berkas `svg` menjadi minimalis, dengan menghilangkan layer,
+metadata, dan objek tersembunyi. Sangat berguna untuk optimasi website jika
+menggunakan asset `svg`. Misalnya ilustrasi Penulis yang berada di [GNOME.ID],
+hanya sekian detik untuk menampilkan ilustrasi di bagian header dan fiture
+section.
 
 Cara Install `svgo` di distro GNU/Linux
 
@@ -31,7 +40,8 @@ Repo Fedora
 sudo dnf install nodejs-svgo
 {{< /cmd >}}
 
-Lanjut ke demontrasinya (Penulis menggunakan GNU/Linux KDE NEON). Contoh Penulis punya 3 jenis ilustrasi. Kemudian lihat isi berkasnya.
+Lanjut ke demontrasinya (Penulis menggunakan GNU/Linux KDE NEON). Contoh Penulis
+punya 3 jenis ilustrasi. Kemudian lihat isi berkasnya.
 
 {{< cmd >}}
 ls -lh
@@ -56,9 +66,11 @@ Done in 664 ms!
 223.576 KiB - 82.8% = 38.366 KiB
 ```
 
-Dari contoh diatas svgo berhasil merubah `ilustrasi-1.svg` menjadi `ilustrasi-1-hasil.svg`. Dari 223.567 Kib manjadi 38.366 Kib.
+Dari contoh diatas svgo berhasil merubah `ilustrasi-1.svg` menjadi
+`ilustrasi-1-hasil.svg`. Dari 223.567 Kib manjadi 38.366 Kib.
 
-Anda juga bisa kompresi berkas svg sekaligus. Tapi jika anda melakukan ini harap backup dulu berkas svg inkscape aslinya.
+Anda juga bisa kompresi berkas svg sekaligus. Tapi jika anda melakukan ini harap
+backup dulu berkas svg inkscape aslinya.
 
 {{< cmd >}}
 mkdir backup
@@ -94,7 +106,8 @@ Done in 336 ms!
 
 Laman Web: http://optipng.sourceforge.net/
 
-Perkakas `optipng` berfungsi untuk kompresi berkas `png`. Sama dengan svgo tadi, tujuannya sama-sama untuk kompresi berkas.
+Perkakas `optipng` berfungsi untuk kompresi berkas `png`. Sama dengan svgo tadi,
+tujuannya sama-sama untuk kompresi berkas.
 
 Cara install di GNU/Linux:
 
@@ -180,9 +193,11 @@ total 264K
 -rw-r--r-- 1 hervyqa users 263K Jul 10 07:58 gambar.png
 ```
 
-Alhamdulillah! dari 281Kib jadi 263Kib. Meskipun ukuran berkasnya tidak terlalu signifikan berubahnya.
+Alhamdulillah! dari 281Kib jadi 263Kib. Meskipun ukuran berkasnya tidak terlalu
+signifikan berubahnya.
 
-**Tips:** Lalu kapan menggunakan `optipng`? Gunakanlah `optipng` ketika membutuhkan foto bitmap, blur dan transparansi gambar.
+**Tips:** Lalu kapan menggunakan `optipng`? Gunakanlah `optipng` ketika
+membutuhkan foto bitmap, blur dan transparansi gambar.
 
 ***
 
@@ -190,7 +205,8 @@ Alhamdulillah! dari 281Kib jadi 263Kib. Meskipun ukuran berkasnya tidak terlalu 
 
 Laman Web: https://github.com/tjko/jpegoptim
 
-Terakhir `jpegoptim`. Perkakas ini berfungsi untuk kompresi berkas `jpg` dan `jpeg`.
+Terakhir `jpegoptim`. Perkakas ini berfungsi untuk kompresi berkas `jpg` dan
+`jpeg`.
 
 Cara install di GNU/Linux:
 
@@ -245,9 +261,12 @@ jpegoptim gambar.jpg
 /home/hervyqa/Documents/ilustrasi/2019/gambar.jpg 750x600 24bit P Exif IPTC XMP Adobe  [OK] 308454 --> 295806 bytes (4.10%), optimized.
 ```
 
-**Tips:** Jadi, menggunakan `jpegoptim` itu ketika membutuhkan foto bitmap, blur dan **tidak** memutuhkan transparansi gambar. Jika butuh transparansi pakai `png` dan kompresinya pakai `optipng`.
+**Tips:** Jadi, menggunakan `jpegoptim` itu ketika membutuhkan foto bitmap, blur
+dan **tidak** memutuhkan transparansi gambar. Jika butuh transparansi pakai
+`png` dan kompresinya pakai `optipng`.
 
-Nah itu tadi 3 perkakas tambahan favorit untuk memaksimalkan aset. Sekian dan terima kasih sudah membaca. Semoga bermanfaat.
+Nah itu tadi 3 perkakas tambahan favorit untuk memaksimalkan aset. Sekian dan
+terima kasih sudah membaca. Semoga bermanfaat.
 
 ***
 
