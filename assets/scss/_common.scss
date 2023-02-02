@@ -74,6 +74,10 @@ pre {
   word-break: normal !important;
   word-wrap: normal !important;
   white-space: pre !important;
+
+  code {
+    line-height: 18px
+  }
 }
 
 code {
