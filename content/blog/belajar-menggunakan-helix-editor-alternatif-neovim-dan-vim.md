@@ -166,7 +166,7 @@ _Catatan: buffer adalah berkas atau direktori yang telah terbuka._
 
 ---
 
-#### Bagian 2: Konfigurasi 
+#### Bagian 3: Konfigurasi
 
 Beberapa konfigurasi dasar yang mungkin perlu ditambahkan. Misalnya jenis tema
 dan nomer baris.

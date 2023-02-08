@@ -50,7 +50,7 @@ Saya masih ingat dengan guru biologi SMP sekaligus pengajar olimpiade MIPA saya
 kala itu, "_Pak, kenapa bisa hafal diluar kepala istilah-istilah proses
 pencernaan, pernafasan, pendengaran, sistem ekresi, sel, dan lain-lain?_".
 Dengan santainya beliau menjawab, "_Karena mengajar biologi setiap hari selama
-selama bertahun-tahun dan mengajar di prim*gama juga._"
+bertahun-tahun dan mengajar di prim*gama juga._"
 
 Hanya bisa bergumam, "_Oh.. pantas._" Ternyata dengan sering latihan dan
 membiasakan diri adalah salah satu cara untuk membentuk pondasi yang kuat.
