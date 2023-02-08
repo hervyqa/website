@@ -3,7 +3,7 @@ layout: blog
 draft: false
 date: 2023-02-07T12:45:13+07:00
 title: "Belajar Menggunakan Helix Editor alternatif Neovim dan Vim"
-description: "This is meta description"
+description: "Teks editor yang dibangun dengan rust, mendukung LSP, multi kursor dan auto-komplit tanpa konfigurasi tambahan."
 image: "images/blog/belajar-menggunakan-helix-editor-alternatif-neovim-dan-vim.png"
 type: "featured" # featured/regular
 categories: # max 2
@@ -12,8 +12,8 @@ categories: # max 2
 ---
 
 [Helix](https://helix-editor.com) merupakan teks editor CLI dengan dukungan
-modal alternatif Neovim dan VIM. Helix dibuat menggunakan bahasa pemrograman
-rust sehingga lebih cepat performanya dengan single binary.
+modal alternatif Neovim dan VIM. Editor ini dibuat menggunakan bahasa pemrograman
+rust sehingga lebih cepat performanya dengan _single binary_.
 
 {{< image src="images/blog/matplotlib-sample.png" alt="matplotlib-sample" >}}
 
@@ -32,16 +32,16 @@ Berikut daftar fitur yang dimiliki oleh helix yang dikutip di halaman resminya:
   Mudahnya
 [navigasi](https://docs.helix-editor.com/usage.html#tree-sitter-textobject-based-navigation)
 dan penyeleksian fungsi, kelas, komentar, dan sebagainya.
-* __Dukungan Language server.__
+* __Dukungan _Language server_.__
   Dengan spesifik bahasa autokomplit, menuju definisi, dokumentasi, diagnosa,
 dan fitur IDE tanpa konfigurasi tambahan.
 * __Dibangun dengan bahasa pemrograman rust.__
   Performa yang tinggi dan lebih hemat daya baterai.
 * __Builtin fitur.__
-  Fitur pencarian fuzzy untuk perncarian berkas, simbol, projek, tema,
-fugitive, surround dan masih banyak lagi.
+  Fitur pencarian _fuzzy_ untuk perncarian berkas, simbol, projek, tema,
+_fugitive_, _surround_ dan masih banyak lagi.
 
-#### Shock therapy
+#### _Shock therapy_
 
 Sebelumnya saya adalah pengguna neovim dan vim tentunya. Ketika menggunakan
 helix mau tidak mau harus belajar lagi. Meskipun minim konfigurasi, helix
@@ -353,7 +353,7 @@ Tidak seperti di vim, jika melakukan pencarian dengan <kbd><kbd>?</kbd></kbd>
 arah <kbd><kbd>n</kbd></kbd> tetap kedepan dan <kbd><kbd>N</kbd></kbd> ke
 belakang/sebelumnya.
 
-##### Multiple cursor
+##### _Multiple cursor_
 
 Menambahkan kursor sangat berguna untuk mengubah karakter secara bersamaan.
 Misalnya untuk menghapus, mengganti, dan fungsi regex.
@@ -376,7 +376,7 @@ tekan <kbd><kbd>s</kbd></kbd> lalu masukkan karakter yang dituju, tekan
 <kbd><kbd>Enter</kbd></kbd>. Secara otomatis menjadi multi kursor.
 Selanjutnya dapat diubah sesuai keinginan.
 
-##### Seleksi tambahan dengan regex
+##### Seleksi tambahan dengan _regex_
 
 Penyeleksian ini dapat menggunakan tanda plus (`+`) saat menggunakan keymap
 <kbd><kbd>s</kbd></kbd> di area seleksi.
@@ -458,7 +458,7 @@ atau mengulang hasil pencarian <kbd><kbd>f</kbd></kbd> dan
 * <kbd><kbd>Alt</kbd>+<kbd>.</kbd></kbd> = Mengulangi perintah dari hasil
 <kbd><kbd>f</kbd></kbd> atau <kbd><kbd>t</kbd></kbd> sebelumnya.
 
-##### Mengganti teks dari salinan yank/clipboard
+##### Mengganti teks dari salinan _yank_/clipboard
 
 Setelah ada salinan teks baik berupa yank atau dari sistem clipboard, dapat
 digunakan untuk mengganti teks lain jika sudah diseleksi.
@@ -480,7 +480,7 @@ Indentasi pada baris saat ini atau baris yang diseleksi.
 * <kbd><kbd>\></kbd></kbd> = Indentasi menjorok ke luar/kanan.
 * <kbd><kbd>\<</kbd></kbd> = Indentasi menjorok ke dalam/kiri.
 
-##### Incrementing and decrementing
+##### _Incrementing and decrementing_
 
 Penambahan dan pengurangan nilai dapat dilakukan di helix. Biasanya dilakukan
 untuk mengubah nilai pada daftar.
@@ -508,7 +508,7 @@ Menjadi,
 5) list e
 ```
 
-##### Fungsi Register
+##### Fungsi _Register_
 
 Berfungsi untuk menyimpan hasil salinan yang berbeda-beda, tetapi dapat
 dipanggil suatu saat.
@@ -549,15 +549,15 @@ teks dari register `b`.
 * <kbd><kbd>"c</kbd></kbd>, lalu <kbd><kbd>R</kbd></kbd> = Mengganti (replace)
 teks dari register `c`.
 
-##### Fungsi Makro
+##### Fungsi _Macro_
 
 Berguna untuk menyimpan langkah-langkah perintah ke dalam suatu register
 (default @).
 
-* <kbd><kbd>Q</kbd></kbd> = Memulai perekaman makro.
-* <kbd><kbd>Q</kbd></kbd> lagi = Menghentikan perekaman makro.
-* <kbd><kbd>q</kbd></kbd> = Menjalankan fungsi makro.
-* <kbd><kbd>5q</kbd></kbd> = Menjalankan fungsi makro selama 5 kali, bisa
+* <kbd><kbd>Q</kbd></kbd> = Memulai perekaman macro.
+* <kbd><kbd>Q</kbd></kbd> lagi = Menghentikan perekaman macro.
+* <kbd><kbd>q</kbd></kbd> = Menjalankan fungsi macro.
+* <kbd><kbd>5q</kbd></kbd> = Menjalankan fungsi macro selama 5 kali, bisa
 diganti dengan <kbd><kbd>(n)q</kbd></kbd>.
 
 ##### Pencarian dengan penyeleksian
@@ -606,7 +606,7 @@ Mengganti huruf kapital ke huruf kecil dapat menggunakan
 * <kbd><kbd>~</kbd></kbd> = Membalikkan jenis huruf besar ke kecil dan
 sebaliknya.
 
-##### Memisahkan seleksi dengan pattern regex
+##### Memisahkan seleksi dengan _pattern regex_
 
 Memisahkan seleksi mempunyai kondisi studi kasus khusus, misalnya ingin membuat
 huruf kapital suatu kalimat, memisahkan penggabungan baris menjadi beberapa
