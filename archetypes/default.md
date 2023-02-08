@@ -1,4 +1,5 @@
 ---
+layout: blog
 draft: true
 date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
@@ -18,12 +19,24 @@ Paragraf
 
 Paragraf
 
-{{< image src="images/blog/image.png" alt="alternate title" >}}
-
 - <kbd><kbd>a</kbd></kbd> = Fungsi
 - <kbd><kbd>Ctrl</kbd>+<kbd>a</kbd></kbd> = Fungsi
 - <kbd><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>a</kbd></kbd> = Fungsi
 - <kbd><kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd></kbd> = Fungsi
+
+{{< file "HelloWorld.scala" >}}
+
+```scala
+object HelloWorld extends App {
+  println("Hello, World!")
+}
+```
+
+{{< cmd >}}
+hx learn.py
+{{< /cmd >}}
+
+{{< image src="images/blog/group-telegram.png" alt="alternate title" >}}
 
 ***
 
