@@ -71,7 +71,7 @@ Nah mudah sekali bukan untuk pengguna GNU/Linux.
 
 ***
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan
+Barakallahu fiikum. Jika Anda mempunyai pertanyaan, saran, dan kritikan
 silahkan komentar di akun [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat
 untuk pembaca semuanya. Aamiin.

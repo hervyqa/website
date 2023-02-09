@@ -143,7 +143,7 @@ Ink-PathOps menggunakan lisensi GPL-2+.
 ***
 
 Barakallahu fiikum. Memang perlu bersabar untuk memasang ekstensi ini, tetapi
-InsyaAllah pasti bermanfaat. Jika kawan-kawan mempunyai pertanyaan, saran, dan
+InsyaAllah pasti bermanfaat. Jika Anda mempunyai pertanyaan, saran, dan
 kritikan silahkan komentar di akun [telegram](https://t.me/hervyqa) atau
 [instagram @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini
 bermanfaat untuk pembaca semuanya. Aamiin.

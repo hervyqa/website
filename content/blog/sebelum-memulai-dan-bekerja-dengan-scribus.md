@@ -119,7 +119,7 @@ alt="scribus mengganti warna cmyk" >}}
 Sebenarnya masih banyak yang perlu dituliskan disini. Seperti mengatur grid,
 margin, bleed, font, layout, tahapan pre-press. InsyaAllah akan berlanjut. ^^
 
-Sekian tips awal untuk memulai belajar scribus. Jika kawan-kawan mempunyai
+Sekian tips awal untuk memulai belajar scribus. Jika Anda mempunyai
 pertanyaan, saran, dan kritikan silahkan komentar di akun
 [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat

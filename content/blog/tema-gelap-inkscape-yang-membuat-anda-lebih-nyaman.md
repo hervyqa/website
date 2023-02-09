@@ -155,7 +155,7 @@ Bisa juga digunakan untuk tema KDE (Qt)
 {{< image src="images/blog/tampilan-inkscape-hervyqa.png"
 alt="Tampilan Inkscape Hervyqa" >}}
 
-Demikian ulasan tentang beberapa tema gelap di Inkscape. Jika kawan-kawan
+Demikian ulasan tentang beberapa tema gelap di Inkscape. Jika Anda
 mempunyai pertanyaan dan saran silahkan komentar di akun
 [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa).

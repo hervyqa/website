@@ -176,7 +176,7 @@ Menurut penulis, yang paling spesial dari distro voidlinux yaitu rolling rilis
 sehingga mendapatkan aplikasi terbaru dan lebih stabil dari arch, runit init
 sistem, xbps paket manajemen, dan tersedianya google-fonts.
 
-Barakallahu fiikum. Jika kawan-kawan mempunyai pertanyaan dan saran silahkan
+Barakallahu fiikum. Jika Anda mempunyai pertanyaan dan saran silahkan
 komentar di akun [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa). Terima kasih telah mengunjungi situs
 [hervyqa.id](https://hervyqa.id), situs yang membahas desain dengan Floss yang

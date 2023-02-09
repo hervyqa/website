@@ -135,7 +135,7 @@ alt="Mockup Brushpen Inkscape" >}}
 
 ***
 
-Nah, itu tadi tips membuat brushpen di inkscape. Jika kawan-kawan
+Nah, itu tadi tips membuat brushpen di inkscape. Jika Anda
 mempunyai pertanyaan, saran, dan kritikan silahkan komentar di akun
 [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa). Sekian, semoga tulisan ini bermanfaat

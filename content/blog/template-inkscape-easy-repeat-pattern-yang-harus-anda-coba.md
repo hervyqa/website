@@ -91,7 +91,7 @@ ini](https://inkscape.org/~raniaamina/%E2%93%85inkporter).
 ***
 
 Barakallahu fiikum.
-Jika kawan-kawan mempunyai pertanyaan dan saran silahkan komentar di akun
+Jika Anda mempunyai pertanyaan dan saran silahkan komentar di akun
 [telegram](https://t.me/hervyqa) atau [instagram
 @hervyqa](https://instagram.com/hervyqa).
 

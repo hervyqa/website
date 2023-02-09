@@ -666,6 +666,6 @@ sangat layak untuk dicoba.
 
 ---
 
-Jika kawan-kawan mempunyai pertanyaan, saran, dan kritikan silahkan komentar di
+Jika Anda mempunyai pertanyaan, saran, dan kritikan silahkan komentar di
 akun [telegram](https://t.me/hervyqa). Sekian, semoga tulisan ini bermanfaat
 untuk pembaca semuanya. Aamiin.
