@@ -5,7 +5,7 @@ date: 2023-02-07T12:45:13+07:00
 title: "Belajar Menggunakan Helix Editor alternatif Neovim dan Vim"
 description: "Teks editor yang dibangun dengan rust, mendukung LSP, multi kursor dan auto-komplit tanpa konfigurasi tambahan."
 image: "images/blog/belajar-menggunakan-helix-editor-alternatif-neovim-dan-vim.png"
-type: "featured" # featured/regular
+type: regular
 categories: # max 2
 - helix
 - editor
