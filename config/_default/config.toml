@@ -30,9 +30,9 @@ loading = "lazy"
 
 # Modules
 [module]
-[module.hugoVersion]
-extended = true
-min = "0.87.0"
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
 
 # Outputs
 [outputs]
@@ -46,30 +46,30 @@ quality = 75
 
 # Caches
 [caches]
-[caches.images]
-dir = ":resourceDir/_gen"
-maxAge = "720h"
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = "720h"
 
 [caches.assets]
-dir = ":resourceDir/_gen"
-maxAge = "720h"
+  dir = ":resourceDir/_gen"
+  maxAge = "720h"
 
 # Markup
 [markup]
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.goldmark.renderer]
+  unsafe = true
 
 # Media types
 [mediaTypes]
-[mediaTypes."application/manifest+json"]
-suffixes = ["webmanifest"]
+  [mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
 
 [mediaTypes."text/netlify"]
-delimiter = ""
-suffixes = [""]
+  delimiter = ""
+  suffixes = [""]
 
 # Output Format
 [outputFormats]
-[outputFormats.WebAppManifest]
-mediaType = "application/manifest+json"
-rel = "manifest"
+  [outputFormats.WebAppManifest]
+    mediaType = "application/manifest+json"
+    rel = "manifest"
