@@ -7,8 +7,7 @@ scientist pemula"
 image: "images/blog/bahasa-pemrograman-yang-harus-diketahui-data-scientist.png"
 type: "featured" # featured/regular
 categories: # max 2
-- pemrograman
-- data-science
+  - scientist
 ---
 
 Menjadi seorang data scientist tidak diharuskan memiliki latar belakang IT.
