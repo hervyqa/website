@@ -2,7 +2,7 @@
 layout: blog
 draft: false
 title: IDE Open Source untuk Data Analyst yang harus dimiliki
-description: Beberapa perkakas open source yang dibutuhkan oleh data analyst.
+description: Kumpulan IDE & Library Open Source untuk menunjang kebutuhan data analyst dan scientist.
 date: 2023-02-09T07:02:03+07:00
 image: images/blog/ide-open-source-untuk-data-analyst-yang-harus-dimiliki.png
 type: featured
