@@ -64,11 +64,14 @@ umumnya menggunakan nama paket `helix`. Anda bisa mengecek paket tersebut apakah
 tersedia di distribusi linux melalui situs
 [Repology](https://repology.org/project/helix/versions).
 
-* NixOS
+* Nix(OS)
 
-```sh
-environment.systemPackages = [pkgs.helix]; # configuration.nix
-```
+{{< cmd >}}
+nix-env -iA nixos.helix # NixOS
+{{< /cmd >}}
+{{< cmd >}}
+nix-env -iA nixpkgs.helix # Non NixOS
+{{< /cmd >}}
 
 * Voidlinux
 
