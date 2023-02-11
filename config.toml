@@ -12,7 +12,7 @@ black = "#292929"
 white = "#ffffff"
 light = "#edf6f5"
 
-color_primary_invert = "#0a8451"
+color_primary_invert = "#0ba262"
 text_color_invert = "#cccccc"
 text_dark_invert = "#dddddd"
 text_light_invert = "#b2b2b2"

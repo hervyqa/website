@@ -25,6 +25,7 @@ img {
 a,
 a:hover,
 a:focus {
+  color: $color-primary;
   text-decoration: none;
 }
 
@@ -96,6 +97,7 @@ code.caption {
 
 code.cmd::before {
   content: "$";
+  font-weight: 700;
   width: 1.5em;
   padding: 0 .5em;
   margin-right: .5em;
