@@ -5,13 +5,13 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x".
-# Note: logo_width is not work with .svg file
+# note: logo_width is not work with .svg file
 logo_width = "60x"
 # logo text will only show when logo is missing.
 logo_text = "Hervy Qurotul Ainur"
 # navbar fixed to top
 navbar_fixed = false
-# OpenGraph / Twitter Card metadata
+# opengraph / twitter card metadata
 description = "Seputar data science dengan perangkat lunak bebas."
 author = "Hervy Qurrotul Ainur"
 image = "images/index.jpg" # this image will be used as fallback if a page has no image of its own
@@ -68,7 +68,7 @@ button_link = "blog"
 [advertisement]
 enable = false
 image = "images/promotion.png"
-link = "https://langitketujuh.id/"
+link = "https://langitketujuh.id"
 
 # cookies
 
@@ -81,9 +81,8 @@ button = "Saya Setuju"
 # sidebar widgets
 
 [widgets]
-sidebar = ["about", "newsletter", "recent-post", "categories"]
+sidebar = ["about",  "recent-post", "categories"]
 # available widget : about,categories,newsletter,recent-post
-
 
 # subscription
 [subscription]
@@ -92,8 +91,8 @@ enable = false
 mailchimp_form_action = "#" # ex:https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074 replace this url with yours
 mailchimp_form_name = "#" # ex:b_463ee871f45d2d93748e77cad_a0a2c6d074 replace this code with yours
 
-
 ############################# social site ########################
+
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin"
