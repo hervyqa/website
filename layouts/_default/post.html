@@ -17,13 +17,15 @@
     {{ $imageLG:= $image.Resize "650x webp" }}
     {{ $imageMD:= $image.Resize "600x webp" }}
     {{ $imageSM:= $image.Resize "545x webp" }}
-    <picture>
-      <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
-      <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
-      <source srcset="{{ $imageLG.RelPermalink }}">
-      <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
-        alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
-    </picture>
+    <a href="{{.RelPermalink}}">
+      <picture>
+        <source srcset="{{ $imageSM.RelPermalink }}" media="(max-width: 575px)">
+        <source srcset="{{ $imageMD.RelPermalink }}" media="(max-width: 767px)">
+        <source srcset="{{ $imageLG.RelPermalink }}">
+        <img loading="lazy" decoding="async" class="img-fluid w-100 rounded-4" src="{{$imageFallback.RelPermalink}}"
+          alt="{{.Title}}" width="{{$image.Width}}" height="{{$image.Height}}">
+      </picture>
+    </a>
     {{ end }}
     <!-- /image processing for multiple device -->
     {{ end }}
@@ -57,6 +59,5 @@
       </li>
     </ul>
     <p class="card-text mb-4">{{ .Summary }}</p>
-    <a href="{{.RelPermalink}}" class="btn btn-outline-primary btn-sm">Selengkapnya...</a>
   </div>
 </div>
